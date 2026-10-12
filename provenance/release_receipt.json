@@ -22,5 +22,9 @@
   "initial_verified_remote_commit": "68d7cf78d9d0c8e897390b0e4d328f9444a57c85",
   "remote_file_count": 1056,
   "remote_tree_truncated": false,
-  "full_raw_to_report_pipeline_verified": false
+  "full_raw_to_report_pipeline_verified": false,
+  "report_revision": "2026-10-12 systematic editorial review",
+  "manifest_artifact_count": 1070,
+  "manifest_sha256": "70b48918baa46b3c3bc6e0d10b2deb4e329958c5d130776a8f1f70dacc5a4cb6",
+  "current_report_sha256": "94223bd4e339349dcf14ffa145064e8e0c98ede825d74671a9bfd70081b35901"
 }
