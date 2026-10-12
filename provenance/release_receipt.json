@@ -2,7 +2,7 @@
   "scope": "data_analysis_and_visualizations_only",
   "date": "2026-10-12",
   "manifest_artifact_count": 909,
-  "manifest_sha256": "dc77aed3989783e82fd88adc247a8ccf997bd50186739b20b27fb9f331671ef2",
+  "manifest_sha256": "c6006ac4d40f687a239f22d1efe0a3f8f46a5911a4caed99632096779f31b375",
   "cleanup_removed_file_count": 88,
   "retained_statistical_figures": true,
   "full_raw_to_analysis_pipeline_verified": false,
