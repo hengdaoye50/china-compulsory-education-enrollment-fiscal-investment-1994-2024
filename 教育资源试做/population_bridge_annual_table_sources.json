@@ -1,0 +1,56 @@
+[
+  {
+    "key": "population_yearbook2018_region_age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2018/html/CH0212.jpg",
+    "status": "downloaded",
+    "bytes": 220986,
+    "sha256": "3db530158d458c4941f51639ed4bc6c31888403a85f078bd5eea3ace8d8eea67",
+    "path": "raw\\population_yearbook2018_region_age.jpg",
+    "links": []
+  },
+  {
+    "key": "population_yearbook2019_region_age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2019/html/C0212.jpg",
+    "status": "downloaded",
+    "bytes": 189860,
+    "sha256": "3cb92a827f28b27266566a33714da1be0a1ec22ea932e43bdbe9a988f8a52966",
+    "path": "raw\\population_yearbook2019_region_age.jpg",
+    "links": []
+  },
+  {
+    "key": "population_yearbook2020_region_age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2020/html/C0212.jpg",
+    "status": "downloaded",
+    "bytes": 218209,
+    "sha256": "5ee2a5965716bd886ed81ab99553ac611cdbf3cb8729e3a1ddb8c37fa8f08b43",
+    "path": "raw\\population_yearbook2020_region_age.jpg",
+    "links": []
+  },
+  {
+    "key": "population_yearbook2021_region_age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2021/html/C02-16.jpg",
+    "status": "downloaded",
+    "bytes": 231865,
+    "sha256": "35e32dc15df652e3e9a5687ab4494d8b0d8bc60cefaf4948fed106eb36f06940",
+    "path": "raw\\population_yearbook2021_region_age.jpg",
+    "links": []
+  },
+  {
+    "key": "population_yearbook2022_region_age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2022/html/C02-11.jpg",
+    "status": "downloaded",
+    "bytes": 191749,
+    "sha256": "35a6c31f4277a49c2d38fec5c95a5111afcf79c63d9a7f7b0c4f59b3e4c2ece2",
+    "path": "raw\\population_yearbook2022_region_age.jpg",
+    "links": []
+  },
+  {
+    "key": "population_yearbook2023_region_age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2023/html/C02-11.jpg",
+    "status": "downloaded",
+    "bytes": 199282,
+    "sha256": "f7889afdf3967c55fb64a6388b197411b53550c866bb54f86018d155f06dbd90",
+    "path": "raw\\population_yearbook2023_region_age.jpg",
+    "links": []
+  }
+]

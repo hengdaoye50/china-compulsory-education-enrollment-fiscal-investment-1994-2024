@@ -1,0 +1,32 @@
+{
+  "checks": {
+    "complete_60_stage_year_income_rows": true,
+    "one_national_source_each_year": true,
+    "raw_cell_values_recalculate": true,
+    "fiscal_total_not_other_fiscal": true,
+    "component_observed_sum_within_8_raw_units": true,
+    "reported_shares_recalculate": true,
+    "unresolved_units_not_converted": true,
+    "original_missing_not_filled": true,
+    "no_per_student_division": true,
+    "protected_files_unchanged": true
+  },
+  "all_passed": true,
+  "national_income_years": "1995_2024",
+  "rows": 60,
+  "unresolved_unit_years": [
+    2000,
+    2006
+  ],
+  "unresolved_budget_label_years": [
+    2004
+  ],
+  "component_max_abs_difference": 2.0,
+  "exploratory_regressions_rerun": false,
+  "inputs": {
+    "教育资源试做\\data\\历史趋势描述_20261010\\national_income_original_series.csv": "0af483b1c96c8d5dad187362c7832def928465eb9e34f09e308c78c07d2ad31b",
+    "教育资源试做\\data\\历史趋势描述_20261010\\national_income_original_evidence.json": "2758367254491d7e28a8a37c92d784302973f4cee684fe0d5740280e000250b5",
+    "教育资源试做\\data\\三十年纵向分析_20261010\\national_students_1995_2024.csv": "2acd1055a8e9ddf8fe0af8bf03d847d62cb9f57acabba2736dfccbfa7d74bda8",
+    "教育资源试做\\data\\三十年纵向分析_20261010\\national_finance_composition_1995_2024.csv": "8ede2cd64d09585c3cd4de74982dfd07f8fae18ce3552304350a25c859db0e38"
+  }
+}

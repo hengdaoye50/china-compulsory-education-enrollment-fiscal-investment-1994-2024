@@ -1,0 +1,122 @@
+[
+  {
+    "file": "fig01.png",
+    "pixels": [
+      3900,
+      3360
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "white_background": true,
+    "fully_opaque": true,
+    "mode": "RGBA",
+    "physical_width_cm": 16.510033020066043
+  },
+  {
+    "file": "fig02.png",
+    "pixels": [
+      3900,
+      3360
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "white_background": true,
+    "fully_opaque": true,
+    "mode": "RGBA",
+    "physical_width_cm": 16.510033020066043
+  },
+  {
+    "file": "fig03.png",
+    "pixels": [
+      3900,
+      3120
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "white_background": true,
+    "fully_opaque": true,
+    "mode": "RGBA",
+    "physical_width_cm": 16.510033020066043
+  },
+  {
+    "file": "fig04.png",
+    "pixels": [
+      3900,
+      2640
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "white_background": true,
+    "fully_opaque": true,
+    "mode": "RGBA",
+    "physical_width_cm": 16.510033020066043
+  },
+  {
+    "file": "fig05.png",
+    "pixels": [
+      3900,
+      2880
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "white_background": true,
+    "fully_opaque": true,
+    "mode": "RGBA",
+    "physical_width_cm": 16.510033020066043
+  },
+  {
+    "file": "fig06.png",
+    "pixels": [
+      3900,
+      2700
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "white_background": true,
+    "fully_opaque": true,
+    "mode": "RGBA",
+    "physical_width_cm": 16.510033020066043
+  },
+  {
+    "file": "fig07.png",
+    "pixels": [
+      3900,
+      5280
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "white_background": true,
+    "fully_opaque": true,
+    "mode": "RGBA",
+    "physical_width_cm": 16.510033020066043
+  },
+  {
+    "file": "fig08.png",
+    "pixels": [
+      3900,
+      2700
+    ],
+    "dpi": [
+      599.9988,
+      599.9988
+    ],
+    "white_background": true,
+    "fully_opaque": true,
+    "mode": "RGBA",
+    "physical_width_cm": 16.510033020066043
+  }
+]

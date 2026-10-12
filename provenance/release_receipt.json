@@ -1,0 +1,20 @@
+{
+  "research_files": 1043,
+  "stored_MB": 206.96,
+  "logical_MB": 336.06,
+  "withheld_external_files": 826,
+  "path_cleaned_files": 13,
+  "secret_pattern_hits": 0,
+  "all_python_scripts_syntax_checked": true,
+  "github_uploaded": false,
+  "published_manifest_files": 1053,
+  "independent_key_findings_recomputed": true,
+  "two_30_year_student_series_complete": true,
+  "report_contrast_coefficients_recomputed": [
+    0.7659136142294377,
+    0.5057296295366184
+  ],
+  "original_yearbook_index_files": 573,
+  "target_repository": "https://github.com/hengdaoye50/china-compulsory-education-enrollment-fiscal-investment-1994-2024",
+  "publication_stage": "prepared_and_verified"
+}

@@ -1,0 +1,5 @@
+﻿stage,hypothesis,specification,n,coefficient,cluster_CR1_se,interpretation
+primary,H1,exclude_2015_2016_R_reclassification,153,-0.6048031349516693,0.2728584499517738,targeted sensitivity; no bootstrap p; not a replacement main model
+primary,H2,exclude_2015_2016_R_reclassification,153,1.2361064020913968,0.7116628944169939,targeted sensitivity; no bootstrap p; not a replacement main model
+junior,H1,exclude_2015_2016_R_reclassification,173,-0.10543798606331839,0.3857229246475183,targeted sensitivity; no bootstrap p; not a replacement main model
+junior,H2,exclude_2015_2016_R_reclassification,173,0.8995538546554467,0.6397611679906873,targeted sensitivity; no bootstrap p; not a replacement main model

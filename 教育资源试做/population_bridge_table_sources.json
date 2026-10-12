@@ -1,0 +1,65 @@
+[
+  {
+    "key": "population_census2020_note",
+    "url": "https://www.stats.gov.cn/sj/pcsj/rkpc/7rp/zk/html/note.htm",
+    "status": "downloaded",
+    "bytes": 5087,
+    "sha256": "158d15da9e224daafc213e319b630cf2bcd73a6a5695947f458f8cabd2e3f702",
+    "path": "raw\\population_census2020_note.html",
+    "links": []
+  },
+  {
+    "key": "population_census2020_region_age",
+    "url": "https://www.stats.gov.cn/sj/pcsj/rkpc/7rp/zk/html/A0105.jpg",
+    "status": "downloaded",
+    "bytes": 1929469,
+    "sha256": "f3e2e0d802a5d762b7e278530053e53ff61d4af122b2fd7396433b0412fec831",
+    "path": "raw\\population_census2020_region_age.jpg",
+    "links": []
+  },
+  {
+    "key": "population_census2020_single_age",
+    "url": "https://www.stats.gov.cn/sj/pcsj/rkpc/7rp/zk/html/A0301.jpg",
+    "status": "downloaded",
+    "bytes": 740646,
+    "sha256": "a2bd08f2f5e53e25b18fdd5cadf54ab588b8780b0b0b62d58ea33a577e34d0fb",
+    "path": "raw\\population_census2020_single_age.jpg",
+    "links": []
+  },
+  {
+    "key": "population_census2020_age_composition",
+    "url": "https://www.stats.gov.cn/sj/pcsj/rkpc/7rp/zk/html/A0302.jpg",
+    "status": "downloaded",
+    "bytes": 249298,
+    "sha256": "3612f8b43417e730cc2118a47d7ecbe24f15b5b03a51ab682c08dd31b2a7e3b4",
+    "path": "raw\\population_census2020_age_composition.jpg",
+    "links": []
+  },
+  {
+    "key": "population_yearbook2024_note",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/sm02.htm",
+    "status": "downloaded",
+    "bytes": 4138,
+    "sha256": "4a26b401947f0095e0221778fa936fb0ef4149d9c63bdf573c54123409438ca2",
+    "path": "raw\\population_yearbook2024_note.html",
+    "links": []
+  },
+  {
+    "key": "population_yearbook2024_single_age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-08.jpg",
+    "status": "downloaded",
+    "bytes": 165246,
+    "sha256": "266a93e60311200d7e6e524c9b0149112670013ae0657ae599f7288f294fa716",
+    "path": "raw\\population_yearbook2024_single_age.jpg",
+    "links": []
+  },
+  {
+    "key": "population_yearbook2024_region_age",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C02-11.jpg",
+    "status": "downloaded",
+    "bytes": 198364,
+    "sha256": "91549e3334620a26bb1e557c40bd8583e2b91d4963fd440cd68e8cf44142cb3c",
+    "path": "raw\\population_yearbook2024_region_age.jpg",
+    "links": []
+  }
+]

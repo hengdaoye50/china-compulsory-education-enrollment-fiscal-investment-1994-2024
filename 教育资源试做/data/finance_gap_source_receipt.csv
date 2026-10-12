@@ -1,0 +1,11 @@
+﻿key,url,status,path,bytes,sha256,error
+finance_gap_weihai_2022,https://www.weihai.gov.cn/art/2023/10/24/art_80943_4087670.html,downloaded,raw\finance_gap_weihai_2022.html,56648,ba734ac0fa04cdd8f9541841c1a9ec3ad2710a91e30fc4efff5f92acd5e21958,
+finance_gap_weihai_2023,https://www.weihai.gov.cn/art/2024/6/4/art_80943_4573889.html,downloaded,raw\finance_gap_weihai_2023.html,28541,6576f32caf5c2c249478325147904702b5d2649dd0d5928d32f839592f2ba015,
+finance_gap_jiangyin_2024,https://www.jiangyin.gov.cn/uploadfiles/202508/21/2025082110590444127646.pdf,failed,,,,HTTP Error 404: Not Found
+finance_gap_nbs_system_2025,https://www.stats.gov.cn/fw/bmdcxmsp/bmzd/202506/t20250604_1960023.html,downloaded,raw\finance_gap_nbs_system_2025.html,72088,fafc7c36d7dcab1740eed2efc80b24593ab37d9888f636a0dbf0367cbe9fb70d,
+finance_gap_nbs_approval_directory,https://www.stats.gov.cn/fw/bmdcxmsp/bmdcxmml/202302/t20230215_1907008.html,downloaded,raw\finance_gap_nbs_approval_directory.html,113515,c45b72a670505e97cb767e54bc6129e72773c73e16be738094e7817620cfad11,
+finance_gap_suzhou_reporting_2023,https://www.suzhou.gov.cn/szsrmzf/bmwj/202302/2cec361eab264f8ea6befd568b0a6547.shtml,downloaded,raw\finance_gap_suzhou_reporting_2023.html,135820,5bf0f0de4594edd4305442d8f90b2a342f5d66a4f1531cfb9c1fc4d6559d8979,
+finance_gap_moe_quick_2023,https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202407/t20240722_1142296.html,downloaded,raw\finance_gap_moe_quick_2023.html,9290,fc6fa1f8202943afcf984e33c7a80fdf478befb2a75787e3ba2827f4679dd342,
+finance_gap_jiangyin_2024_landing,https://www.jiangyin.gov.cn/doc/2025/04/14/1315454.shtml,downloaded,raw\finance_gap_jiangyin_2024_landing.html,16834,4bf9bd38f64e39bc6e3e6774cbe49c4aa110d4359c3604e56ca7c4e3c5bdaada,
+finance_gap_jiangyin_2024_attachment,https://www.jiangyin.gov.cn/uploadfiles/202605/28/2026052814512697375742.docx,downloaded,raw\finance_gap_jiangyin_2024_attachment.docx,28582,20e66103161081d47c9c91ba0429a535edf43f814999e45146296c8c9a1291c4,
+finance_gap_pku_classification,https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm,downloaded,raw\finance_gap_pku_classification.html,312375,d1e282d279a325265605b598bb4e7f84573ee95219881379e786a15fcca8169e,

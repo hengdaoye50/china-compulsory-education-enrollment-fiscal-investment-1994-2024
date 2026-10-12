@@ -1,0 +1,24 @@
+[
+  {
+    "stage": "primary",
+    "n": 310,
+    "negative_years": 94,
+    "positive_years": 216,
+    "zero_years": 0,
+    "provinces_with_both_directions": 27,
+    "within_design_rank": 4,
+    "within_design_condition_number": 2.520156379905914,
+    "coefficient_estimates_computed": false
+  },
+  {
+    "stage": "junior",
+    "n": 310,
+    "negative_years": 90,
+    "positive_years": 220,
+    "zero_years": 0,
+    "provinces_with_both_directions": 26,
+    "within_design_rank": 4,
+    "within_design_condition_number": 2.5066572944895453,
+    "coefficient_estimates_computed": false
+  }
+]

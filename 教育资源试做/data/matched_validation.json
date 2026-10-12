@@ -1,0 +1,230 @@
+{
+  "pair_count": 64,
+  "unique_observations": 128,
+  "checks": "No reuse; same province/stage; magnitude/year constraints; selected growth recomputed from raw levels",
+  "eligible_observations": 539,
+  "summary": [
+    {
+      "scenario": "主样本：幅度差≤1个百分点、年份差≤4年",
+      "stage": "primary",
+      "phase": "增长",
+      "n": 29,
+      "provinces": 18,
+      "median_students_pct": 1.7305755118369737,
+      "median_teachers_pct": 2.294197031039147,
+      "median_classes_pct": 1.5942638319148106,
+      "median_magnitude_gap_pp": 0.1366629672732822
+    },
+    {
+      "scenario": "主样本：幅度差≤1个百分点、年份差≤4年",
+      "stage": "primary",
+      "phase": "收缩",
+      "n": 29,
+      "provinces": 18,
+      "median_students_pct": -1.7838581603789705,
+      "median_teachers_pct": -0.05338087513540035,
+      "median_classes_pct": -1.5294685781420014,
+      "median_magnitude_gap_pp": 0.1366629672732822
+    },
+    {
+      "scenario": "主样本：幅度差≤1个百分点、年份差≤4年",
+      "stage": "junior",
+      "phase": "增长",
+      "n": 35,
+      "provinces": 22,
+      "median_students_pct": 2.439791299540439,
+      "median_teachers_pct": 0.8048677167173723,
+      "median_classes_pct": 2.2562415654520995,
+      "median_magnitude_gap_pp": 0.33860425254115256
+    },
+    {
+      "scenario": "主样本：幅度差≤1个百分点、年份差≤4年",
+      "stage": "junior",
+      "phase": "收缩",
+      "n": 35,
+      "provinces": 22,
+      "median_students_pct": -2.28768128595902,
+      "median_teachers_pct": -0.17338208133881317,
+      "median_classes_pct": -0.8808679772263406,
+      "median_magnitude_gap_pp": 0.33860425254115256
+    }
+  ],
+  "sensitivity": [
+    {
+      "scenario": "幅度差≤0.5个百分点、年份差≤4年、截止2024",
+      "stage": "primary",
+      "phase": "增长",
+      "n": 24,
+      "provinces": 17,
+      "median_students_pct": 1.6512792430126377,
+      "median_teachers_pct": 2.149811256298073,
+      "median_classes_pct": 1.528284428955673,
+      "median_magnitude_gap_pp": 0.09494745580676534
+    },
+    {
+      "scenario": "幅度差≤0.5个百分点、年份差≤4年、截止2024",
+      "stage": "primary",
+      "phase": "收缩",
+      "n": 24,
+      "provinces": 17,
+      "median_students_pct": -1.7716706542941552,
+      "median_teachers_pct": -0.08772506651896217,
+      "median_classes_pct": -1.4294261790220808,
+      "median_magnitude_gap_pp": 0.09494745580676534
+    },
+    {
+      "scenario": "幅度差≤0.5个百分点、年份差≤4年、截止2024",
+      "stage": "junior",
+      "phase": "增长",
+      "n": 23,
+      "provinces": 16,
+      "median_students_pct": 2.439791299540439,
+      "median_teachers_pct": 0.8048677167173723,
+      "median_classes_pct": 1.785469028979536,
+      "median_magnitude_gap_pp": 0.1713387371412689
+    },
+    {
+      "scenario": "幅度差≤0.5个百分点、年份差≤4年、截止2024",
+      "stage": "junior",
+      "phase": "收缩",
+      "n": 23,
+      "provinces": 16,
+      "median_students_pct": -2.103192360624462,
+      "median_teachers_pct": 0.017767334936014123,
+      "median_classes_pct": -0.9751037344398306,
+      "median_magnitude_gap_pp": 0.1713387371412689
+    },
+    {
+      "scenario": "幅度差≤1个百分点、年份差≤3年、截止2024",
+      "stage": "primary",
+      "phase": "增长",
+      "n": 25,
+      "provinces": 15,
+      "median_students_pct": 1.7052691645880635,
+      "median_teachers_pct": 2.533122916338937,
+      "median_classes_pct": 1.4623050259965353,
+      "median_magnitude_gap_pp": 0.1921744116888502
+    },
+    {
+      "scenario": "幅度差≤1个百分点、年份差≤3年、截止2024",
+      "stage": "primary",
+      "phase": "收缩",
+      "n": 25,
+      "provinces": 15,
+      "median_students_pct": -1.762350005095159,
+      "median_teachers_pct": -0.05338087513540035,
+      "median_classes_pct": -1.5294685781420014,
+      "median_magnitude_gap_pp": 0.1921744116888502
+    },
+    {
+      "scenario": "幅度差≤1个百分点、年份差≤3年、截止2024",
+      "stage": "junior",
+      "phase": "增长",
+      "n": 30,
+      "provinces": 20,
+      "median_students_pct": 2.3183660700787367,
+      "median_teachers_pct": 0.6903121338769025,
+      "median_classes_pct": 1.8798909414245446,
+      "median_magnitude_gap_pp": 0.3611939358160121
+    },
+    {
+      "scenario": "幅度差≤1个百分点、年份差≤3年、截止2024",
+      "stage": "junior",
+      "phase": "收缩",
+      "n": 30,
+      "provinces": 20,
+      "median_students_pct": -2.0847321680498077,
+      "median_teachers_pct": 0.05728872095559501,
+      "median_classes_pct": -0.674022166067062,
+      "median_magnitude_gap_pp": 0.3611939358160121
+    },
+    {
+      "scenario": "幅度差≤2个百分点、年份差≤4年、截止2024",
+      "stage": "primary",
+      "phase": "增长",
+      "n": 41,
+      "provinces": 21,
+      "median_students_pct": 1.7549765613023238,
+      "median_teachers_pct": 2.1803025094534245,
+      "median_classes_pct": 1.5292712066905523,
+      "median_magnitude_gap_pp": 0.3443845710169646
+    },
+    {
+      "scenario": "幅度差≤2个百分点、年份差≤4年、截止2024",
+      "stage": "primary",
+      "phase": "收缩",
+      "n": 41,
+      "provinces": 21,
+      "median_students_pct": -1.8554515188943244,
+      "median_teachers_pct": -0.09787367420603932,
+      "median_classes_pct": -1.7366544157781716,
+      "median_magnitude_gap_pp": 0.3443845710169646
+    },
+    {
+      "scenario": "幅度差≤2个百分点、年份差≤4年、截止2024",
+      "stage": "junior",
+      "phase": "增长",
+      "n": 47,
+      "provinces": 24,
+      "median_students_pct": 2.5239616944145116,
+      "median_teachers_pct": 0.8899068789426146,
+      "median_classes_pct": 2.4590163934426146,
+      "median_magnitude_gap_pp": 0.5793773020392745
+    },
+    {
+      "scenario": "幅度差≤2个百分点、年份差≤4年、截止2024",
+      "stage": "junior",
+      "phase": "收缩",
+      "n": 47,
+      "provinces": 24,
+      "median_students_pct": -2.3049715261011516,
+      "median_teachers_pct": -0.250711320490693,
+      "median_classes_pct": -1.1397254959018333,
+      "median_magnitude_gap_pp": 0.5793773020392745
+    },
+    {
+      "scenario": "幅度差≤1个百分点、年份差≤4年、截止2023",
+      "stage": "primary",
+      "phase": "增长",
+      "n": 18,
+      "provinces": 12,
+      "median_students_pct": 1.5227534340154558,
+      "median_teachers_pct": 2.8500607612651385,
+      "median_classes_pct": 1.7371490652892563,
+      "median_magnitude_gap_pp": 0.10356726725905263
+    },
+    {
+      "scenario": "幅度差≤1个百分点、年份差≤4年、截止2023",
+      "stage": "primary",
+      "phase": "收缩",
+      "n": 18,
+      "provinces": 12,
+      "median_students_pct": -1.6046091508142235,
+      "median_teachers_pct": 0.48399884740902843,
+      "median_classes_pct": -0.9190140837215366,
+      "median_magnitude_gap_pp": 0.10356726725905263
+    },
+    {
+      "scenario": "幅度差≤1个百分点、年份差≤4年、截止2023",
+      "stage": "junior",
+      "phase": "增长",
+      "n": 33,
+      "provinces": 22,
+      "median_students_pct": 2.5239616944145116,
+      "median_teachers_pct": 0.9085136521271853,
+      "median_classes_pct": 2.4590163934426146,
+      "median_magnitude_gap_pp": 0.33860425254115256
+    },
+    {
+      "scenario": "幅度差≤1个百分点、年份差≤4年、截止2023",
+      "stage": "junior",
+      "phase": "收缩",
+      "n": 33,
+      "provinces": 22,
+      "median_students_pct": -2.28768128595902,
+      "median_teachers_pct": 0.017767334936014123,
+      "median_classes_pct": -0.6966329407862015,
+      "median_magnitude_gap_pp": 0.33860425254115256
+    }
+  ]
+}

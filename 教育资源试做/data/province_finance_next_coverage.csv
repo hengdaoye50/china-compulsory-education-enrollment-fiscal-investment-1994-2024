@@ -1,0 +1,8 @@
+﻿province,year,local_source_depth,stage_actual_spending_verified,paired_fiscal_students_verified,student_weights_verified,decision,coverage_boundary
+四川,2023,official notice + 7-sheet original,False,False,False,published per-student only; formal pairs still zero,"limited to listed local sources, not all province-year publications"
+湖北,2023,official notice + 2-sheet original; body label conflict,False,False,False,published per-student only; formal pairs still zero,"limited to listed local sources, not all province-year publications"
+山东,2023,official institutional republication + government Word original; 7 converted tables,False,False,False,published per-student only; formal pairs still zero,"limited to listed local sources, not all province-year publications"
+湖南,2022,official HTTP notice + 5-sheet original,False,False,False,published per-student only; formal pairs still zero,"limited to listed local sources, not all province-year publications"
+湖南,2023,official HTTP notice + 5-sheet original,False,False,False,published per-student only; formal pairs still zero,"limited to listed local sources, not all province-year publications"
+吉林,2023,existing official PDF; full text field inventory,False,False,False,published per-student only; formal pairs still zero,"limited to listed local sources, not all province-year publications"
+福建,2023,existing 32-page official PDF; completed visual field audit,False,False,False,published per-student only; formal pairs still zero,"limited to listed local sources, not all province-year publications"

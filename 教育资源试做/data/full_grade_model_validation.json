@@ -1,0 +1,91 @@
+{
+  "included_rows": 539,
+  "excluded_rows": 81,
+  "missing_cells_imputed": 0,
+  "models": 264,
+  "checks": [
+    "Current grade contributions sum to total student growth",
+    "Identical complete rows in baseline/extended models",
+    "Explicit province/year dummies used for unbalanced sample, not balanced-panel shortcut",
+    "Full design rank and least-squares equations verified"
+  ],
+  "limits": [
+    "Complete-cell sample selects province/years; not identical to main 31-province sample",
+    "Extra in-sample fit is not out-of-sample prediction or causal effect",
+    "Last grade omitted as reference to avoid deterministic collinearity"
+  ],
+  "main_increments": [
+    {
+      "stage": "primary",
+      "resource": "teachers",
+      "scenario": "main_2015_2024",
+      "n": 306,
+      "provinces": 31,
+      "delta_within_r_squared": 0.06177235710288542,
+      "delta_within_adjusted_r_squared": 0.02900271475561389
+    },
+    {
+      "stage": "primary",
+      "resource": "classes",
+      "scenario": "main_2015_2024",
+      "n": 306,
+      "provinces": 31,
+      "delta_within_r_squared": 0.0389857470138687,
+      "delta_within_adjusted_r_squared": 0.020483638089428213
+    },
+    {
+      "stage": "primary",
+      "resource": "teachers",
+      "scenario": "exclude_2024",
+      "n": 275,
+      "provinces": 31,
+      "delta_within_r_squared": 0.0676074450259081,
+      "delta_within_adjusted_r_squared": 0.029006882862148475
+    },
+    {
+      "stage": "primary",
+      "resource": "classes",
+      "scenario": "exclude_2024",
+      "n": 275,
+      "provinces": 31,
+      "delta_within_r_squared": 0.037660139374900425,
+      "delta_within_adjusted_r_squared": 0.01600744155742473
+    },
+    {
+      "stage": "junior",
+      "resource": "teachers",
+      "scenario": "main_2015_2024",
+      "n": 233,
+      "provinces": 31,
+      "delta_within_r_squared": 0.02047026578287925,
+      "delta_within_adjusted_r_squared": -0.007448388743786394
+    },
+    {
+      "stage": "junior",
+      "resource": "classes",
+      "scenario": "main_2015_2024",
+      "n": 233,
+      "provinces": 31,
+      "delta_within_r_squared": 0.010807228697018889,
+      "delta_within_adjusted_r_squared": 0.0016256216454803019
+    },
+    {
+      "stage": "junior",
+      "resource": "teachers",
+      "scenario": "exclude_2024",
+      "n": 202,
+      "provinces": 31,
+      "delta_within_r_squared": 0.022290999650974808,
+      "delta_within_adjusted_r_squared": -0.011860814069597936
+    },
+    {
+      "stage": "junior",
+      "resource": "classes",
+      "scenario": "exclude_2024",
+      "n": 202,
+      "provinces": 31,
+      "delta_within_r_squared": 0.014801207780501757,
+      "delta_within_adjusted_r_squared": 0.0030199231338873256
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "download_records": 18,
+  "saved_download_records": 17,
+  "unique_saved_contents": 15,
+  "failed_download_records": 1,
+  "fiscal_source_download_records": 15,
+  "fiscal_source_unique_contents": 13,
+  "fiscal_source_all_downloaded": true,
+  "workbook_sheets": 6,
+  "ningxia_original_pdf_pages": 4,
+  "local_per_student_province_years": 3,
+  "candidate_cells": 14,
+  "cross_source_checks": 28,
+  "cross_source_pass": 28,
+  "cross_source_unresolved": [],
+  "verified_publication_bridges": 6,
+  "functional_direct_amounts": 4,
+  "functional_continuous_stage_candidates": 2,
+  "functional_ratio_checks": 2,
+  "functional_ratio_all_pass": true,
+  "matched_continuous_survey_spending_student_pairs": 0,
+  "complete_student_weight_rule_found": false,
+  "registry_rows": 217,
+  "protected_files_unchanged": true,
+  "protected_hashes": {
+    "data/finance_long.csv": "4b07e6dd9c6812652fa2de5a4fdac8331e15f0f69843f128fd8c741ae976e6b2",
+    "data/education_resource_panel.csv": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f",
+    "data/panel.json": "4f2ad2013d233f3f54d4f8c576d78c7e476875d1e2b1e11fd0133ebe310e7f02",
+    "教育资源试做.html": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06"
+  },
+  "review_type": "same analyst source/cell/arithmetic and visual checks; no independent review"
+}

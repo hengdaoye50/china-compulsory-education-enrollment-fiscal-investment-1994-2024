@@ -1,0 +1,11 @@
+﻿check,field,computed,reported,difference,status,stage
+primary_plus_junior_vs_combined,students_begin,430,430,0,pass,
+primary_plus_junior_vs_combined,students_end,454,454,0,pass,
+primary_plus_junior_vs_combined,total_income_yuan,14913623.00,14913623.00,0.00,pass,
+primary_plus_junior_vs_combined,total_expenditure_yuan,15413623.00,15413623.00,0.00,pass,
+primary_plus_junior_vs_combined,fiscal_subsidy_expenditure_yuan,15124019.00,15124019.00,0.00,pass,
+primary_plus_junior_vs_combined,general_budget_arranged_education_expenditure_yuan,15114019.00,15114019.00,0.00,pass,
+primary_plus_junior_vs_combined,government_fund_expenditure_yuan,10000.00,10000.00,0.00,pass,
+budget_plus_fund_vs_fiscal_subsidy,,15124019.00,15124019.00,0,pass,combined
+budget_plus_fund_vs_fiscal_subsidy,,10389734.66,10389734.66,0,pass,primary
+budget_plus_fund_vs_fiscal_subsidy,,4734284.34,4734284.34,0,pass,junior

@@ -1,0 +1,127 @@
+﻿record_id,year,province,cell,raw_total,proposed_total,unit,observed_numeric_cells,format_proposal_cells,unparsed_digit_cells,observed_column_sum,exact_closure,compiled_R,difference_yi,adjudicated_R_yi,status,model_eligible
+1f35a654165cf92473cda491,2001,上海,D76,6 094 719,6094719,万元,22,20,0,6094719,True,609.47,0.0019,609.4719,accepted_wrapped_column_numeric_only,False
+f4fd7715f9c016b6facc96bd,2001,云南,D76,1 912 799,1912799,万元,24,23,0,1912799,True,191.28,-0.0001,191.2799,accepted_wrapped_column_numeric_only,False
+ef289dd7393e804646ba189d,2001,内蒙古,D76, 994 313,994313,万元,26,24,0,994313,True,99.43,0.0013,99.4313,accepted_wrapped_column_numeric_only,False
+38eac526b01f50d935d19375,2001,北京,D76,4 541 676,4541676,万元,25,23,0,4541676,True,454.17,-0.0024,454.1676,accepted_wrapped_column_numeric_only,False
+5e3745a262fd227fb6000d76,2001,吉林,D75,1 211 015,1211015,万元,25,23,0,1211015,True,121.10,0.0015,121.1015,accepted_wrapped_column_numeric_only,False
+bc79b277c18cad657cee306a,2001,四川,D77,2 711 245,2711245,万元,26,24,0,2711245,True,271.12,0.0045,271.1245,accepted_wrapped_column_numeric_only,False
+9b28dd08589e638304680242,2001,天津,D75,1 636 350,1636350,万元,23,21,0,1636350,True,163.64,-0.005,163.635,accepted_wrapped_column_numeric_only,False
+d1bff5b048ef2d74232cf44b,2001,宁夏,D78, 275 745,275745,万元,25,16,0,275745,True,27.57,0.0045,27.5745,accepted_wrapped_column_numeric_only,False
+f52c3fb5f10ea7bd270864a3,2001,安徽,D77,1 921 813,1921813,万元,24,20,0,1921813,True,192.18,0.0013,192.1813,accepted_wrapped_column_numeric_only,False
+075f6d49cf33ce25993c32bf,2001,山西,D77,1 327 618,1327618,万元,25,23,0,1327618,True,132.76,0.0018,132.7618,accepted_wrapped_column_numeric_only,False
+9c3fdb746d3e74ea48bd8d08,2001,广西,D76,1 786 706,1786706,万元,25,24,0,1786706,True,178.67,0.0006,178.6706,accepted_wrapped_column_numeric_only,False
+5592460c1cc5f2328410f59c,2001,新疆,D78, 950 933,950933,万元,26,20,0,950933,True,95.09,0.0033,95.0933,accepted_wrapped_column_numeric_only,False
+69ec182a5dcbe3f2f8cd3692,2001,江苏,D76,5 721 473,5721473,万元,24,24,0,5721473,True,572.15,-0.0027,572.1473,accepted_wrapped_column_numeric_only,False
+6827e3f419d49b72fa6fc60f,2001,江西,D75,1 319 790,1319790,万元,24,19,0,1319790,True,131.98,-0.001,131.979,accepted_wrapped_column_numeric_only,False
+7d1bca1943ecdc4a9431869d,2001,河北,D76,2 835 023,2835023,万元,25,24,0,2835023,True,283.50,0.0023,283.5023,accepted_wrapped_column_numeric_only,False
+9cfdd6ad2e12124aaa45a033,2001,河南,D75,2 677 459,2677459,万元,25,23,0,2677459,True,267.75,-0.0041,267.7459,accepted_wrapped_column_numeric_only,False
+0d7a66144211fb73861351fc,2001,海南,D76, 437 656,437656,万元,23,20,0,437656,True,43.77,-0.0044,43.7656,accepted_wrapped_column_numeric_only,False
+d8ec429854d0d181bff769f8,2001,湖北,D74,2 319 410,2319410,万元,25,24,0,2319410,True,231.94,0.001,231.941,accepted_wrapped_column_numeric_only,False
+a5a0fe6cca17ea90722a0345,2001,湖南,D75,2 054 078,2054078,万元,25,22,0,2054078,True,205.41,-0.0022,205.4078,accepted_wrapped_column_numeric_only,False
+5d321b16d0d0320352d74dc4,2001,甘肃,D78, 699 485,699485,万元,26,22,0,699485,True,69.95,-0.0015,69.9485,accepted_wrapped_column_numeric_only,False
+406aca1e56da3b578f84fc83,2001,西藏,D74,  61 108,61108,万元,17,11,0,61108,True,6.11,0.0008,6.1108,accepted_wrapped_column_numeric_only,False
+b30440f4a9773f84097c9890,2001,贵州,D76, 997 494,997494,万元,24,23,0,997494,True,99.75,-0.0006,99.7494,accepted_wrapped_column_numeric_only,False
+61dcb474ef83562c8c66fbea,2001,重庆,D74,1061 243,1061243,万元,25,22,0,1061243,True,106.12,0.0043,106.1243,accepted_wrapped_column_numeric_only,False
+498695cb3b6dcded8e958c2d,2001,陕西,D76,1 385 109,1385109,万元,27,22,0,1358109,False,135.81,2.7009,,pending,False
+5e65afb28f246ebedec3911d,2001,青海,D77, 198 241,198241,万元,26,17,0,198241,True,19.82,0.0041,19.8241,accepted_wrapped_column_numeric_only,False
+1ddce48269e8970879f9d717,2001,黑龙江,D76,2136 398,2136398,万元,25,21,0,2136398,True,213.64,-0.0002,213.6398,accepted_wrapped_column_numeric_only,False
+a34e66e6948e78eb7980861b,2002,上海,D40,  7 08918,708918,万元,22,18,0,7089518,False,719.79,-648.8982,,pending,False
+bc3aa76c4d7a0014791855b8,2002,内蒙古,D38,1128 546,1128546,万元,25,23,0,1128546,True,112.85,0.0046,112.8546,accepted_wrapped_column_numeric_only,False
+bdd82c456b947c10aa89bd14,2002,北京,D40,5 339 900,5339900,万元,25,23,0,5339700,False,533.99,0.00,,pending,False
+5354eec48518039cdfed61e1,2002,吉林,D37,1 314 885,1314885,万元,24,21,0,1305800,False,131.49,-0.0015,,pending,False
+ae96fcb4fb08510314e7332e,2002,四川,D36,  2 918 746,2918746,万元,25,21,0,2967533,False,291.87,0.0046,,pending,False
+e1fa388d8b3c3c1d8195cb70,2002,宁夏,D40,  264 714,264714,万元,23,15,0,264525,False,26.47,0.0014,,pending,False
+cd9b06ef712d51707d18f587,2002,安徽,D41,,,万元,24,20,0,4004308,False,200.22,,,pending,False
+fccc39c4cfb0eee89b85a514,2002,山西,D37,1 508 245,1508245,万元,25,21,0,1508191,False,150.82,0.0045,,pending,False
+bbd4fc48a49f3d85ecf0f363,2002,江苏,D37, 6 436 966,6436966,万元,24,22,0,6437131,False,643.70,-0.0034,,pending,False
+9dadef404cf5a0a3aa7bca2c,2002,江西,D41,1405457,1405457,万元,23,19,0,1405457,True,140.55,-0.0043,140.5457,accepted_wrapped_column_numeric_only,False
+867083c75b2cdb2ede6bf12f,2002,河北,D37,3 023 068,3023068,万元,24,22,0,3023066,False,302.31,-0.0032,,pending,False
+42ff7ff4df018742b7774ba2,2002,河南,D37, 2 967179,2967179,万元,23,17,2,2929443,False,296.72,-0.0021,,pending,False
+acda0d148f82564dfe382d4b,2002,海南,D40,  462 385,462385,万元,22,19,0,444656,False,46.24,-0.0015,,pending,False
+e9f54cddabfcb4954bddedf3,2002,湖南,D40,,,万元,26,21,0,4622859,False,231.15,,,pending,False
+9c8684af6a41cc05ae7e904e,2002,陕西,D37, 1 502 943,1502943,万元,27,20,0,1502988,False,150.29,0.0043,,pending,False
+7b2e3fcb2b00e3b379d6c22b,2002,青海,D37,  210 965,210965,万元,24,17,0,210965,True,21.10,-0.0035,21.0965,accepted_wrapped_column_numeric_only,False
+7f7713a88491d6a0a349b2f3,2003,上海,D74, 8 862 277,8862277,万元,19,18,0,8862277,True,886.23,-0.0023,886.2277,accepted_wrapped_column_numeric_only,False
+f48a58a05fd91d980aab43f9,2003,云南,D76, 2 289 992,2289992,万元,24,22,0,2289992,True,229.00,-0.0008,228.9992,accepted_wrapped_column_numeric_only,False
+7b35466ed135d378f3595c38,2003,内蒙古,D79, 1 387157,1387157,万元,26,21,0,1387157,True,138.72,-0.0043,138.7157,accepted_wrapped_column_numeric_only,False
+b1e6ff331f5df9427ce5bdd9,2003,北京,D79, 5 925 388,5925388,万元,24,20,0,5925388,True,592.54,-0.0012,592.5388,accepted_wrapped_column_numeric_only,False
+76751189f50c9b7848a4579c,2003,吉林,D76,  1 540 033,1540033,万元,24,22,0,1540023,False,154.00,0.0033,,pending,False
+4b689e030edb0e9bd3b12e5a,2003,四川,D76, 3 365 917,3365917,万元,23,21,0,3365917,True,336.59,0.0017,336.5917,accepted_wrapped_column_numeric_only,False
+14808f180397fe411f4f2d06,2003,天津,D78, 2 045 295,2045295,万元,24,20,0,2045295,True,204.53,-0.0005,204.5295,accepted_wrapped_column_numeric_only,False
+67f5559a7c0e308965c049e5,2003,宁夏,D78,  300 310,300310,万元,22,16,0,300310,True,30.03,0.001,30.031,accepted_wrapped_column_numeric_only,False
+b4112268be0d9334034f0794,2003,安徽,D75, 2 207 487,2207487,万元,23,19,0,2207487,True,220.75,-0.0013,220.7487,accepted_wrapped_column_numeric_only,False
+a8808f445118357b47552580,2003,山西,D76, 1 860 547,1860547,万元,25,18,0,1860547,True,186.05,0.0047,186.0547,accepted_wrapped_column_numeric_only,False
+04439099ca739871ef0b9fb6,2003,广西,D75, 2 036 578,2036578,万元,24,23,0,2036578,True,203.66,-0.0022,203.6578,accepted_wrapped_column_numeric_only,False
+e32f20d39c7c2dc9a55651e5,2003,新疆,D75, 1 282 218,1282218,万元,25,22,0,1282218,True,128.22,0.0018,128.2218,accepted_wrapped_column_numeric_only,False
+a798f54dd11a5106acf060be,2003,江苏,D78, 7 981 065,7981065,万元,22,22,0,7981065,True,798.11,-0.0035,798.1065,accepted_wrapped_column_numeric_only,False
+45df4d90b7cabf055882b92c,2003,江西,D77, 1 681 670,1681670,万元,23,21,0,1681670,True,168.17,-0.003,168.167,accepted_wrapped_column_numeric_only,False
+b0b01fa7afc739c2b061b8d3,2003,河北,D79, 3 358 263,3358263,万元,25,22,0,3358263,True,335.83,-0.0037,335.8263,accepted_wrapped_column_numeric_only,False
+ea0de49f486ff9b1498a0811,2003,河南,D76, 3 380 535,3380535,万元,25,21,0,3380535,True,338.05,0.0035,338.0535,accepted_wrapped_column_numeric_only,False
+1b81fc21e051bc75f89d487e,2003,海南,D77,  513 205,513205,万元,22,22,0,513205,True,51.32,0.0005,51.3205,accepted_wrapped_column_numeric_only,False
+ae4cabeff4c19d8aa8f38921,2003,湖北,D76, 2 597 636,2597636,万元,22,21,0,2597636,True,259.76,0.0036,259.7636,accepted_wrapped_column_numeric_only,False
+d6001465fb7fb5b401e4f6f6,2003,湖南,D77, 2 686 469,2686469,万元,24,20,0,2686469,True,268.65,-0.0031,268.6469,accepted_wrapped_column_numeric_only,False
+599e4af2895f9a048628d35e,2003,甘肃,D77,  876 561,876561,万元,25,21,0,876621,False,87.66,-0.0039,,pending,False
+677d90d3d4c179a945813c93,2003,西藏,D76,    81 499,81499,万元,17,11,0,81499,True,8.15,-0.0001,8.1499,accepted_wrapped_column_numeric_only,False
+225e4a6c31619d2fd4229bc7,2003,贵州,D77, 1 245 552,1245552,万元,24,21,0,1245572,False,124.56,-0.0048,,pending,False
+17b6b620ee5e971008eebd89,2003,重庆,D76, 1 615 618,1615618,万元,21,19,0,1616618,False,161.56,0.0018,,pending,False
+ad59cc97d0c0ef5f3717dc6c,2003,陕西,D76, 1 773 300,1773300,万元,26,21,0,1773300,True,177.33,0.00,177.33,accepted_wrapped_column_numeric_only,False
+6d2d27fe9a8748de3945a9fb,2003,青海,D74,  240 411,240411,万元,24,18,0,240412,False,24.04,0.0011,,pending,False
+9675ff343cbecd4a560a8a46,2003,黑龙江,D78, 2488643,2488643,万元,24,22,0,2488643,True,248.86,0.0043,248.8643,accepted_wrapped_column_numeric_only,False
+ccbd330e36ca8d7cb1877d48,2004,上海,D78, 11 061 932,11061932,万元,18,17,0,11061932,True,1106.19,0.0032,1106.1932,accepted_wrapped_column_numeric_only,False
+f33eb8ad9024252aa1f5ea46,2004,云南,D78, 2 633 618,2633618,万元,22,21,1,2589537,False,263.36,0.0018,,pending,False
+bfc9e387ab34b51abd7c5dde,2004,内蒙古,D79, 1 967 589,1967589,万元,26,22,0,1967589,True,196.76,-0.0011,196.7589,accepted_wrapped_column_numeric_only,False
+f2a070f62549757b86b77446,2004,北京,D78, 7 444 874,7444874,万元,23,19,0,7444874,True,744.49,-0.0026,744.4874,accepted_wrapped_column_numeric_only,False
+6c0706f03332d30b58b50ed0,2004,吉林,D78, 1 662 807,1662807,万元,24,21,0,1662807,True,166.28,0.0007,166.2807,accepted_wrapped_column_numeric_only,False
+965401c873018618afd7ff7c,2004,四川,D78, 3 857 848,3857848,万元,23,21,0,3857848,True,385.78,0.0048,385.7848,accepted_wrapped_column_numeric_only,False
+5d9e07c4af7707915e474920,2004,天津,D78, 2 461 800,2461800,万元,19,19,0,2511800,False,246.18,0.00,,pending,False
+ba0c938f1e9a31a4cd08a882,2004,宁夏,D79,  374 677,374677,万元,19,17,0,374677,True,37.47,-0.0023,37.4677,accepted_wrapped_column_numeric_only,False
+f029311e7776f2bcf504e2af,2004,安徽,D78, 2 746 284,2746284,万元,20,20,0,2746284,True,274.63,-0.0016,274.6284,accepted_wrapped_column_numeric_only,False
+85b91a7227f5a18de997e982,2004,山东,D78, 8 283 306,8283306,万元,23,23,0,8283306,True,828.33,0.0006,828.3306,accepted_wrapped_column_numeric_only,False
+168198c60487f80b0d4617d0,2004,山西,C77,  2 058 750,2058750,万元,23,20,0,2058750,True,256.36,-50.485,,pending,False
+72582a9900313a8bf699a564,2004,广东,D78, 3 214 680,3214680,万元,16,14,0,3214680,True,1418.51,-1097.042,,pending,False
+fab9c4c3932f183bf519d3b4,2004,广东,D78, 14 185 056,14185056,万元,24,22,0,14185056,True,1418.51,-0.0044,,pending,False
+30ddea176595099f8b04b9da,2004,广西,D79, 2 377 721,2377721,万元,23,23,0,2377721,True,237.77,0.0021,237.7721,accepted_wrapped_column_numeric_only,False
+1355946f6b0dcc602fefe86b,2004,新疆,D66, 1 557 040,1557040,万元,24,19,0,1557744,False,155.70,0.004,,pending,False
+c37a30ba4db83a342fd52ee1,2004,江苏,D78, 9 804 939,9804939,万元,22,21,0,9804939,True,980.49,0.0039,980.4939,accepted_wrapped_column_numeric_only,False
+5963b7b4d7571fc5cd745b54,2004,江西,D78, 2 057 667,2057667,万元,23,21,0,2057667,True,205.77,-0.0033,205.7667,accepted_wrapped_column_numeric_only,False
+9c83d65b62131c87f9164c7b,2004,河北,D78, 4 078 273,4078273,万元,24,20,0,4103367,False,407.83,-0.0027,,pending,False
+4f36bddf23875580251f2ceb,2004,河南,D78, 4 287 799,4287799,万元,24,21,0,4287799,True,428.78,-0.0001,428.7799,accepted_wrapped_column_numeric_only,False
+03dcf1c6c18953ee1e367498,2004,浙江,D78, 8 059 479,8059479,万元,25,21,0,8059479,True,805.95,-0.0021,805.9479,accepted_wrapped_column_numeric_only,False
+b1d798bc809c230686b3defe,2004,海南,D78,  570 358,570358,万元,22,21,0,570358,True,57.04,-0.0042,57.0358,accepted_wrapped_column_numeric_only,False
+657b6a98092b787b36cc396a,2004,湖北,D78, 3104 464,3104464,万元,23,21,0,3104464,True,310.45,-0.0036,310.4464,accepted_wrapped_column_numeric_only,False
+1d5cb0f23effea9a3cbdd7a1,2004,湖南,D78, 3 206 279,3206279,万元,23,22,0,3206279,True,320.63,-0.0021,320.6279,accepted_wrapped_column_numeric_only,False
+255cd2d1d811d0ab3e6fa7da,2004,甘肃,D78, 1 041 600,1041600,万元,24,20,0,1041600,True,104.16,0.00,104.16,accepted_wrapped_column_numeric_only,False
+124affc53341c3c7ddbb4324,2004,福建,D78, 3 335 230,3335230,万元,23,22,0,3335230,True,333.52,0.003,333.523,accepted_wrapped_column_numeric_only,False
+3ab4375dbef59dd9c1a753bb,2004,西藏,D79,  100 188,100188,万元,15,12,0,100188,True,10.02,-0.0012,10.0188,accepted_wrapped_column_numeric_only,False
+f11b8439f278c7060701c2e1,2004,贵州,D78, 1 492 855,1492855,万元,24,21,0,1492855,True,149.29,-0.0045,149.2855,accepted_wrapped_column_numeric_only,False
+b66a11b48539c1c3e5ab53d3,2004,辽宁,D78, 5 296 405,5296405,万元,24,23,0,5296425,False,529.64,0.0005,,pending,False
+16208f49a61353c1e8cc4927,2004,重庆,D78, 2 006 241,2006241,万元,22,21,0,2006241,True,200.62,0.0041,200.6241,accepted_wrapped_column_numeric_only,False
+3900d719611cb70e4dcf6680,2004,陕西,D77, 2 149 586,2149586,万元,24,20,0,2149586,True,214.96,-0.0014,214.9586,accepted_wrapped_column_numeric_only,False
+6d58e109fedc91f80860d434,2004,青海,D78,  269 960,269960,万元,22,16,0,270042,False,27.00,-0.004,,pending,False
+fa7e56f4268be43b6217e998,2004,黑龙江,D79, 2 894 200,2894200,万元,22,20,0,2894200,True,289.42,0.00,289.42,accepted_wrapped_column_numeric_only,False
+292db445085d21f3dcfe6d20,2005,北京,D42,  9192 098,9192098,万元,21,19,0,9192098,True,919.21,-0.0002,919.2098,accepted_wrapped_column_numeric_only,False
+94e8871645b9279bdc012cec,2005,吉林,D42, 2 071 520,2071520,万元,25,17,0,2071520,True,207.15,0.002,207.152,accepted_wrapped_column_numeric_only,False
+1dc84ca8935329ae717ed8b9,2005,安徽,D42, 3 340170,3340170,万元,20,20,0,3340170,True,334.02,-0.003,334.017,accepted_wrapped_column_numeric_only,False
+f1ab7f2ff7da6c40d78db685,2005,山东,D42,10 731 250,10731250,万元,23,23,0,10731250,True,1073.13,-0.005,1073.125,accepted_wrapped_column_numeric_only,False
+ef1968616c06907658d599d4,2005,广东,D42,18 072 044,18072044,万元,24,20,0,18072044,True,1807.20,0.0044,1807.2044,accepted_wrapped_column_numeric_only,False
+429d7ee60c7251272c50f269,2005,江苏,D42,13 226 753,13226753,万元,21,20,0,13226753,True,1322.68,-0.0047,1322.6753,accepted_wrapped_column_numeric_only,False
+df0d413d2ba44adbee7098e3,2005,福建,D42, 4326 003,4326003,万元,22,19,0,4326003,True,432.60,0.0003,432.6003,accepted_wrapped_column_numeric_only,False
+14dccb622f49288ee9a99b5f,2005,黑龙江,D42,  3 182 056,3182056,万元,23,20,0,3182056,True,318.21,-0.0044,318.2056,accepted_wrapped_column_numeric_only,False
+467a05df50eacab0308ba575,2006,上海,D42,  15760742,15760742,万元,18,11,0,15760742,True,1576.07,0.0042,1576.0742,accepted_wrapped_column_numeric_only,False
+390f80d2ee879cb5cf6e001c,2006,北京,D42,  11171514,11171514,万元,21,13,0,11171514,True,1117.15,0.0014,1117.1514,accepted_wrapped_column_numeric_only,False
+828c30cf9cdb2c1c0b327fec,2006,吉林,D42,  2452 045,2452045,万元,23,14,0,2452045,True,245.20,0.0045,245.2045,accepted_wrapped_column_numeric_only,False
+9859a1ffa9802692c3501c5a,2006,四川,D43, 6 075 850,6075850,万元,23,19,0,6075850,True,607.59,-0.005,607.585,accepted_wrapped_column_numeric_only,False
+d0dc252602a0970401766112,2006,山东,D41,13562 526,13562526,万元,24,18,0,13562526,True,1356.25,0.0026,1356.2526,accepted_wrapped_column_numeric_only,False
+09d5f4c04e69e388aca8d6d0,2006,山西,D42,  5833752,5833752,万元,22,12,0,5833752,True,583.38,-0.0048,583.3752,accepted_wrapped_column_numeric_only,False
+15c18db43858994b98dcc586,2006,广东,D41,21794608,21794608,万元,24,16,0,21794608,True,2179.46,0.0008,2179.4608,accepted_wrapped_column_numeric_only,False
+5d63a7c91858e26e2079cd75,2006,广西,D44, 3425 788,3425788,万元,25,15,0,3425788,True,342.58,-0.0012,342.5788,accepted_wrapped_column_numeric_only,False
+506b46e720804f6c2b88fb85,2006,江苏,D43,16 566 820,16566820,万元,21,20,0,16566820,True,1656.68,0.002,1656.682,accepted_wrapped_column_numeric_only,False
+e4fda7d3393438ba7e1f931f,2006,江西,D42, 3 055214,3055214,万元,21,15,0,3055214,True,305.52,0.0014,305.5214,accepted_wrapped_column_numeric_only,False
+6710d6bbeb275c78aba5abb0,2006,浙江,D44,12 982 044,12982044,万元,24,16,0,12982044,True,1298.20,0.0044,1298.2044,accepted_wrapped_column_numeric_only,False
+3122110727956fdeb0d30ae2,2006,湖北,D41, 4760823,4760823,万元,24,17,0,4760822,False,476.08,0.0023,,pending,False
+8e0331c55adf8c3b7276677a,2006,甘肃,D41, 1 412152,1412152,万元,24,17,0,1412152,True,141.22,-0.0048,141.2152,accepted_wrapped_column_numeric_only,False
+8626d99543b3050b7fd0cffd,2006,福建,D41, 5 411707,5411707,万元,23,21,0,5411707,True,541.17,0.0007,541.1707,accepted_wrapped_column_numeric_only,False
+cc0504048c14bfa64ee20fa0,2006,贵州,D42, 2268 157,2268157,万元,24,15,0,2268157,True,226.82,-0.0043,226.8157,accepted_wrapped_column_numeric_only,False
+4045764beb012d5531561729,2006,辽宁,D42,  8176718,8176718,万元,26,7,0,8176718,True,817.67,0.0018,817.6718,accepted_wrapped_column_numeric_only,False
+b5b9b252d907b08ad7a53fc9,2006,陕西,D41, 3624 805,3624805,万元,24,17,0,3624805,True,362.48,0.0005,362.4805,accepted_wrapped_column_numeric_only,False
+dca85bc7dfdbe9caa8eb6571,2006,黑龙江,D42,  3 868440,3868440,万元,24,10,0,3868440,True,386.84,0.004,386.844,accepted_wrapped_column_numeric_only,False

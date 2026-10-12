@@ -1,0 +1,681 @@
+[
+  {
+    "key": "province_finance_liaoning_2021",
+    "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023013109345516096/index.shtml",
+    "status": "downloaded",
+    "bytes": 27433,
+    "sha256": "9ddb229985d021527801483ad3b41ff3a64ab6291f147ca3a5564fdbbe338f02",
+    "path": "raw\\province_finance_liaoning_2021.html",
+    "links": [
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zc/xzgfxwj/index.shtml",
+        "label": "政策"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zc/xzgfxwj/index.shtml",
+        "label": "行政规范性文件"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zfxxgkzn/index.shtml",
+        "label": "政府信息公开指南"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zfxxgkzd/index.shtml",
+        "label": "政府信息公开制度"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/lzyj/index.shtml",
+        "label": "履职依据"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jgjj/index.shtml",
+        "label": "机关简介"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/ghxx/index.shtml",
+        "label": "规划信息"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/index.shtml",
+        "label": "统计信息"
+      },
+      {
+        "url": "https://www.lnzwfw.gov.cn/bmym/?groupId=11210000001099970L&gb=1&aisiteOutPageId=17d9b3c264a8401fbe00535cbacc32d7",
+        "label": "行政许可"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/xzzf/index.shtml",
+        "label": "行政执法"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/ys_js/index.shtml",
+        "label": "预算/决算"
+      },
+      {
+        "url": "http://www.ccgp-liaoning.gov.cn/portalindex.do?method=goZNSS&znss=省教育厅&aisiteOutPageId=2188bbf63a5642bf9aa66e4c07ba53e7",
+        "label": "政府采购"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/zdmsxx/index.shtml",
+        "label": "重大民生信息"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jdjc/index.shtml",
+        "label": "监督检查"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/jyta/index.shtml",
+        "label": "建议提案"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zfxxgknb/index.shtml",
+        "label": "政府信息公开年报"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/ysqgkwysq/index.shtml",
+        "label": "依申请公开"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/gjjybmgkjglxfs/2026091017441483071/index.shtml",
+        "label": "教育部门公开电话"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/index.shtml",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/index.shtml",
+        "label": "公开"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zfxxgkzn/index.shtml",
+        "label": "政府信息公开"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/lzyj/index.shtml",
+        "label": "法定主动公开内容"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/index.shtml",
+        "label": "统计信息"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023013109345516096/2023013109344879308.pdf",
+        "label": "附件：2021年全省教育经费执行情况统计表.pdf"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=0BE1461D500F2D24E053012819AC76F2",
+        "label": ""
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=2100000009&url=http%3A%2F%2F172.16.28.56%2Feportal%2Fui%3FpageId%3D3bc10b1782944c5a9752ba0b62ed5a2e",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "key": "province_finance_fujian_2019",
+    "url": "https://jyt.fujian.gov.cn/xxgk/czzj/202012/t20201203_5472055.htm",
+    "status": "downloaded",
+    "bytes": 52707,
+    "sha256": "0d60c969909dcb192711450cb24d178a161f6f3201c9b367cb39180db12956bb",
+    "path": "raw\\province_finance_fujian_2019.html",
+    "links": [
+      {
+        "url": "https://jyt.fujian.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.gov.cn/",
+        "label": "国务院"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.fujian.gov.cn/",
+        "label": "省政府"
+      },
+      {
+        "url": "javascript:;",
+        "label": "闽政通APP"
+      },
+      {
+        "url": "javascript:StranBody()",
+        "label": "繁体版"
+      },
+      {
+        "url": "https://www.fujian.gov.cn/suc/login/login?redirtUrl=http://www.fujian.gov.cn/suc/login/noseLogin?redirtUrl=https://www.fujian.gov.cn/?",
+        "label": "登录"
+      },
+      {
+        "url": "https://iam.e-govt.cn:8901/register?appId=a8e4d0ed-0874-44d4-b144-50cd02986acf&redirect_uri=https://www.fujian.gov.cn&response_type=code",
+        "label": "注册"
+      },
+      {
+        "url": "https://mail.fjsjyt.cn/",
+        "label": "邮箱登录"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/",
+        "label": "机构概况"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/zcjd/",
+        "label": "解读回应"
+      },
+      {
+        "url": "https://zwfw.fujian.gov.cn/province-dept/index?type=2&siteUnid=45AF607BA927D210601E36FDD1C491A5&randomNum=0.8923352003216316",
+        "label": "办事服务"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/",
+        "label": "互动交流"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/ztzl/",
+        "label": "专题专栏"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/jgzn/",
+        "label": "机构职能"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/ldxx/",
+        "label": "领导信息"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/fzjj/",
+        "label": "发展简介"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/jglb/",
+        "label": "机关处室"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/zsdw/",
+        "label": "直属单位"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/gggs/",
+        "label": "公告公示"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/zywj/",
+        "label": "重要文件"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/rsxx/",
+        "label": "人事信息"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/jhzj/",
+        "label": "计划总结"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/czzj/",
+        "label": "财政资金"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/zfxxgkzl/",
+        "label": "政府信息公开"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/zxzx/",
+        "label": "在线咨询"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/wsdc/",
+        "label": "网上调查"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/yjzj/",
+        "label": "意见征集"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/zxft/",
+        "label": "在线访谈"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/cjwt/",
+        "label": "常见问题"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/rdhy/",
+        "label": "热点回应"
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "javascript:;",
+        "label": "长者模式"
+      },
+      {
+        "url": "javascript:;",
+        "label": "退出长者模式"
+      },
+      {
+        "url": "javascript:;",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/czzj/",
+        "label": "财政资金"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "微信"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "微博"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "QQ空间"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/czzj/202012/P020201209560446785712.pdf",
+        "label": "1-5.pdf"
+      },
+      {
+        "url": "javascript:window.print()",
+        "label": "打印"
+      },
+      {
+        "url": "javascript:window.close();",
+        "label": "关闭"
+      },
+      {
+        "url": "http://fgw.fujian.gov.cn/",
+        "label": "福建省发展和改革委员会"
+      },
+      {
+        "url": "http://jyt.fujian.gov.cn/",
+        "label": "福建省教育厅（省委教育工作委员会）"
+      },
+      {
+        "url": "http://kjt.fujian.gov.cn/",
+        "label": "福建省科学技术厅"
+      },
+      {
+        "url": "http://gxt.fujian.gov.cn/",
+        "label": "福建省工业和信息化厅"
+      },
+      {
+        "url": "http://mzzjt.fujian.gov.cn",
+        "label": "福建省民族与宗教事务厅"
+      },
+      {
+        "url": "http://gat.fujian.gov.cn/",
+        "label": "福建省公安厅(省打击走私综合治理工作办公室)"
+      },
+      {
+        "url": "http://mzt.fujian.gov.cn/",
+        "label": "福建省民政厅"
+      },
+      {
+        "url": "http://sft.fujian.gov.cn/",
+        "label": "福建省司法厅"
+      },
+      {
+        "url": "http://czt.fujian.gov.cn/",
+        "label": "福建省财政厅"
+      },
+      {
+        "url": "http://rst.fujian.gov.cn/",
+        "label": "福建省人力资源和社会保障厅"
+      },
+      {
+        "url": "http://zrzyt.fujian.gov.cn/",
+        "label": "福建省自然资源厅"
+      },
+      {
+        "url": "http://sthjt.fujian.gov.cn/",
+        "label": "福建省环境保护厅"
+      },
+      {
+        "url": "http://zjt.fujian.gov.cn/",
+        "label": "福建省住房和城乡建设厅"
+      },
+      {
+        "url": "http://jtyst.fujian.gov.cn/",
+        "label": "福建省交通运输厅"
+      },
+      {
+        "url": "http://slt.fujian.gov.cn/",
+        "label": "福建省水利厅"
+      },
+      {
+        "url": "http://nynct.fujian.gov.cn/",
+        "label": "福建省农业农村厅"
+      },
+      {
+        "url": "http://swt.fujian.gov.cn/",
+        "label": "福建省商务厅"
+      },
+      {
+        "url": "http://wlt.fujian.gov.cn/",
+        "label": "福建省文旅厅"
+      },
+      {
+        "url": "http://wjw.fujian.gov.cn/",
+        "label": "福建省卫生和计划生育委员会"
+      },
+      {
+        "url": "http://tyjrswt.fujian.gov.cn/",
+        "label": "福建省退役军人厅"
+      },
+      {
+        "url": "http://yjt.fujian.gov.cn/",
+        "label": "福建省安全生产监督管理局(省安全生产委员会办公室)"
+      },
+      {
+        "url": "http://sjt.fujian.gov.cn/",
+        "label": "福建省审计厅"
+      },
+      {
+        "url": "http://wb.fujian.gov.cn/",
+        "label": "福建省人民政府外事办公室(省政府港澳事务办公室、省人民对外友好协会)"
+      },
+      {
+        "url": "http://gzw.fujian.gov.cn/",
+        "label": "福建省国资委"
+      },
+      {
+        "url": "http://lyj.fujian.gov.cn/",
+        "label": "福建省林业局"
+      },
+      {
+        "url": "http://hyyyj.fujian.gov.cn/",
+        "label": "福建省海洋与渔业厅"
+      },
+      {
+        "url": "http://scjgj.fujian.gov.cn/",
+        "label": "福建省市场监管局"
+      },
+      {
+        "url": "http://gdj.fujian.gov.cn/",
+        "label": "福建省广电局"
+      },
+      {
+        "url": "http://tyj.fujian.gov.cn/",
+        "label": "福建省体育局"
+      },
+      {
+        "url": "http://tjj.fujian.gov.cn/",
+        "label": "福建省统计局"
+      },
+      {
+        "url": "http://gdb.fujian.gov.cn/",
+        "label": "福建省人民防空办公室(省民防局)"
+      },
+      {
+        "url": "http://ybj.fujian.gov.cn/",
+        "label": "福建省医保局"
+      },
+      {
+        "url": "http://xfj.fujian.gov.cn/",
+        "label": "福建省信访局"
+      },
+      {
+        "url": "http://jgswglj.fujian.gov.cn/",
+        "label": "福建省机关管理局"
+      },
+      {
+        "url": "https://fgw.fujian.gov.cn/ztzl/szfjzt/",
+        "label": "福建省数字办"
+      },
+      {
+        "url": "http://lsj.fujian.gov.cn/",
+        "label": "福建省粮食局"
+      },
+      {
+        "url": "http://jyj.sft.fujian.gov.cn/",
+        "label": "福建省监狱管理局"
+      },
+      {
+        "url": "http://yjj.scjgj.fujian.gov.cn",
+        "label": "福建省药监局"
+      },
+      {
+        "url": "http://www.eeafj.cn/",
+        "label": "福建省教育考试院"
+      },
+      {
+        "url": "http://www.fjeei.com.cn",
+        "label": "福建省教育装备与基建中心"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/ztzl/fjsjykxyjs/",
+        "label": "福建省教育科学研究所"
+      },
+      {
+        "url": "http://www.fjspjs.com/",
+        "label": "福建省普通教育教学研究室"
+      },
+      {
+        "url": "http://www.fjcet.com/",
+        "label": "福建省电化教育馆"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/ztzl/fjszyjsjyzx/",
+        "label": "福建省职业技术教育中心"
+      },
+      {
+        "url": "http://www.fetv.cn",
+        "label": "福建教育电视台"
+      },
+      {
+        "url": "http://www.fjedu.com.cn/",
+        "label": "福建教育杂志社"
+      },
+      {
+        "url": "http://www.fjcpc.edu.cn/",
+        "label": "福建船政交通职业学院"
+      },
+      {
+        "url": "http://www.mitu.cn/",
+        "label": "福建信息职业技术学院"
+      },
+      {
+        "url": "http://www.fjsdxy.com",
+        "label": "福建水利电力职业技术学院"
+      },
+      {
+        "url": "http://www.fjlzy.com",
+        "label": "福建林业职业技术学院"
+      },
+      {
+        "url": "http://www.fjny.edu.cn/",
+        "label": "福建农业职业技术学院"
+      },
+      {
+        "url": "http://www.fjwx.com.cn/",
+        "label": "福建卫生职业技术学院"
+      },
+      {
+        "url": "http://www.fjys.edu.cn",
+        "label": "福建幼儿师范高等专科学校"
+      },
+      {
+        "url": "http://www.xmoc.cn",
+        "label": "厦门海洋职业技术学院"
+      },
+      {
+        "url": "http://fjgx.cn/",
+        "label": "福建工业学校"
+      },
+      {
+        "url": "http://www.fjlg.com/",
+        "label": "福建理工学校"
+      },
+      {
+        "url": "http://www.fjjzxx.cn/",
+        "label": "福建建筑学校"
+      },
+      {
+        "url": "http://www.fjydxx.com/",
+        "label": "福建省邮电学校"
+      },
+      {
+        "url": "http://www.fzyz.net/",
+        "label": "福州第一中学"
+      },
+      {
+        "url": "http://www.fjfzsx.com/",
+        "label": "福州实验小学"
+      },
+      {
+        "url": "https://jyj.fuzhou.gov.cn/",
+        "label": "福州市教育局"
+      },
+      {
+        "url": "http://edu.xm.gov.cn/",
+        "label": "厦门市教育局"
+      },
+      {
+        "url": "http://jyj.quanzhou.gov.cn/",
+        "label": "泉州市教育局"
+      },
+      {
+        "url": "http://jyj.putian.gov.cn",
+        "label": "莆田市教育局"
+      },
+      {
+        "url": "http://jyj.np.gov.cn/",
+        "label": "南平市教育局"
+      },
+      {
+        "url": "http://smjy.sm.gov.cn/",
+        "label": "三明市教育局"
+      },
+      {
+        "url": "http://jyj.ningde.gov.cn/",
+        "label": "宁德市教育局"
+      },
+      {
+        "url": "http://jyj.zhangzhou.gov.cn/",
+        "label": "漳州市教育局"
+      },
+      {
+        "url": "http://jyj.longyan.gov.cn/",
+        "label": "龙岩市教育局"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/lxwm/wsdt/",
+        "label": "网站地图"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/lxwm/mzsm/",
+        "label": "免责声明"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/lxwm/sybz/",
+        "label": "使用帮助"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/lxwm/lxwm/",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35010202000879",
+        "label": "闽公网安备35010202000879号"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "闽ICP备13015615号"
+      },
+      {
+        "url": "javascript:;",
+        "label": "福建教育微言"
+      },
+      {
+        "url": "javascript:;",
+        "label": "闽政通APP"
+      }
+    ]
+  },
+  {
+    "key": "province_finance_fujian_2018_pdf",
+    "url": "https://jyt.fujian.gov.cn/xxgk/czzj/201911/P020191125616064546299.pdf",
+    "status": "downloaded",
+    "bytes": 1235305,
+    "sha256": "1bda72d3671521d68ee16279cdc482e4be7ef58cfea7c324b18461875d6af1a8",
+    "path": "raw\\province_finance_fujian_2018_pdf.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_fujian_2022_attachment",
+    "url": "https://jyt.fujian.gov.cn/xxgk/czzj/202312/P020231222339675475879.pdf",
+    "status": "downloaded",
+    "bytes": 617881,
+    "sha256": "7b3a692d99527cc56cf4931b94dae78f7b2a25b079a6e7fbc6eaccd305beb7fb",
+    "path": "raw\\province_finance_fujian_2022_attachment.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_fujian_2021_attachment",
+    "url": "https://jyt.fujian.gov.cn/xxgk/tjsj/202301/P020230113640504219884.pdf",
+    "status": "downloaded",
+    "bytes": 381232,
+    "sha256": "caf17f8be403ca29cba5564d03f7c3dd4d5cd494795176c3390ddd408f3e0c42",
+    "path": "raw\\province_finance_fujian_2021_attachment.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_fujian_2020_attachment",
+    "url": "https://jyt.fujian.gov.cn/xxgk/czzj/202112/P020211217566011554439.pdf",
+    "status": "downloaded",
+    "bytes": 718758,
+    "sha256": "dab436af4acf81bed9284c26c3213570910236d70e72073852ddacf3b926b2da",
+    "path": "raw\\province_finance_fujian_2020_attachment.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_liaoning_2022_attachment",
+    "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023122814485765464/2023122814454436571.docx",
+    "status": "downloaded",
+    "bytes": 128025,
+    "sha256": "67de81dd2e5836f81978d9b19ec9d21fce046ed794e8bbfe94e90a1268a799e5",
+    "path": "raw\\province_finance_liaoning_2022_attachment.docx",
+    "links": []
+  },
+  {
+    "key": "province_finance_jiangsu_2023_republication_attachment",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/c773677/part/773703.xls",
+    "status": "downloaded",
+    "bytes": 146432,
+    "sha256": "f27e9ab6beb1a384a8558be8e15c7198949388e52859a8fa4723274fbc7d3ca0",
+    "path": "raw\\province_finance_jiangsu_2023_republication_attachment.xls",
+    "links": []
+  },
+  {
+    "key": "province_finance_zhejiang_2023_attachment",
+    "url": "https://jyt.zj.gov.cn/api-gateway/jpaas-web-server/front/document/file-download?fileUrl=/cms_files/jcms1/web3099/site/attach/0/bfa8262883fd44bfa1eacb5bb939d26c.xlsx",
+    "status": "downloaded",
+    "bytes": 53823,
+    "sha256": "ed392446c4c79b42ad805a8f545d4bd060d613d25614d695788b414847d28929",
+    "path": "raw\\province_finance_zhejiang_2023_attachment.html",
+    "links": []
+  }
+]

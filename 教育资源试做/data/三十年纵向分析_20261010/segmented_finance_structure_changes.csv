@@ -1,0 +1,9 @@
+﻿stage,scope,start_year,end_year,personal_PC_share_start,personal_PC_share_end,change_percentage_points,classification_cross_2007,definition_status,capital_label_pending
+primary,local_affiliation,1995,2006,70.32616991678793,75.78064699927589,5.454477082487955,False,descriptive original share; annual comparability pending,False
+primary,local_affiliation,2007,2013,74.93968510536503,65.18883751511812,-9.750847590246906,False,descriptive original share; annual comparability pending,False
+primary,local_affiliation,2013,2023,65.18883751511812,75.39788072051974,10.209043205401613,False,descriptive original share; annual comparability pending,False
+primary,local_affiliation,2023,2024,75.39788072051974,75.74118468275108,0.34330396223134585,False,descriptive original share; annual comparability pending,True
+junior,local_affiliation,1996,2006,63.61789757308031,69.23169561167957,5.613798038599256,False,descriptive original share; annual comparability pending,False
+junior,local_affiliation,2007,2013,68.41225564803,61.67471300405419,-6.737542643975807,False,descriptive original share; annual comparability pending,False
+junior,local_affiliation,2013,2023,61.67471300405419,72.88820831794229,11.213495313888096,False,descriptive original share; annual comparability pending,False
+junior,local_affiliation,2023,2024,72.88820831794229,72.52417713267128,-0.36403118527100276,False,descriptive original share; annual comparability pending,True

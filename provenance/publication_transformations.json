@@ -1,0 +1,54 @@
+[
+  {
+    "path": "教育资源试做/data/literature_cssci_candidate_ledger.csv",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "教育资源试做/data/literature_fulltext_evidence_ledger.csv",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "教育资源试做/data/literature_fulltext_review.csv",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "教育资源试做/scripts/audit_font_revision_delivery.py",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "教育资源试做/scripts/revise_ai_disclosure_appendix.py",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "教育资源试做/scripts/revise_user_font_citations.py",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "教育资源试做/scripts/rewrite_conclusions_20261012.py",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "教育资源试做/正式学术图组_20261010/qa/skill_metadata_fig05.json",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "reports/final/修订记录.json",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "reports/final/最终交付核验.json",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "reports/history/最终综合研究报告_20261011/最终报告正文.md",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "docs/history/研究交接_20261010_最新设计与数据状态.md",
+    "change": "local absolute paths replaced; data values retained"
+  },
+  {
+    "path": "docs/history/选题试做交接_教育资源与财政投入.md",
+    "change": "local absolute paths replaced; data values retained"
+  }
+]

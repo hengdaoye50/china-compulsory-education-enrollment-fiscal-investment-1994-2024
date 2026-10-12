@@ -1,0 +1,14 @@
+{
+  "original_candidates": 906,
+  "province_year_groups": 878,
+  "multiple_candidate_groups": 28,
+  "comparison_status": {
+    "original_numeric_or_unit_pending": 314,
+    "agree_within_0.005_yi": 557,
+    "difference_requires_scope_or_revision_check": 35
+  },
+  "inputs_sha256": {
+    "fiscal_original_candidates.csv": "8cac64d2cbf2b20d386a8a59523b858e9fd92a5698c24d027ab1f2336695f3bb",
+    "supplement_original_candidates.csv": "972849dba9eb99778948c17a84d7fbb5fa3b9ad7c79cffa8bcb2341126f0669d"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "scenario_rows": 12,
+  "component_rows": 36,
+  "backtest_rows": 8,
+  "sum_checks_passed": true,
+  "amount_bounds_passed": true,
+  "main_series_sha256": "a799ae676a4384c1e66a8cbc0030204914c075d10a044ac24705b02122d496ac",
+  "observed_1994_stage_fiscal_found": false,
+  "whitepaper_scope_discrepancy_resolved": false
+}

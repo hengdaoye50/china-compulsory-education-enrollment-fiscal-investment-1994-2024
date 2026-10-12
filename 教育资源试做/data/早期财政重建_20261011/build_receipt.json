@@ -1,0 +1,126 @@
+{
+  "rows": 62,
+  "national_reconciliation_checks": [
+    {
+      "year": 1995,
+      "test": "national_expenditure_components",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 1996,
+      "test": "national_expenditure_components",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 1997,
+      "test": "national_expenditure_components",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 1998,
+      "test": "national_income_components",
+      "enterprise_rule": "enterprise_total",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 1999,
+      "test": "national_income_components",
+      "enterprise_rule": "enterprise_total",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2000,
+      "test": "national_income_components",
+      "enterprise_rule": "enterprise_total",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2001,
+      "test": "national_income_components",
+      "enterprise_rule": "enterprise_total",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2002,
+      "test": "national_income_components",
+      "enterprise_rule": "enterprise_appropriation_plus_industry",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2003,
+      "test": "national_income_components",
+      "enterprise_rule": "enterprise_appropriation_plus_industry",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2004,
+      "test": "national_income_components",
+      "enterprise_rule": "enterprise_appropriation_plus_industry",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2005,
+      "stage": "all",
+      "test": "bridge_to_published_stage_fiscal",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2005,
+      "stage": "primary",
+      "test": "bridge_to_published_stage_fiscal",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2005,
+      "stage": "junior",
+      "test": "bridge_to_published_stage_fiscal",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2006,
+      "stage": "all",
+      "test": "bridge_to_published_stage_fiscal",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2006,
+      "stage": "primary",
+      "test": "bridge_to_published_stage_fiscal",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    },
+    {
+      "year": 2006,
+      "stage": "junior",
+      "test": "bridge_to_published_stage_fiscal",
+      "fiscal_residual": 0.0,
+      "total_residual": 0.0
+    }
+  ],
+  "1994_national_anchors": {
+    "fiscal": 117473956.0,
+    "total": 148878126.0
+  },
+  "1994_source": "https://www.stats.gov.cn/sj/ndsj/2001c/t2036c.htm",
+  "regime_breaks": [
+    1998,
+    2002,
+    2007
+  ],
+  "original_inputs_unchanged": true,
+  "uncertainty": "1994 envelopes are allocation scenarios, not confidence intervals; only two adjacent-year backtests per stage and metric"
+}

@@ -1,0 +1,75 @@
+{
+  "date": "2026-10-08",
+  "round": 31,
+  "specifications": 16,
+  "leave_one_province_models": 496,
+  "coefficient_rows": 992,
+  "contrast_rows": 496,
+  "joint_rows": 496,
+  "residual_pairs": 7440,
+  "checks": 512,
+  "max_coefficient_path_difference": 4.496403249731884e-15,
+  "max_covariance_path_difference": 2.0122792321330962e-16,
+  "cluster_inference": "CR1, full FE rank; 30 clusters and t(29)/F(2,29) in deletion fits",
+  "multiplicity": "8 main slopes, 4 main differences, 4 main joint tests adjusted separately within each omitted-province setting; not across 31 settings",
+  "residual_dependence": "descriptive only; no naive CD p-value, no certification of error independence",
+  "exploratory": true,
+  "preregistered": false,
+  "causal": false,
+  "protected_before": [
+    {
+      "path": "data/finance_long.csv",
+      "sha256": "4b07e6dd9c6812652fa2de5a4fdac8331e15f0f69843f128fd8c741ae976e6b2",
+      "unchanged": true
+    },
+    {
+      "path": "data/education_resource_panel.csv",
+      "sha256": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f",
+      "unchanged": true
+    },
+    {
+      "path": "data/panel.json",
+      "sha256": "4f2ad2013d233f3f54d4f8c576d78c7e476875d1e2b1e11fd0133ebe310e7f02",
+      "unchanged": true
+    },
+    {
+      "path": "教育资源试做.html",
+      "sha256": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06",
+      "unchanged": true
+    }
+  ],
+  "protected_after": [
+    {
+      "path": "data/finance_long.csv",
+      "sha256": "4b07e6dd9c6812652fa2de5a4fdac8331e15f0f69843f128fd8c741ae976e6b2",
+      "unchanged": true
+    },
+    {
+      "path": "data/education_resource_panel.csv",
+      "sha256": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f",
+      "unchanged": true
+    },
+    {
+      "path": "data/panel.json",
+      "sha256": "4f2ad2013d233f3f54d4f8c576d78c7e476875d1e2b1e11fd0133ebe310e7f02",
+      "unchanged": true
+    },
+    {
+      "path": "教育资源试做.html",
+      "sha256": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06",
+      "unchanged": true
+    }
+  ],
+  "original_input_hashes_unchanged": {
+    "education_resource_panel.csv": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f",
+    "resource_timing_models.csv": "1e851f208506853241ba3e6f2da4bca7b727f13d8a13ee4ffa99b067c8362364",
+    "resource_timing_cluster_coefficients.csv": "052920cb4817bd2f7eecc744790bf392ab0b8089e5ff2fafd3e58b76717832ab",
+    "resource_timing_cluster_contrasts.csv": "e3e7767d82e20ec25c1c93529ac64e3990c34717829628ba1c3bb681e6731ea2",
+    "resource_timing_cluster_joint_tests.csv": "bd10a371b91d55ab83ccae29c74df68ddc2bdcd05da23dd8426026d72277bcb9"
+  },
+  "technical_sources": [
+    "https://journals.sagepub.com/doi/10.1177/1536867X231212433",
+    "https://arxiv.org/abs/1810.03715",
+    "https://www.statsmodels.org/stable/generated/statsmodels.stats.sandwich_covariance.cov_cluster.html"
+  ]
+}

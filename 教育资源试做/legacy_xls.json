@@ -1,0 +1,119 @@
+[
+  {
+    "key": "nbs_index_2013_62_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0305C.xls",
+    "status": "downloaded",
+    "bytes": 34816,
+    "sha256": "5668ada3049666c9f8c024fc1bfa5587033b9a6599f2257eeb84e48fdbd04891",
+    "path": "raw\\nbs_index_2013_62_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2013_240_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z1005C.xls",
+    "status": "downloaded",
+    "bytes": 30208,
+    "sha256": "204328e8ad16fc51701ba370ce1db395df3a31970c5f5ae99efb4a66e861ccab",
+    "path": "raw\\nbs_index_2013_240_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2013_513_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2035C.xls",
+    "status": "downloaded",
+    "bytes": 22016,
+    "sha256": "ab83600a9b5167216d3037ee41c75fea78fbdd1cc770ce55f02ebccd385f7333",
+    "path": "raw\\nbs_index_2013_513_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2013_791_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2707C.xls",
+    "status": "downloaded",
+    "bytes": 38912,
+    "sha256": "1a45ca74eb105f3ea7591dd3d4814610f74b6af70b145417a28f130ebdab76f8",
+    "path": "raw\\nbs_index_2013_791_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2014_18_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0205C.xls",
+    "status": "downloaded",
+    "bytes": 32256,
+    "sha256": "feb24eb08acbc090e53b270241f3208a208967b78fc37d719ed0574f96a32363",
+    "path": "raw\\nbs_index_2014_18_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2014_85_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0505C.xls",
+    "status": "downloaded",
+    "bytes": 39936,
+    "sha256": "91a5ae29208952ff77b26bfddda6ec4c6240301e201db4eaeff19ee193bec8b2",
+    "path": "raw\\nbs_index_2014_85_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2014_497_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2135C.xls",
+    "status": "downloaded",
+    "bytes": 28672,
+    "sha256": "071e1689b02f65447a3dbe0a6a9442e7b933b79c510e293c1c66d03e6c485472",
+    "path": "raw\\nbs_index_2014_497_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2013_additional_70_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0313C.xls",
+    "status": "downloaded",
+    "bytes": 19968,
+    "sha256": "51dfcf7888956aaeabae0de19d81007924be75aabddd32010049f6d336309db6",
+    "path": "raw\\nbs_index_2013_additional_70_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2013_additional_226_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0905C.xls",
+    "status": "downloaded",
+    "bytes": 55296,
+    "sha256": "832e0e6ed8aa1738f4fd6973d5844618455f79c7773f39bddb9bbbb3b369f628",
+    "path": "raw\\nbs_index_2013_additional_226_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2013_additional_227_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z0906C.xls",
+    "status": "downloaded",
+    "bytes": 56320,
+    "sha256": "a2ce5e7b9eaf5f7418643965ffb6dcb513d8bb6b171079a86dd172cc57332660",
+    "path": "raw\\nbs_index_2013_additional_227_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2013_additional_514_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2013/html/Z2036C.xls",
+    "status": "downloaded",
+    "bytes": 21504,
+    "sha256": "b0d87974c11e2aef796896438881ceead07dc538bfcc5d66de396927b98435a0",
+    "path": "raw\\nbs_index_2013_additional_514_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2014_additional_24_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z0211C.xls",
+    "status": "downloaded",
+    "bytes": 36864,
+    "sha256": "a341e8eceb7b100f64e0ef922836d70583d7b610810b3fd41efe150d48beb9dd",
+    "path": "raw\\nbs_index_2014_additional_24_xls.xls",
+    "links": []
+  },
+  {
+    "key": "nbs_index_2014_additional_498_xls",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2014/zk/html/Z2136C.xls",
+    "status": "downloaded",
+    "bytes": 35840,
+    "sha256": "dc4af8a856f832e1c6fc16d7110a421d0672a665587b153bf46469451dcbdd8c",
+    "path": "raw\\nbs_index_2014_additional_498_xls.xls",
+    "links": []
+  }
+]

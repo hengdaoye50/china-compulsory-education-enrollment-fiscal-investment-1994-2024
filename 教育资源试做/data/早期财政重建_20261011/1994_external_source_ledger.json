@@ -1,0 +1,77 @@
+{
+  "checked_on": "2026-10-11",
+  "sources": [
+    {
+      "id": "NBS2001",
+      "title": "中国统计年鉴2001，20-36表",
+      "url": "https://www.stats.gov.cn/sj/ndsj/2001c/t2036c.htm",
+      "locator": "1994行；单位万元",
+      "facts": {
+        "total_wan": 14887812.6,
+        "fiscal_wan": 11747395.6,
+        "budget_wan": 8839794.7,
+        "private_wan": 107795.2,
+        "donation_wan": 974487.1,
+        "tuition_wan": 1469228.1,
+        "other_wan": 588906.6
+      },
+      "use": "1994年全国来源锚点，非分学段观察值"
+    },
+    {
+      "id": "announcement1994",
+      "title": "1994年全国教育经费执行情况统计公告",
+      "url": "https://www.edu.cn/edu/tjsj/zhsj/jiao_yu_jing_fei/200603/t20060323_11713.shtml",
+      "locator": "第二部分第2项；第3项",
+      "facts": {
+        "primary_budget_recurrent_per_student_yuan": 236.06,
+        "junior_budget_recurrent_per_student_yuan": 450.37,
+        "primary_budget_public_per_student_yuan": 17.73
+      },
+      "use": "当年生均预算内事业费及公用费，不能等同于财政性经费；平均人数和举办者范围需匹配"
+    },
+    {
+      "id": "annual_report1996",
+      "title": "中国教育经费投入的“八五”回顾与“九五”展望",
+      "url": "https://www.cnsaes.org.cn/homepage/Upfile/2010612/2010061208642783.pdf",
+      "locator": "PDF第5页表1-4，印刷页码5；脚注注明1996年撰写的年度报告部分内容",
+      "facts": {
+        "compulsory_budget_share_1994_pct": 53.41,
+        "compulsory_budget_share_1995_pct": 53.24
+      },
+      "use": "义务教育包括小学、初中及特殊教育；只约束预算内部分；比例经舍入"
+    },
+    {
+      "id": "children_whitepaper",
+      "title": "中国的儿童状况",
+      "url": "https://www.fmprc.gov.cn/ziliao_674904/zt_674979/ywzt_675099/wzzt_675579/2296_675789/200207/t20020705_7961975.shtml",
+      "locator": "儿童教育部分",
+      "facts": {
+        "primary_1994_total_yi": 594,
+        "ordinary_middle_1994_total_yi": 435,
+        "primary_recurrent_public_per_student_yuan": 89.47
+      },
+      "use": "确认官方文本确实载有594亿元；未分列财政性来源，普通中学包括高中，不能转为初中金额"
+    },
+    {
+      "id": "migration_report_lead",
+      "title": "李人庆：中国城市化过程中流动人口子女义务教育问题的对策研究报告，2003年3月；存档页面2006年10月30日",
+      "url": "https://nodebe4.github.io/opinion/2006-10-30/中国城市化过程中流动人口子女义务教育问题的对策研究报告/",
+      "original_url": "https://unirule.cloud/index.php?c=article&id=3019",
+      "facts": {
+        "national_1994_total_wan_as_transcribed": 14166398,
+        "compulsory_1994_total_wan_as_transcribed": 7826531.7
+      },
+      "use": "仅保留检索线索，不入换算：原站本次不可达；全国总量与官方14887812.6万元差异且网页表中多处小数点缺失"
+    }
+  ],
+  "national_1994_components_thousand_yuan": {
+    "budget": 88397947.0,
+    "other_fiscal": 29076009.0,
+    "private": 1077952.0,
+    "donation": 9744871.0,
+    "tuition": 14692281.0,
+    "other_nonfiscal": 5889066.0
+  },
+  "main_series_unchanged": true,
+  "assumption": "Each stage share within each funding source is borrowed from 1995, 1996, or 1997. Contemporaneous national composition is observed, stage allocation is estimated."
+}

@@ -1,0 +1,7 @@
+﻿stage,specification,hypothesis,n,coefficient,cluster_CR1_se,interpretation
+primary,exclude_2015_R_reclassification,H1,155,-0.6075761147235257,0.27210975355977174,targeted sensitivity; point and CR1 SE only
+primary,exclude_2015_R_reclassification,H2,155,1.250217531912589,0.7076336340530761,targeted sensitivity; point and CR1 SE only
+junior,exclude_2015_R_reclassification,H1,184,-0.11860820655969173,0.3540489363018979,targeted sensitivity; point and CR1 SE only
+junior,exclude_2015_R_reclassification,H2,184,0.7960898512454078,0.6440522053893565,targeted sensitivity; point and CR1 SE only
+junior,exclude_2013_2014_type_edges,H1,158,-0.8486713454524447,0.2542398728237221,targeted sensitivity; point and CR1 SE only
+junior,exclude_2013_2014_type_edges,H2,158,0.6484706625490307,0.3989799093189732,targeted sensitivity; point and CR1 SE only

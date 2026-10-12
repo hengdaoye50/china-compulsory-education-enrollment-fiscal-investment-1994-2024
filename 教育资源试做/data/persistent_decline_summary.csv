@@ -1,0 +1,7 @@
+﻿stage,annual_decline_threshold_pct,provinces,provinces_with_any_decline,provinces_with_run_at_least2,provinces_with_run_at_least3,provinces_ending2023_run_at_least2,provinces_ending2023_run_at_least3
+primary,0,31,19,11,8,6,6
+primary,0.5,31,13,10,7,6,6
+primary,1,31,12,8,4,5,4
+junior,0,31,15,11,8,6,5
+junior,0.5,31,13,10,7,4,3
+junior,1,31,10,7,3,2,1

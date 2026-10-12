@@ -1,0 +1,333 @@
+{
+  "title": "同省同学段、相近生源变化幅度的描述性配对",
+  "provider": "教育部公开教育事业统计；本项目计算",
+  "files": [
+    {
+      "name": "matched_pairs.csv",
+      "path": "../data/matched_pairs.csv"
+    },
+    {
+      "name": "matched_phase_summary.csv",
+      "path": "../data/matched_phase_summary.csv"
+    },
+    {
+      "name": "matched_sensitivity.csv",
+      "path": "../data/matched_sensitivity.csv"
+    },
+    {
+      "name": "matched_validation.json",
+      "path": "../data/matched_validation.json"
+    }
+  ],
+  "links": [
+    {
+      "label": "t20200610_464550.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464550.html"
+    },
+    {
+      "label": "t20190812_394191.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394191.html"
+    },
+    {
+      "label": "t20200610_464543.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464543.html"
+    },
+    {
+      "label": "t20190812_394185.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394185.html"
+    },
+    {
+      "label": "t20200610_464556.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464556.html"
+    },
+    {
+      "label": "t20190812_394194.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394194.html"
+    },
+    {
+      "label": "t20161019_285617.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161019_285617.html"
+    },
+    {
+      "label": "t20150831_204488.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201508/t20150831_204488.html"
+    },
+    {
+      "label": "t20161019_285616.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161019_285616.html"
+    },
+    {
+      "label": "t20150831_204487.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201508/t20150831_204487.html"
+    },
+    {
+      "label": "t20161019_285618.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161019_285618.html"
+    },
+    {
+      "label": "t20150831_204490.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201508/t20150831_204490.html"
+    },
+    {
+      "label": "t20150901_204719.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201509/t20150901_204719.html"
+    },
+    {
+      "label": "t20141216_181730.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141216_181730.html"
+    },
+    {
+      "label": "t20150901_204675.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201509/t20150901_204675.html"
+    },
+    {
+      "label": "t20141216_181714.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141216_181714.html"
+    },
+    {
+      "label": "t20150901_204736.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201509/t20150901_204736.html"
+    },
+    {
+      "label": "t20141216_181735.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141216_181735.html"
+    },
+    {
+      "label": "t20170824_311868.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170824_311868.html"
+    },
+    {
+      "label": "t20161014_284825.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161014_284825.html"
+    },
+    {
+      "label": "t20170824_311866.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170824_311866.html"
+    },
+    {
+      "label": "t20161011_284405.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161011_284405.html"
+    },
+    {
+      "label": "t20170824_311869.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170824_311869.html"
+    },
+    {
+      "label": "t20161014_284829.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161014_284829.html"
+    },
+    {
+      "label": "t20141215_181619.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141215_181619.html"
+    },
+    {
+      "label": "t20141217_181855.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141217_181855.html"
+    },
+    {
+      "label": "t20141215_181616.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141215_181616.html"
+    },
+    {
+      "label": "t20170823_311739.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170823_311739.html"
+    },
+    {
+      "label": "t20170823_311731.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170823_311731.html"
+    },
+    {
+      "label": "t20170828_312526.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170828_312526.html"
+    },
+    {
+      "label": "t20250120_1176328.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176328.html"
+    },
+    {
+      "label": "t20240111_1099721.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099721.html"
+    },
+    {
+      "label": "t20250120_1176327.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176327.html"
+    },
+    {
+      "label": "t20240111_1099719.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099719.html"
+    },
+    {
+      "label": "t20250120_1176329.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176329.html"
+    },
+    {
+      "label": "t20240111_1099723.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099723.html"
+    },
+    {
+      "label": "t20210902_557928.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210902_557928.html"
+    },
+    {
+      "label": "t20210901_557415.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210901_557415.html"
+    },
+    {
+      "label": "t20210902_557929.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210902_557929.html"
+    },
+    {
+      "label": "t20190812_394167.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394167.html"
+    },
+    {
+      "label": "t20180809_344866.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344866.html"
+    },
+    {
+      "label": "t20190812_394253.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394253.html"
+    },
+    {
+      "label": "t20180809_344863.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344863.html"
+    },
+    {
+      "label": "t20190812_394174.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394174.html"
+    },
+    {
+      "label": "t20180809_344867.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344867.html"
+    },
+    {
+      "label": "t20200610_464561.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464561.html"
+    },
+    {
+      "label": "t20200610_464568.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464568.html"
+    },
+    {
+      "label": "t20200610_464555.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464555.html"
+    },
+    {
+      "label": "t20240111_1099711.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099711.html"
+    },
+    {
+      "label": "t20221230_1037295.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037295.html"
+    },
+    {
+      "label": "t20240111_1099709.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099709.html"
+    },
+    {
+      "label": "t20221230_1037292.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037292.html"
+    },
+    {
+      "label": "t20240111_1099715.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099715.html"
+    },
+    {
+      "label": "t20221230_1037297.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037297.html"
+    },
+    {
+      "label": "t20210901_557397.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210901_557397.html"
+    },
+    {
+      "label": "t20210901_557392.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210901_557392.html"
+    },
+    {
+      "label": "t20210901_557398.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210901_557398.html"
+    },
+    {
+      "label": "t20180809_344871.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344871.html"
+    },
+    {
+      "label": "t20180809_344870.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344870.html"
+    },
+    {
+      "label": "t20180809_344872.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344872.html"
+    },
+    {
+      "label": "t20260319_1431418.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431418.html"
+    },
+    {
+      "label": "t20250120_1176334.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176334.html"
+    },
+    {
+      "label": "t20260319_1431413.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431413.html"
+    },
+    {
+      "label": "t20250120_1176332.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176332.html"
+    },
+    {
+      "label": "t20260319_1431421.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431421.html"
+    },
+    {
+      "label": "t20250120_1176337.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176337.html"
+    },
+    {
+      "label": "t20221230_1037301.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037301.html"
+    },
+    {
+      "label": "t20221230_1037300.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037300.html"
+    },
+    {
+      "label": "t20221230_1037303.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037303.html"
+    },
+    {
+      "label": "t20260319_1431404.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431404.html"
+    },
+    {
+      "label": "t20260319_1431402.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431402.html"
+    },
+    {
+      "label": "t20260319_1431405.html",
+      "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431405.html"
+    }
+  ],
+  "description": "2026年10月6日基于已核验的2013—2024年资源面板计算；原件下载日期维持原记录。",
+  "evidenceFlow": [
+    {
+      "title": "观察定义",
+      "detail": "2014—2024年同比；在校生增长≥1%或收缩≤−1%。"
+    },
+    {
+      "title": "配对规则",
+      "detail": "同省同学段；绝对幅度差≤1个百分点；年份差≤4年；每条观察最多使用一次。先最大化配对数，再最小化幅度差总和、年份差总和。"
+    },
+    {
+      "title": "复核",
+      "detail": "64对、128条不重复观察；约束检查通过；选中变化率由原始两年水平重新计算一致。"
+    }
+  ],
+  "caveats": [
+    "仅128/539条达到幅度门槛的观察进入主配对样本，不能代表所有地区。",
+    "不同年份的政策、人口结构与资源基数仍可能不同；不构成因果识别。",
+    "年度在校生变化是生源观察指标，不能直接替代适龄人口变化。",
+    "教师在收缩期增减的符号对阈值与2024年敏感。"
+  ]
+}

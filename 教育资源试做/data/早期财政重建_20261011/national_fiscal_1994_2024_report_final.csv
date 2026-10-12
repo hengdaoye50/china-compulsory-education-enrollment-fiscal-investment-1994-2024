@@ -1,0 +1,63 @@
+﻿year,stage,fiscal_thousand_yuan,total_thousand_yuan,budget_thousand_yuan,accounting,status,formula,source_volume,fiscal_scenario_low_thousand_yuan,fiscal_scenario_high_thousand_yuan,total_scenario_low_thousand_yuan,total_scenario_high_thousand_yuan,share_scenario_low_pct,share_scenario_high_pct,fiscal_yi,total_yi,fiscal_share_pct
+1994,junior,25734720.03104377,32754692.736082785,18003418.705074433,expenditure,model_backcast_budget_constrained,1994_compulsory_budget_share_with_1995_stage_weights_including_special; other_sources_1994_with_1995_source_weights,0,25734720.03104377,26248877.188280437,32497142.70476187,33178876.903755292,78.56803981767851,79.71740908834755,257.3472003104377,327.54692736082785,78.56803981767851
+1995,junior,31067737.0,41838295.0,20880314.0,expenditure,reconstructed_observed_components,budget_bank + budget_capital + budget_special + tax + enterprise_expenditure + industry + other_fiscal,1996,,,,,,,310.67737,418.38295,74.25669951416519
+1996,junior,37967362.0,51154326.0,25291422.0,expenditure,reconstructed_observed_components,budget_bank + budget_capital + budget_special + tax + enterprise_expenditure + industry + other_fiscal,1997,,,,,,,379.67362,511.54326,74.22121444821695
+1997,junior,41667585.0,55260499.0,28168753.0,expenditure,reconstructed_observed_components,budget_bank + budget_capital + budget_special + tax + enterprise_expenditure + industry + other_fiscal,1998,,,,,,,416.67585,552.60499,75.4021149899497
+1998,junior,37624767.0,50978948.0,26541661.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_total,1999,,,,,,,376.24767,509.78948,73.80451828860808
+1999,junior,41250355.0,55174643.0,30062907.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_total,2000,,,,,,,412.50355,551.74643,74.76324767520471
+2000,junior,45921937.0,61357223.0,34860756.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_total,2001,,,,,,,459.21937,613.57223,74.84357139174959
+2001,junior,55681180.0,73721875.0,44458919.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_total,2002,,,,,,,556.8118,737.21875,75.52870840574795
+2002,junior,64335010.0,85965663.0,55891908.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_appropriation_plus_industry,2003,,,,,,,643.3501,859.65663,74.83803155220242
+2003,junior,71635449.0,96409792.0,63295256.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_appropriation_plus_industry,2004,,,,,,,716.35449,964.09792,74.30308427592085
+2004,junior,83247897.0,111530947.0,74083689.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_appropriation_plus_industry,2005,,,,,,,832.47897,1115.30947,74.64107428407293
+2005,junior,98027383.0,129712124.0,88146929.0,income,published,original_national_stage_income_table,2006,,,,,,,980.27383,1297.12124,75.57303047477659
+2006,junior,117143310.0,144715763.0,106643017.0,income,published_cross_source_unit_confirmed,original_national_stage_income_table,2007,,,,,,,1171.4331,1447.15763,80.94716675750105
+2007,junior,173906266.0,205472807.0,160164207.0,income,published,original_national_stage_income_table,2008,,,,,,,1739.06266,2054.72807,84.63711988905666
+2008,junior,225078357.0,252175585.0,208843803.0,income,published,original_national_stage_income_table,2009,,,,,,,2250.78357,2521.75585,89.25461876097165
+2009,junior,272184425.0,298398689.0,254724730.0,income,published,original_national_stage_income_table,2010,,,,,,,2721.84425,2983.98689,91.21502038502588
+2010,junior,315236936.0,341314952.0,293727933.0,income,published,original_national_stage_income_table,2011,,,,,,,3152.36936,3413.14952,92.35954479954924
+2011,junior,390240106.0,416635402.0,353344575.0,income,published,original_national_stage_income_table,2012,,,,,,,3902.40106,4166.35402,93.66465358601475
+2012,junior,466951134.0,494736249.0,420504052.0,income,published,original_national_stage_income_table,2013,,,,,,,4669.51134,4947.36249,94.38385300123824
+2013,junior,488232271.0,515664314.0,436796569.0,income,published,original_national_stage_income_table,2014,,,,,,,4882.32271,5156.64314,94.68025181203444
+2014,junior,513652744.0,546059255.0,490027688.0,income,published,original_national_stage_income_table,2015,,,,,,,5136.52744,5460.59255,94.06538563292
+2015,junior,566154304.0,608930221.0,563681099.0,income,published,original_national_stage_income_table,2016,,,,,,,5661.54304,6089.30221,92.97523500644255
+2016,junior,613253457.0,661347203.0,610022427.0,income,published,original_national_stage_income_table,2017,,,,,,,6132.53457,6613.47203,92.72791269368989
+2017,junior,673575903.0,731910648.0,669748546.0,income,published,original_national_stage_income_table,2018,,,,,,,6735.75903,7319.10648,92.0297996539053
+2018,junior,731497199.0,798753698.0,724012907.0,income,published,original_national_stage_income_table,2019,,,,,,,7314.97199,7987.53698,91.57982001605707
+2019,junior,801810838.0,881158141.0,793717622.0,income,published,original_national_stage_income_table,2020,,,,,,,8018.10838,8811.58141,90.9951120794332
+2020,junior,855094600.0,943594769.0,840504026.0,income,published,original_national_stage_income_table,2021,,,,,,,8550.946,9435.94769,90.62095595402776
+2021,junior,871764042.0,975488523.0,860336940.0,income,published,original_national_stage_income_table,2022,,,,,,,8717.64042,9754.88523,89.36691938916846
+2022,junior,928118799.0,1041417506.0,916748194.0,income,published,original_national_stage_income_table,2023,,,,,,,9281.18799,10414.17506,89.1207218673353
+2023,junior,992923135.0,1113544348.0,980872896.0,income,published,original_national_stage_income_table,2024,,,,,,,9929.23135,11135.44348,89.16781238065249
+2024,junior,1031489090.0,1154141123.0,1014430416.0,income,published,original_national_stage_income_table,2025,,,,,,,10314.8909,11541.41123,89.37287385781852
+1994,primary,39927189.87845117,50194979.6291579,28873363.351452015,expenditure,model_backcast_budget_constrained,1994_compulsory_budget_share_with_1995_stage_weights_including_special; other_sources_1994_with_1995_source_weights,0,39760195.25441677,39927189.87845117,49360830.50747115,50194979.6291579,79.54418982423044,80.55009375986644,399.2718987845117,501.949796291579,79.54418982423044
+1995,primary,48052711.0,63747267.0,33487245.0,expenditure,reconstructed_observed_components,budget_bank + budget_capital + budget_special + tax + enterprise_expenditure + industry + other_fiscal,1996,,,,,,,480.52711,637.47267,75.38003315499
+1996,primary,57432540.0,76559242.0,39737018.0,expenditure,reconstructed_observed_components,budget_bank + budget_capital + budget_special + tax + enterprise_expenditure + industry + other_fiscal,1997,,,,,,,574.3254,765.59242,75.01712203472442
+1997,primary,63787594.0,83496608.0,44625291.0,expenditure,reconstructed_observed_components,budget_bank + budget_capital + budget_special + tax + enterprise_expenditure + industry + other_fiscal,1998,,,,,,,637.87594,834.96608,76.39543153657212
+1998,primary,69999194.0,91884682.0,51043878.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_total,1999,,,,,,,699.99194,918.84682,76.18157072143973
+1999,primary,77047083.0,99399831.0,58702190.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_total,2000,,,,,,,770.47083,993.99831,77.51228772209885
+2000,primary,84875437.0,108144425.0,67159552.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_total,2001,,,,,,,848.75437,1081.44425,78.4834141935657
+2001,primary,102335368.0,127400741.0,85553831.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_total,2002,,,,,,,1023.35368,1274.00741,80.32556733716329
+2002,primary,116368692.0,144802182.0,104690111.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_appropriation_plus_industry,2003,,,,,,,1163.68692,1448.02182,80.36390777592011
+2003,primary,126807404.0,157424183.0,115633293.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_appropriation_plus_industry,2004,,,,,,,1268.07404,1574.24183,80.5514131205623
+2004,primary,147315372.0,180456503.0,135225774.0,income,reconstructed_observed_components,department_budget + department_capital + department_tax + department_industry + enterprise_appropriation_plus_industry,2005,,,,,,,1473.15372,1804.56503,81.63483695569563
+2005,primary,166903900.0,203151759.0,154402163.0,income,published,original_national_stage_income_table,2006,,,,,,,1669.039,2031.51759,82.15725072801364
+2006,primary,199006669.0,229906748.0,185411704.0,income,published_cross_source_unit_confirmed,original_national_stage_income_table,2007,,,,,,,1990.06669,2299.06748,86.55973377519132
+2007,primary,267388633.0,294829746.0,251754626.0,income,published,original_national_stage_income_table,2008,,,,,,,2673.88633,2948.29746,90.69255617104524
+2008,primary,329789517.0,355070365.0,311238619.0,income,published,original_national_stage_income_table,2009,,,,,,,3297.89517,3550.70365,92.88004562137986
+2009,primary,397257148.0,421692410.0,376965740.0,income,published,original_national_stage_income_table,2010,,,,,,,3972.57148,4216.9241,94.20542997205001
+2010,primary,464259842.0,488707190.0,438922866.0,income,published,original_national_stage_income_table,2011,,,,,,,4642.59842,4887.0719,94.99754689510502
+2011,primary,575965419.0,601208408.0,531446509.0,income,published,original_national_stage_income_table,2012,,,,,,,5759.65419,6012.08408,95.80129142172609
+2012,primary,697201404.0,726310443.0,640127992.0,income,published,original_national_stage_income_table,2013,,,,,,,6972.01404,7263.10443,95.99220425913661
+2013,primary,764184749.0,795089406.0,696380599.0,income,published,original_national_stage_income_table,2014,,,,,,,7641.84749,7950.89406,96.11305888787052
+2014,primary,831446920.0,868063629.0,798558055.0,income,published,original_national_stage_income_table,2015,,,,,,,8314.4692,8680.63629,95.78179435507717
+2015,primary,937184250.0,982684261.0,934514870.0,income,published,original_national_stage_income_table,2016,,,,,,,9371.8425,9826.84261,95.36982398052267
+2016,primary,1031742317.0,1085468786.0,1027851719.0,income,published,original_national_stage_income_table,2017,,,,,,,10317.42317,10854.68786,95.05039023756875
+2017,primary,1124556346.0,1188797093.0,1119274418.0,income,published,original_national_stage_income_table,2018,,,,,,,11245.56346,11887.97093,94.59615544332425
+2018,primary,1196480091.0,1272303057.0,1186906451.0,income,published,original_national_stage_income_table,2019,,,,,,,11964.80091,12723.03057,94.04049486615358
+2019,primary,1291540966.0,1380282490.0,1280487626.0,income,published,original_national_stage_income_table,2020,,,,,,,12915.40966,13802.8249,93.57077086444819
+2020,primary,1369316322.0,1467084735.0,1350286254.0,income,published,original_national_stage_income_table,2021,,,,,,,13693.16322,14670.84735,93.33587142803991
+2021,primary,1401309909.0,1516365908.0,1384763280.0,income,published,original_national_stage_income_table,2022,,,,,,,14013.09909,15163.65908,92.41238553353179
+2022,primary,1479314322.0,1615628187.0,1463085198.0,income,published,original_national_stage_income_table,2023,,,,,,,14793.14322,16156.28187,91.56279482514377
+2023,primary,1557357359.0,1704565087.0,1540865816.0,income,published,original_national_stage_income_table,2024,,,,,,,15573.57359,17045.65087,91.36391275858627
+2024,primary,1584223881.0,1733969222.0,1565975534.0,income,published,original_national_stage_income_table,2025,,,,,,,15842.23881,17339.69222,91.36401389943471

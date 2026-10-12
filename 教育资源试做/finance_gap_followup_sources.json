@@ -1,0 +1,92 @@
+[
+  {
+    "key": "finance_gap_jiangyin_2024_landing",
+    "url": "https://www.jiangyin.gov.cn/doc/2025/04/14/1315454.shtml",
+    "status": "downloaded",
+    "bytes": 16834,
+    "sha256": "4bf9bd38f64e39bc6e3e6774cbe49c4aa110d4359c3604e56ca7c4e3c5bdaada",
+    "path": "raw\\finance_gap_jiangyin_2024_landing.html",
+    "links": [
+      {
+        "url": "https://www.jiangyin.gov.cn/grzx/index.shtml",
+        "label": "个人中心"
+      },
+      {
+        "url": "javascript:loginOut();",
+        "label": "退出"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "长者模式"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/jygk/index.shtml",
+        "label": "江阴概况"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/xxgk/index.shtml",
+        "label": "政府信息公开"
+      },
+      {
+        "url": "http://wxjy.jszwfw.gov.cn/",
+        "label": "政务服务"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/zmhd/index.shtml",
+        "label": "政民互动"
+      },
+      {
+        "url": "https://www.wuxi.gov.cn/ghwd/znwd/index.html?district=jiangyin",
+        "label": "智能问答"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/uploadfiles/202605/28/2026052814512697375742.docx",
+        "label": "文件下载"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/doc/2019/07/19/955915.shtml",
+        "label": "网站声明"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/doc/2021/11/24/995253.shtml",
+        "label": "隐私安全"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/doc/2022/07/06/1055172.shtml",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://www.jiangyin.gov.cn/wzdt/index.shtml",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://beian.miit.gov.cn",
+        "label": "苏ICP备05002806号"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32028102000565",
+        "label": "苏公网安备32028102000565号"
+      },
+      {
+        "url": "https://bszs.conac.cn/sitename?method=show&id=084568BAE2924C49E053012819AC066A",
+        "label": ""
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=3202810016&url=http%3A%2F%2Fwww.jiangyin.gov.cn%2F",
+        "label": ""
+      }
+    ]
+  }
+]

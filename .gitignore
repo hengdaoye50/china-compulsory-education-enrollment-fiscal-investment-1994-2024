@@ -1,0 +1,8 @@
+.venv/
+.tmp/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+/教育资源试做/data/长期财政数据建设_20261010/education_finance_original_candidates.csv
+/教育资源试做/data/长期财政数据建设_20261010/raw_value_ledger.csv

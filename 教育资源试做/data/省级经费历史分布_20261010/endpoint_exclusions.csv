@@ -1,0 +1,7 @@
+﻿start_year,end_year,province,stage,reason
+1995,2006,四川,primary,administrative_boundary_change
+1995,2006,四川,junior,administrative_boundary_change
+1995,2006,西藏,primary,CPI_chain_incomplete
+1995,2006,西藏,junior,CPI_chain_incomplete
+1995,2006,重庆,primary,source_internal_PC_endpoint_unavailable
+1995,2006,重庆,junior,source_internal_PC_endpoint_unavailable

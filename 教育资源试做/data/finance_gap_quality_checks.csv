@@ -1,0 +1,13 @@
+﻿region,year,check,computed,reported,difference_100m,status,stage,metric,difference_pp
+威海,2022,primary_plus_junior_vs_compulsory,63.36,63.36,0.00,pass,,,
+威海,2023,primary_plus_junior_vs_compulsory,64.88,64.88,0.00,pass,,,
+威海,2022,education_category_subtotals_vs_caption_budget_career_total,117.85,117.85,0.00,pass,,,
+威海,2023,education_category_subtotals_vs_caption_budget_career_total,121.55,120.53,1.02,unresolved,,,
+威海,2023,total_growth_baseline_vs_2022_page,117.85,118.27,-0.42,unresolved; prior-year revision not explained,,,
+威海,2023,career_growth_baseline_vs_2022_page,117.43,117.85,-0.42,unresolved; prior-year revision not explained,,,
+江阴,2024,per_student_growth_rounding,0.340385552750923024733867700,0.34,,pass,primary,budget_per_student,0.000385552750923024733867700
+江阴,2024,per_student_growth_rounding,0.112037348169035006749534300,0.11,,pass,junior,budget_per_student,0.002037348169035006749534300
+江阴,2024,per_student_growth_rounding,5.060148021541081033476092500,5.06,,pass,primary,career_per_student,0.000148021541081033476092500
+江阴,2024,per_student_growth_rounding,7.036343903254163113387588000,7.04,,pass,junior,career_per_student,-0.003656096745836886612412000
+江阴,2024,per_student_growth_rounding,-42.90689886135298057602143336,-42.91,,pass,primary,public_per_student,0.00310113864701942397856664
+江阴,2024,per_student_growth_rounding,-23.95415997234142075613674727,-23.95,,pass,junior,public_per_student,-0.00415997234142075613674727

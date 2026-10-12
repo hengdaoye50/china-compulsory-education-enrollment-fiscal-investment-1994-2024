@@ -1,0 +1,193 @@
+{
+  "inputs": [
+    {
+      "name": "education_resource_panel.csv",
+      "sha256": "4cf5be18536e7f08cd245e336f9ec30fa3120d3b5cace7f5d6e4d0f871abe651"
+    },
+    {
+      "name": "matched_pairs.csv",
+      "sha256": "3daf300dcbe0e9035dd53202edc84e380f30fd188441162adb3d6ca2b05f5f43"
+    }
+  ],
+  "observations": 682,
+  "timing_observations": 620,
+  "pairs": 64,
+  "influence_refits": 124,
+  "checks": [
+    "No duplicate province-stage-year",
+    "All 682 annual growth values for each of 3 variables agree with stored panel",
+    "All pair values recomputed from original levels",
+    "All timing samples balanced",
+    "Demeaned province/year means zero and OLS normal equations verified for all fits",
+    "Existing offline visual report unchanged from previous delivery"
+  ],
+  "scope": "Descriptive diagnostics only. No causal effects, significance tests, chart updates or fiscal-total reconstruction.",
+  "independent_calculation_check": {
+    "method": "NumPy explicit province/year dummies least squares; inputs recalculated directly from raw levels",
+    "model_count": 16,
+    "max_coefficient_difference": 1.2212453270876722e-14,
+    "checks": [
+      {
+        "stage": "primary",
+        "resource": "teachers",
+        "scenario": "main_2015_2024",
+        "n": 310,
+        "design_columns": 42,
+        "matrix_rank": 42,
+        "max_coefficient_difference": 4.9682480351975755e-15,
+        "pass": true
+      },
+      {
+        "stage": "primary",
+        "resource": "teachers",
+        "scenario": "exclude_2024",
+        "n": 279,
+        "design_columns": 41,
+        "matrix_rank": 41,
+        "max_coefficient_difference": 7.424616477180734e-15,
+        "pass": true
+      },
+      {
+        "stage": "primary",
+        "resource": "teachers",
+        "scenario": "before_2020",
+        "n": 155,
+        "design_columns": 37,
+        "matrix_rank": 37,
+        "max_coefficient_difference": 5.079270337660091e-15,
+        "pass": true
+      },
+      {
+        "stage": "primary",
+        "resource": "teachers",
+        "scenario": "from_2020",
+        "n": 155,
+        "design_columns": 37,
+        "matrix_rank": 37,
+        "max_coefficient_difference": 1.2212453270876722e-14,
+        "pass": true
+      },
+      {
+        "stage": "primary",
+        "resource": "classes",
+        "scenario": "main_2015_2024",
+        "n": 310,
+        "design_columns": 42,
+        "matrix_rank": 42,
+        "max_coefficient_difference": 6.661338147750939e-16,
+        "pass": true
+      },
+      {
+        "stage": "primary",
+        "resource": "classes",
+        "scenario": "exclude_2024",
+        "n": 279,
+        "design_columns": 41,
+        "matrix_rank": 41,
+        "max_coefficient_difference": 1.5543122344752192e-15,
+        "pass": true
+      },
+      {
+        "stage": "primary",
+        "resource": "classes",
+        "scenario": "before_2020",
+        "n": 155,
+        "design_columns": 37,
+        "matrix_rank": 37,
+        "max_coefficient_difference": 2.4424906541753444e-15,
+        "pass": true
+      },
+      {
+        "stage": "primary",
+        "resource": "classes",
+        "scenario": "from_2020",
+        "n": 155,
+        "design_columns": 37,
+        "matrix_rank": 37,
+        "max_coefficient_difference": 4.191091917959966e-15,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "teachers",
+        "scenario": "main_2015_2024",
+        "n": 310,
+        "design_columns": 42,
+        "matrix_rank": 42,
+        "max_coefficient_difference": 6.661338147750939e-16,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "teachers",
+        "scenario": "exclude_2024",
+        "n": 279,
+        "design_columns": 41,
+        "matrix_rank": 41,
+        "max_coefficient_difference": 9.71445146547012e-16,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "teachers",
+        "scenario": "before_2020",
+        "n": 155,
+        "design_columns": 37,
+        "matrix_rank": 37,
+        "max_coefficient_difference": 5.9119376061289586e-15,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "teachers",
+        "scenario": "from_2020",
+        "n": 155,
+        "design_columns": 37,
+        "matrix_rank": 37,
+        "max_coefficient_difference": 7.216449660063518e-15,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "classes",
+        "scenario": "main_2015_2024",
+        "n": 310,
+        "design_columns": 42,
+        "matrix_rank": 42,
+        "max_coefficient_difference": 7.771561172376096e-16,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "classes",
+        "scenario": "exclude_2024",
+        "n": 279,
+        "design_columns": 41,
+        "matrix_rank": 41,
+        "max_coefficient_difference": 4.718447854656915e-16,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "classes",
+        "scenario": "before_2020",
+        "n": 155,
+        "design_columns": 37,
+        "matrix_rank": 37,
+        "max_coefficient_difference": 3.802513859341161e-15,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "classes",
+        "scenario": "from_2020",
+        "n": 155,
+        "design_columns": 37,
+        "matrix_rank": 37,
+        "max_coefficient_difference": 1.199040866595169e-14,
+        "pass": true
+      }
+    ]
+  },
+  "offline_report_sha256": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06"
+}

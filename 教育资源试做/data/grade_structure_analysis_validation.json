@@ -1,0 +1,49 @@
+{
+  "inputs": [
+    {
+      "name": "grade_structure_panel.csv",
+      "sha256": "19ac53ddad07fe6f4c0d7e158555d0ad541bedf80bd0a1312023c031a6198ebf"
+    },
+    {
+      "name": "education_resource_panel.csv",
+      "sha256": "4cf5be18536e7f08cd245e336f9ec30fa3120d3b5cace7f5d6e4d0f871abe651"
+    }
+  ],
+  "year_change_rows_including_national": 704,
+  "provincial_model_inputs": 620,
+  "models": 32,
+  "province_deletion_models": 248,
+  "max_explicit_dummy_coef_difference": 8.31279489688086e-15,
+  "coverage": [
+    {
+      "stage": "primary",
+      "annual_observations": 341,
+      "first_vs_remainder_complete": 341,
+      "student_all_grade_change_complete": 338,
+      "class_all_grade_change_complete": 308
+    },
+    {
+      "stage": "junior",
+      "annual_observations": 341,
+      "first_vs_remainder_complete": 341,
+      "student_all_grade_change_complete": 267,
+      "class_all_grade_change_complete": 271
+    }
+  ],
+  "checks": [
+    "Grade-1 + total-minus-grade-1 changes reconcile to total changes for every row",
+    "All-grade decomposition reconciles where all required source cells present",
+    "No source blank filled with zero",
+    "Baseline and extended models use identical rows, outcomes, rates and fixed effects",
+    "Balanced samples, rank and explicit-dummy coefficient cross-checks pass"
+  ],
+  "limits": [
+    "Arithmetic contributions are not causes.",
+    "The remainder is an aggregate subtraction, not imputation of missing grade cells.",
+    "Primary remainder classes include multiple-grade classes; no grade-specific class-size estimate.",
+    "Within R-squared improvement is in-sample, not predictive validation or causal mechanism identification.",
+    "Grade 1 is not entrants or age-specific population."
+  ],
+  "offline_report_sha256": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06",
+  "next_stage": "Await user choice: national urban-rural audit or deeper provincial grade analysis."
+}

@@ -1,0 +1,14 @@
+﻿variable,definition,unit,grain,admission_rule,interpretation_boundary
+S,普通小学/普通初中在校生,人,province × stage × actual_year,"same school type, organizer, attached classes and census time",source-internal numeric acceptance is separate from cross-source comparability
+P,原分类个人部分支出,original monetary unit,province × stage × year × funding × affiliation,original component definition and classification-era bridge,not pure teacher wages; positive values only for logs
+C,原分类公用部分支出,original monetary unit,province × stage × year × funding × affiliation,capital and service items may be nested; inspect original hierarchy,not pure routine teaching cost; cannot infer quality
+E,公布支出总额,original monetary unit,province × stage × year × funding × affiliation,same population as S; preserve source total and component discrepancy,do not reconstruct total from incompatible components
+K,建设及历史相关分类,original monetary unit,province × stage × year × original definition,early construction and special spending differs from later construction,no forced long-run bridge; no log of zero
+R,全省地方自身财政收入,亿元 or verified original unit,province × actual_year,all subordinate cities/counties; historical budget classification; geographic scope,not province-government level alone; not resources after transfers
+central_subsidy,中央补助原项目,verified source unit,province × year × table block,tax return/general/special transfers containment and city exclusions,do not add containing and contained items
+remittance_central,上解中央支出原项目,verified source unit,province × year × table block,full-province vs government level; unit and final column,cannot subtract from unverified resource total
+CPI_yoy,综合居民消费价格指数,上年=100,province × actual_year,aggregate index only; original layer; valid positive observations,purchasing-power approximation; chain not built until gaps resolved
+GDP,地区生产总值,亿元,province × actual_year,"version/revisions, geography, lagged control choice",not automatically a real GDP growth series
+D,Δln(C)−Δln(P),log points,province × stage × actual_year,"same positive C/P, school/funding scope and adjacent years",not yet constructed; not indicator of proven crowding-out
+Z,"max(0,−Δln(real R))",log points,province × actual_year,verified R and continuous CPI; comparable adjacent years,not yet constructed; own-revenue contraction only
+E_per_S,同范围实际生均支出,verified real unit/person,province × stage × year,approved E/S school scope and statistical timing,not yet constructed; never recover S by dividing E by published per-student figure

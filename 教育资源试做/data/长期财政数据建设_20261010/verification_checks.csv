@@ -1,0 +1,13 @@
+﻿check,passed
+source_ids_unique,True
+record_ids_unique,True
+source_foreign_keys_complete,True
+student_province_grain_unique,True
+student_expected_1856_province_rows,True
+panel_grain_unique,True
+overall_CPI_only,True
+missing_not_imputed,True
+no_model_admission_claim,True
+protected_hashes,True
+2012_volume_continuation_headers_distinct,True
+2012_volume_continuation_original_rows,True

@@ -1,0 +1,139 @@
+{
+  "revision_date": "2026-10-11",
+  "checks": {
+    "source_files_unchanged": true,
+    "exporter_text_bounds_all_pass": true,
+    "national_student_count_and_unique": true,
+    "income_share_formula": true,
+    "income_2006_unit_confirmed_amount_restored": true,
+    "1994_estimates_explicitly_identified": true,
+    "early_accounting_regimes_identified": true,
+    "personal_share_formula": true,
+    "1995_junior_PC_present_total_not_approved": true,
+    "fig05_real_cumulative_recomputed": true,
+    "fig05_real_annualized_recomputed": true,
+    "fig07_real_cumulative_recomputed": true,
+    "fig07_real_annualized_recomputed": true,
+    "fig05_same_28_regions_all_groups": true,
+    "fig06_pair_differences": true,
+    "fig06_decline_counts": true,
+    "fig07_all_31_regions": true,
+    "fig08_decomposition_adds_to_observed": true,
+    "all_8_exports_white_opaque_600dpi": true,
+    "protected_inputs_unchanged": true
+  },
+  "all_passed": true,
+  "metadata": [
+    {
+      "file": "fig01.png",
+      "pixels": [
+        3900,
+        3360
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "white_corner": true,
+      "opaque": true
+    },
+    {
+      "file": "fig02.png",
+      "pixels": [
+        3900,
+        3840
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "white_corner": true,
+      "opaque": true
+    },
+    {
+      "file": "fig03.png",
+      "pixels": [
+        3900,
+        3120
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "white_corner": true,
+      "opaque": true
+    },
+    {
+      "file": "fig04.png",
+      "pixels": [
+        3900,
+        2640
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "white_corner": true,
+      "opaque": true
+    },
+    {
+      "file": "fig05.png",
+      "pixels": [
+        3900,
+        2880
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "white_corner": true,
+      "opaque": true
+    },
+    {
+      "file": "fig06.png",
+      "pixels": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "white_corner": true,
+      "opaque": true
+    },
+    {
+      "file": "fig07.png",
+      "pixels": [
+        3900,
+        5280
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "white_corner": true,
+      "opaque": true
+    },
+    {
+      "file": "fig08.png",
+      "pixels": [
+        3900,
+        2700
+      ],
+      "dpi": [
+        599.9988,
+        599.9988
+      ],
+      "white_corner": true,
+      "opaque": true
+    }
+  ],
+  "paired_slower_counts": {
+    "junior": 26,
+    "primary": 28
+  },
+  "scope": "All eight figures and their plotted data; not a complete raw-yearbook pipeline certification",
+  "visual_review": "All eight figures reviewed in the final nine-page Word-to-PDF report; all page PNGs inspected, wording revisions rechecked; final report has a separate numerical and layout receipt.",
+  "final_word_report_verified": true
+}

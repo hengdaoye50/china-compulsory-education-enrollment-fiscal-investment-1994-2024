@@ -1,0 +1,16 @@
+{
+  "official_sources_saved_and_hash_verified": 24,
+  "annual_province_age_tables_inspected": 7,
+  "sample_count_tables": 6,
+  "census_count_tables": 1,
+  "transcription_cells": 28,
+  "national_row_arithmetic_exact_matches": 5,
+  "national_row_original_one_person_differences_retained": 2,
+  "age_resolution_records": 4,
+  "eligible_provincial_annual_stage_age_tables_among_inspected": 0,
+  "population_panel_merged": false,
+  "sample_counts_expanded": false,
+  "fixed_geography_bridge_completed": false,
+  "protected_files_unchanged": true,
+  "limit": "coverage findings apply to inspected sources only; not proof that no other suitable source exists"
+}

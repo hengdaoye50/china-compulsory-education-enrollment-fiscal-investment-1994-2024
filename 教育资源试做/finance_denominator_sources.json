@@ -1,0 +1,408 @@
+[
+  {
+    "key": "finance_denominator_2020_indicators",
+    "url": "https://jyjxshpg.bucm.edu.cn/zcwj/a6d27e1f1c29435e88aed8418d57f0dc.htm",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>"
+  },
+  {
+    "key": "finance_denominator_zhejiang_2023",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/c773623/content.html",
+    "status": "downloaded",
+    "bytes": 44340,
+    "sha256": "d3963e55409bee8174a66d15fb244f2823e060938864c8f5d598566784fb95e7",
+    "path": "raw\\finance_denominator_zhejiang_2023.html",
+    "links": [
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=教育经费统计",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=学生补助",
+        "label": "学生补助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=政策",
+        "label": "政策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=审计整改",
+        "label": "审计整改"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n151/index.html",
+        "label": "要 闻"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/index.html",
+        "label": "动 态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n193/index.html",
+        "label": "媒体聚焦"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n198/index.html",
+        "label": "战线联播"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n188/index.html",
+        "label": "工作动态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/index.html",
+        "label": "政 策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n245/index.html",
+        "label": "政策法规"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n250/index.html",
+        "label": "政策解读"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n255/index.html",
+        "label": "政策图解"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/index.html",
+        "label": "服 务"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n439/index.html",
+        "label": "科目指南"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n444/index.html",
+        "label": "常用标准"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://dcwj.cee.edu.cn/#/user/login",
+        "label": "在线问卷"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/index.html",
+        "label": "专 题"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7131/index.html",
+        "label": "教育投入"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7308/index.html",
+        "label": "乡村振兴"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6204/index.html",
+        "label": "预算绩效管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n549/index.html",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6956/index.html",
+        "label": "科研管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n559/index.html",
+        "label": "学生资助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n564/index.html",
+        "label": "教育转移支付"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n554/index.html",
+        "label": "审计与财会监督"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n544/index.html",
+        "label": "资产管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7081/index.html",
+        "label": "教师队伍建设与保障"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n472/index.html",
+        "label": "全国教育事业发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n477/index.html",
+        "label": "教育统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58301/index.html",
+        "label": "国民经济和社会发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58308/index.html",
+        "label": "全国经济普查公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58313/index.html",
+        "label": "全国科技经费投入统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58318/index.html",
+        "label": "财政收支数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n182931/index.html",
+        "label": "全国政府采购简要情况"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n520/index.html",
+        "label": "全国教育经费执行情况统计快报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n515/index.html",
+        "label": "全国教育经费执行情况统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://zxpx.cee.edu.cn/",
+        "label": "在线学习"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html#jyjf",
+        "label": "教育经费统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/index.html",
+        "label": "地方教育经费执行情况统计公告"
+      },
+      {
+        "url": "http://jyt.zj.gov.cn/art/2025/2/28/art_1229266680_5469512.html",
+        "label": "http://jyt.zj.gov.cn/art/2025/2/28/art_1229266680_5469512.html"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c773623/part/816178.xlsx",
+        "label": "2023年浙江省教育经费统计执行情况表.xlsx"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/index.htm",
+        "label": "财政部"
+      },
+      {
+        "url": "https://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "https://fsac.cee.edu.cn/",
+        "label": "经费监管中心"
+      },
+      {
+        "url": "https://www.xszz.edu.cn/",
+        "label": "全国学生资助管理中心"
+      },
+      {
+        "url": "http://www.zfcg.edu.cn/",
+        "label": "教育部政府采购网"
+      },
+      {
+        "url": "https://zjk.cee.edu.cn/",
+        "label": "中国教育会计学会"
+      },
+      {
+        "url": "https://jysj.cee.edu.cn/",
+        "label": "中国教育审计学会"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备2024044276号-2"
+      }
+    ]
+  },
+  {
+    "key": "finance_denominator_beijing_index",
+    "url": "https://jw.beijing.gov.cn/cwc/cwzd/index_1.html",
+    "status": "downloaded",
+    "bytes": 26200,
+    "sha256": "510ffc5f6c188f0a1db36b5b592a617a8d2255a47117cb7257e9179924209c2c",
+    "path": "raw\\finance_denominator_beijing_index.html",
+    "links": [
+      {
+        "url": "javascript:;",
+        "label": "无障碍"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "适老版"
+      },
+      {
+        "url": "http://jw.beijing.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/",
+        "label": "首页"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/tzgg_15503/",
+        "label": "通知公告"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/",
+        "label": "财务制度"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/",
+        "label": "财务处"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/",
+        "label": "财务制度"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428604290069144.pdf",
+        "label": "《北京市党政机关办公用房管理实施办法（试行）》的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/t20220428_2695628.html",
+        "label": "北京市教育委员会等六部门关于印发《北京市高等教育、中等职业教育、普通高中学生资助资金管理实施办法》的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/t20220428_2695641.html",
+        "label": "2020全国教育经费统计年报系统6.0.0.7简易版和完整版安装包"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428604300398548.pdf",
+        "label": "关于印发《北京市党政机关公务用车管理办法（试行）》的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428604309103261.pdf",
+        "label": "关于进一步明确科技成果转化涉及国有资产管理有关事项的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428604316676408.pdf",
+        "label": "关于市级事业单位房屋、土地出租、出借管理有关事项的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428604324519761.pdf",
+        "label": "市机管局  市财政局关于印发《北京市市级党政机关公务用车购置管理办法》的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428601263962697.pdf",
+        "label": "北京市教育委员会关于切实做好2020年秋季学期高校家庭经济困难学生资助工作的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428601272253801.pdf",
+        "label": "北京市教育委员会转发教育部办公厅关于印发中等职业学校资助工作指南文件的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428602833339063.pdf",
+        "label": "关于重新报送《2019年教育经费统计报表》基3表有关数据的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428604332811884.pdf",
+        "label": "北京市教育委员会关于开展2020年所属预算单位国有资产产权登记的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428604340515320.pdf",
+        "label": "北京市财政局关于开展2020年北京市事业单位及事业单位所办企业国有资产产权登记工作的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428613804361807.pdf",
+        "label": "市委 市政府关于全面实施预算绩效管理的实施意见"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428613818037380.pdf",
+        "label": "北京市财政局 北京市科委关于转发财政部科技部《国家科学技术奖励绩效评价暂行办法》的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428613827464960.pdf",
+        "label": "北京市财政局关于印发《北京市预算绩效管理办法》和《北京市财政支出事前绩效评估管理办法》的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428602072484190.pdf",
+        "label": "北京市教育委员会等四部门关于加强疫情防控期间教育收费管理工作的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202004/P020200430766014679609.pdf",
+        "label": "关于印发行政事业单位及民间非营利组织捐赠事项有关会计核算及内控管理指南的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202009/P020200910374430656440.pdf",
+        "label": "北京市财政局转发财政部关于开展2019年度行政事业单位内部控制报告编报工作的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428608662068005.pdf",
+        "label": "北京市财政局关于印发《北京市政府购买服务预算管理办法（修订）》的通知"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/cwc/cwzd/202204/P020220428601282855803.pdf",
+        "label": "北京市教育委员会北京市财政局等7部门《关于做好北京市家庭经济困难学生认定工作的指导意见》"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=0AF141902FF75E44E053012819AC368D",
+        "label": ""
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/jyzy/gywm/",
+        "label": "关于我们"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/jyzy/zddt/",
+        "label": "站点地图"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/hudong/xinxiang/jw/sindex/xx-jw.html",
+        "label": "建议意见"
+      },
+      {
+        "url": "https://jw.beijing.gov.cn/jyzy/jw_flsm/",
+        "label": "法律声明"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040202430147",
+        "label": "京公网安备 11040202430147号"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备20014478号-1"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": ""
+      }
+    ]
+  }
+]

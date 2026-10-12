@@ -1,0 +1,13 @@
+﻿field,code,meaning
+value_status,numeric_observed,explicit source numeric notation; not itself accepted
+value_status,zero_observed,source explicitly zero; never treat as missing or add constant
+value_status,missing_blank,source blank; do not replace by zero
+value_status,missing_symbol_unresolved,source symbol; missing/not-applicable meaning pending
+value_status,invalid_numeric_text,letters/internal spaces/other invalid notation retained; no automatic repair
+value_status,not_applicable_geography,independent administrative unit did not exist
+value_status,geography_not_applicable_observation_present,compiled numeric observation present before unit existed; exclude
+value_status,conflicting_table_blocks_pending,inconsistent region titles; no block selected
+bridge_status,unverified,cross-year and cross-source scope not approved; model_eligible=false
+bridge_status,numeric_internal_checks_pass; school_scope_pending,"total and grades reconcile internally, but student/finance scope and timing remain pending"
+accepted_value,nonempty,only documented numeric acceptance; does not imply model admission
+model_eligible,False,this milestone does not certify any jointly comparable model sample

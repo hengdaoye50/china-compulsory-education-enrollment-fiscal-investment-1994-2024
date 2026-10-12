@@ -1,0 +1,23 @@
+{
+  "years": "2013-2024",
+  "stages": [
+    "primary",
+    "junior"
+  ],
+  "provincial_rows": 744,
+  "national_rows": 24,
+  "student_grade_cells": 3840,
+  "missing_student_grade_cells": 73,
+  "missing_class_grade_cells": 68,
+  "missing_multiple_grade_cells": 29,
+  "complete_checks": 1604,
+  "incomplete_checks": 184,
+  "nonzero_checks": [],
+  "status": "reconciled",
+  "analysis_status": "Availability and arithmetic checks only; no cohort model, migration estimate or causal analysis.",
+  "caveats": [
+    "Junior Grade 4 retained; do not impose three-year structure.",
+    "Primary multiple-grade classes kept separate; missing remains missing, not zero.",
+    "Same grade across years is not necessarily the same cohort; grade progression is not a pure migration or retention measure."
+  ]
+}

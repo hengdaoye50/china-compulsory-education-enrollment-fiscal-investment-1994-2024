@@ -1,0 +1,198 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "check": "primary_sample_balance",
+      "passed": true
+    },
+    {
+      "check": "primary_student_changes_match",
+      "passed": true
+    },
+    {
+      "check": "primary_resource_logs",
+      "passed": true
+    },
+    {
+      "check": "primary_flags_preserved",
+      "passed": true
+    },
+    {
+      "check": "primary_same_sample_baseline_dP_real_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "primary_same_sample_baseline_dP_real_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "primary_same_sample_baseline_dC_real_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "primary_same_sample_baseline_dC_real_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "primary_same_sample_baseline_D_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "primary_same_sample_baseline_D_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "primary_same_sample_baseline_direct_difference",
+      "passed": true
+    },
+    {
+      "check": "primary_joint_resources_dP_real_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "primary_joint_resources_dP_real_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "primary_joint_resources_dC_real_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "primary_joint_resources_dC_real_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "primary_joint_resources_D_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "primary_joint_resources_D_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "primary_joint_resources_direct_difference",
+      "passed": true
+    },
+    {
+      "check": "primary_lag_calendar",
+      "passed": true
+    },
+    {
+      "check": "junior_sample_balance",
+      "passed": true
+    },
+    {
+      "check": "junior_student_changes_match",
+      "passed": true
+    },
+    {
+      "check": "junior_resource_logs",
+      "passed": true
+    },
+    {
+      "check": "junior_flags_preserved",
+      "passed": true
+    },
+    {
+      "check": "junior_same_sample_baseline_dP_real_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "junior_same_sample_baseline_dP_real_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "junior_same_sample_baseline_dC_real_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "junior_same_sample_baseline_dC_real_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "junior_same_sample_baseline_D_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "junior_same_sample_baseline_D_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "junior_same_sample_baseline_direct_difference",
+      "passed": true
+    },
+    {
+      "check": "junior_joint_resources_dP_real_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "junior_joint_resources_dP_real_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "junior_joint_resources_dC_real_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "junior_joint_resources_dC_real_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "junior_joint_resources_D_full_dummy",
+      "passed": true
+    },
+    {
+      "check": "junior_joint_resources_D_cluster_SE",
+      "passed": true
+    },
+    {
+      "check": "junior_joint_resources_direct_difference",
+      "passed": true
+    },
+    {
+      "check": "junior_lag_calendar",
+      "passed": true
+    },
+    {
+      "check": "Holm_four_reconstruction",
+      "passed": true
+    },
+    {
+      "check": "single_interval_null_test_consistency",
+      "passed": true
+    },
+    {
+      "check": "all_input_and_raw_hashes_unchanged",
+      "passed": true
+    },
+    {
+      "check": "2816_unique_source_cells",
+      "passed": true
+    },
+    {
+      "check": "图E1_同样本模型比较_600dpi",
+      "passed": true
+    },
+    {
+      "check": "图E1_同样本模型比较_white_background",
+      "passed": true
+    },
+    {
+      "check": "图E2_资源关联直接差异_600dpi",
+      "passed": true
+    },
+    {
+      "check": "图E2_资源关联直接差异_white_background",
+      "passed": true
+    },
+    {
+      "check": "图E3_资源与分项支出_600dpi",
+      "passed": true
+    },
+    {
+      "check": "图E3_资源与分项支出_white_background",
+      "passed": true
+    }
+  ],
+  "independent_method": "Complete dummy regression and full-design province CR1 covariance"
+}

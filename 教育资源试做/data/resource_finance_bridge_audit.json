@@ -1,0 +1,28 @@
+{
+  "common_years": [
+    2017,
+    2018,
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "parallel_province_context_rows": 434,
+  "annual_change_rows": 372,
+  "endpoint_rows": 64,
+  "source_downloads": 4,
+  "resource_tables_reread": 42,
+  "resource_original_cells_checked": 1344,
+  "rational_formula_checks": 1116,
+  "resource_finance_student_denominator_matched": false,
+  "per_student_calculated": false,
+  "causal_models_run": false,
+  "protected_files_unchanged": true,
+  "charts_updated": false,
+  "sensitivity_records": 72,
+  "declining_student_2023_records": 14,
+  "national_junior_total_student_change_pct": "18.04631316575203908634344000",
+  "national_junior_ordinary_remainder_change_pct": "18.05282204747582348122238670",
+  "sensitivity_does_not_certify_scope": true
+}

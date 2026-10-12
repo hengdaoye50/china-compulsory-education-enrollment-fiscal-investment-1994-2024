@@ -1,0 +1,14 @@
+{
+  "student_corrections": 10,
+  "region_label_candidates": 16,
+  "totals": 1916,
+  "accepted_province_totals": 1856,
+  "accepted_national_totals": 60,
+  "grade_check_differences": [],
+  "national_checks_passed": 60,
+  "original_input_sha256": {
+    "raw_value_ledger.csv": "0bcc126e7f9ce48b93b08c7429e0fd5b51ab620006368fea6a57a9bc6f4e1537",
+    "student_candidate_series.csv": "52a55c6ada3be9a5b4316435d7fa5d8a7c483fc1613c0f2bbac7309a320af264",
+    "unresolved_region_source_rows.csv": "c58f7db65f034e34b7b536950292ab8811a0172e2bc6e724e79e01e62d191d72"
+  }
+}

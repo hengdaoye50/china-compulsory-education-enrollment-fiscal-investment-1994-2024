@@ -1,0 +1,23 @@
+{
+  "checks": {
+    "organizer_144_rows": true,
+    "source_72_tables": true,
+    "all_units_explicit": true,
+    "no_selection_issues": true,
+    "organizer_total_fiscal_within_5": true,
+    "tuition_business_observed_accounting_within_5": true,
+    "regional_counts_29_31_31": true,
+    "regional_endpoints_recalculate": true,
+    "four_corrupt_header_cells_component_verified": true,
+    "decomposition_matches_original_overall_within_rounding": true,
+    "protected_files_unchanged": true
+  },
+  "all_passed": true,
+  "original_blank_tuition_rows": 32,
+  "max_accounting_difference": 1.0,
+  "regression_run": false,
+  "inputs": {
+    "教育资源试做\\data\\口径核准_20261010\\student_numeric_adjudicated.csv": "89b6743a74df5df93b9cd1b6e58307912ec3451532bc61018541073064dca681",
+    "教育资源试做\\data\\历史趋势描述_20261010\\national_income_original_series.csv": "0af483b1c96c8d5dad187362c7832def928465eb9e34f09e308c78c07d2ad31b"
+  }
+}

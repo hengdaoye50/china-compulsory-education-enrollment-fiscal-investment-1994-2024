@@ -1,0 +1,521 @@
+[
+  {
+    "key": "province_finance_next_sichuan_2023_xlsx",
+    "url": "https://edu.sc.gov.cn/scedu/c100495/2024/12/24/86ba46d710d546c18384838df095af05/files/2023%E5%B9%B4%E5%85%A8%E7%9C%81%E6%95%99%E8%82%B2%E7%BB%8F%E8%B4%B9%E6%89%A7%E8%A1%8C%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8-2024.12.23.xlsx",
+    "status": "downloaded",
+    "bytes": 105747,
+    "sha256": "fe7281cfbe6824f3cd388e912359b6049cde3772bfb5a4ea15b8adfad301a4e2",
+    "path": "raw\\province_finance_next_sichuan_2023_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "province_finance_next_sichuan_2023_cee_xlsx",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/c773296/part/773302.xlsx",
+    "status": "downloaded",
+    "bytes": 105747,
+    "sha256": "fe7281cfbe6824f3cd388e912359b6049cde3772bfb5a4ea15b8adfad301a4e2",
+    "path": "raw\\province_finance_next_sichuan_2023_cee_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "province_finance_next_hubei_2023_xlsx",
+    "url": "https://jyt.hubei.gov.cn/zfxxgk/fdzdgknr_GK2020/tjxx_GK2020/202412/P020241226335741972813.xlsx",
+    "status": "downloaded",
+    "bytes": 30232,
+    "sha256": "82a27ac1cb0884fb8e4ea64d8c9a824cc7a17b9c0ea6ce7f1450587ea240a27f",
+    "path": "raw\\province_finance_next_hubei_2023_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "province_finance_next_hubei_2023_cee_xlsx",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/c773255/part/773261.xlsx",
+    "status": "downloaded",
+    "bytes": 30232,
+    "sha256": "82a27ac1cb0884fb8e4ea64d8c9a824cc7a17b9c0ea6ce7f1450587ea240a27f",
+    "path": "raw\\province_finance_next_hubei_2023_cee_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "province_finance_next_shandong_2023_attachment",
+    "url": "http://edu.shandong.gov.cn/module/download/downfile.jsp?classid=0&filename=5469dddcc5714edc9bc17a676a59e6ff.doc",
+    "status": "downloaded",
+    "bytes": 2659296,
+    "sha256": "5fe05d259a3052757a53ea0f45caf0ede29e419c1f56cf5373c5aecd0a137740",
+    "path": "raw\\province_finance_next_shandong_2023_attachment.html",
+    "links": []
+  },
+  {
+    "key": "province_finance_next_hunan_2023",
+    "url": "https://jyt.hunan.gov.cn/jyt/sjyt/xxgk/tzgg/202412/t20241226_1152042.html",
+    "status": "failed",
+    "error": "<urlopen error [SSL: BAD_ECPOINT] bad ecpoint (_ssl.c:1010)>"
+  },
+  {
+    "key": "province_finance_next_hunan_2022_http",
+    "url": "http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/tzgg/202312/t20231225_32609079.html",
+    "status": "downloaded",
+    "bytes": 70348,
+    "sha256": "4bad91afa2ad7e1ae8354a2422f4b63d7037e39378ce2c3e129f27987afcbd6f",
+    "path": "raw\\province_finance_next_hunan_2022_http.html",
+    "links": [
+      {
+        "url": "http://www.gov.cn/",
+        "label": "中国政府网"
+      },
+      {
+        "url": "http://www.hunan.gov.cn/",
+        "label": "湖南省政府网"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/jg/index.html",
+        "label": "机构"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/index.html",
+        "label": "公开"
+      },
+      {
+        "url": "http://zwfw-new.hunan.gov.cn/hnzwfw/1/186/196/index.htm",
+        "label": "服务"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/hdjl/index.html",
+        "label": "互动"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/ztzl/index.html",
+        "label": "专题"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/index.html",
+        "label": "省教育厅"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/index.html",
+        "label": "信息公开"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/tzgg/index.html",
+        "label": "通知公告"
+      },
+      {
+        "url": "javascript:doFont(20)",
+        "label": "大"
+      },
+      {
+        "url": "javascript:doFont(15)",
+        "label": "中"
+      },
+      {
+        "url": "javascript:doFont(12)",
+        "label": "小"
+      },
+      {
+        "url": "http://govnew.hnedu.cn:8090/zcms/contentcore/resource/download?ID=118281",
+        "label": "2022年湖南省教育经费执行情况统计表"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/fzlm/dbdh/szjyj/foot_nav.html",
+        "label": "市州教育局"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/fzlm/dbdh/bkyx/list_bkyx.html",
+        "label": "本科院校"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/fzlm/dbdh/gzgz/list_gzgz.html",
+        "label": "高职高专"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/fzlm/wzdt/index.html",
+        "label": "站点地图"
+      },
+      {
+        "url": "https://bszs.conac.cn/sitename?method=show&id=0897A02F208B77DBE053022819AC6E65",
+        "label": ""
+      },
+      {
+        "url": "http://beian.miit.gov.cn",
+        "label": "湘ICP备09005173号-8"
+      },
+      {
+        "url": "https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43010202000676",
+        "label": "湘公网安备：43010202000676号"
+      }
+    ]
+  },
+  {
+    "key": "province_finance_next_cee_index",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/index.html",
+    "status": "downloaded",
+    "bytes": 65170,
+    "sha256": "d7c34577d3aa04148d12e46c29b2e76d432fd5b575d7bcb3e890b92dc54f9120",
+    "path": "raw\\province_finance_next_cee_index.html",
+    "links": [
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=教育经费统计",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=学生补助",
+        "label": "学生补助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=政策",
+        "label": "政策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=审计整改",
+        "label": "审计整改"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n151/index.html",
+        "label": "要 闻"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/index.html",
+        "label": "动 态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n193/index.html",
+        "label": "媒体聚焦"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n198/index.html",
+        "label": "战线联播"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n188/index.html",
+        "label": "工作动态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/index.html",
+        "label": "政 策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n245/index.html",
+        "label": "政策法规"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n250/index.html",
+        "label": "政策解读"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n255/index.html",
+        "label": "政策图解"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/index.html",
+        "label": "服 务"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n439/index.html",
+        "label": "科目指南"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n444/index.html",
+        "label": "常用标准"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://dcwj.cee.edu.cn/#/user/login",
+        "label": "在线问卷"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/index.html",
+        "label": "专 题"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7131/index.html",
+        "label": "教育投入"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7308/index.html",
+        "label": "乡村振兴"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6204/index.html",
+        "label": "预算绩效管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n549/index.html",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6956/index.html",
+        "label": "科研管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n559/index.html",
+        "label": "学生资助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n564/index.html",
+        "label": "教育转移支付"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n554/index.html",
+        "label": "审计与财会监督"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n544/index.html",
+        "label": "资产管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7081/index.html",
+        "label": "教师队伍建设与保障"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n472/index.html",
+        "label": "全国教育事业发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n477/index.html",
+        "label": "教育统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58301/index.html",
+        "label": "国民经济和社会发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58308/index.html",
+        "label": "全国经济普查公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58313/index.html",
+        "label": "全国科技经费投入统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58318/index.html",
+        "label": "财政收支数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n182931/index.html",
+        "label": "全国政府采购简要情况"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n520/index.html",
+        "label": "全国教育经费执行情况统计快报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n515/index.html",
+        "label": "全国教育经费执行情况统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://zxpx.cee.edu.cn/",
+        "label": "在线学习"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html#jyjf",
+        "label": "教育经费统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/index.html",
+        "label": "地方教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835775/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835746/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835701/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835687/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835658/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835535/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835600/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835555/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835439/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835425/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835413/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c834065/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c834030/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833961/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833969/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833935/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833914/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833889/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833782/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833825/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833789/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833671/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833651/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833626/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833606/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833579/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833553/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833525/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833508/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833476/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833443/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/index.htm",
+        "label": "财政部"
+      },
+      {
+        "url": "https://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "https://fsac.cee.edu.cn/",
+        "label": "教育部经费监管事务中心"
+      },
+      {
+        "url": "https://www.xszz.edu.cn",
+        "label": "全国学生资助管理中心"
+      },
+      {
+        "url": "http://www.zfcg.edu.cn/",
+        "label": "教育部政府采购网"
+      },
+      {
+        "url": "https://zjk.cee.edu.cn/",
+        "label": "中国教育会计学会"
+      },
+      {
+        "url": "https://jysj.cee.edu.cn/",
+        "label": "中国教育审计学会"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备2024044276号-2"
+      }
+    ]
+  }
+]

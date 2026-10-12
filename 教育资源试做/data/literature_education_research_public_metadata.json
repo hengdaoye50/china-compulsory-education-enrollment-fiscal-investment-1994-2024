@@ -1,0 +1,100 @@
+[
+  {
+    "id": 6516,
+    "periodical_chapter_id": 479,
+    "title": "教育强国背景下适应人口变动的义务教育师资配置 ——基于人口增减分化典型省域的研究",
+    "summary": null,
+    "DOI": null,
+    "content_type": null,
+    "sort": 4,
+    "file_id": null,
+    "content": "",
+    "issue_at": "2026-03-02 09:35:05",
+    "publish_at": null,
+    "created_at": "2026-03-02 00:00:00",
+    "updated_at": "2026-10-04",
+    "deleted_at": null,
+    "class_number": null,
+    "view": 200,
+    "recommend_at": null,
+    "out_link": null,
+    "periodical_subject_id": 228,
+    "visit_permission": "none",
+    "authors": [
+      {
+        "id": 6546,
+        "name": "梁文艳　孙雨婷　杜育红",
+        "created_at": "2026-03-02 00:00:00",
+        "updated_at": "2026-03-02",
+        "deleted_at": null,
+        "sort": 0,
+        "unit": null,
+        "pivot": {
+          "periodical_article_id": 6516,
+          "periodical_author_id": 6546,
+          "author_type": "other"
+        }
+      }
+    ],
+    "file": null,
+    "periodical_subject": {
+      "id": 228,
+      "periodical_id": 1,
+      "name": "人口变化与教育资源配置",
+      "sort": 0,
+      "created_at": "2026-03-02 00:00:00",
+      "updated_at": "2026-03-02",
+      "deleted_at": null
+    },
+    "chapter_name": "第二期"
+  },
+  {
+    "id": 6517,
+    "periodical_chapter_id": 479,
+    "title": "人口结构变动对公共教育支出的影响效应 ——基于全球70项定量研究的三水平元分析",
+    "summary": null,
+    "DOI": null,
+    "content_type": null,
+    "sort": 5,
+    "file_id": null,
+    "content": "",
+    "issue_at": "2026-03-02 09:35:22",
+    "publish_at": null,
+    "created_at": "2026-03-02 00:00:00",
+    "updated_at": "2026-10-04",
+    "deleted_at": null,
+    "class_number": null,
+    "view": 199,
+    "recommend_at": null,
+    "out_link": null,
+    "periodical_subject_id": 228,
+    "visit_permission": "none",
+    "authors": [
+      {
+        "id": 6547,
+        "name": "蔺海沣　马　玲",
+        "created_at": "2026-03-02 00:00:00",
+        "updated_at": "2026-03-02",
+        "deleted_at": null,
+        "sort": 0,
+        "unit": null,
+        "pivot": {
+          "periodical_article_id": 6517,
+          "periodical_author_id": 6547,
+          "author_type": "other"
+        }
+      }
+    ],
+    "file": null,
+    "periodical_subject": {
+      "id": 228,
+      "periodical_id": 1,
+      "name": "人口变化与教育资源配置",
+      "sort": 0,
+      "created_at": "2026-03-02 00:00:00",
+      "updated_at": "2026-03-02",
+      "deleted_at": null
+    },
+    "chapter_name": "第二期"
+  }
+]

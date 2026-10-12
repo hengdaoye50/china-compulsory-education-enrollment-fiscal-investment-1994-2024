@@ -1,0 +1,3604 @@
+[
+  {
+    "key": "finance_gap_weihai_2022",
+    "url": "https://www.weihai.gov.cn/art/2023/10/24/art_80943_4087670.html",
+    "status": "downloaded",
+    "bytes": 56648,
+    "sha256": "ba734ac0fa04cdd8f9541841c1a9ec3ad2710a91e30fc4efff5f92acd5e21958",
+    "path": "raw\\finance_gap_weihai_2022.html",
+    "links": [
+      {
+        "url": "https://www.weihai.gov.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col51524/index.html",
+        "label": "政府信息公开"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col59790/index.html",
+        "label": "法定主动公开内容"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col51888/index.html?vc_xxgkarea=11371000004359010J&number=WHA21&jh=263",
+        "label": "重点领域"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col51947/index.html?vc_xxgkarea=11371000004359010J&number=WHA2120&jh=263",
+        "label": "教育信息"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col80943/index.html?vc_xxgkarea=11371000004359010J&number=WHA212007&jh=263",
+        "label": "经费执行"
+      },
+      {
+        "url": "javascript:window.opener=null;window.open('','_self');window.close();",
+        "label": "【关闭本页】"
+      },
+      {
+        "url": "javascript:window.print()",
+        "label": "【打印本页】"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/art/2023/10/24/art_80943_4087670.html",
+        "label": "【返回顶部】"
+      }
+    ]
+  },
+  {
+    "key": "finance_gap_weihai_2023",
+    "url": "https://www.weihai.gov.cn/art/2024/6/4/art_80943_4573889.html",
+    "status": "downloaded",
+    "bytes": 28541,
+    "sha256": "6576f32caf5c2c249478325147904702b5d2649dd0d5928d32f839592f2ba015",
+    "path": "raw\\finance_gap_weihai_2023.html",
+    "links": [
+      {
+        "url": "https://www.weihai.gov.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col51524/index.html",
+        "label": "政府信息公开"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col59790/index.html",
+        "label": "法定主动公开内容"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col51888/index.html?vc_xxgkarea=11371000004359010J&number=WHA21&jh=263",
+        "label": "重点领域"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col51947/index.html?vc_xxgkarea=11371000004359010J&number=WHA2120&jh=263",
+        "label": "教育信息"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/col/col80943/index.html?vc_xxgkarea=11371000004359010J&number=WHA212007&jh=263",
+        "label": "经费执行"
+      },
+      {
+        "url": "javascript:window.opener=null;window.open('','_self');window.close();",
+        "label": "【关闭本页】"
+      },
+      {
+        "url": "javascript:window.print()",
+        "label": "【打印本页】"
+      },
+      {
+        "url": "https://www.weihai.gov.cn/art/2024/6/4/art_80943_4573889.html",
+        "label": "【返回顶部】"
+      }
+    ]
+  },
+  {
+    "key": "finance_gap_jiangyin_2024",
+    "url": "https://www.jiangyin.gov.cn/uploadfiles/202508/21/2025082110590444127646.pdf",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "finance_gap_nbs_system_2025",
+    "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmzd/202506/t20250604_1960023.html",
+    "status": "downloaded",
+    "bytes": 72088,
+    "sha256": "fafc7c36d7dcab1740eed2efc80b24593ab37d9888f636a0dbf0367cbe9fb70d",
+    "path": "raw\\finance_gap_nbs_system_2025.html",
+    "links": [
+      {
+        "url": "https://www.stats.gov.cn/znwd/",
+        "label": ""
+      },
+      {
+        "url": "https://www.stats.gov.cn/hd/xmt/",
+        "label": ""
+      },
+      {
+        "url": "https://www.stats.gov.cn/wzgl/rss/",
+        "label": ""
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "http://wsxf.stats.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "https://www.stats.gov.cn/english/",
+        "label": "EN"
+      },
+      {
+        "url": "https://www.stats.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.stats.gov.cn/jg/",
+        "label": "机构"
+      },
+      {
+        "url": "javascript:;",
+        "label": "新闻"
+      },
+      {
+        "url": "https://www.stats.gov.cn/xw/szyw/",
+        "label": "时政要闻"
+      },
+      {
+        "url": "https://www.stats.gov.cn/xw/tjxw/",
+        "label": "统计新闻"
+      },
+      {
+        "url": "https://www.stats.gov.cn/sj/",
+        "label": "数据"
+      },
+      {
+        "url": "https://www.stats.gov.cn/gk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/",
+        "label": "服务"
+      },
+      {
+        "url": "https://www.stats.gov.cn/hd/",
+        "label": "互动"
+      },
+      {
+        "url": "https://www.stats.gov.cn/zs/",
+        "label": "知识"
+      },
+      {
+        "url": "https://www.stats.gov.cn/zt_18555/",
+        "label": "专题"
+      },
+      {
+        "url": "javascript:;",
+        "label": "小"
+      },
+      {
+        "url": "javascript:;",
+        "label": "中"
+      },
+      {
+        "url": "javascript:;",
+        "label": "大"
+      },
+      {
+        "url": "http://service.weibo.com/share/share.php?url=https://www.stats.gov.cn/fw/bmdcxmsp/bmzd/202506/t20250604_1960023.html&title=全国教育经费统计调查制度",
+        "label": ""
+      },
+      {
+        "url": "http://www.gov.cn/",
+        "label": "中央人民政府门户网站"
+      },
+      {
+        "url": "http://www.fmprc.gov.cn/",
+        "label": "外交部"
+      },
+      {
+        "url": "http://www.mod.gov.cn/",
+        "label": "国防部"
+      },
+      {
+        "url": "http://www.ndrc.gov.cn/",
+        "label": "国家发展改革委"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.most.gov.cn/",
+        "label": "科技部"
+      },
+      {
+        "url": "https://www.miit.gov.cn/",
+        "label": "工业和信息化部"
+      },
+      {
+        "url": "https://www.neac.gov.cn/",
+        "label": "国家民委"
+      },
+      {
+        "url": "http://www.mps.gov.cn/n16/index.html",
+        "label": "公安部"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmzd/202506/t20250604_1960023.html",
+        "label": "国家安全部"
+      },
+      {
+        "url": "http://www.mca.gov.cn/",
+        "label": "民政部"
+      },
+      {
+        "url": "http://www.moj.gov.cn/",
+        "label": "司法部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/",
+        "label": "财政部"
+      },
+      {
+        "url": "http://www.mohrss.gov.cn/",
+        "label": "人力资源社会保障部"
+      },
+      {
+        "url": "http://www.mnr.gov.cn/",
+        "label": "自然资源部"
+      },
+      {
+        "url": "http://www.mee.gov.cn/",
+        "label": "生态环境部"
+      },
+      {
+        "url": "http://www.mohurd.gov.cn/",
+        "label": "住房城乡建设部"
+      },
+      {
+        "url": "http://www.mot.gov.cn/",
+        "label": "交通运输部"
+      },
+      {
+        "url": "http://www.mwr.gov.cn/",
+        "label": "水利部"
+      },
+      {
+        "url": "http://www.moa.gov.cn/",
+        "label": "农业农村部"
+      },
+      {
+        "url": "http://www.mofcom.gov.cn/",
+        "label": "商务部"
+      },
+      {
+        "url": "http://www.mct.gov.cn/",
+        "label": "文化和旅游部"
+      },
+      {
+        "url": "http://www.nhc.gov.cn/",
+        "label": "国家卫生健康委"
+      },
+      {
+        "url": "http://www.mva.gov.cn/",
+        "label": "退役军人事务部"
+      },
+      {
+        "url": "http://www.mem.gov.cn/",
+        "label": "应急管理部"
+      },
+      {
+        "url": "http://www.pbc.gov.cn/",
+        "label": "中国人民银行"
+      },
+      {
+        "url": "http://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "http://www.sasac.gov.cn/",
+        "label": "国务院国资委"
+      },
+      {
+        "url": "http://www.customs.gov.cn/",
+        "label": "海关总署"
+      },
+      {
+        "url": "http://www.chinatax.gov.cn/",
+        "label": "税务总局"
+      },
+      {
+        "url": "http://www.samr.gov.cn/",
+        "label": "市场监管总局"
+      },
+      {
+        "url": "http://www.cbirc.gov.cn/",
+        "label": "金融监管总局"
+      },
+      {
+        "url": "http://www.csrc.gov.cn/pub/newsite/",
+        "label": "中国证监会"
+      },
+      {
+        "url": "http://www.nrta.gov.cn/",
+        "label": "广电总局"
+      },
+      {
+        "url": "http://www.sport.gov.cn/",
+        "label": "体育总局"
+      },
+      {
+        "url": "http://www.gjxfj.gov.cn/",
+        "label": "国家信访局"
+      },
+      {
+        "url": "http://www.stats.gov.cn/",
+        "label": "国家统计局"
+      },
+      {
+        "url": "https://www.cnipa.gov.cn/",
+        "label": "国家知识产权局"
+      },
+      {
+        "url": "http://www.cidca.gov.cn/",
+        "label": "国家国际发展合作署"
+      },
+      {
+        "url": "http://www.nhsa.gov.cn/",
+        "label": "国家医保局"
+      },
+      {
+        "url": "http://www.counsellor.gov.cn/",
+        "label": "国务院参事室"
+      },
+      {
+        "url": "http://www.ggj.gov.cn/",
+        "label": "国管局"
+      },
+      {
+        "url": "http://www.gov.cn/guoqing/2005-12/26/content_2652073.htm",
+        "label": "国务院研究室"
+      },
+      {
+        "url": "https://www.gqb.gov.cn/",
+        "label": "国务院侨办"
+      },
+      {
+        "url": "http://www.hmo.gov.cn/",
+        "label": "国务院港澳办"
+      },
+      {
+        "url": "http://www.gwytb.gov.cn/",
+        "label": "国务院台办"
+      },
+      {
+        "url": "http://www.cac.gov.cn/",
+        "label": "国家网信办"
+      },
+      {
+        "url": "http://www.scio.gov.cn/",
+        "label": "国务院新闻办"
+      },
+      {
+        "url": "http://203.192.6.89/xhs/",
+        "label": "新华社"
+      },
+      {
+        "url": "http://www.cas.cn/",
+        "label": "中国科学院"
+      },
+      {
+        "url": "http://www.cssn.cn/",
+        "label": "中国社科院"
+      },
+      {
+        "url": "http://www.cae.cn/cae/html/main/index.html",
+        "label": "中国工程院"
+      },
+      {
+        "url": "http://www.drc.gov.cn/",
+        "label": "国务院发展研究中心"
+      },
+      {
+        "url": "http://www.cnr.cn/",
+        "label": "中央广电总台"
+      },
+      {
+        "url": "http://www.cma.gov.cn/",
+        "label": "中国气象局"
+      },
+      {
+        "url": "http://www.lswz.gov.cn/",
+        "label": "国家粮食和物资储备局"
+      },
+      {
+        "url": "http://www.nea.gov.cn/",
+        "label": "国家能源局"
+      },
+      {
+        "url": "http://www.sastind.gov.cn/",
+        "label": "国家国防科工局"
+      },
+      {
+        "url": "http://www.tobacco.gov.cn/gjyc/index.shtml",
+        "label": "国家烟草局"
+      },
+      {
+        "url": "https://www.nia.gov.cn/",
+        "label": "国家移民局"
+      },
+      {
+        "url": "http://www.forestry.gov.cn/",
+        "label": "国家林草局"
+      },
+      {
+        "url": "http://www.nra.gov.cn/",
+        "label": "国家铁路局"
+      },
+      {
+        "url": "http://www.caac.gov.cn/",
+        "label": "中国民航局"
+      },
+      {
+        "url": "http://www.spb.gov.cn/",
+        "label": "国家邮政局"
+      },
+      {
+        "url": "http://www.ncha.gov.cn/",
+        "label": "国家文物局"
+      },
+      {
+        "url": "http://www.natcm.gov.cn/",
+        "label": "国家中医药局"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmzd/202506/t20250604_1960023.html",
+        "label": "国家疾控局"
+      },
+      {
+        "url": "https://www.chinamine-safety.gov.cn/?ivk_sa=1024320u",
+        "label": "国家矿山安监局"
+      },
+      {
+        "url": "https://www.119.gov.cn/",
+        "label": "国家消防救援局"
+      },
+      {
+        "url": "http://www.safe.gov.cn/",
+        "label": "国家外汇局"
+      },
+      {
+        "url": "https://www.nmpa.gov.cn/",
+        "label": "国家药监局"
+      },
+      {
+        "url": "http://www.beijing.gov.cn/",
+        "label": "北京"
+      },
+      {
+        "url": "http://www.tj.gov.cn/",
+        "label": "天津"
+      },
+      {
+        "url": "http://www.hebei.gov.cn/",
+        "label": "河北"
+      },
+      {
+        "url": "http://www.shanxi.gov.cn/",
+        "label": "山西"
+      },
+      {
+        "url": "http://www.nmg.gov.cn",
+        "label": "内蒙古"
+      },
+      {
+        "url": "http://www.ln.gov.cn/",
+        "label": "辽宁"
+      },
+      {
+        "url": "http://www.jl.gov.cn/",
+        "label": "吉林"
+      },
+      {
+        "url": "http://www.hlj.gov.cn/",
+        "label": "黑龙江"
+      },
+      {
+        "url": "http://www.shanghai.gov.cn/",
+        "label": "上海"
+      },
+      {
+        "url": "http://www.jiangsu.gov.cn/",
+        "label": "江苏"
+      },
+      {
+        "url": "http://www.zj.gov.cn/",
+        "label": "浙江"
+      },
+      {
+        "url": "http://www.ah.gov.cn/",
+        "label": "安徽"
+      },
+      {
+        "url": "http://www.fujian.gov.cn/",
+        "label": "福建"
+      },
+      {
+        "url": "http://www.jiangxi.gov.cn/",
+        "label": "江西"
+      },
+      {
+        "url": "http://www.shandong.gov.cn/",
+        "label": "山东"
+      },
+      {
+        "url": "http://www.henan.gov.cn/",
+        "label": "河南"
+      },
+      {
+        "url": "http://www.hubei.gov.cn/",
+        "label": "湖北"
+      },
+      {
+        "url": "http://www.hunan.gov.cn/",
+        "label": "湖南"
+      },
+      {
+        "url": "http://www.gd.gov.cn/",
+        "label": "广东"
+      },
+      {
+        "url": "http://www.gxzf.gov.cn/",
+        "label": "广西"
+      },
+      {
+        "url": "http://www.hainan.gov.cn/",
+        "label": "海南"
+      },
+      {
+        "url": "http://www.cq.gov.cn/",
+        "label": "重庆"
+      },
+      {
+        "url": "http://www.sc.gov.cn/",
+        "label": "四川"
+      },
+      {
+        "url": "http://www.guizhou.gov.cn/",
+        "label": "贵州"
+      },
+      {
+        "url": "http://www.yn.gov.cn/",
+        "label": "云南"
+      },
+      {
+        "url": "http://www.xizang.gov.cn/",
+        "label": "西藏"
+      },
+      {
+        "url": "http://www.shaanxi.gov.cn/",
+        "label": "陕西"
+      },
+      {
+        "url": "http://www.gansu.gov.cn/",
+        "label": "甘肃"
+      },
+      {
+        "url": "http://www.qinghai.gov.cn/",
+        "label": "青海"
+      },
+      {
+        "url": "http://www.nx.gov.cn/",
+        "label": "宁夏"
+      },
+      {
+        "url": "http://www.xinjiang.gov.cn/",
+        "label": "新疆"
+      },
+      {
+        "url": "http://www.xjbt.gov.cn/",
+        "label": "兵团"
+      },
+      {
+        "url": "https://tjj.beijing.gov.cn/",
+        "label": "北京局"
+      },
+      {
+        "url": "http://stats.tj.gov.cn",
+        "label": "天津局"
+      },
+      {
+        "url": "http://tjj.hebei.gov.cn/",
+        "label": "河北局"
+      },
+      {
+        "url": "http://tjj.shanxi.gov.cn/",
+        "label": "山西局"
+      },
+      {
+        "url": "http://tj.nmg.gov.cn/",
+        "label": "内蒙古局"
+      },
+      {
+        "url": "http://tjj.ln.gov.cn/",
+        "label": "辽宁局"
+      },
+      {
+        "url": "http://tjj.jl.gov.cn/",
+        "label": "吉林局"
+      },
+      {
+        "url": "http://tjj.hlj.gov.cn/",
+        "label": "黑龙江局"
+      },
+      {
+        "url": "http://tjj.sh.gov.cn/",
+        "label": "上海局"
+      },
+      {
+        "url": "http://tj.jiangsu.gov.cn/index.html",
+        "label": "江苏局"
+      },
+      {
+        "url": "http://tjj.zj.gov.cn/",
+        "label": "浙江局"
+      },
+      {
+        "url": "http://tjj.ah.gov.cn/",
+        "label": "安徽局"
+      },
+      {
+        "url": "http://tjj.fujian.gov.cn/",
+        "label": "福建局"
+      },
+      {
+        "url": "http://tjj.jiangxi.gov.cn/",
+        "label": "江西局"
+      },
+      {
+        "url": "http://tjj.shandong.gov.cn/",
+        "label": "山东局"
+      },
+      {
+        "url": "http://tjj.henan.gov.cn/",
+        "label": "河南局"
+      },
+      {
+        "url": "http://tjj.hubei.gov.cn",
+        "label": "湖北局"
+      },
+      {
+        "url": "http://tjj.hunan.gov.cn/",
+        "label": "湖南局"
+      },
+      {
+        "url": "http://stats.gd.gov.cn/",
+        "label": "广东局"
+      },
+      {
+        "url": "http://tjj.gxzf.gov.cn/",
+        "label": "广西局"
+      },
+      {
+        "url": "http://stats.hainan.gov.cn",
+        "label": "海南局"
+      },
+      {
+        "url": "http://tjj.cq.gov.cn/",
+        "label": "重庆局"
+      },
+      {
+        "url": "http://tjj.sc.gov.cn/",
+        "label": "四川局"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/",
+        "label": "贵州局"
+      },
+      {
+        "url": "http://stats.yn.gov.cn/",
+        "label": "云南局"
+      },
+      {
+        "url": "http://tjj.xizang.gov.cn/",
+        "label": "西藏局"
+      },
+      {
+        "url": "http://tjj.shaanxi.gov.cn/",
+        "label": "陕西局"
+      },
+      {
+        "url": "http://tjj.gansu.gov.cn/",
+        "label": "甘肃局"
+      },
+      {
+        "url": "http://tjj.qinghai.gov.cn/",
+        "label": "青海局"
+      },
+      {
+        "url": "http://tj.nx.gov.cn/",
+        "label": "宁夏局"
+      },
+      {
+        "url": "http://tjj.xinjiang.gov.cn/",
+        "label": "新疆局"
+      },
+      {
+        "url": "http://tjj.xjbt.gov.cn/",
+        "label": "兵团局"
+      },
+      {
+        "url": "http://tjzd.stats.gov.cn/",
+        "label": "天津总队"
+      },
+      {
+        "url": "http://sxzd.stats.gov.cn/",
+        "label": "山西总队"
+      },
+      {
+        "url": "https://jszd.stats.gov.cn/",
+        "label": "江苏总队"
+      },
+      {
+        "url": "http://zjzd.stats.gov.cn/",
+        "label": "浙江总队"
+      },
+      {
+        "url": "http://ahzd.stats.gov.cn",
+        "label": "安徽总队"
+      },
+      {
+        "url": "http://hazd.stats.gov.cn/",
+        "label": "河南总队"
+      },
+      {
+        "url": "http://hnzd.stats.gov.cn/",
+        "label": "湖南总队"
+      },
+      {
+        "url": "http://gdzd.stats.gov.cn/",
+        "label": "广东总队"
+      },
+      {
+        "url": "http://ynzd.stats.gov.cn/",
+        "label": "云南总队"
+      },
+      {
+        "url": "http://snzd.stats.gov.cn",
+        "label": "陕西总队"
+      },
+      {
+        "url": "http://xjzd.stats.gov.cn/",
+        "label": "新疆总队"
+      },
+      {
+        "url": "http://dczd.xjbt.gov.cn/",
+        "label": "兵团总队"
+      },
+      {
+        "url": "http://www.nssc.stats.gov.cn",
+        "label": "中国统计学会"
+      },
+      {
+        "url": "https://www.un.org/zh/",
+        "label": "联合国"
+      },
+      {
+        "url": "https://www.un.org/zh/desa",
+        "label": "联合国经济和社会事务部"
+      },
+      {
+        "url": "https://unstats.un.org/UNSDWebsite/",
+        "label": "联合国统计司"
+      },
+      {
+        "url": "http://www.wto.org/",
+        "label": "世贸组织"
+      },
+      {
+        "url": "http://www.fao.org/",
+        "label": "粮农组织"
+      },
+      {
+        "url": "http://www.ilo.org/global/lang--en/index.htm",
+        "label": "劳工组织"
+      },
+      {
+        "url": "http://www.imf.org/external/chinese/index.htm",
+        "label": "基金组织"
+      },
+      {
+        "url": "https://www.unido.org/",
+        "label": "工发组织"
+      },
+      {
+        "url": "http://en.unesco.org/",
+        "label": "教科文组织"
+      },
+      {
+        "url": "https://www.who.int/",
+        "label": "世卫组织"
+      },
+      {
+        "url": "https://www.worldbank.org/en/home",
+        "label": "世界银行"
+      },
+      {
+        "url": "http://europa.eu/index_en.htm",
+        "label": "欧盟"
+      },
+      {
+        "url": "https://www.oecd.org/",
+        "label": "经合组织"
+      },
+      {
+        "url": "http://www.undp.org/content/undp/en/home.html",
+        "label": "联合国开发署"
+      },
+      {
+        "url": "http://www.unfpa.org/public/",
+        "label": "联合国人口基金"
+      },
+      {
+        "url": "https://www.unenvironment.org/",
+        "label": "联合国环境署"
+      },
+      {
+        "url": "https://www.unicef.org/",
+        "label": "联合国儿童基金"
+      },
+      {
+        "url": "http://www.wfp.org/",
+        "label": "世界粮食计划署"
+      },
+      {
+        "url": "https://www.stats.gov.cn/xglj/gjzz/202302/t20230219_1913504.html",
+        "label": "国际组织网站"
+      },
+      {
+        "url": "https://www.stats.gov.cn/wzgl/202302/t20230217_1912858.html",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://www.stats.gov.cn/wzgl/202302/t20230217_1912857.html",
+        "label": "服务条款"
+      },
+      {
+        "url": "https://www.stats.gov.cn/wzgl/wzdt/",
+        "label": "网站地图"
+      },
+      {
+        "url": "https://beian.miit.gov.cn",
+        "label": "京ICP备05034670号-2"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700142",
+        "label": "京公网安备 11040102700142号"
+      },
+      {
+        "url": "http://www.gov.cn/",
+        "label": "中央人民政府门户网站"
+      },
+      {
+        "url": "http://www.fmprc.gov.cn/",
+        "label": "外交部"
+      },
+      {
+        "url": "http://www.mod.gov.cn/",
+        "label": "国防部"
+      },
+      {
+        "url": "http://www.ndrc.gov.cn/",
+        "label": "国家发展改革委"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.most.gov.cn/",
+        "label": "科技部"
+      },
+      {
+        "url": "https://www.miit.gov.cn/",
+        "label": "工业和信息化部"
+      },
+      {
+        "url": "https://www.neac.gov.cn/",
+        "label": "国家民委"
+      },
+      {
+        "url": "http://www.mps.gov.cn/n16/index.html",
+        "label": "公安部"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmzd/202506/t20250604_1960023.html",
+        "label": "国家安全部"
+      },
+      {
+        "url": "http://www.mca.gov.cn/",
+        "label": "民政部"
+      },
+      {
+        "url": "http://www.moj.gov.cn/",
+        "label": "司法部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/",
+        "label": "财政部"
+      },
+      {
+        "url": "http://www.mohrss.gov.cn/",
+        "label": "人力资源社会保障部"
+      },
+      {
+        "url": "http://www.mnr.gov.cn/",
+        "label": "自然资源部"
+      },
+      {
+        "url": "http://www.mee.gov.cn/",
+        "label": "生态环境部"
+      },
+      {
+        "url": "http://www.mohurd.gov.cn/",
+        "label": "住房城乡建设部"
+      },
+      {
+        "url": "http://www.mot.gov.cn/",
+        "label": "交通运输部"
+      },
+      {
+        "url": "http://www.mwr.gov.cn/",
+        "label": "水利部"
+      },
+      {
+        "url": "http://www.moa.gov.cn/",
+        "label": "农业农村部"
+      },
+      {
+        "url": "http://www.mofcom.gov.cn/",
+        "label": "商务部"
+      },
+      {
+        "url": "http://www.mct.gov.cn/",
+        "label": "文化和旅游部"
+      },
+      {
+        "url": "http://www.nhc.gov.cn/",
+        "label": "国家卫生健康委"
+      },
+      {
+        "url": "http://www.mva.gov.cn/",
+        "label": "退役军人事务部"
+      },
+      {
+        "url": "http://www.mem.gov.cn/",
+        "label": "应急管理部"
+      },
+      {
+        "url": "http://www.pbc.gov.cn/",
+        "label": "中国人民银行"
+      },
+      {
+        "url": "http://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "http://www.sasac.gov.cn/",
+        "label": "国务院国资委"
+      },
+      {
+        "url": "http://www.customs.gov.cn/",
+        "label": "海关总署"
+      },
+      {
+        "url": "http://www.chinatax.gov.cn/",
+        "label": "税务总局"
+      },
+      {
+        "url": "http://www.samr.gov.cn/",
+        "label": "市场监管总局"
+      },
+      {
+        "url": "http://www.cbirc.gov.cn/",
+        "label": "金融监管总局"
+      },
+      {
+        "url": "http://www.csrc.gov.cn/pub/newsite/",
+        "label": "中国证监会"
+      },
+      {
+        "url": "http://www.nrta.gov.cn/",
+        "label": "广电总局"
+      },
+      {
+        "url": "http://www.sport.gov.cn/",
+        "label": "体育总局"
+      },
+      {
+        "url": "http://www.gjxfj.gov.cn/",
+        "label": "国家信访局"
+      },
+      {
+        "url": "http://www.stats.gov.cn/",
+        "label": "国家统计局"
+      },
+      {
+        "url": "https://www.cnipa.gov.cn/",
+        "label": "国家知识产权局"
+      },
+      {
+        "url": "http://www.cidca.gov.cn/",
+        "label": "国家国际发展合作署"
+      },
+      {
+        "url": "http://www.nhsa.gov.cn/",
+        "label": "国家医保局"
+      },
+      {
+        "url": "http://www.counsellor.gov.cn/",
+        "label": "国务院参事室"
+      },
+      {
+        "url": "http://www.ggj.gov.cn/",
+        "label": "国管局"
+      },
+      {
+        "url": "http://www.gov.cn/guoqing/2005-12/26/content_2652073.htm",
+        "label": "国务院研究室"
+      },
+      {
+        "url": "https://www.gqb.gov.cn/",
+        "label": "国务院侨办"
+      },
+      {
+        "url": "http://www.hmo.gov.cn/",
+        "label": "国务院港澳办"
+      },
+      {
+        "url": "http://www.gwytb.gov.cn/",
+        "label": "国务院台办"
+      },
+      {
+        "url": "http://www.cac.gov.cn/",
+        "label": "国家网信办"
+      },
+      {
+        "url": "http://www.scio.gov.cn/",
+        "label": "国务院新闻办"
+      },
+      {
+        "url": "http://203.192.6.89/xhs/",
+        "label": "新华社"
+      },
+      {
+        "url": "http://www.cas.cn/",
+        "label": "中国科学院"
+      },
+      {
+        "url": "http://www.cssn.cn/",
+        "label": "中国社科院"
+      },
+      {
+        "url": "http://www.cae.cn/cae/html/main/index.html",
+        "label": "中国工程院"
+      },
+      {
+        "url": "http://www.drc.gov.cn/",
+        "label": "国务院发展研究中心"
+      },
+      {
+        "url": "http://www.cnr.cn/",
+        "label": "中央广电总台"
+      },
+      {
+        "url": "http://www.cma.gov.cn/",
+        "label": "中国气象局"
+      },
+      {
+        "url": "http://www.lswz.gov.cn/",
+        "label": "国家粮食和物资储备局"
+      },
+      {
+        "url": "http://www.nea.gov.cn/",
+        "label": "国家能源局"
+      },
+      {
+        "url": "http://www.sastind.gov.cn/",
+        "label": "国家国防科工局"
+      },
+      {
+        "url": "http://www.tobacco.gov.cn/gjyc/index.shtml",
+        "label": "国家烟草局"
+      },
+      {
+        "url": "https://www.nia.gov.cn/",
+        "label": "国家移民局"
+      },
+      {
+        "url": "http://www.forestry.gov.cn/",
+        "label": "国家林草局"
+      },
+      {
+        "url": "http://www.nra.gov.cn/",
+        "label": "国家铁路局"
+      },
+      {
+        "url": "http://www.caac.gov.cn/",
+        "label": "中国民航局"
+      },
+      {
+        "url": "http://www.spb.gov.cn/",
+        "label": "国家邮政局"
+      },
+      {
+        "url": "http://www.ncha.gov.cn/",
+        "label": "国家文物局"
+      },
+      {
+        "url": "http://www.natcm.gov.cn/",
+        "label": "国家中医药局"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmzd/202506/t20250604_1960023.html",
+        "label": "国家疾控局"
+      },
+      {
+        "url": "https://www.chinamine-safety.gov.cn/?ivk_sa=1024320u",
+        "label": "国家矿山安监局"
+      },
+      {
+        "url": "https://www.119.gov.cn/",
+        "label": "国家消防救援局"
+      },
+      {
+        "url": "http://www.safe.gov.cn/",
+        "label": "国家外汇局"
+      },
+      {
+        "url": "https://www.nmpa.gov.cn/",
+        "label": "国家药监局"
+      },
+      {
+        "url": "http://www.beijing.gov.cn/",
+        "label": "北京"
+      },
+      {
+        "url": "http://www.tj.gov.cn/",
+        "label": "天津"
+      },
+      {
+        "url": "http://www.hebei.gov.cn/",
+        "label": "河北"
+      },
+      {
+        "url": "http://www.shanxi.gov.cn/",
+        "label": "山西"
+      },
+      {
+        "url": "http://www.nmg.gov.cn",
+        "label": "内蒙古"
+      },
+      {
+        "url": "http://www.ln.gov.cn/",
+        "label": "辽宁"
+      },
+      {
+        "url": "http://www.jl.gov.cn/",
+        "label": "吉林"
+      },
+      {
+        "url": "http://www.hlj.gov.cn/",
+        "label": "黑龙江"
+      },
+      {
+        "url": "http://www.shanghai.gov.cn/",
+        "label": "上海"
+      },
+      {
+        "url": "http://www.jiangsu.gov.cn/",
+        "label": "江苏"
+      },
+      {
+        "url": "http://www.zj.gov.cn/",
+        "label": "浙江"
+      },
+      {
+        "url": "http://www.ah.gov.cn/",
+        "label": "安徽"
+      },
+      {
+        "url": "http://www.fujian.gov.cn/",
+        "label": "福建"
+      },
+      {
+        "url": "http://www.jiangxi.gov.cn/",
+        "label": "江西"
+      },
+      {
+        "url": "http://www.shandong.gov.cn/",
+        "label": "山东"
+      },
+      {
+        "url": "http://www.henan.gov.cn/",
+        "label": "河南"
+      },
+      {
+        "url": "http://www.hubei.gov.cn/",
+        "label": "湖北"
+      },
+      {
+        "url": "http://www.hunan.gov.cn/",
+        "label": "湖南"
+      },
+      {
+        "url": "http://www.gd.gov.cn/",
+        "label": "广东"
+      },
+      {
+        "url": "http://www.gxzf.gov.cn/",
+        "label": "广西"
+      },
+      {
+        "url": "http://www.hainan.gov.cn/",
+        "label": "海南"
+      },
+      {
+        "url": "http://www.cq.gov.cn/",
+        "label": "重庆"
+      },
+      {
+        "url": "http://www.sc.gov.cn/",
+        "label": "四川"
+      },
+      {
+        "url": "http://www.guizhou.gov.cn/",
+        "label": "贵州"
+      },
+      {
+        "url": "http://www.yn.gov.cn/",
+        "label": "云南"
+      },
+      {
+        "url": "http://www.xizang.gov.cn/",
+        "label": "西藏"
+      },
+      {
+        "url": "http://www.shaanxi.gov.cn/",
+        "label": "陕西"
+      },
+      {
+        "url": "http://www.gansu.gov.cn/",
+        "label": "甘肃"
+      },
+      {
+        "url": "http://www.qinghai.gov.cn/",
+        "label": "青海"
+      },
+      {
+        "url": "http://www.nx.gov.cn/",
+        "label": "宁夏"
+      },
+      {
+        "url": "http://www.xinjiang.gov.cn/",
+        "label": "新疆"
+      },
+      {
+        "url": "http://www.xjbt.gov.cn/",
+        "label": "兵团"
+      },
+      {
+        "url": "https://tjj.beijing.gov.cn/",
+        "label": "北京局"
+      },
+      {
+        "url": "http://stats.tj.gov.cn",
+        "label": "天津局"
+      },
+      {
+        "url": "http://tjj.hebei.gov.cn/",
+        "label": "河北局"
+      },
+      {
+        "url": "http://tjj.shanxi.gov.cn/",
+        "label": "山西局"
+      },
+      {
+        "url": "http://tj.nmg.gov.cn/",
+        "label": "内蒙古局"
+      },
+      {
+        "url": "http://tjj.ln.gov.cn/",
+        "label": "辽宁局"
+      },
+      {
+        "url": "http://tjj.jl.gov.cn/",
+        "label": "吉林局"
+      },
+      {
+        "url": "http://tjj.hlj.gov.cn/",
+        "label": "黑龙江局"
+      },
+      {
+        "url": "http://tjj.sh.gov.cn/",
+        "label": "上海局"
+      },
+      {
+        "url": "http://tj.jiangsu.gov.cn/index.html",
+        "label": "江苏局"
+      },
+      {
+        "url": "http://tjj.zj.gov.cn/",
+        "label": "浙江局"
+      },
+      {
+        "url": "http://tjj.ah.gov.cn/",
+        "label": "安徽局"
+      },
+      {
+        "url": "http://tjj.fujian.gov.cn/",
+        "label": "福建局"
+      },
+      {
+        "url": "http://tjj.jiangxi.gov.cn/",
+        "label": "江西局"
+      },
+      {
+        "url": "http://tjj.shandong.gov.cn/",
+        "label": "山东局"
+      },
+      {
+        "url": "http://tjj.henan.gov.cn/",
+        "label": "河南局"
+      },
+      {
+        "url": "http://tjj.hubei.gov.cn",
+        "label": "湖北局"
+      },
+      {
+        "url": "http://tjj.hunan.gov.cn/",
+        "label": "湖南局"
+      },
+      {
+        "url": "http://stats.gd.gov.cn/",
+        "label": "广东局"
+      },
+      {
+        "url": "http://tjj.gxzf.gov.cn/",
+        "label": "广西局"
+      },
+      {
+        "url": "http://stats.hainan.gov.cn",
+        "label": "海南局"
+      },
+      {
+        "url": "http://tjj.cq.gov.cn/",
+        "label": "重庆局"
+      },
+      {
+        "url": "http://tjj.sc.gov.cn/",
+        "label": "四川局"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/",
+        "label": "贵州局"
+      },
+      {
+        "url": "http://stats.yn.gov.cn/",
+        "label": "云南局"
+      },
+      {
+        "url": "http://tjj.xizang.gov.cn/",
+        "label": "西藏局"
+      },
+      {
+        "url": "http://tjj.shaanxi.gov.cn/",
+        "label": "陕西局"
+      },
+      {
+        "url": "http://tjj.gansu.gov.cn/",
+        "label": "甘肃局"
+      },
+      {
+        "url": "http://tjj.qinghai.gov.cn/",
+        "label": "青海局"
+      },
+      {
+        "url": "http://tj.nx.gov.cn/",
+        "label": "宁夏局"
+      },
+      {
+        "url": "http://tjj.xinjiang.gov.cn/",
+        "label": "新疆局"
+      },
+      {
+        "url": "http://tjj.xjbt.gov.cn/",
+        "label": "兵团局"
+      },
+      {
+        "url": "http://tjzd.stats.gov.cn/",
+        "label": "天津总队"
+      },
+      {
+        "url": "http://sxzd.stats.gov.cn/",
+        "label": "山西总队"
+      },
+      {
+        "url": "https://jszd.stats.gov.cn/",
+        "label": "江苏总队"
+      },
+      {
+        "url": "http://zjzd.stats.gov.cn/",
+        "label": "浙江总队"
+      },
+      {
+        "url": "http://ahzd.stats.gov.cn",
+        "label": "安徽总队"
+      },
+      {
+        "url": "http://hazd.stats.gov.cn/",
+        "label": "河南总队"
+      },
+      {
+        "url": "http://hnzd.stats.gov.cn/",
+        "label": "湖南总队"
+      },
+      {
+        "url": "http://gdzd.stats.gov.cn/",
+        "label": "广东总队"
+      },
+      {
+        "url": "http://ynzd.stats.gov.cn/",
+        "label": "云南总队"
+      },
+      {
+        "url": "http://snzd.stats.gov.cn",
+        "label": "陕西总队"
+      },
+      {
+        "url": "http://xjzd.stats.gov.cn/",
+        "label": "新疆总队"
+      },
+      {
+        "url": "http://dczd.xjbt.gov.cn/",
+        "label": "兵团总队"
+      },
+      {
+        "url": "http://www.nssc.stats.gov.cn",
+        "label": "中国统计学会"
+      },
+      {
+        "url": "https://www.un.org/zh/",
+        "label": "联合国"
+      },
+      {
+        "url": "https://www.un.org/zh/desa",
+        "label": "联合国经济和社会事务部"
+      },
+      {
+        "url": "https://unstats.un.org/UNSDWebsite/",
+        "label": "联合国统计司"
+      },
+      {
+        "url": "http://www.wto.org/",
+        "label": "世贸组织"
+      },
+      {
+        "url": "http://www.fao.org/",
+        "label": "粮农组织"
+      },
+      {
+        "url": "http://www.ilo.org/global/lang--en/index.htm",
+        "label": "劳工组织"
+      },
+      {
+        "url": "http://www.imf.org/external/chinese/index.htm",
+        "label": "基金组织"
+      },
+      {
+        "url": "https://www.unido.org/",
+        "label": "工发组织"
+      },
+      {
+        "url": "http://en.unesco.org/",
+        "label": "教科文组织"
+      },
+      {
+        "url": "https://www.who.int/",
+        "label": "世卫组织"
+      },
+      {
+        "url": "https://www.worldbank.org/en/home",
+        "label": "世界银行"
+      },
+      {
+        "url": "http://europa.eu/index_en.htm",
+        "label": "欧盟"
+      },
+      {
+        "url": "https://www.oecd.org/",
+        "label": "经合组织"
+      },
+      {
+        "url": "http://www.undp.org/content/undp/en/home.html",
+        "label": "联合国开发署"
+      },
+      {
+        "url": "http://www.unfpa.org/public/",
+        "label": "联合国人口基金"
+      },
+      {
+        "url": "https://www.unenvironment.org/",
+        "label": "联合国环境署"
+      },
+      {
+        "url": "https://www.unicef.org/",
+        "label": "联合国儿童基金"
+      },
+      {
+        "url": "http://www.wfp.org/",
+        "label": "世界粮食计划署"
+      },
+      {
+        "url": "https://www.stats.gov.cn/xglj/gjzz/202302/t20230219_1913504.html",
+        "label": "国际组织网站"
+      }
+    ]
+  },
+  {
+    "key": "finance_gap_nbs_approval_directory",
+    "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmdcxmml/202302/t20230215_1907008.html",
+    "status": "downloaded",
+    "bytes": 113515,
+    "sha256": "c45b72a670505e97cb767e54bc6129e72773c73e16be738094e7817620cfad11",
+    "path": "raw\\finance_gap_nbs_approval_directory.html",
+    "links": [
+      {
+        "url": "https://www.stats.gov.cn/znwd/",
+        "label": ""
+      },
+      {
+        "url": "https://www.stats.gov.cn/hd/xmt/",
+        "label": ""
+      },
+      {
+        "url": "https://www.stats.gov.cn/wzgl/rss/",
+        "label": ""
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "http://wsxf.stats.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "https://www.stats.gov.cn/english/",
+        "label": "EN"
+      },
+      {
+        "url": "https://www.stats.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.stats.gov.cn/jg/",
+        "label": "机构"
+      },
+      {
+        "url": "javascript:;",
+        "label": "新闻"
+      },
+      {
+        "url": "https://www.stats.gov.cn/xw/szyw/",
+        "label": "时政要闻"
+      },
+      {
+        "url": "https://www.stats.gov.cn/xw/tjxw/",
+        "label": "统计新闻"
+      },
+      {
+        "url": "https://www.stats.gov.cn/sj/",
+        "label": "数据"
+      },
+      {
+        "url": "https://www.stats.gov.cn/gk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/",
+        "label": "服务"
+      },
+      {
+        "url": "https://www.stats.gov.cn/hd/",
+        "label": "互动"
+      },
+      {
+        "url": "https://www.stats.gov.cn/zs/",
+        "label": "知识"
+      },
+      {
+        "url": "https://www.stats.gov.cn/zt_18555/",
+        "label": "专题"
+      },
+      {
+        "url": "javascript:;",
+        "label": "小"
+      },
+      {
+        "url": "javascript:;",
+        "label": "中"
+      },
+      {
+        "url": "javascript:;",
+        "label": "大"
+      },
+      {
+        "url": "http://service.weibo.com/share/share.php?url=https://www.stats.gov.cn/fw/bmdcxmsp/bmdcxmml/202302/t20230215_1907008.html&title=教育部",
+        "label": ""
+      },
+      {
+        "url": "http://www.gov.cn/",
+        "label": "中央人民政府门户网站"
+      },
+      {
+        "url": "http://www.fmprc.gov.cn/",
+        "label": "外交部"
+      },
+      {
+        "url": "http://www.mod.gov.cn/",
+        "label": "国防部"
+      },
+      {
+        "url": "http://www.ndrc.gov.cn/",
+        "label": "国家发展改革委"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.most.gov.cn/",
+        "label": "科技部"
+      },
+      {
+        "url": "https://www.miit.gov.cn/",
+        "label": "工业和信息化部"
+      },
+      {
+        "url": "https://www.neac.gov.cn/",
+        "label": "国家民委"
+      },
+      {
+        "url": "http://www.mps.gov.cn/n16/index.html",
+        "label": "公安部"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmdcxmml/202302/t20230215_1907008.html",
+        "label": "国家安全部"
+      },
+      {
+        "url": "http://www.mca.gov.cn/",
+        "label": "民政部"
+      },
+      {
+        "url": "http://www.moj.gov.cn/",
+        "label": "司法部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/",
+        "label": "财政部"
+      },
+      {
+        "url": "http://www.mohrss.gov.cn/",
+        "label": "人力资源社会保障部"
+      },
+      {
+        "url": "http://www.mnr.gov.cn/",
+        "label": "自然资源部"
+      },
+      {
+        "url": "http://www.mee.gov.cn/",
+        "label": "生态环境部"
+      },
+      {
+        "url": "http://www.mohurd.gov.cn/",
+        "label": "住房城乡建设部"
+      },
+      {
+        "url": "http://www.mot.gov.cn/",
+        "label": "交通运输部"
+      },
+      {
+        "url": "http://www.mwr.gov.cn/",
+        "label": "水利部"
+      },
+      {
+        "url": "http://www.moa.gov.cn/",
+        "label": "农业农村部"
+      },
+      {
+        "url": "http://www.mofcom.gov.cn/",
+        "label": "商务部"
+      },
+      {
+        "url": "http://www.mct.gov.cn/",
+        "label": "文化和旅游部"
+      },
+      {
+        "url": "http://www.nhc.gov.cn/",
+        "label": "国家卫生健康委"
+      },
+      {
+        "url": "http://www.mva.gov.cn/",
+        "label": "退役军人事务部"
+      },
+      {
+        "url": "http://www.mem.gov.cn/",
+        "label": "应急管理部"
+      },
+      {
+        "url": "http://www.pbc.gov.cn/",
+        "label": "中国人民银行"
+      },
+      {
+        "url": "http://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "http://www.sasac.gov.cn/",
+        "label": "国务院国资委"
+      },
+      {
+        "url": "http://www.customs.gov.cn/",
+        "label": "海关总署"
+      },
+      {
+        "url": "http://www.chinatax.gov.cn/",
+        "label": "税务总局"
+      },
+      {
+        "url": "http://www.samr.gov.cn/",
+        "label": "市场监管总局"
+      },
+      {
+        "url": "http://www.cbirc.gov.cn/",
+        "label": "金融监管总局"
+      },
+      {
+        "url": "http://www.csrc.gov.cn/pub/newsite/",
+        "label": "中国证监会"
+      },
+      {
+        "url": "http://www.nrta.gov.cn/",
+        "label": "广电总局"
+      },
+      {
+        "url": "http://www.sport.gov.cn/",
+        "label": "体育总局"
+      },
+      {
+        "url": "http://www.gjxfj.gov.cn/",
+        "label": "国家信访局"
+      },
+      {
+        "url": "http://www.stats.gov.cn/",
+        "label": "国家统计局"
+      },
+      {
+        "url": "https://www.cnipa.gov.cn/",
+        "label": "国家知识产权局"
+      },
+      {
+        "url": "http://www.cidca.gov.cn/",
+        "label": "国家国际发展合作署"
+      },
+      {
+        "url": "http://www.nhsa.gov.cn/",
+        "label": "国家医保局"
+      },
+      {
+        "url": "http://www.counsellor.gov.cn/",
+        "label": "国务院参事室"
+      },
+      {
+        "url": "http://www.ggj.gov.cn/",
+        "label": "国管局"
+      },
+      {
+        "url": "http://www.gov.cn/guoqing/2005-12/26/content_2652073.htm",
+        "label": "国务院研究室"
+      },
+      {
+        "url": "https://www.gqb.gov.cn/",
+        "label": "国务院侨办"
+      },
+      {
+        "url": "http://www.hmo.gov.cn/",
+        "label": "国务院港澳办"
+      },
+      {
+        "url": "http://www.gwytb.gov.cn/",
+        "label": "国务院台办"
+      },
+      {
+        "url": "http://www.cac.gov.cn/",
+        "label": "国家网信办"
+      },
+      {
+        "url": "http://www.scio.gov.cn/",
+        "label": "国务院新闻办"
+      },
+      {
+        "url": "http://203.192.6.89/xhs/",
+        "label": "新华社"
+      },
+      {
+        "url": "http://www.cas.cn/",
+        "label": "中国科学院"
+      },
+      {
+        "url": "http://www.cssn.cn/",
+        "label": "中国社科院"
+      },
+      {
+        "url": "http://www.cae.cn/cae/html/main/index.html",
+        "label": "中国工程院"
+      },
+      {
+        "url": "http://www.drc.gov.cn/",
+        "label": "国务院发展研究中心"
+      },
+      {
+        "url": "http://www.cnr.cn/",
+        "label": "中央广电总台"
+      },
+      {
+        "url": "http://www.cma.gov.cn/",
+        "label": "中国气象局"
+      },
+      {
+        "url": "http://www.lswz.gov.cn/",
+        "label": "国家粮食和物资储备局"
+      },
+      {
+        "url": "http://www.nea.gov.cn/",
+        "label": "国家能源局"
+      },
+      {
+        "url": "http://www.sastind.gov.cn/",
+        "label": "国家国防科工局"
+      },
+      {
+        "url": "http://www.tobacco.gov.cn/gjyc/index.shtml",
+        "label": "国家烟草局"
+      },
+      {
+        "url": "https://www.nia.gov.cn/",
+        "label": "国家移民局"
+      },
+      {
+        "url": "http://www.forestry.gov.cn/",
+        "label": "国家林草局"
+      },
+      {
+        "url": "http://www.nra.gov.cn/",
+        "label": "国家铁路局"
+      },
+      {
+        "url": "http://www.caac.gov.cn/",
+        "label": "中国民航局"
+      },
+      {
+        "url": "http://www.spb.gov.cn/",
+        "label": "国家邮政局"
+      },
+      {
+        "url": "http://www.ncha.gov.cn/",
+        "label": "国家文物局"
+      },
+      {
+        "url": "http://www.natcm.gov.cn/",
+        "label": "国家中医药局"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmdcxmml/202302/t20230215_1907008.html",
+        "label": "国家疾控局"
+      },
+      {
+        "url": "https://www.chinamine-safety.gov.cn/?ivk_sa=1024320u",
+        "label": "国家矿山安监局"
+      },
+      {
+        "url": "https://www.119.gov.cn/",
+        "label": "国家消防救援局"
+      },
+      {
+        "url": "http://www.safe.gov.cn/",
+        "label": "国家外汇局"
+      },
+      {
+        "url": "https://www.nmpa.gov.cn/",
+        "label": "国家药监局"
+      },
+      {
+        "url": "http://www.beijing.gov.cn/",
+        "label": "北京"
+      },
+      {
+        "url": "http://www.tj.gov.cn/",
+        "label": "天津"
+      },
+      {
+        "url": "http://www.hebei.gov.cn/",
+        "label": "河北"
+      },
+      {
+        "url": "http://www.shanxi.gov.cn/",
+        "label": "山西"
+      },
+      {
+        "url": "http://www.nmg.gov.cn",
+        "label": "内蒙古"
+      },
+      {
+        "url": "http://www.ln.gov.cn/",
+        "label": "辽宁"
+      },
+      {
+        "url": "http://www.jl.gov.cn/",
+        "label": "吉林"
+      },
+      {
+        "url": "http://www.hlj.gov.cn/",
+        "label": "黑龙江"
+      },
+      {
+        "url": "http://www.shanghai.gov.cn/",
+        "label": "上海"
+      },
+      {
+        "url": "http://www.jiangsu.gov.cn/",
+        "label": "江苏"
+      },
+      {
+        "url": "http://www.zj.gov.cn/",
+        "label": "浙江"
+      },
+      {
+        "url": "http://www.ah.gov.cn/",
+        "label": "安徽"
+      },
+      {
+        "url": "http://www.fujian.gov.cn/",
+        "label": "福建"
+      },
+      {
+        "url": "http://www.jiangxi.gov.cn/",
+        "label": "江西"
+      },
+      {
+        "url": "http://www.shandong.gov.cn/",
+        "label": "山东"
+      },
+      {
+        "url": "http://www.henan.gov.cn/",
+        "label": "河南"
+      },
+      {
+        "url": "http://www.hubei.gov.cn/",
+        "label": "湖北"
+      },
+      {
+        "url": "http://www.hunan.gov.cn/",
+        "label": "湖南"
+      },
+      {
+        "url": "http://www.gd.gov.cn/",
+        "label": "广东"
+      },
+      {
+        "url": "http://www.gxzf.gov.cn/",
+        "label": "广西"
+      },
+      {
+        "url": "http://www.hainan.gov.cn/",
+        "label": "海南"
+      },
+      {
+        "url": "http://www.cq.gov.cn/",
+        "label": "重庆"
+      },
+      {
+        "url": "http://www.sc.gov.cn/",
+        "label": "四川"
+      },
+      {
+        "url": "http://www.guizhou.gov.cn/",
+        "label": "贵州"
+      },
+      {
+        "url": "http://www.yn.gov.cn/",
+        "label": "云南"
+      },
+      {
+        "url": "http://www.xizang.gov.cn/",
+        "label": "西藏"
+      },
+      {
+        "url": "http://www.shaanxi.gov.cn/",
+        "label": "陕西"
+      },
+      {
+        "url": "http://www.gansu.gov.cn/",
+        "label": "甘肃"
+      },
+      {
+        "url": "http://www.qinghai.gov.cn/",
+        "label": "青海"
+      },
+      {
+        "url": "http://www.nx.gov.cn/",
+        "label": "宁夏"
+      },
+      {
+        "url": "http://www.xinjiang.gov.cn/",
+        "label": "新疆"
+      },
+      {
+        "url": "http://www.xjbt.gov.cn/",
+        "label": "兵团"
+      },
+      {
+        "url": "https://tjj.beijing.gov.cn/",
+        "label": "北京局"
+      },
+      {
+        "url": "http://stats.tj.gov.cn",
+        "label": "天津局"
+      },
+      {
+        "url": "http://tjj.hebei.gov.cn/",
+        "label": "河北局"
+      },
+      {
+        "url": "http://tjj.shanxi.gov.cn/",
+        "label": "山西局"
+      },
+      {
+        "url": "http://tj.nmg.gov.cn/",
+        "label": "内蒙古局"
+      },
+      {
+        "url": "http://tjj.ln.gov.cn/",
+        "label": "辽宁局"
+      },
+      {
+        "url": "http://tjj.jl.gov.cn/",
+        "label": "吉林局"
+      },
+      {
+        "url": "http://tjj.hlj.gov.cn/",
+        "label": "黑龙江局"
+      },
+      {
+        "url": "http://tjj.sh.gov.cn/",
+        "label": "上海局"
+      },
+      {
+        "url": "http://tj.jiangsu.gov.cn/index.html",
+        "label": "江苏局"
+      },
+      {
+        "url": "http://tjj.zj.gov.cn/",
+        "label": "浙江局"
+      },
+      {
+        "url": "http://tjj.ah.gov.cn/",
+        "label": "安徽局"
+      },
+      {
+        "url": "http://tjj.fujian.gov.cn/",
+        "label": "福建局"
+      },
+      {
+        "url": "http://tjj.jiangxi.gov.cn/",
+        "label": "江西局"
+      },
+      {
+        "url": "http://tjj.shandong.gov.cn/",
+        "label": "山东局"
+      },
+      {
+        "url": "http://tjj.henan.gov.cn/",
+        "label": "河南局"
+      },
+      {
+        "url": "http://tjj.hubei.gov.cn",
+        "label": "湖北局"
+      },
+      {
+        "url": "http://tjj.hunan.gov.cn/",
+        "label": "湖南局"
+      },
+      {
+        "url": "http://stats.gd.gov.cn/",
+        "label": "广东局"
+      },
+      {
+        "url": "http://tjj.gxzf.gov.cn/",
+        "label": "广西局"
+      },
+      {
+        "url": "http://stats.hainan.gov.cn",
+        "label": "海南局"
+      },
+      {
+        "url": "http://tjj.cq.gov.cn/",
+        "label": "重庆局"
+      },
+      {
+        "url": "http://tjj.sc.gov.cn/",
+        "label": "四川局"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/",
+        "label": "贵州局"
+      },
+      {
+        "url": "http://stats.yn.gov.cn/",
+        "label": "云南局"
+      },
+      {
+        "url": "http://tjj.xizang.gov.cn/",
+        "label": "西藏局"
+      },
+      {
+        "url": "http://tjj.shaanxi.gov.cn/",
+        "label": "陕西局"
+      },
+      {
+        "url": "http://tjj.gansu.gov.cn/",
+        "label": "甘肃局"
+      },
+      {
+        "url": "http://tjj.qinghai.gov.cn/",
+        "label": "青海局"
+      },
+      {
+        "url": "http://tj.nx.gov.cn/",
+        "label": "宁夏局"
+      },
+      {
+        "url": "http://tjj.xinjiang.gov.cn/",
+        "label": "新疆局"
+      },
+      {
+        "url": "http://tjj.xjbt.gov.cn/",
+        "label": "兵团局"
+      },
+      {
+        "url": "http://tjzd.stats.gov.cn/",
+        "label": "天津总队"
+      },
+      {
+        "url": "http://sxzd.stats.gov.cn/",
+        "label": "山西总队"
+      },
+      {
+        "url": "https://jszd.stats.gov.cn/",
+        "label": "江苏总队"
+      },
+      {
+        "url": "http://zjzd.stats.gov.cn/",
+        "label": "浙江总队"
+      },
+      {
+        "url": "http://ahzd.stats.gov.cn",
+        "label": "安徽总队"
+      },
+      {
+        "url": "http://hazd.stats.gov.cn/",
+        "label": "河南总队"
+      },
+      {
+        "url": "http://hnzd.stats.gov.cn/",
+        "label": "湖南总队"
+      },
+      {
+        "url": "http://gdzd.stats.gov.cn/",
+        "label": "广东总队"
+      },
+      {
+        "url": "http://ynzd.stats.gov.cn/",
+        "label": "云南总队"
+      },
+      {
+        "url": "http://snzd.stats.gov.cn",
+        "label": "陕西总队"
+      },
+      {
+        "url": "http://xjzd.stats.gov.cn/",
+        "label": "新疆总队"
+      },
+      {
+        "url": "http://dczd.xjbt.gov.cn/",
+        "label": "兵团总队"
+      },
+      {
+        "url": "http://www.nssc.stats.gov.cn",
+        "label": "中国统计学会"
+      },
+      {
+        "url": "https://www.un.org/zh/",
+        "label": "联合国"
+      },
+      {
+        "url": "https://www.un.org/zh/desa",
+        "label": "联合国经济和社会事务部"
+      },
+      {
+        "url": "https://unstats.un.org/UNSDWebsite/",
+        "label": "联合国统计司"
+      },
+      {
+        "url": "http://www.wto.org/",
+        "label": "世贸组织"
+      },
+      {
+        "url": "http://www.fao.org/",
+        "label": "粮农组织"
+      },
+      {
+        "url": "http://www.ilo.org/global/lang--en/index.htm",
+        "label": "劳工组织"
+      },
+      {
+        "url": "http://www.imf.org/external/chinese/index.htm",
+        "label": "基金组织"
+      },
+      {
+        "url": "https://www.unido.org/",
+        "label": "工发组织"
+      },
+      {
+        "url": "http://en.unesco.org/",
+        "label": "教科文组织"
+      },
+      {
+        "url": "https://www.who.int/",
+        "label": "世卫组织"
+      },
+      {
+        "url": "https://www.worldbank.org/en/home",
+        "label": "世界银行"
+      },
+      {
+        "url": "http://europa.eu/index_en.htm",
+        "label": "欧盟"
+      },
+      {
+        "url": "https://www.oecd.org/",
+        "label": "经合组织"
+      },
+      {
+        "url": "http://www.undp.org/content/undp/en/home.html",
+        "label": "联合国开发署"
+      },
+      {
+        "url": "http://www.unfpa.org/public/",
+        "label": "联合国人口基金"
+      },
+      {
+        "url": "https://www.unenvironment.org/",
+        "label": "联合国环境署"
+      },
+      {
+        "url": "https://www.unicef.org/",
+        "label": "联合国儿童基金"
+      },
+      {
+        "url": "http://www.wfp.org/",
+        "label": "世界粮食计划署"
+      },
+      {
+        "url": "https://www.stats.gov.cn/xglj/gjzz/202302/t20230219_1913504.html",
+        "label": "国际组织网站"
+      },
+      {
+        "url": "https://www.stats.gov.cn/wzgl/202302/t20230217_1912858.html",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://www.stats.gov.cn/wzgl/202302/t20230217_1912857.html",
+        "label": "服务条款"
+      },
+      {
+        "url": "https://www.stats.gov.cn/wzgl/wzdt/",
+        "label": "网站地图"
+      },
+      {
+        "url": "https://beian.miit.gov.cn",
+        "label": "京ICP备05034670号-2"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11040102700142",
+        "label": "京公网安备 11040102700142号"
+      },
+      {
+        "url": "http://www.gov.cn/",
+        "label": "中央人民政府门户网站"
+      },
+      {
+        "url": "http://www.fmprc.gov.cn/",
+        "label": "外交部"
+      },
+      {
+        "url": "http://www.mod.gov.cn/",
+        "label": "国防部"
+      },
+      {
+        "url": "http://www.ndrc.gov.cn/",
+        "label": "国家发展改革委"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.most.gov.cn/",
+        "label": "科技部"
+      },
+      {
+        "url": "https://www.miit.gov.cn/",
+        "label": "工业和信息化部"
+      },
+      {
+        "url": "https://www.neac.gov.cn/",
+        "label": "国家民委"
+      },
+      {
+        "url": "http://www.mps.gov.cn/n16/index.html",
+        "label": "公安部"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmdcxmml/202302/t20230215_1907008.html",
+        "label": "国家安全部"
+      },
+      {
+        "url": "http://www.mca.gov.cn/",
+        "label": "民政部"
+      },
+      {
+        "url": "http://www.moj.gov.cn/",
+        "label": "司法部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/",
+        "label": "财政部"
+      },
+      {
+        "url": "http://www.mohrss.gov.cn/",
+        "label": "人力资源社会保障部"
+      },
+      {
+        "url": "http://www.mnr.gov.cn/",
+        "label": "自然资源部"
+      },
+      {
+        "url": "http://www.mee.gov.cn/",
+        "label": "生态环境部"
+      },
+      {
+        "url": "http://www.mohurd.gov.cn/",
+        "label": "住房城乡建设部"
+      },
+      {
+        "url": "http://www.mot.gov.cn/",
+        "label": "交通运输部"
+      },
+      {
+        "url": "http://www.mwr.gov.cn/",
+        "label": "水利部"
+      },
+      {
+        "url": "http://www.moa.gov.cn/",
+        "label": "农业农村部"
+      },
+      {
+        "url": "http://www.mofcom.gov.cn/",
+        "label": "商务部"
+      },
+      {
+        "url": "http://www.mct.gov.cn/",
+        "label": "文化和旅游部"
+      },
+      {
+        "url": "http://www.nhc.gov.cn/",
+        "label": "国家卫生健康委"
+      },
+      {
+        "url": "http://www.mva.gov.cn/",
+        "label": "退役军人事务部"
+      },
+      {
+        "url": "http://www.mem.gov.cn/",
+        "label": "应急管理部"
+      },
+      {
+        "url": "http://www.pbc.gov.cn/",
+        "label": "中国人民银行"
+      },
+      {
+        "url": "http://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "http://www.sasac.gov.cn/",
+        "label": "国务院国资委"
+      },
+      {
+        "url": "http://www.customs.gov.cn/",
+        "label": "海关总署"
+      },
+      {
+        "url": "http://www.chinatax.gov.cn/",
+        "label": "税务总局"
+      },
+      {
+        "url": "http://www.samr.gov.cn/",
+        "label": "市场监管总局"
+      },
+      {
+        "url": "http://www.cbirc.gov.cn/",
+        "label": "金融监管总局"
+      },
+      {
+        "url": "http://www.csrc.gov.cn/pub/newsite/",
+        "label": "中国证监会"
+      },
+      {
+        "url": "http://www.nrta.gov.cn/",
+        "label": "广电总局"
+      },
+      {
+        "url": "http://www.sport.gov.cn/",
+        "label": "体育总局"
+      },
+      {
+        "url": "http://www.gjxfj.gov.cn/",
+        "label": "国家信访局"
+      },
+      {
+        "url": "http://www.stats.gov.cn/",
+        "label": "国家统计局"
+      },
+      {
+        "url": "https://www.cnipa.gov.cn/",
+        "label": "国家知识产权局"
+      },
+      {
+        "url": "http://www.cidca.gov.cn/",
+        "label": "国家国际发展合作署"
+      },
+      {
+        "url": "http://www.nhsa.gov.cn/",
+        "label": "国家医保局"
+      },
+      {
+        "url": "http://www.counsellor.gov.cn/",
+        "label": "国务院参事室"
+      },
+      {
+        "url": "http://www.ggj.gov.cn/",
+        "label": "国管局"
+      },
+      {
+        "url": "http://www.gov.cn/guoqing/2005-12/26/content_2652073.htm",
+        "label": "国务院研究室"
+      },
+      {
+        "url": "https://www.gqb.gov.cn/",
+        "label": "国务院侨办"
+      },
+      {
+        "url": "http://www.hmo.gov.cn/",
+        "label": "国务院港澳办"
+      },
+      {
+        "url": "http://www.gwytb.gov.cn/",
+        "label": "国务院台办"
+      },
+      {
+        "url": "http://www.cac.gov.cn/",
+        "label": "国家网信办"
+      },
+      {
+        "url": "http://www.scio.gov.cn/",
+        "label": "国务院新闻办"
+      },
+      {
+        "url": "http://203.192.6.89/xhs/",
+        "label": "新华社"
+      },
+      {
+        "url": "http://www.cas.cn/",
+        "label": "中国科学院"
+      },
+      {
+        "url": "http://www.cssn.cn/",
+        "label": "中国社科院"
+      },
+      {
+        "url": "http://www.cae.cn/cae/html/main/index.html",
+        "label": "中国工程院"
+      },
+      {
+        "url": "http://www.drc.gov.cn/",
+        "label": "国务院发展研究中心"
+      },
+      {
+        "url": "http://www.cnr.cn/",
+        "label": "中央广电总台"
+      },
+      {
+        "url": "http://www.cma.gov.cn/",
+        "label": "中国气象局"
+      },
+      {
+        "url": "http://www.lswz.gov.cn/",
+        "label": "国家粮食和物资储备局"
+      },
+      {
+        "url": "http://www.nea.gov.cn/",
+        "label": "国家能源局"
+      },
+      {
+        "url": "http://www.sastind.gov.cn/",
+        "label": "国家国防科工局"
+      },
+      {
+        "url": "http://www.tobacco.gov.cn/gjyc/index.shtml",
+        "label": "国家烟草局"
+      },
+      {
+        "url": "https://www.nia.gov.cn/",
+        "label": "国家移民局"
+      },
+      {
+        "url": "http://www.forestry.gov.cn/",
+        "label": "国家林草局"
+      },
+      {
+        "url": "http://www.nra.gov.cn/",
+        "label": "国家铁路局"
+      },
+      {
+        "url": "http://www.caac.gov.cn/",
+        "label": "中国民航局"
+      },
+      {
+        "url": "http://www.spb.gov.cn/",
+        "label": "国家邮政局"
+      },
+      {
+        "url": "http://www.ncha.gov.cn/",
+        "label": "国家文物局"
+      },
+      {
+        "url": "http://www.natcm.gov.cn/",
+        "label": "国家中医药局"
+      },
+      {
+        "url": "https://www.stats.gov.cn/fw/bmdcxmsp/bmdcxmml/202302/t20230215_1907008.html",
+        "label": "国家疾控局"
+      },
+      {
+        "url": "https://www.chinamine-safety.gov.cn/?ivk_sa=1024320u",
+        "label": "国家矿山安监局"
+      },
+      {
+        "url": "https://www.119.gov.cn/",
+        "label": "国家消防救援局"
+      },
+      {
+        "url": "http://www.safe.gov.cn/",
+        "label": "国家外汇局"
+      },
+      {
+        "url": "https://www.nmpa.gov.cn/",
+        "label": "国家药监局"
+      },
+      {
+        "url": "http://www.beijing.gov.cn/",
+        "label": "北京"
+      },
+      {
+        "url": "http://www.tj.gov.cn/",
+        "label": "天津"
+      },
+      {
+        "url": "http://www.hebei.gov.cn/",
+        "label": "河北"
+      },
+      {
+        "url": "http://www.shanxi.gov.cn/",
+        "label": "山西"
+      },
+      {
+        "url": "http://www.nmg.gov.cn",
+        "label": "内蒙古"
+      },
+      {
+        "url": "http://www.ln.gov.cn/",
+        "label": "辽宁"
+      },
+      {
+        "url": "http://www.jl.gov.cn/",
+        "label": "吉林"
+      },
+      {
+        "url": "http://www.hlj.gov.cn/",
+        "label": "黑龙江"
+      },
+      {
+        "url": "http://www.shanghai.gov.cn/",
+        "label": "上海"
+      },
+      {
+        "url": "http://www.jiangsu.gov.cn/",
+        "label": "江苏"
+      },
+      {
+        "url": "http://www.zj.gov.cn/",
+        "label": "浙江"
+      },
+      {
+        "url": "http://www.ah.gov.cn/",
+        "label": "安徽"
+      },
+      {
+        "url": "http://www.fujian.gov.cn/",
+        "label": "福建"
+      },
+      {
+        "url": "http://www.jiangxi.gov.cn/",
+        "label": "江西"
+      },
+      {
+        "url": "http://www.shandong.gov.cn/",
+        "label": "山东"
+      },
+      {
+        "url": "http://www.henan.gov.cn/",
+        "label": "河南"
+      },
+      {
+        "url": "http://www.hubei.gov.cn/",
+        "label": "湖北"
+      },
+      {
+        "url": "http://www.hunan.gov.cn/",
+        "label": "湖南"
+      },
+      {
+        "url": "http://www.gd.gov.cn/",
+        "label": "广东"
+      },
+      {
+        "url": "http://www.gxzf.gov.cn/",
+        "label": "广西"
+      },
+      {
+        "url": "http://www.hainan.gov.cn/",
+        "label": "海南"
+      },
+      {
+        "url": "http://www.cq.gov.cn/",
+        "label": "重庆"
+      },
+      {
+        "url": "http://www.sc.gov.cn/",
+        "label": "四川"
+      },
+      {
+        "url": "http://www.guizhou.gov.cn/",
+        "label": "贵州"
+      },
+      {
+        "url": "http://www.yn.gov.cn/",
+        "label": "云南"
+      },
+      {
+        "url": "http://www.xizang.gov.cn/",
+        "label": "西藏"
+      },
+      {
+        "url": "http://www.shaanxi.gov.cn/",
+        "label": "陕西"
+      },
+      {
+        "url": "http://www.gansu.gov.cn/",
+        "label": "甘肃"
+      },
+      {
+        "url": "http://www.qinghai.gov.cn/",
+        "label": "青海"
+      },
+      {
+        "url": "http://www.nx.gov.cn/",
+        "label": "宁夏"
+      },
+      {
+        "url": "http://www.xinjiang.gov.cn/",
+        "label": "新疆"
+      },
+      {
+        "url": "http://www.xjbt.gov.cn/",
+        "label": "兵团"
+      },
+      {
+        "url": "https://tjj.beijing.gov.cn/",
+        "label": "北京局"
+      },
+      {
+        "url": "http://stats.tj.gov.cn",
+        "label": "天津局"
+      },
+      {
+        "url": "http://tjj.hebei.gov.cn/",
+        "label": "河北局"
+      },
+      {
+        "url": "http://tjj.shanxi.gov.cn/",
+        "label": "山西局"
+      },
+      {
+        "url": "http://tj.nmg.gov.cn/",
+        "label": "内蒙古局"
+      },
+      {
+        "url": "http://tjj.ln.gov.cn/",
+        "label": "辽宁局"
+      },
+      {
+        "url": "http://tjj.jl.gov.cn/",
+        "label": "吉林局"
+      },
+      {
+        "url": "http://tjj.hlj.gov.cn/",
+        "label": "黑龙江局"
+      },
+      {
+        "url": "http://tjj.sh.gov.cn/",
+        "label": "上海局"
+      },
+      {
+        "url": "http://tj.jiangsu.gov.cn/index.html",
+        "label": "江苏局"
+      },
+      {
+        "url": "http://tjj.zj.gov.cn/",
+        "label": "浙江局"
+      },
+      {
+        "url": "http://tjj.ah.gov.cn/",
+        "label": "安徽局"
+      },
+      {
+        "url": "http://tjj.fujian.gov.cn/",
+        "label": "福建局"
+      },
+      {
+        "url": "http://tjj.jiangxi.gov.cn/",
+        "label": "江西局"
+      },
+      {
+        "url": "http://tjj.shandong.gov.cn/",
+        "label": "山东局"
+      },
+      {
+        "url": "http://tjj.henan.gov.cn/",
+        "label": "河南局"
+      },
+      {
+        "url": "http://tjj.hubei.gov.cn",
+        "label": "湖北局"
+      },
+      {
+        "url": "http://tjj.hunan.gov.cn/",
+        "label": "湖南局"
+      },
+      {
+        "url": "http://stats.gd.gov.cn/",
+        "label": "广东局"
+      },
+      {
+        "url": "http://tjj.gxzf.gov.cn/",
+        "label": "广西局"
+      },
+      {
+        "url": "http://stats.hainan.gov.cn",
+        "label": "海南局"
+      },
+      {
+        "url": "http://tjj.cq.gov.cn/",
+        "label": "重庆局"
+      },
+      {
+        "url": "http://tjj.sc.gov.cn/",
+        "label": "四川局"
+      },
+      {
+        "url": "http://stjj.guizhou.gov.cn/",
+        "label": "贵州局"
+      },
+      {
+        "url": "http://stats.yn.gov.cn/",
+        "label": "云南局"
+      },
+      {
+        "url": "http://tjj.xizang.gov.cn/",
+        "label": "西藏局"
+      },
+      {
+        "url": "http://tjj.shaanxi.gov.cn/",
+        "label": "陕西局"
+      },
+      {
+        "url": "http://tjj.gansu.gov.cn/",
+        "label": "甘肃局"
+      },
+      {
+        "url": "http://tjj.qinghai.gov.cn/",
+        "label": "青海局"
+      },
+      {
+        "url": "http://tj.nx.gov.cn/",
+        "label": "宁夏局"
+      },
+      {
+        "url": "http://tjj.xinjiang.gov.cn/",
+        "label": "新疆局"
+      },
+      {
+        "url": "http://tjj.xjbt.gov.cn/",
+        "label": "兵团局"
+      },
+      {
+        "url": "http://tjzd.stats.gov.cn/",
+        "label": "天津总队"
+      },
+      {
+        "url": "http://sxzd.stats.gov.cn/",
+        "label": "山西总队"
+      },
+      {
+        "url": "https://jszd.stats.gov.cn/",
+        "label": "江苏总队"
+      },
+      {
+        "url": "http://zjzd.stats.gov.cn/",
+        "label": "浙江总队"
+      },
+      {
+        "url": "http://ahzd.stats.gov.cn",
+        "label": "安徽总队"
+      },
+      {
+        "url": "http://hazd.stats.gov.cn/",
+        "label": "河南总队"
+      },
+      {
+        "url": "http://hnzd.stats.gov.cn/",
+        "label": "湖南总队"
+      },
+      {
+        "url": "http://gdzd.stats.gov.cn/",
+        "label": "广东总队"
+      },
+      {
+        "url": "http://ynzd.stats.gov.cn/",
+        "label": "云南总队"
+      },
+      {
+        "url": "http://snzd.stats.gov.cn",
+        "label": "陕西总队"
+      },
+      {
+        "url": "http://xjzd.stats.gov.cn/",
+        "label": "新疆总队"
+      },
+      {
+        "url": "http://dczd.xjbt.gov.cn/",
+        "label": "兵团总队"
+      },
+      {
+        "url": "http://www.nssc.stats.gov.cn",
+        "label": "中国统计学会"
+      },
+      {
+        "url": "https://www.un.org/zh/",
+        "label": "联合国"
+      },
+      {
+        "url": "https://www.un.org/zh/desa",
+        "label": "联合国经济和社会事务部"
+      },
+      {
+        "url": "https://unstats.un.org/UNSDWebsite/",
+        "label": "联合国统计司"
+      },
+      {
+        "url": "http://www.wto.org/",
+        "label": "世贸组织"
+      },
+      {
+        "url": "http://www.fao.org/",
+        "label": "粮农组织"
+      },
+      {
+        "url": "http://www.ilo.org/global/lang--en/index.htm",
+        "label": "劳工组织"
+      },
+      {
+        "url": "http://www.imf.org/external/chinese/index.htm",
+        "label": "基金组织"
+      },
+      {
+        "url": "https://www.unido.org/",
+        "label": "工发组织"
+      },
+      {
+        "url": "http://en.unesco.org/",
+        "label": "教科文组织"
+      },
+      {
+        "url": "https://www.who.int/",
+        "label": "世卫组织"
+      },
+      {
+        "url": "https://www.worldbank.org/en/home",
+        "label": "世界银行"
+      },
+      {
+        "url": "http://europa.eu/index_en.htm",
+        "label": "欧盟"
+      },
+      {
+        "url": "https://www.oecd.org/",
+        "label": "经合组织"
+      },
+      {
+        "url": "http://www.undp.org/content/undp/en/home.html",
+        "label": "联合国开发署"
+      },
+      {
+        "url": "http://www.unfpa.org/public/",
+        "label": "联合国人口基金"
+      },
+      {
+        "url": "https://www.unenvironment.org/",
+        "label": "联合国环境署"
+      },
+      {
+        "url": "https://www.unicef.org/",
+        "label": "联合国儿童基金"
+      },
+      {
+        "url": "http://www.wfp.org/",
+        "label": "世界粮食计划署"
+      },
+      {
+        "url": "https://www.stats.gov.cn/xglj/gjzz/202302/t20230219_1913504.html",
+        "label": "国际组织网站"
+      }
+    ]
+  },
+  {
+    "key": "finance_gap_suzhou_reporting_2023",
+    "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202302/2cec361eab264f8ea6befd568b0a6547.shtml",
+    "status": "downloaded",
+    "bytes": 135820,
+    "sha256": "5bf0f0de4594edd4305442d8f90b2a342f5d66a4f1531cfb9c1fc4d6559d8979",
+    "path": "raw\\finance_gap_suzhou_reporting_2023.html",
+    "links": [
+      {
+        "url": "https://www.suzhou.gov.cn/2023nzt/oldztzl/lnrslhzt.shtml",
+        "label": "老年服务"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "无障碍"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "关怀版"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "繁体"
+      },
+      {
+        "url": "https://english.suzhou.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "https://japanese.suzhou.gov.cn",
+        "label": "日本語"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/ghwd/znwd/index.html",
+        "label": "智能问答"
+      },
+      {
+        "url": "http://webmail.smart.suzhou.gov.cn",
+        "label": "政务邮箱"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/ghwd/znwd/index.html",
+        "label": "智能问答"
+      },
+      {
+        "url": "http://webmail.smart.suzhou.gov.cn",
+        "label": "政务邮箱登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "繁体"
+      },
+      {
+        "url": "https://english.suzhou.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "https://japanese.suzhou.gov.cn",
+        "label": "日本語"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/szsrmzf/index.shtml",
+        "label": ""
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/szsrmzf/szgl/szgl.shtml",
+        "label": "苏州概览"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/szsrmzf/xwzx/xwzx.shtml",
+        "label": "新闻中心"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/szsrmzf/szsxxgk/xxgk.shtml",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/szsrmzf/zwfw/bsfw.shtml",
+        "label": "办事服务"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/szsrmzf/zmhd/zmhd.shtml",
+        "label": "政民互动"
+      },
+      {
+        "url": "https://data.suzhou.gov.cn/",
+        "label": "数据开放"
+      },
+      {
+        "url": "https://www.gov.cn/",
+        "label": "中国政府网"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "苏州辖市（区）网站"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "苏州市政务网站"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "省（区市）政府网站"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "江苏省设区市网站"
+      },
+      {
+        "url": "http://www.zjg.gov.cn/",
+        "label": "张家港市人民政府"
+      },
+      {
+        "url": "http://www.changshu.gov.cn/",
+        "label": "常熟市人民政府"
+      },
+      {
+        "url": "http://www.taicang.gov.cn/",
+        "label": "太仓市人民政府"
+      },
+      {
+        "url": "http://www.ks.gov.cn/",
+        "label": "昆山市人民政府"
+      },
+      {
+        "url": "http://www.wujiang.gov.cn/",
+        "label": "吴江区人民政府"
+      },
+      {
+        "url": "http://www.szwz.gov.cn",
+        "label": "吴中区人民政府"
+      },
+      {
+        "url": "http://www.szxc.gov.cn",
+        "label": "相城区人民政府"
+      },
+      {
+        "url": "http://www.gusu.gov.cn/",
+        "label": "姑苏区人民政府"
+      },
+      {
+        "url": "http://www.sipac.gov.cn/",
+        "label": "苏州工业园区管委会"
+      },
+      {
+        "url": "http://www.snd.gov.cn",
+        "label": "苏州高新区管委会（虎丘区人民政府）"
+      },
+      {
+        "url": "http://fg.suzhou.gov.cn/",
+        "label": "苏州市发展和改革委员会"
+      },
+      {
+        "url": "http://jyj.suzhou.gov.cn/",
+        "label": "苏州市教育局"
+      },
+      {
+        "url": "http://kjj.suzhou.gov.cn/",
+        "label": "苏州市科学技术局"
+      },
+      {
+        "url": "http://gxj.suzhou.gov.cn/",
+        "label": "苏州市工业和信息化局"
+      },
+      {
+        "url": "http://mzzjswj.suzhou.gov.cn/",
+        "label": "苏州市民族宗教事务局"
+      },
+      {
+        "url": "http://gonganju.suzhou.gov.cn/",
+        "label": "苏州市公安局"
+      },
+      {
+        "url": "http://minzhengju.suzhou.gov.cn/",
+        "label": "苏州市民政局"
+      },
+      {
+        "url": "http://sfj.suzhou.gov.cn/",
+        "label": "苏州市司法局"
+      },
+      {
+        "url": "http://czju.suzhou.gov.cn/",
+        "label": "苏州市财政局"
+      },
+      {
+        "url": "http://hrss.suzhou.gov.cn",
+        "label": "苏州市人力资源和社会保障局"
+      },
+      {
+        "url": "http://zrzy.jiangsu.gov.cn/sz/",
+        "label": "苏州市自然资源和规划局"
+      },
+      {
+        "url": "http://sthjj.suzhou.gov.cn/",
+        "label": "苏州市生态环境局"
+      },
+      {
+        "url": "http://zfcjj.suzhou.gov.cn/",
+        "label": "苏州市住房和城乡建设局"
+      },
+      {
+        "url": "http://ylj.suzhou.gov.cn",
+        "label": "苏州市园林和绿化管理局"
+      },
+      {
+        "url": "http://cgj.suzhou.gov.cn/",
+        "label": "苏州市城市管理局"
+      },
+      {
+        "url": "http://jtj.suzhou.gov.cn/",
+        "label": "苏州市交通运输局"
+      },
+      {
+        "url": "http://water.suzhou.gov.cn/",
+        "label": "苏州市水务局"
+      },
+      {
+        "url": "http://nyncj.suzhou.gov.cn/",
+        "label": "苏州市农业农村局"
+      },
+      {
+        "url": "http://commerce.suzhou.gov.cn/",
+        "label": "苏州市商务局"
+      },
+      {
+        "url": "http://wglj.suzhou.gov.cn",
+        "label": "苏州市文化广电和旅游局"
+      },
+      {
+        "url": "http://wsjkw.suzhou.gov.cn/",
+        "label": "苏州市卫生健康委员会"
+      },
+      {
+        "url": "http://tyjrswj.suzhou.gov.cn/",
+        "label": "苏州市退役军人事务局"
+      },
+      {
+        "url": "http://yjglj.suzhou.gov.cn/",
+        "label": "苏州市应急管理局"
+      },
+      {
+        "url": "http://audit.suzhou.gov.cn/",
+        "label": "苏州市审计局"
+      },
+      {
+        "url": "http://wsb.suzhou.gov.cn/",
+        "label": "苏州市人民政府外事办公室"
+      },
+      {
+        "url": "http://guozw.suzhou.gov.cn/",
+        "label": "苏州市人民政府国有资产监督管理委员会"
+      },
+      {
+        "url": "http://xzspj.suzhou.gov.cn/",
+        "label": "苏州市数据局"
+      },
+      {
+        "url": "http://scjgj.suzhou.gov.cn/",
+        "label": "苏州市市场监督管理局"
+      },
+      {
+        "url": "http://tiyuju.suzhou.gov.cn/",
+        "label": "苏州市体育局"
+      },
+      {
+        "url": "http://tjj.suzhou.gov.cn/",
+        "label": "苏州市统计局"
+      },
+      {
+        "url": "http://ybj.suzhou.gov.cn/",
+        "label": "苏州市医疗保障局"
+      },
+      {
+        "url": "http://xinfj.suzhou.gov.cn/",
+        "label": "苏州市信访局"
+      },
+      {
+        "url": "http://rfb.suzhou.gov.cn/",
+        "label": "苏州市国防动员办公室"
+      },
+      {
+        "url": "http://jrjgj.suzhou.gov.cn/",
+        "label": "苏州市地方金融管理局"
+      },
+      {
+        "url": "http://jgswj.suzhou.gov.cn",
+        "label": "苏州市机关事务管理局"
+      },
+      {
+        "url": "http://www.rd.suzhou.gov.cn/",
+        "label": "苏州市人大常委会"
+      },
+      {
+        "url": "http://www.zx.suzhou.gov.cn/",
+        "label": "政协苏州市委员会"
+      },
+      {
+        "url": "http://www.lianshi.gov.cn/",
+        "label": "中共苏州市纪委 苏州市监委"
+      },
+      {
+        "url": "http://sz.jsjc.gov.cn/",
+        "label": "苏州市人民检察院"
+      },
+      {
+        "url": "http://www.szzzb.gov.cn/",
+        "label": "中共苏州市委组织部"
+      },
+      {
+        "url": "http://www.xcb.suzhou.gov.cn/",
+        "label": "中共苏州市委宣传部"
+      },
+      {
+        "url": "https://swzfw.suzhou.gov.cn/",
+        "label": "中共苏州市委政法委员会"
+      },
+      {
+        "url": "https://szyouth.suzhou.gov.cn/",
+        "label": "共青团苏州市委员会"
+      },
+      {
+        "url": "http://szwomen.suzhou.gov.cn/",
+        "label": "苏州市妇女联合会"
+      },
+      {
+        "url": "http://www.cl.suzhou.gov.cn/",
+        "label": "苏州市残疾人联合会"
+      },
+      {
+        "url": "http://gxhzs.suzhou.gov.cn",
+        "label": "苏州市供销合作总社"
+      },
+      {
+        "url": "http://dfzb.suzhou.gov.cn/",
+        "label": "苏州市地方志工作办公室"
+      },
+      {
+        "url": "http://gjj.suzhou.gov.cn/",
+        "label": "苏州市住房公积金管理中心"
+      },
+      {
+        "url": "http://jiangsu.chinatax.gov.cn/col/col8648/",
+        "label": "苏州市税务局"
+      },
+      {
+        "url": "http://js.spb.gov.cn/jssyzglj/c102236/indexshi.shtml",
+        "label": "苏州市邮政管理局"
+      },
+      {
+        "url": "http://js.cma.gov.cn/dsjwz/szs/",
+        "label": "苏州市气象局"
+      },
+      {
+        "url": "http://ggzy.suzhou.gov.cn/",
+        "label": "苏州市公共资源交易中心"
+      },
+      {
+        "url": "https://credit.suzhou.gov.cn/",
+        "label": "信用苏州"
+      },
+      {
+        "url": "http://www.12345.suzhou.com.cn/",
+        "label": "12345苏州阳光便民"
+      },
+      {
+        "url": "http://www.beijing.gov.cn/",
+        "label": "北京市"
+      },
+      {
+        "url": "http://www.tj.gov.cn/",
+        "label": "天津市"
+      },
+      {
+        "url": "http://www.hebei.gov.cn/",
+        "label": "河北省"
+      },
+      {
+        "url": "http://www.shanxi.gov.cn/",
+        "label": "山西省"
+      },
+      {
+        "url": "http://www.nmg.gov.cn/",
+        "label": "内蒙古自治区"
+      },
+      {
+        "url": "http://www.ln.gov.cn/",
+        "label": "辽宁省"
+      },
+      {
+        "url": "http://www.jl.gov.cn/",
+        "label": "吉林省"
+      },
+      {
+        "url": "http://www.hlj.gov.cn/",
+        "label": "黑龙江省"
+      },
+      {
+        "url": "http://www.shanghai.gov.cn/",
+        "label": "上海市"
+      },
+      {
+        "url": "http://www.jiangsu.gov.cn/",
+        "label": "江苏省"
+      },
+      {
+        "url": "http://www.zj.gov.cn/",
+        "label": "浙江省"
+      },
+      {
+        "url": "http://www.ah.gov.cn/",
+        "label": "安徽省"
+      },
+      {
+        "url": "http://www.fujian.gov.cn/",
+        "label": "福建省"
+      },
+      {
+        "url": "http://www.jiangxi.gov.cn/",
+        "label": "江西省"
+      },
+      {
+        "url": "http://www.shandong.gov.cn/",
+        "label": "山东省"
+      },
+      {
+        "url": "http://www.henan.gov.cn/",
+        "label": "河南省"
+      },
+      {
+        "url": "http://www.hubei.gov.cn/",
+        "label": "湖北省"
+      },
+      {
+        "url": "http://www.hunan.gov.cn/",
+        "label": "湖南省"
+      },
+      {
+        "url": "http://www.gd.gov.cn/",
+        "label": "广东省"
+      },
+      {
+        "url": "http://www.gxzf.gov.cn/",
+        "label": "广西壮族自治区"
+      },
+      {
+        "url": "http://www.hainan.gov.cn/",
+        "label": "海南省"
+      },
+      {
+        "url": "http://www.cq.gov.cn/",
+        "label": "重庆市"
+      },
+      {
+        "url": "http://www.sc.gov.cn/",
+        "label": "四川省"
+      },
+      {
+        "url": "http://www.guizhou.gov.cn/",
+        "label": "贵州省"
+      },
+      {
+        "url": "http://www.yn.gov.cn/",
+        "label": "云南省"
+      },
+      {
+        "url": "http://www.xizang.gov.cn/",
+        "label": "西藏自治区"
+      },
+      {
+        "url": "http://www.shaanxi.gov.cn/",
+        "label": "陕西省"
+      },
+      {
+        "url": "http://www.gansu.gov.cn/",
+        "label": "甘肃省"
+      },
+      {
+        "url": "http://www.qinghai.gov.cn/",
+        "label": "青海省"
+      },
+      {
+        "url": "http://www.nx.gov.cn/",
+        "label": "宁夏回族自治区"
+      },
+      {
+        "url": "http://www.xinjiang.gov.cn/",
+        "label": "新疆维吾尔自治区"
+      },
+      {
+        "url": "http://www.gov.hk/",
+        "label": "香港特别行政区"
+      },
+      {
+        "url": "http://www.gov.mo/",
+        "label": "澳门特别行政区"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/szsrmzf/bmwj/202302/2cec361eab264f8ea6befd568b0a6547.shtml",
+        "label": "台湾省"
+      },
+      {
+        "url": "https://www.xjbt.gov.cn/",
+        "label": "新疆生产建设兵团"
+      },
+      {
+        "url": "http://www.nanjing.gov.cn/",
+        "label": "南京"
+      },
+      {
+        "url": "http://www.wuxi.gov.cn/",
+        "label": "无锡"
+      },
+      {
+        "url": "http://www.xz.gov.cn/",
+        "label": "徐州"
+      },
+      {
+        "url": "http://www.changzhou.gov.cn/",
+        "label": "常州"
+      },
+      {
+        "url": "http://www.nantong.gov.cn/",
+        "label": "南通"
+      },
+      {
+        "url": "http://www.lyg.gov.cn/",
+        "label": "连云港"
+      },
+      {
+        "url": "http://www.huaian.gov.cn/",
+        "label": "淮安"
+      },
+      {
+        "url": "http://www.yancheng.gov.cn/",
+        "label": "盐城"
+      },
+      {
+        "url": "http://www.yangzhou.gov.cn/",
+        "label": "扬州"
+      },
+      {
+        "url": "http://www.zhenjiang.gov.cn/",
+        "label": "镇江"
+      },
+      {
+        "url": "http://www.taizhou.gov.cn/",
+        "label": "泰州"
+      },
+      {
+        "url": "http://www.suqian.gov.cn/",
+        "label": "宿迁"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/szsrmzf/wzdt/map.shtml",
+        "label": "网站地图"
+      },
+      {
+        "url": "https://www.suzhou.gov.cn/szsrmzf/lxwm/wztt.shtml",
+        "label": "联系我们"
+      },
+      {
+        "url": "http://beian.miit.gov.cn/",
+        "label": "苏ICP备10219514号-1"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=32050802010561",
+        "label": "苏公网安备32050802010561号"
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=3205000002&url=http%3A%2F%2Fwww.suzhou.gov.cn%2F",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "key": "finance_gap_moe_quick_2023",
+    "url": "https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202407/t20240722_1142296.html",
+    "status": "downloaded",
+    "bytes": 9290,
+    "sha256": "fc6fa1f8202943afcf984e33c7a80fdf478befb2a75787e3ba2827f4679dd342",
+    "path": "raw\\finance_gap_moe_quick_2023.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202407/t20240722_1142297.html",
+        "label": "2023年全国教育经费执行情况统计快报公布"
+      }
+    ]
+  }
+]

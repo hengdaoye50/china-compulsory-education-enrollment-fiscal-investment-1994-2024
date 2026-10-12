@@ -1,0 +1,57 @@
+{
+  "original_tables": [
+    {
+      "year": 1995,
+      "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴1996（excel）.zip",
+      "table": "第1部分 全国教育经费支出/1-27_全国教育经费收入情况.xlsx",
+      "sha256": "5ef7ccadce62e66d5034147840609b15cd8b41634cc02dce00884f0902b5edcc"
+    },
+    {
+      "year": 1996,
+      "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴1997（excel）.zip",
+      "table": "第1部分 全国教育经费支出/1-27_全国教育经费收入情况.xlsx",
+      "sha256": "953d4adf4d62410a6a68550a990865a119a2d7859d89850f8a107b85883e25dd"
+    },
+    {
+      "year": 1997,
+      "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴1998（excel）.zip",
+      "table": "第1部分 全国教育经费支出/1-27_全国教育经费收入情况.xlsx",
+      "sha256": "9d51e0e03a8481250dbe76b39d582c223a5cf4442dbdbac2a420cc2be76f4a25"
+    },
+    {
+      "year": 1998,
+      "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴1999（excel）.zip",
+      "table": "第1部分 全国教育经费收入/1-17_全国各级各类学校教育经费收入情况.xlsx",
+      "sha256": "9f1ae18a62681f8d835c78f6cac25b82da58fca7d050b27d5c0cde1897da5710"
+    },
+    {
+      "year": 1999,
+      "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2000（excel）.zip",
+      "table": "第1部分 全国教育经费收入/1-17_全国各级各类学校教育经费收入情况.xlsx",
+      "sha256": "3b232b5f0027cfe39d468ca9d5b8d491f5200cc34dbdb9f7eb40bd61b6f6e198"
+    },
+    {
+      "year": 2000,
+      "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2001（excel）.zip",
+      "table": "第1部分 全国教育经费收入/1-17_全国各级各类学校教育经费收入情况.xlsx",
+      "sha256": "eb83753d88d065c48c9b21adc361cb2520bea8b19549ecc98e3ef4e3850d0dda"
+    },
+    {
+      "year": 2001,
+      "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2002（excel）.zip",
+      "table": "第1部分 全国教育经费收入/1-17_全国各级各类学校教育经费收入情况.xlsx",
+      "sha256": "eb8d59cb28ed11396bee93ed27d183437b040f229b23e362fc5ea581e660265e"
+    },
+    {
+      "year": 2002,
+      "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2003（excel）.zip",
+      "table": "第1部分 全国教育经费收入/1-17_全国各级各类学校教育经费收入情况.xlsx",
+      "sha256": "35dda7ac9096407984dc4863cf5c766507408d97647bd377882b8ec0fa0e0b5e"
+    }
+  ],
+  "lead_url": "https://iee.gse.pku.edu.cn/__local/F/17/07/EA022D36A72365971CEE0D45518_C9BF9A39_47837.pdf",
+  "lead_title": "王蓉：教育水平的差异与公共教育资源分配的不平等",
+  "lead_table": "表15，PDF第15—16页",
+  "lead_warning": "初稿，请勿引用；仅作原始数据检索线索。1994年尚无本地原表。",
+  "checks": "16 income totals agree exactly; 16 component sums agree within 1 thousand yuan"
+}

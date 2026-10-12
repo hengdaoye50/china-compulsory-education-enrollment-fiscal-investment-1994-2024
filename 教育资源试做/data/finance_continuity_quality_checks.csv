@@ -1,0 +1,9 @@
+﻿check,actual,expected,difference,tolerance,locator,status
+2023_reported_function_subtotal_vs_total,10158300.00,10158400.00,-100.00,150,Only explicitly reported nonblank categories; no blank-to-zero conversion,pass
+2023_personnel_plus_public_vs_basic,9924500.00,9924500.00,0.00,150,,pass
+2023_basic_plus_project_vs_total,10158400.00,10158400.00,0.00,150,,pass
+2024_reported_function_subtotal_vs_total,10611967.05,10611967.05,0.00,0.01,Only explicitly reported nonblank categories; no blank-to-zero conversion,pass
+2024_personnel_plus_public_vs_basic,10319121.73,10319121.73,0.00,0.01,,pass
+2024_basic_plus_project_vs_total,10611967.05,10611967.05,0.00,0.01,,pass
+2024_reported_economic_categories_vs_total,10611967.05,10611967.05,0.00,0.01,,pass
+2024_income_vs_expenditure,10611967.05,10611967.05,0.00,0.01,,pass

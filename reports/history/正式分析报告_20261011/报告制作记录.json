@@ -1,0 +1,71 @@
+{
+  "created_on": "2026-10-11",
+  "report_data_scope": "1995-2024 main; 1994 conditional supplement",
+  "selected_1994_method": "compulsory_budget_constraint",
+  "planned_pages": 9,
+  "figures": 8,
+  "tables": 4,
+  "regional_public_decline_counts": {
+    "primary": 8,
+    "junior": 7
+  },
+  "regional_slowdown_counts": {
+    "primary": 28,
+    "junior": 26
+  },
+  "inputs": {
+    "教育资源试做/data/早期财政重建_20261011/national_fiscal_1994_2024_report_final.csv": "1bbd8a5e1cc5fd6b76cdbd996dbd3ed5daeff756a11a5a87815e1e1e47d970b4",
+    "教育资源试做/正式学术图组_20261011/figure_data/fig01.csv": "79bcda975ef3c13c1b9ee7dca5e250b70ee550bbd85ce07d77877074f83b1a2f",
+    "教育资源试做/正式学术图组_20261011/figure_data/fig02.csv": "3d7c36c4ebd6393ccc969ec9aa34f3c067027003657ce3d59379cba06213ba2e",
+    "教育资源试做/正式学术图组_20261011/figure_data/fig03.csv": "14551504dd4a1656d6ac899c543d44195573b864ff548ac002248ea54a56c415",
+    "教育资源试做/正式学术图组_20261011/figure_data/fig04.csv": "4e5bde5e761d7f830c35ab0458296d8ab204e0e6ad80356fcdfb7677541b109f",
+    "教育资源试做/正式学术图组_20261011/figure_data/fig05.csv": "8aae79d4e87f6556acabb9043af6847cff75792a021cc2ef20fa4e33607b0a07",
+    "教育资源试做/正式学术图组_20261011/figure_data/fig06.csv": "b05f8abdd5e1562c5a0b1e5a1fce8ac5fb073a1255ebdedb392db736f015e58d",
+    "教育资源试做/正式学术图组_20261011/figure_data/fig07.csv": "31c66f02560e9bbfba0635fbe57bf0fbc0b3be4fbcf28ddfda912d3a4b0ec21b",
+    "教育资源试做/正式学术图组_20261011/figure_data/fig08.csv": "7622cff20ea151becf1913ae2e72e879341bd637bd72e9906994ad5cffbe0442"
+  },
+  "docx_sha256": "49080cb855e457e61f29e1e56b8813284d423398ce5ea411c997e9cf716bcca0",
+  "render_verified": true,
+  "actual_pages": 9,
+  "numeric_and_document_checks": {
+    "four_tables_eight_figures": true,
+    "primary_student_table": true,
+    "primary_fiscal_table": true,
+    "primary_1994_table": true,
+    "junior_student_table": true,
+    "junior_fiscal_table": true,
+    "junior_1994_table": true,
+    "growth_table_primary_1995": true,
+    "growth_table_junior_1995": true,
+    "growth_table_primary_2007": true,
+    "growth_table_junior_2007": true,
+    "growth_table_primary_2013": true,
+    "growth_table_junior_2013": true,
+    "pdf_nine_nonblank_pages": true,
+    "pdf_critical_values": true,
+    "pdf_no_replacement_glyph": true,
+    "title_no_blue_border": true,
+    "all_eight_embedded_figures_match_latest": true,
+    "source_hashes_match": true,
+    "protected_inputs_unchanged": true
+  },
+  "all_checks_passed": true,
+  "visual_review": "All nine rendered pages inspected; after equal-length wording edits, changed pages re-inspected and unchanged page hashes compared. No clipping, overflow, blank pages, blue title borders, or missing Chinese glyphs observed.",
+  "changed_pages_after_final_wording": [
+    "page-1.png",
+    "page-8.png"
+  ],
+  "page_png_sha256": {
+    "page-1.png": "98aabceac563d457e10062032ded44b24c1b7d601d07b09d5f2bc5bbbaab8836",
+    "page-2.png": "ad0d458742ea48ebd3f62ff1eb47857783a78aefd3ae1c558be998c78ddc38a1",
+    "page-3.png": "d7637e381e0519dbfdad0fc056e68b679481ad0973aee2f3181e20191afa7df9",
+    "page-4.png": "76c2d35d001c2bd486efde0161c2bd13715737b9ca4e3768d91b7463cb80f9e2",
+    "page-5.png": "33ad5846bb9827c115b57c816601eb72c082b12a29ea5c69cf8e6a4776927b07",
+    "page-6.png": "758a5e7223a90afef14fbc6f6f291aaca41a1ca58e5e9c7cc1b5d6bea4085685",
+    "page-7.png": "45cf3e8e458ee83a4d2f7439a2af2c89e2430c012c4d48e9b5ce8a3bba2eb54b",
+    "page-8.png": "acf7e585f4382e4f25897cd05bc49301d34873c4be69c3089a0acf0e795276fe",
+    "page-9.png": "d6eac3caaaac3f2cdbba97f9722d053e052919721d78fd5c0e653a5a14342ed2"
+  },
+  "final_pdf_sha256": "b5dc72d7becde6649bf0c0e6c0e9630f63a4eda4e027d70cdac869ab3cb3300f",
+  "conversion_engine": "Local LibreOffice; PDF exported from the delivered Word file, not separately typeset."
+}

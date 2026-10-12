@@ -1,0 +1,12 @@
+{
+  "province_snapshots_extracted": 1,
+  "age_rows": 20,
+  "transcribed_count_cells": 60,
+  "arithmetic_checks": 34,
+  "checks_passed": true,
+  "source_files_hashed": 6,
+  "original_note_visually_reviewed": true,
+  "annual_panel_merged": false,
+  "protected_files_unchanged": true,
+  "limit": "pilot source validation, not a national coverage audit or annual population reconstruction"
+}

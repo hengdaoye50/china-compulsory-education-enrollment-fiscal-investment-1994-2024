@@ -1,0 +1,53 @@
+{
+  "selected_method": "compulsory_budget_constraint",
+  "anchor_year": 1995,
+  "reason": "Uses contemporaneous 1994 national funding sources and compulsory-education budget share while retaining special education in allocation denominator. Stage allocation remains assumed.",
+  "estimate_status": "conditional_not_observed",
+  "scenario_definition": "Same model with 1995, 1996, 1997 stage weights. Share bounds are minima and maxima of matched scenarios, not independent ratios or confidence intervals.",
+  "1994_records": [
+    {
+      "year": 1994,
+      "stage": "junior",
+      "fiscal_thousand_yuan": 25734720.03104377,
+      "total_thousand_yuan": 32754692.736082785,
+      "budget_thousand_yuan": 18003418.705074433,
+      "accounting": "expenditure",
+      "status": "model_backcast_budget_constrained",
+      "formula": "1994_compulsory_budget_share_with_1995_stage_weights_including_special; other_sources_1994_with_1995_source_weights",
+      "source_volume": 0,
+      "fiscal_scenario_low_thousand_yuan": 25734720.03104377,
+      "fiscal_scenario_high_thousand_yuan": 26248877.188280437,
+      "total_scenario_low_thousand_yuan": 32497142.70476187,
+      "total_scenario_high_thousand_yuan": 33178876.903755292,
+      "share_scenario_low_pct": 78.56803981767851,
+      "share_scenario_high_pct": 79.71740908834755,
+      "fiscal_yi": 257.3472003104377,
+      "total_yi": 327.54692736082785,
+      "fiscal_share_pct": 78.56803981767851
+    },
+    {
+      "year": 1994,
+      "stage": "primary",
+      "fiscal_thousand_yuan": 39927189.87845117,
+      "total_thousand_yuan": 50194979.6291579,
+      "budget_thousand_yuan": 28873363.351452015,
+      "accounting": "expenditure",
+      "status": "model_backcast_budget_constrained",
+      "formula": "1994_compulsory_budget_share_with_1995_stage_weights_including_special; other_sources_1994_with_1995_source_weights",
+      "source_volume": 0,
+      "fiscal_scenario_low_thousand_yuan": 39760195.25441677,
+      "fiscal_scenario_high_thousand_yuan": 39927189.87845117,
+      "total_scenario_low_thousand_yuan": 49360830.50747115,
+      "total_scenario_high_thousand_yuan": 50194979.6291579,
+      "share_scenario_low_pct": 79.54418982423044,
+      "share_scenario_high_pct": 80.55009375986644,
+      "fiscal_yi": 399.2718987845117,
+      "total_yi": 501.949796291579,
+      "fiscal_share_pct": 79.54418982423044
+    }
+  ],
+  "1995_2024_unchanged": true,
+  "previous_series_sha256": "a799ae676a4384c1e66a8cbc0030204914c075d10a044ac24705b02122d496ac",
+  "report_series_sha256": "1bbd8a5e1cc5fd6b76cdbd996dbd3ed5daeff756a11a5a87815e1e1e47d970b4",
+  "whitepaper_594_scope_unresolved": true
+}

@@ -1,0 +1,10 @@
+﻿stage,start_year,end_year,start_students,end_students,change_pct,annualized_pct,interpretation
+primary,1995,1997,131951477,139953696,6.06451642826249,2.9876285911383027,descriptive national original series; not causal and not scope certification
+primary,1997,2013,139953696,93605487,-33.11681672201069,-2.48255626095778,descriptive national original series; not causal and not scope certification
+primary,2013,2023,93605487,108360253,15.762714850252312,1.4744883754526317,descriptive national original series; not causal and not scope certification
+primary,2023,2024,108360253,105843743,-2.3223552274282744,-2.3223552274282744,descriptive national original series; not causal and not scope certification
+primary,1995,2024,131951477,105843743,-19.7858596156525,-0.7573601291049781,descriptive national original series; not causal and not scope certification
+junior,1995,2003,46578202,66184186,42.092616627838055,4.489208390857935,descriptive national original series; not causal and not scope certification
+junior,2003,2015,66184186,43119500,-34.84924027017572,-3.507559590495546,descriptive national original series; not causal and not scope certification
+junior,2015,2024,43119500,53861621,24.91244332610536,2.5023841683616377,descriptive national original series; not causal and not scope certification
+junior,1995,2024,46578202,53861621,15.636968983903676,0.5022415777031108,descriptive national original series; not causal and not scope certification

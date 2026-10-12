@@ -1,0 +1,36 @@
+{
+  "panel_rows": 96,
+  "cells": 268,
+  "missing": [
+    {
+      "year": 2013,
+      "stage": "primary",
+      "metric": "teachers"
+    },
+    {
+      "year": 2014,
+      "stage": "primary",
+      "metric": "teachers"
+    },
+    {
+      "year": 2015,
+      "stage": "primary",
+      "metric": "teachers"
+    },
+    {
+      "year": 2016,
+      "stage": "primary",
+      "metric": "teachers"
+    },
+    {
+      "year": 2017,
+      "stage": "primary",
+      "metric": "teachers"
+    }
+  ],
+  "candidate_tables": 86,
+  "cross_source_checks": 86,
+  "cross_source_mismatches": [],
+  "digest_mismatches": 0,
+  "scope": "Published nationwide school-location categories; changing geographic membership cannot be held constant."
+}

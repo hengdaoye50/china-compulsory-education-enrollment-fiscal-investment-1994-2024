@@ -1,0 +1,20 @@
+[
+  {
+    "key": "province_finance_next_hunan_2023_attachment",
+    "url": "https://cms.jyt.hunan.gov.cn/zcms/contentcore/resource/download?ID=125566",
+    "status": "downloaded",
+    "bytes": 90685,
+    "sha256": "8bc20094d16366ca14b20dc0a20de04eaa0fe59733a7f63c83a5c01260b1b60c",
+    "path": "raw\\province_finance_next_hunan_2023_attachment.html",
+    "links": []
+  },
+  {
+    "key": "province_finance_next_hunan_reporting_2023_pdf_http",
+    "url": "http://www.hnswxy.com/uploads/soft/240517/29-24051G51211.pdf",
+    "status": "downloaded",
+    "bytes": 164949,
+    "sha256": "69da9b2f099067731bed2e8207f96e793ff1c1e8b193348887c7c20ed9cae3ad",
+    "path": "raw\\province_finance_next_hunan_reporting_2023_pdf_http.pdf",
+    "links": []
+  }
+]

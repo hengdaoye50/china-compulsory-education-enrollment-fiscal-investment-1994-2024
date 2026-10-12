@@ -1,0 +1,11 @@
+{
+  "ledger_inputs_unchanged": true,
+  "panel_checks": {
+    "target_930": true,
+    "province_year_unique": true,
+    "two_pre_1997_inapplicable": true,
+    "all_selected_positive": true,
+    "no_model_admission": true
+  },
+  "strict_spacing_individually_accepted": 73
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "key": "population_census2020_index",
+    "url": "https://www.stats.gov.cn/sj/pcsj/rkpc/7rp/zk/indexch.htm",
+    "status": "downloaded",
+    "bytes": 891,
+    "sha256": "4629d6b3f9fe5cc1b065f7fcfb3fa6e2f7f17f47e31e67307d38ac446699e4e4",
+    "path": "raw\\population_census2020_index.html",
+    "links": []
+  },
+  {
+    "key": "population_yearbook2024_index",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/indexch.htm",
+    "status": "downloaded",
+    "bytes": 887,
+    "sha256": "d7888f4b1f3a2d373735a2fbad9dfa312155614fec9003038f89bad5a5ed2534",
+    "path": "raw\\population_yearbook2024_index.html",
+    "links": []
+  }
+]

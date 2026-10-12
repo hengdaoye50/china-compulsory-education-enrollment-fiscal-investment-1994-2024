@@ -1,0 +1,10 @@
+{
+  "alternative_html_parser_cells": 424,
+  "distinct_source_files": 67,
+  "source_value_mismatches": 0,
+  "alternative_ratio_checks": 39,
+  "maximum_ratio_difference": 5.134781488891349e-16,
+  "grade_decomposition_checks": 140,
+  "visual_sha256_unchanged": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06",
+  "review_type": "Alternative parsers and formulas checked by the same analyst; not independent human review."
+}

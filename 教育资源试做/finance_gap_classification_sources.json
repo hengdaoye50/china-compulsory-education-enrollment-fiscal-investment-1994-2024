@@ -1,0 +1,464 @@
+[
+  {
+    "key": "finance_gap_pku_classification",
+    "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm",
+    "status": "downloaded",
+    "bytes": 312375,
+    "sha256": "d1e282d279a325265605b598bb4e7f84573ee95219881379e786a15fcca8169e",
+    "path": "raw\\finance_gap_pku_classification.html",
+    "links": [
+      {
+        "url": "https://ciefr.pku.edu.cn/index.htm",
+        "label": ""
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/index.htm",
+        "label": "关于我们"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/czsjj/index.htm",
+        "label": "财政所简介"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/sztd/index.htm",
+        "label": "师资团队"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/zpxx/index.htm",
+        "label": "招聘信息"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/lxwm/index.htm",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xwdt/index.htm",
+        "label": "新闻动态"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xwdt/bsdt/index.htm",
+        "label": "本所动态"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xwdt/jyczdt/index.htm",
+        "label": "教育财政动态"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/index.htm",
+        "label": "出版物"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/index.htm",
+        "label": "科研简报"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/zlhb/index.htm",
+        "label": "资料汇编"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/gzlw/index.htm",
+        "label": "工作论文"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/index.htm",
+        "label": "项目与课题"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/xqjy/index.htm",
+        "label": "学前教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/ywjy/index.htm",
+        "label": "义务教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/gzjy/index.htm",
+        "label": "高中教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/zyjy/index.htm",
+        "label": "职业教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/gdjy/index.htm",
+        "label": "高等教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/qt/index.htm",
+        "label": "其他"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xshd/index.htm",
+        "label": "学术活动"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xshd/xslt/index.htm",
+        "label": "学术论坛"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xshd/xshy/index.htm",
+        "label": "学术会议"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/sqxx/index.htm",
+        "label": "暑期学校"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/sqxx/2018/index.htm",
+        "label": "2018"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/sqxx/2017/index.htm",
+        "label": "2017"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/SummerSchool/index.htm",
+        "label": "SummerSchool"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/SummerSchool/20181/index.htm",
+        "label": "2018"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/SummerSchool/20171/index.htm",
+        "label": "2017"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/index.htm",
+        "label": "关于我们"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/czsjj/index.htm",
+        "label": "财政所简介"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/sztd/index.htm",
+        "label": "师资团队"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/zpxx/index.htm",
+        "label": "招聘信息"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/gywm/lxwm/index.htm",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xwdt/index.htm",
+        "label": "新闻动态"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xwdt/bsdt/index.htm",
+        "label": "本所动态"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xwdt/jyczdt/index.htm",
+        "label": "教育财政动态"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/index.htm",
+        "label": "出版物"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/index.htm",
+        "label": "科研简报"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/zlhb/index.htm",
+        "label": "资料汇编"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/gzlw/index.htm",
+        "label": "工作论文"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/index.htm",
+        "label": "项目与课题"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/xqjy/index.htm",
+        "label": "学前教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/ywjy/index.htm",
+        "label": "义务教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/gzjy/index.htm",
+        "label": "高中教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/zyjy/index.htm",
+        "label": "职业教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/gdjy/index.htm",
+        "label": "高等教育"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xmykt/qt/index.htm",
+        "label": "其他"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xshd/index.htm",
+        "label": "学术活动"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xshd/xslt/index.htm",
+        "label": "学术论坛"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/xshd/xshy/index.htm",
+        "label": "学术会议"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/sqxx/index.htm",
+        "label": "暑期学校"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/sqxx/2018/index.htm",
+        "label": "2018"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/sqxx/2017/index.htm",
+        "label": "2017"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/SummerSchool/index.htm",
+        "label": "SummerSchool"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/SummerSchool/20181/index.htm",
+        "label": "2018"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/SummerSchool/20171/index.htm",
+        "label": "2017"
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/index.htm",
+        "label": "科研简报"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/zlhb/index.htm",
+        "label": "资料汇编"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/gzlw/index.htm",
+        "label": "工作论文"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/index.htm",
+        "label": "科研简报"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/zlhb/index.htm",
+        "label": "资料汇编"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/gzlw/index.htm",
+        "label": "工作论文"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/index.htm",
+        "label": "首页"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/index.htm",
+        "label": "出版物"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/index.htm",
+        "label": "科研简报"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn1",
+        "label": "[*]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn2",
+        "label": "[1]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn3",
+        "label": "[2]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn4",
+        "label": "[3]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn5",
+        "label": "[4]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn6",
+        "label": "[5]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn7",
+        "label": "[6]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn8",
+        "label": "[7]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn9",
+        "label": "[8]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn10",
+        "label": "[9]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn11",
+        "label": "[10]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn12",
+        "label": "[11]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn13",
+        "label": "[12]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn14",
+        "label": "[13]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn15",
+        "label": "[14]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn16",
+        "label": "[15]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn17",
+        "label": "[16]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn18",
+        "label": "[17]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn19",
+        "label": "[18]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn20",
+        "label": "[19]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftn21",
+        "label": "[20]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref1",
+        "label": "[*]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref2",
+        "label": "[1]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref3",
+        "label": "[2]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref4",
+        "label": "[3]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref5",
+        "label": "[4]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref6",
+        "label": "[5]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref7",
+        "label": "[6]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref8",
+        "label": "[7]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref9",
+        "label": "[8]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref10",
+        "label": "[9]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref11",
+        "label": "[10]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref12",
+        "label": "[11]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref13",
+        "label": "[12]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref14",
+        "label": "[13]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref15",
+        "label": "[14]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref16",
+        "label": "[15]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref17",
+        "label": "[16]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref18",
+        "label": "[17]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref19",
+        "label": "[18]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref20",
+        "label": "[19]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/cbw/kyjb/8b070dc7d30646449b7a8afce3ef1a9d.htm#_ftnref21",
+        "label": "[20]"
+      },
+      {
+        "url": "https://ciefr.pku.edu.cn/docs/2023-11/5fda8c987a5c41ca90215f013b6a27b9.pdf",
+        "label": "2023年第17期简报 “十三五”期间全国义务教育财政保障与公平分析1127.pdf"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": ""
+      },
+      {
+        "url": "https://www.pku.edu.cn/",
+        "label": "北京大学"
+      },
+      {
+        "url": "https://mail.pku.edu.cn",
+        "label": "北大邮件"
+      }
+    ]
+  }
+]

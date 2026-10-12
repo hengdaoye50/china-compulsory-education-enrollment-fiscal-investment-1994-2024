@@ -1,0 +1,9 @@
+﻿stage,metric,observed_spells,province_stages,increase,decrease,unchanged,limit
+primary,teachers_cumulative_pct,12,11,6,6,0,descriptive spell counts; spells may repeat within province-stage
+primary,classes_cumulative_pct,12,11,0,12,0,descriptive spell counts; spells may repeat within province-stage
+primary,spending_total_thousand_yuan_cumulative_pct,12,11,9,3,0,descriptive spell counts; spells may repeat within province-stage
+primary,spending_cpi_adjusted_2017_thousand_yuan_cumulative_pct,12,11,7,5,0,descriptive spell counts; spells may repeat within province-stage
+junior,teachers_cumulative_pct,11,11,7,4,0,descriptive spell counts; spells may repeat within province-stage
+junior,classes_cumulative_pct,11,11,2,9,0,descriptive spell counts; spells may repeat within province-stage
+junior,spending_total_thousand_yuan_cumulative_pct,11,11,9,2,0,descriptive spell counts; spells may repeat within province-stage
+junior,spending_cpi_adjusted_2017_thousand_yuan_cumulative_pct,11,11,7,4,0,descriptive spell counts; spells may repeat within province-stage

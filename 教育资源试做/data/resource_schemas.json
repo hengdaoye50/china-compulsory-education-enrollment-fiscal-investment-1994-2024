@@ -1,0 +1,1843 @@
+[
+  {
+    "year": 2024,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数 （所） Schools (unit)",
+        "教学点数 （个） External Teaching Sites (unit)",
+        "班数 （个） Classes (unit)",
+        ""
+      ],
+      [
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4",
+        "五年级 Grade 5",
+        "六年级 Grade 6",
+        "复式班 Multiple-grade Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431421.html",
+    "path": "raw\\region_index_2024_13.html"
+  },
+  {
+    "year": 2024,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学教育学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 7,
+      "female_students": 8,
+      "grade1": 9
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "(person)"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431418.html",
+    "path": "raw\\region_index_2024_14.html"
+  },
+  {
+    "year": 2024,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学教育专任教师分学历、分专业技术职务情况",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "(person)"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431413.html",
+    "path": "raw\\region_index_2024_16.html"
+  },
+  {
+    "year": 2024,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数 （所） Schools (unit)",
+        "",
+        "班数 （个） Classes (unit)",
+        ""
+      ],
+      [
+        "初级中学 Regular Junior Secondary Schools",
+        "九年一贯制学校 9-Year Schools",
+        "职业初中 Vocational Junior Secondary Schools",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431405.html",
+    "path": "raw\\region_index_2024_19.html"
+  },
+  {
+    "year": 2024,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中教育学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "(person)"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431404.html",
+    "path": "raw\\region_index_2024_20.html"
+  },
+  {
+    "year": 2024,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中教育专任教师分学历、分专业技术职务情况",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "(person)"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431402.html",
+    "path": "raw\\region_index_2024_21.html"
+  },
+  {
+    "year": 2023,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数 （所） Schools",
+        "教学点数 （个） External Teaching Sites",
+        "班数 （个） Classes",
+        ""
+      ],
+      [
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4",
+        "五年级 Grade 5",
+        "六年级 Grade 6",
+        "复式班 Multiple-grade Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176337.html",
+    "path": "raw\\region_index_2023_13.html"
+  },
+  {
+    "year": 2023,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学教育学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 7,
+      "female_students": 8,
+      "grade1": 9
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176334.html",
+    "path": "raw\\region_index_2023_14.html"
+  },
+  {
+    "year": 2023,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学教育专任教师分学历、分专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176332.html",
+    "path": "raw\\region_index_2023_16.html"
+  },
+  {
+    "year": 2023,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数 （所） Schools",
+        "",
+        "班数 （个） Classes",
+        ""
+      ],
+      [
+        "初级中学 Regular Junior Secondary Schools",
+        "九年一贯制学校 9-Year Schools",
+        "职业初中 Vocational Junior Secondary Schools",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176329.html",
+    "path": "raw\\region_index_2023_19.html"
+  },
+  {
+    "year": 2023,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中教育学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176328.html",
+    "path": "raw\\region_index_2023_20.html"
+  },
+  {
+    "year": 2023,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中教育专任教师分学历、分专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176327.html",
+    "path": "raw\\region_index_2023_21.html"
+  },
+  {
+    "year": 2020,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所）Schools",
+        "班数（个）Classes"
+      ],
+      [
+        "合计 Total",
+        "初级中学 Regular Junior Secondary Schools",
+        "九年一贯制学校 9-Year Schools",
+        "职业初中 Vocational Junior Secondary Schools",
+        "合计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210902_557929.html",
+    "path": "raw\\region_page_2020_1_17.html"
+  },
+  {
+    "year": 2020,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210902_557928.html",
+    "path": "raw\\region_page_2020_1_18.html"
+  },
+  {
+    "year": 2020,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中专任教师学历、专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210901_557415.html",
+    "path": "raw\\region_page_2020_1_19.html"
+  },
+  {
+    "year": 2020,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所） Schools",
+        "教学点数（个） External Teaching Sites",
+        "班数（个） Classes"
+      ],
+      [
+        "合计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4",
+        "五年级 Grade 5",
+        "六年级 Grade 6",
+        "复式班 Multiple-grade Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210901_557398.html",
+    "path": "raw\\region_page_2020_1_22.html"
+  },
+  {
+    "year": 2020,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 4,
+      "female_students": 5,
+      "grade1": 6
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210901_557397.html",
+    "path": "raw\\region_page_2020_1_23.html"
+  },
+  {
+    "year": 2020,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学专任教师学历、专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210901_557392.html",
+    "path": "raw\\region_page_2020_1_25.html"
+  },
+  {
+    "year": 2021,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037303.html",
+    "path": "raw\\region_page_2021_2_14.html"
+  },
+  {
+    "year": 2021,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中教育学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037301.html",
+    "path": "raw\\region_page_2021_2_15.html"
+  },
+  {
+    "year": 2021,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中教育专任教师分学历、分专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037300.html",
+    "path": "raw\\region_page_2021_2_16.html"
+  },
+  {
+    "year": 2021,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037297.html",
+    "path": "raw\\region_page_2021_2_19.html"
+  },
+  {
+    "year": 2021,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学教育学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 7,
+      "female_students": 8,
+      "grade1": 9
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037295.html",
+    "path": "raw\\region_page_2021_2_20.html"
+  },
+  {
+    "year": 2021,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学教育专任教师分学历、分专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037292.html",
+    "path": "raw\\region_page_2021_2_22.html"
+  },
+  {
+    "year": 2022,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "地区 Region+A5:J28A2A5:J20A5:J30A5:J24A5:J22A5:J23A5:J24A5:J26AA5:J19",
+        "学校数 （所） Schools",
+        "",
+        "班数 （个） Classes",
+        ""
+      ],
+      [
+        "初级中学 Regular Junior Secondary Schools",
+        "九年一贯制学校 9-Year Schools",
+        "职业初中 Vocational Junior Secondary Schools",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099723.html",
+    "path": "raw\\region_page_2022_2_14.html"
+  },
+  {
+    "year": 2022,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中教育学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099721.html",
+    "path": "raw\\region_page_2022_2_15.html"
+  },
+  {
+    "year": 2022,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中教育专任教师分学历、分专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099719.html",
+    "path": "raw\\region_page_2022_2_16.html"
+  },
+  {
+    "year": 2022,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数 （所） Schools",
+        "教学点数 （个） External Teaching Sites",
+        "班数 （个） Classes",
+        ""
+      ],
+      [
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4",
+        "五年级 Grade 5",
+        "六年级 Grade 6",
+        "复式班 Multiple-grade Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099715.html",
+    "path": "raw\\region_page_2022_2_19.html"
+  },
+  {
+    "year": 2022,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学教育学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 7,
+      "female_students": 8,
+      "grade1": 9
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099711.html",
+    "path": "raw\\region_page_2022_2_20.html"
+  },
+  {
+    "year": 2022,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学教育专任教师分学历、分专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240111_1099709.html",
+    "path": "raw\\region_page_2022_2_22.html"
+  },
+  {
+    "year": 2019,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所）Schools",
+        "班数（个）Classes"
+      ],
+      [
+        "合计 Total",
+        "初级中学 Regular Junior Secondary Schools",
+        "九年一贯制学校 9-Year Schools",
+        "职业初中 Vocational Junior Secondary Schools",
+        "计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464556.html",
+    "path": "raw\\legacy_index_2019_region_page1_17.html"
+  },
+  {
+    "year": 2019,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464550.html",
+    "path": "raw\\legacy_index_2019_region_page1_18.html"
+  },
+  {
+    "year": 2019,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中专任教师学历、专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464543.html",
+    "path": "raw\\legacy_index_2019_region_page1_19.html"
+  },
+  {
+    "year": 2019,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所） Schools",
+        "教学点数（个） External Teaching Sites",
+        "班数（个） Classes"
+      ],
+      [
+        "合计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4",
+        "五年级 Grade 5",
+        "六年级 Grade 6",
+        "复式班 Multiple-grade Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464555.html",
+    "path": "raw\\legacy_index_2019_region_page1_22.html"
+  },
+  {
+    "year": 2019,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 4,
+      "female_students": 5,
+      "grade1": 6
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464561.html",
+    "path": "raw\\legacy_index_2019_region_page1_23.html"
+  },
+  {
+    "year": 2019,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学专任教师学历、专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gd/202006/t20200610_464568.html",
+    "path": "raw\\legacy_index_2019_region_page1_25.html"
+  },
+  {
+    "year": 2018,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所）Schools",
+        "班数（个）Classes"
+      ],
+      [
+        "合计 Total",
+        "初级中学 Regular Junior Secondary Schools",
+        "九年一贯制学校 9-Year Schools",
+        "职业初中 Vocational Junior Secondary Schools",
+        "合计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394194.html",
+    "path": "raw\\legacy_index_2018_region_page1_17.html"
+  },
+  {
+    "year": 2018,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394191.html",
+    "path": "raw\\legacy_index_2018_region_page1_18.html"
+  },
+  {
+    "year": 2018,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中专任教师学历、专业技术职务情况",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394185.html",
+    "path": "raw\\legacy_index_2018_region_page1_19.html"
+  },
+  {
+    "year": 2018,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所） Schools",
+        "教学点数（个） External Teaching Sites",
+        "班数（个） Classes"
+      ],
+      [
+        "合计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4",
+        "五年级 Grade 5",
+        "六年级 Grade 6",
+        "复式班 Multiple-grade Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394174.html",
+    "path": "raw\\legacy_index_2018_region_page1_22.html"
+  },
+  {
+    "year": 2018,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 4,
+      "female_students": 5,
+      "grade1": 6
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394167.html",
+    "path": "raw\\legacy_index_2018_region_page1_23.html"
+  },
+  {
+    "year": 2018,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学专任教师学历、专业技术职务情况",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gd/201908/t20190812_394253.html",
+    "path": "raw\\legacy_index_2018_region_page1_25.html"
+  },
+  {
+    "year": 2017,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "单位:"
+      ],
+      [
+        "Unit:"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344872.html",
+    "path": "raw\\legacy_index_2017_region_page1_17.html"
+  },
+  {
+    "year": 2017,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344871.html",
+    "path": "raw\\legacy_index_2017_region_page1_18.html"
+  },
+  {
+    "year": 2017,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中专任教师学历、专业技术职务情况",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344870.html",
+    "path": "raw\\legacy_index_2017_region_page1_19.html"
+  },
+  {
+    "year": 2017,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所） Schools",
+        "教学点数（个） Extemal Teaching Sites",
+        "班数（个） Classes"
+      ],
+      [
+        "合计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4",
+        "五年级 Grade 5",
+        "六年级 Grade 6",
+        "复式班 Multiple-grade Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344867.html",
+    "path": "raw\\legacy_index_2017_region_page1_22.html"
+  },
+  {
+    "year": 2017,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 4,
+      "female_students": 5,
+      "grade1": 6
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344866.html",
+    "path": "raw\\legacy_index_2017_region_page1_23.html"
+  },
+  {
+    "year": 2017,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学专任教师学历、专业技术职务情况",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gd/201808/t20180809_344863.html",
+    "path": "raw\\legacy_index_2017_region_page1_25.html"
+  },
+  {
+    "year": 2016,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所） Schools",
+        "班数（个） Classes"
+      ],
+      [
+        "合计 Total",
+        "初级中学 Regular Junior Secondary Schools",
+        "九年一贯制学校 9-Year Schools",
+        "职业初中 Vocational Junior Secondary Schools",
+        "计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170828_312526.html",
+    "path": "raw\\legacy_index_2016_region_page1_18.html"
+  },
+  {
+    "year": 2016,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170823_311739.html",
+    "path": "raw\\legacy_index_2016_region_page1_19.html"
+  },
+  {
+    "year": 2016,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中专任教师学历、专业技术职务情况(总计)",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170823_311731.html",
+    "path": "raw\\legacy_index_2016_region_page1_20.html"
+  },
+  {
+    "year": 2016,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所） Schools",
+        "教学点数（个） Extemal Teaching Sites",
+        "班数（个） Classes"
+      ],
+      [
+        "合计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4",
+        "五年级 Grade 5",
+        "六年级 Grade 6",
+        "复式班 Multiple-grade Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170824_311869.html",
+    "path": "raw\\legacy_index_2016_region_page1_23.html"
+  },
+  {
+    "year": 2016,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 4,
+      "female_students": 5,
+      "grade1": 6
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170824_311868.html",
+    "path": "raw\\legacy_index_2016_region_page1_24.html"
+  },
+  {
+    "year": 2016,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学专任教师学历、专业技术职务情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人"
+      ],
+      [
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/2016_gd/201708/t20170824_311866.html",
+    "path": "raw\\legacy_index_2016_region_page1_26.html"
+  },
+  {
+    "year": 2015,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "单位:",
+        "学校数（所） Schools",
+        "班数（个） Classes"
+      ],
+      [
+        "Unit:",
+        "合计 Total",
+        "初级中学Regular Junior Secondary Schools",
+        "九年一贯制学校 9-Year Schools",
+        "职业初中Vocational Junior Secondary Schools",
+        "合计 Total",
+        "一年级Grade 1",
+        "二年级Grade 2",
+        "三年级Grade 3",
+        "四年级Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161019_285618.html",
+    "path": "raw\\legacy_index_2015_region_page1_12.html"
+  },
+  {
+    "year": 2015,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "单位:人"
+      ],
+      [
+        "Unit:person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161019_285617.html",
+    "path": "raw\\legacy_index_2015_region_page1_13.html"
+  },
+  {
+    "year": 2015,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中专任教师学历、职称情况(总计)",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位:人"
+      ],
+      [
+        "Unit:in Person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161019_285616.html",
+    "path": "raw\\legacy_index_2015_region_page1_14.html"
+  },
+  {
+    "year": 2015,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区 Region",
+        "学校数（所） Schools",
+        "教学点数(个) Extemal Teachingsites",
+        "班数（个） Classes"
+      ],
+      [
+        "计 Total",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4",
+        "五年级 Grade 5",
+        "六年级 Grade 6",
+        "复式班 Multiple-grade Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161014_284829.html",
+    "path": "raw\\legacy_index_2015_region_page1_17.html"
+  },
+  {
+    "year": 2015,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 4,
+      "female_students": 5,
+      "grade1": 6
+    },
+    "headers": [
+      [
+        "单位:人"
+      ],
+      [
+        "Unit:person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161014_284825.html",
+    "path": "raw\\legacy_index_2015_region_page1_18.html"
+  },
+  {
+    "year": 2015,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学专任教师学历、职称情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位:人"
+      ],
+      [
+        "Unit: in Person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/2015_gd/201610/t20161011_284405.html",
+    "path": "raw\\legacy_index_2015_region_page1_20.html"
+  },
+  {
+    "year": 2014,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "地区",
+        "学校数（所）",
+        "班数（个）"
+      ],
+      [
+        "Region",
+        "Schools",
+        "Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201508/t20150831_204490.html",
+    "path": "raw\\legacy_index_2014_region_page1_12.html"
+  },
+  {
+    "year": 2014,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "单位：人"
+      ],
+      [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "unit: person"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201508/t20150831_204488.html",
+    "path": "raw\\legacy_index_2014_region_page1_13.html"
+  },
+  {
+    "year": 2014,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中专任教师学历、职称情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "单位：人 unit: person"
+      ],
+      [
+        "地区",
+        "合计",
+        "其中:女",
+        "按学",
+        "历分",
+        "按职称分"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201508/t20150831_204487.html",
+    "path": "raw\\legacy_index_2014_region_page1_14.html"
+  },
+  {
+    "year": 2014,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数（总计）",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区",
+        "学校数（所）",
+        "教学点数（个）",
+        "班数（个）"
+      ],
+      [
+        "Region",
+        "Schools",
+        "External",
+        "Classes"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201509/t20150901_204736.html",
+    "path": "raw\\legacy_index_2014_region_page1_17.html"
+  },
+  {
+    "year": 2014,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学学生数（总计）",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 4,
+      "female_students": 5,
+      "grade1": 6
+    },
+    "headers": [
+      [
+        "地区",
+        "毕业生数",
+        "招生数",
+        "",
+        "",
+        "在校生数",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "预计毕业生数"
+      ],
+      [
+        "Region",
+        "Graduates",
+        "Entrants",
+        "",
+        "Enrolment",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "Estimated"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201509/t20150901_204719.html",
+    "path": "raw\\legacy_index_2014_region_page1_18.html"
+  },
+  {
+    "year": 2014,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学专任教师学历、职称情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "地区",
+        "合计",
+        "其中：女",
+        "按学历分",
+        "按职称分"
+      ],
+      [
+        "Region",
+        "Total",
+        "of Which:",
+        "By Educational Attainment",
+        "By Professional Rank"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/2014_gd/201509/t20150901_204675.html",
+    "path": "raw\\legacy_index_2014_region_page1_20.html"
+  },
+  {
+    "year": 2013,
+    "stage": "junior",
+    "kind": "classes",
+    "title": "初中校数、班数",
+    "columns": {
+      "schools": 1,
+      "classes": 5
+    },
+    "headers": [
+      [
+        "地区Region",
+        "学校数（所）Schools",
+        "班数（个） Classes"
+      ],
+      [
+        "合计Total",
+        "初级中学Regular Junior Secondary Schools",
+        "九年一贯制学校9-Year Schools",
+        "职业初中Vocational Junior Secondary Schools",
+        "合计Total",
+        "一年级Grade 1",
+        "二年级Grade 2",
+        "三年级Grade 3",
+        "四年级Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141215_181616.html",
+    "path": "raw\\legacy_index_2013_region_page1_12.html"
+  },
+  {
+    "year": 2013,
+    "stage": "junior",
+    "kind": "students",
+    "title": "初中学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 3,
+      "female_students": 4,
+      "grade1": 5
+    },
+    "headers": [
+      [
+        "地区Region",
+        "毕业生数Graduates",
+        "招生数 Entrants",
+        "在校生数 Enrolment",
+        "预计毕业生数EstimatedGraduatesfor NextYear"
+      ],
+      [
+        "合计Total",
+        "其中：女of Which:Female",
+        "一年级 Grade 1",
+        "二年级 Grade 2",
+        "三年级 Grade 3",
+        "四年级 Grade 4"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141215_181619.html",
+    "path": "raw\\legacy_index_2013_region_page1_13.html"
+  },
+  {
+    "year": 2013,
+    "stage": "junior",
+    "kind": "teachers",
+    "title": "初中专任教师学历、职称情况",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "地区Region",
+        "合计Total",
+        "其中:女of Which: Female",
+        "按学历分By Educational Attainment",
+        "按职称分By Professional Rank"
+      ],
+      [
+        "研究生毕业Graduate",
+        "本科毕业Under-graduate",
+        "专科毕业AssociateBachelor",
+        "高中阶段毕业High SchoolGraduate",
+        "高中阶段毕业以下Below HighSchool Graduate",
+        "中学高级SeniorSecondary",
+        "中学一级1st Grade",
+        "中学二级2nd Grade",
+        "中学三级3rd Grade",
+        "未定职级 No-ranking"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141217_181855.html",
+    "path": "raw\\legacy_index_2013_region_page1_14.html"
+  },
+  {
+    "year": 2013,
+    "stage": "primary",
+    "kind": "classes",
+    "title": "小学校数、教学点数及班数",
+    "columns": {
+      "schools": 1,
+      "classes": 3,
+      "teaching_sites": 2
+    },
+    "headers": [
+      [
+        "地区Region",
+        "学校数（所）Schools",
+        "教学点数（个）ExtemalTeaching Sites",
+        "班数（个）Classes"
+      ],
+      [
+        "合计Total",
+        "一年级Grade 1",
+        "二年级Grade 2",
+        "三年级Grade 3",
+        "四年级Grade 4",
+        "五年级Grade 5",
+        "六年级Grade 6",
+        "复式班Multiple-gradeClasses"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141216_181735.html",
+    "path": "raw\\legacy_index_2013_region_page1_17.html"
+  },
+  {
+    "year": 2013,
+    "stage": "primary",
+    "kind": "students",
+    "title": "小学学生数",
+    "columns": {
+      "graduates": 1,
+      "entrants": 2,
+      "students": 4,
+      "female_students": 5,
+      "grade1": 6
+    },
+    "headers": [
+      [
+        "地区Region",
+        "毕业生数Graduates",
+        "招生数Entrants",
+        "在校生数Enrolment",
+        "预计毕业生数EstimatedGraduatesfor NextYear"
+      ],
+      [
+        "",
+        "合计Total",
+        "其中：受过学前教育of Which: Those Received the Pre-school Education",
+        "合计Total",
+        "其中：女of WhichFemale:",
+        "一年级Grade 1",
+        "二年级Grade 2",
+        "三年级Grade 3",
+        "四年级Grade 4",
+        "五年级Grade 5",
+        "六年级Grade 6"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141216_181730.html",
+    "path": "raw\\legacy_index_2013_region_page1_18.html"
+  },
+  {
+    "year": 2013,
+    "stage": "primary",
+    "kind": "teachers",
+    "title": "小学专任教师学历、职称情况（总计）",
+    "columns": {
+      "teachers": 1
+    },
+    "headers": [
+      [
+        "地区Region",
+        "合计Total",
+        "其中：女of Which:Female",
+        "按学历分By Educational Attainment",
+        "按职称分By Professional Rank"
+      ],
+      [
+        "研究生毕业Graduate",
+        "本科毕业Under-graduate",
+        "专科毕业AssociateBachelor",
+        "高中阶段毕业High SchoolGraduate",
+        "高中阶段毕业以下Below HighSchoolGraduate",
+        "中学高级SeniorSecondary",
+        "小学高级SeniorPrimary",
+        "小学一级1st GradePrimary",
+        "小学二级2nd GradePrimary",
+        "小学三级3rd GradePrimary",
+        "未定职级No-ranking"
+      ]
+    ],
+    "source": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/s8494/201412/t20141216_181714.html",
+    "path": "raw\\legacy_index_2013_region_page1_20.html"
+  }
+]

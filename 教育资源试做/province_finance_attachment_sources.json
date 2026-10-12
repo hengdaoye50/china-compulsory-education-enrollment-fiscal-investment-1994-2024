@@ -1,0 +1,41 @@
+[
+  {
+    "key": "province_finance_fujian_2023_pdf",
+    "url": "https://jyt.fujian.gov.cn/xxgk/tjsj/202501/P020250103545424755292.pdf",
+    "status": "downloaded",
+    "bytes": 4543525,
+    "sha256": "2602c8ce57f4c4e4ce09f05397bc3fb4e13110f09d2375dd331c17034a859a63",
+    "path": "raw\\province_finance_fujian_2023_pdf.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_heilongjiang_2023_xlsx",
+    "url": "https://jyt.hlj.gov.cn/jyt/c110518/202501/31798943/files/%E9%99%84%E4%BB%B6%202023%E5%B9%B4%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E7%BB%8F%E8%B4%B9%E6%89%A7%E8%A1%8C%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8.xlsx",
+    "status": "downloaded",
+    "bytes": 69550,
+    "sha256": "c03724cf461a3c35d34c68820477467ccd6a5a59fe1b46ac637ccc38009b165a",
+    "path": "raw\\province_finance_heilongjiang_2023_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "province_finance_jilin_2023_pdf",
+    "url": "https://jyt.jl.gov.cn/zwgk/ggl/202412/P020241231518406823924.pdf",
+    "status": "downloaded",
+    "bytes": 234237,
+    "sha256": "f8ded03f5ddf9eb72896863287588b0a0274a0f856c40e0e7ce1584ced0c42e8",
+    "path": "raw\\province_finance_jilin_2023_pdf.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_jiangsu_2023_xls",
+    "url": "https://jyt.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=87a7212be620424ba13535ee377a14e3.xls",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "province_finance_jiangsu_2022_xls",
+    "url": "https://jyt.jiangsu.gov.cn/module/download/downfile.jsp?classid=0&filename=174b8efcb9964d939f49180ee1a92b84.xls",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

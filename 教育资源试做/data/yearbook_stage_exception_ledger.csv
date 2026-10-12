@@ -1,0 +1,3 @@
+﻿kind,province,year,stage,file,cell,original_value,reference_value,difference,resolution,reference_source
+province per-student mismatch,新疆,2017,primary,教育资源试做\用户提供资料\年鉴解压\卷2018\第7部分 各地区教肓和其他部门各级各类学校生均教育经费支出\7-42_生均一般公共预算教育事业费和基本建设支出(地方普通小学).xlsx,C37,11738.71,11738.7,0.01,unresolved; original values preserved; consult original publisher cell,https://hudong.moe.gov.cn/srcsite/A05/s3040/201810/W020181012594998889329.doc
+fine component arithmetic anomaly,贵州,2017,junior,教育资源试做\用户提供资料\年鉴解压\卷2018\第5部分 各地区各级各类教育机构财政补助支出明细\5-33_财政补助支出明细(普通初中).xlsx,E31,.4470162,4470162,4470161.5529838,"unresolved; no silent correction; affected fine component isolated, headline B/C/G/L retained",教育资源试做\用户提供资料\年鉴解压\卷2018\第5部分 各地区各级各类教育机构财政补助支出明细\5-34_财政补助支出明细(地方普通初中).xlsx#1!E31

@@ -1,0 +1,9 @@
+﻿period,stage,all_valid_finance_edges,sustained_student_decline_edges,median_P_real_pct,median_C_real_pct,mean_D_logpoints,C_real_decline,R_available,R_contraction,interpretation
+1996_2006_old,junior,334,71,11.505053440537315,11.50424436704677,-0.08400657438002818,11,63,1,descriptive regional student context; same-affiliation finance within each segment
+1996_2006_old,primary,334,189,13.044339996602305,8.615580380697006,-3.411087584361587,41,170,1,descriptive regional student context; same-affiliation finance within each segment
+2008_2015_new,junior,246,169,9.922837367190471,11.598495259065906,0.5483866795606638,45,155,5,descriptive regional student context; same-affiliation finance within each segment
+2008_2015_new,primary,246,133,10.290017046757734,15.651593793058979,4.042176101560003,20,118,2,descriptive regional student context; same-affiliation finance within each segment
+2016_2023_new,junior,248,47,5.834524674708069,-1.3437998868863172,-7.253185715690745,27,45,14,descriptive regional student context; same-affiliation finance within each segment
+2016_2023_new,primary,248,39,4.974440354055408,-0.7077616005513372,-6.14559078032241,20,37,15,descriptive regional student context; same-affiliation finance within each segment
+2024_terminal_pending,junior,31,3,3.134688099207414,0.17633848601608865,-11.42319552589822,1,3,1,descriptive regional student context; same-affiliation finance within each segment
+2024_terminal_pending,primary,31,7,0.44757774878126855,-2.6678467476646555,-5.02674750707734,6,7,2,descriptive regional student context; same-affiliation finance within each segment

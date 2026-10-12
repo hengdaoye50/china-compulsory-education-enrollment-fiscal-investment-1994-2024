@@ -1,0 +1,2688 @@
+[
+  {
+    "key": "province_finance_cee_index",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/index.html",
+    "status": "downloaded",
+    "bytes": 65170,
+    "sha256": "d7c34577d3aa04148d12e46c29b2e76d432fd5b575d7bcb3e890b92dc54f9120",
+    "path": "raw\\province_finance_cee_index.html",
+    "links": [
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=教育经费统计",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=学生补助",
+        "label": "学生补助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=政策",
+        "label": "政策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=审计整改",
+        "label": "审计整改"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n151/index.html",
+        "label": "要 闻"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/index.html",
+        "label": "动 态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n193/index.html",
+        "label": "媒体聚焦"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n198/index.html",
+        "label": "战线联播"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n188/index.html",
+        "label": "工作动态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/index.html",
+        "label": "政 策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n245/index.html",
+        "label": "政策法规"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n250/index.html",
+        "label": "政策解读"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n255/index.html",
+        "label": "政策图解"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/index.html",
+        "label": "服 务"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n439/index.html",
+        "label": "科目指南"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n444/index.html",
+        "label": "常用标准"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://dcwj.cee.edu.cn/#/user/login",
+        "label": "在线问卷"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/index.html",
+        "label": "专 题"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7131/index.html",
+        "label": "教育投入"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7308/index.html",
+        "label": "乡村振兴"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6204/index.html",
+        "label": "预算绩效管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n549/index.html",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6956/index.html",
+        "label": "科研管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n559/index.html",
+        "label": "学生资助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n564/index.html",
+        "label": "教育转移支付"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n554/index.html",
+        "label": "审计与财会监督"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n544/index.html",
+        "label": "资产管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7081/index.html",
+        "label": "教师队伍建设与保障"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n472/index.html",
+        "label": "全国教育事业发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n477/index.html",
+        "label": "教育统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58301/index.html",
+        "label": "国民经济和社会发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58308/index.html",
+        "label": "全国经济普查公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58313/index.html",
+        "label": "全国科技经费投入统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58318/index.html",
+        "label": "财政收支数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n182931/index.html",
+        "label": "全国政府采购简要情况"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n520/index.html",
+        "label": "全国教育经费执行情况统计快报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n515/index.html",
+        "label": "全国教育经费执行情况统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://zxpx.cee.edu.cn/",
+        "label": "在线学习"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html#jyjf",
+        "label": "教育经费统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/index.html",
+        "label": "地方教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835775/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835746/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835701/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835687/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835658/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835535/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835600/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835555/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835439/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835425/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c835413/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c834065/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c834030/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833961/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833969/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833935/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833914/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833889/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833782/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833825/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833789/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833671/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833651/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833626/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833606/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833579/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833553/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833525/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833508/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833476/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c833443/content.html",
+        "label": "点击查看更多"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/index.htm",
+        "label": "财政部"
+      },
+      {
+        "url": "https://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "https://fsac.cee.edu.cn/",
+        "label": "教育部经费监管事务中心"
+      },
+      {
+        "url": "https://www.xszz.edu.cn",
+        "label": "全国学生资助管理中心"
+      },
+      {
+        "url": "http://www.zfcg.edu.cn/",
+        "label": "教育部政府采购网"
+      },
+      {
+        "url": "https://zjk.cee.edu.cn/",
+        "label": "中国教育会计学会"
+      },
+      {
+        "url": "https://jysj.cee.edu.cn/",
+        "label": "中国教育审计学会"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备2024044276号-2"
+      }
+    ]
+  },
+  {
+    "key": "province_finance_jiangsu_2023",
+    "url": "https://jyt.jiangsu.gov.cn/art/2024/12/20/art_77622_11452561.html",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "province_finance_jiangsu_2022",
+    "url": "https://jyt.jiangsu.gov.cn/art/2024/1/8/art_77622_11120223.html",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "key": "province_finance_fujian_2023",
+    "url": "https://jyt.fujian.gov.cn/xxgk/tjsj/202501/t20250103_6601994.htm",
+    "status": "downloaded",
+    "bytes": 52861,
+    "sha256": "10b782ff525cc32c3c62152ea8c4c7d3a655a66105dcb698f57391431fb466c9",
+    "path": "raw\\province_finance_fujian_2023.html",
+    "links": [
+      {
+        "url": "https://jyt.fujian.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.gov.cn/",
+        "label": "国务院"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.fujian.gov.cn/",
+        "label": "省政府"
+      },
+      {
+        "url": "javascript:;",
+        "label": "闽政通APP"
+      },
+      {
+        "url": "javascript:StranBody()",
+        "label": "繁体版"
+      },
+      {
+        "url": "https://www.fujian.gov.cn/suc/login/login?redirtUrl=http://www.fujian.gov.cn/suc/login/noseLogin?redirtUrl=https://www.fujian.gov.cn/?",
+        "label": "登录"
+      },
+      {
+        "url": "https://iam.e-govt.cn:8901/register?appId=a8e4d0ed-0874-44d4-b144-50cd02986acf&redirect_uri=https://www.fujian.gov.cn&response_type=code",
+        "label": "注册"
+      },
+      {
+        "url": "https://mail.fjsjyt.cn/",
+        "label": "邮箱登录"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/",
+        "label": "机构概况"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/zcjd/",
+        "label": "解读回应"
+      },
+      {
+        "url": "https://zwfw.fujian.gov.cn/province-dept/index?type=2&siteUnid=45AF607BA927D210601E36FDD1C491A5&randomNum=0.8923352003216316",
+        "label": "办事服务"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/",
+        "label": "互动交流"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/ztzl/",
+        "label": "专题专栏"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/jgzn/",
+        "label": "机构职能"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/ldxx/",
+        "label": "领导信息"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/fzjj/",
+        "label": "发展简介"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/jglb/",
+        "label": "机关处室"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gkxx/zsdw/",
+        "label": "直属单位"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/gggs/",
+        "label": "公告公示"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/zywj/",
+        "label": "重要文件"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/rsxx/",
+        "label": "人事信息"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/jhzj/",
+        "label": "计划总结"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/czzj/",
+        "label": "财政资金"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/zfxxgkzl/",
+        "label": "政府信息公开"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/zxzx/",
+        "label": "在线咨询"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/wsdc/",
+        "label": "网上调查"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/yjzj/",
+        "label": "意见征集"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/zxft/",
+        "label": "在线访谈"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/cjwt/",
+        "label": "常见问题"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/gzcy/rdhy/",
+        "label": "热点回应"
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "javascript:;",
+        "label": "长者模式"
+      },
+      {
+        "url": "javascript:;",
+        "label": "退出长者模式"
+      },
+      {
+        "url": "javascript:;",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/tjsj/",
+        "label": "统计数据"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "微信"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "微博"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "QQ空间"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/xxgk/tjsj/202501/P020250103545424755292.pdf",
+        "label": "1-5.pdf"
+      },
+      {
+        "url": "javascript:window.print()",
+        "label": "打印"
+      },
+      {
+        "url": "javascript:window.close();",
+        "label": "关闭"
+      },
+      {
+        "url": "http://fgw.fujian.gov.cn/",
+        "label": "福建省发展和改革委员会"
+      },
+      {
+        "url": "http://jyt.fujian.gov.cn/",
+        "label": "福建省教育厅（省委教育工作委员会）"
+      },
+      {
+        "url": "http://kjt.fujian.gov.cn/",
+        "label": "福建省科学技术厅"
+      },
+      {
+        "url": "http://gxt.fujian.gov.cn/",
+        "label": "福建省工业和信息化厅"
+      },
+      {
+        "url": "http://mzzjt.fujian.gov.cn",
+        "label": "福建省民族与宗教事务厅"
+      },
+      {
+        "url": "http://gat.fujian.gov.cn/",
+        "label": "福建省公安厅(省打击走私综合治理工作办公室)"
+      },
+      {
+        "url": "http://mzt.fujian.gov.cn/",
+        "label": "福建省民政厅"
+      },
+      {
+        "url": "http://sft.fujian.gov.cn/",
+        "label": "福建省司法厅"
+      },
+      {
+        "url": "http://czt.fujian.gov.cn/",
+        "label": "福建省财政厅"
+      },
+      {
+        "url": "http://rst.fujian.gov.cn/",
+        "label": "福建省人力资源和社会保障厅"
+      },
+      {
+        "url": "http://zrzyt.fujian.gov.cn/",
+        "label": "福建省自然资源厅"
+      },
+      {
+        "url": "http://sthjt.fujian.gov.cn/",
+        "label": "福建省环境保护厅"
+      },
+      {
+        "url": "http://zjt.fujian.gov.cn/",
+        "label": "福建省住房和城乡建设厅"
+      },
+      {
+        "url": "http://jtyst.fujian.gov.cn/",
+        "label": "福建省交通运输厅"
+      },
+      {
+        "url": "http://slt.fujian.gov.cn/",
+        "label": "福建省水利厅"
+      },
+      {
+        "url": "http://nynct.fujian.gov.cn/",
+        "label": "福建省农业农村厅"
+      },
+      {
+        "url": "http://swt.fujian.gov.cn/",
+        "label": "福建省商务厅"
+      },
+      {
+        "url": "http://wlt.fujian.gov.cn/",
+        "label": "福建省文旅厅"
+      },
+      {
+        "url": "http://wjw.fujian.gov.cn/",
+        "label": "福建省卫生和计划生育委员会"
+      },
+      {
+        "url": "http://tyjrswt.fujian.gov.cn/",
+        "label": "福建省退役军人厅"
+      },
+      {
+        "url": "http://yjt.fujian.gov.cn/",
+        "label": "福建省安全生产监督管理局(省安全生产委员会办公室)"
+      },
+      {
+        "url": "http://sjt.fujian.gov.cn/",
+        "label": "福建省审计厅"
+      },
+      {
+        "url": "http://wb.fujian.gov.cn/",
+        "label": "福建省人民政府外事办公室(省政府港澳事务办公室、省人民对外友好协会)"
+      },
+      {
+        "url": "http://gzw.fujian.gov.cn/",
+        "label": "福建省国资委"
+      },
+      {
+        "url": "http://lyj.fujian.gov.cn/",
+        "label": "福建省林业局"
+      },
+      {
+        "url": "http://hyyyj.fujian.gov.cn/",
+        "label": "福建省海洋与渔业厅"
+      },
+      {
+        "url": "http://scjgj.fujian.gov.cn/",
+        "label": "福建省市场监管局"
+      },
+      {
+        "url": "http://gdj.fujian.gov.cn/",
+        "label": "福建省广电局"
+      },
+      {
+        "url": "http://tyj.fujian.gov.cn/",
+        "label": "福建省体育局"
+      },
+      {
+        "url": "http://tjj.fujian.gov.cn/",
+        "label": "福建省统计局"
+      },
+      {
+        "url": "http://gdb.fujian.gov.cn/",
+        "label": "福建省人民防空办公室(省民防局)"
+      },
+      {
+        "url": "http://ybj.fujian.gov.cn/",
+        "label": "福建省医保局"
+      },
+      {
+        "url": "http://xfj.fujian.gov.cn/",
+        "label": "福建省信访局"
+      },
+      {
+        "url": "http://jgswglj.fujian.gov.cn/",
+        "label": "福建省机关管理局"
+      },
+      {
+        "url": "https://fgw.fujian.gov.cn/ztzl/szfjzt/",
+        "label": "福建省数字办"
+      },
+      {
+        "url": "http://lsj.fujian.gov.cn/",
+        "label": "福建省粮食局"
+      },
+      {
+        "url": "http://jyj.sft.fujian.gov.cn/",
+        "label": "福建省监狱管理局"
+      },
+      {
+        "url": "http://yjj.scjgj.fujian.gov.cn",
+        "label": "福建省药监局"
+      },
+      {
+        "url": "http://www.eeafj.cn/",
+        "label": "福建省教育考试院"
+      },
+      {
+        "url": "http://www.fjeei.com.cn",
+        "label": "福建省教育装备与基建中心"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/ztzl/fjsjykxyjs/",
+        "label": "福建省教育科学研究所"
+      },
+      {
+        "url": "http://www.fjspjs.com/",
+        "label": "福建省普通教育教学研究室"
+      },
+      {
+        "url": "http://www.fjcet.com/",
+        "label": "福建省电化教育馆"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/ztzl/fjszyjsjyzx/",
+        "label": "福建省职业技术教育中心"
+      },
+      {
+        "url": "http://www.fetv.cn",
+        "label": "福建教育电视台"
+      },
+      {
+        "url": "http://www.fjedu.com.cn/",
+        "label": "福建教育杂志社"
+      },
+      {
+        "url": "http://www.fjcpc.edu.cn/",
+        "label": "福建船政交通职业学院"
+      },
+      {
+        "url": "http://www.mitu.cn/",
+        "label": "福建信息职业技术学院"
+      },
+      {
+        "url": "http://www.fjsdxy.com",
+        "label": "福建水利电力职业技术学院"
+      },
+      {
+        "url": "http://www.fjlzy.com",
+        "label": "福建林业职业技术学院"
+      },
+      {
+        "url": "http://www.fjny.edu.cn/",
+        "label": "福建农业职业技术学院"
+      },
+      {
+        "url": "http://www.fjwx.com.cn/",
+        "label": "福建卫生职业技术学院"
+      },
+      {
+        "url": "http://www.fjys.edu.cn",
+        "label": "福建幼儿师范高等专科学校"
+      },
+      {
+        "url": "http://www.xmoc.cn",
+        "label": "厦门海洋职业技术学院"
+      },
+      {
+        "url": "http://fjgx.cn/",
+        "label": "福建工业学校"
+      },
+      {
+        "url": "http://www.fjlg.com/",
+        "label": "福建理工学校"
+      },
+      {
+        "url": "http://www.fjjzxx.cn/",
+        "label": "福建建筑学校"
+      },
+      {
+        "url": "http://www.fjydxx.com/",
+        "label": "福建省邮电学校"
+      },
+      {
+        "url": "http://www.fzyz.net/",
+        "label": "福州第一中学"
+      },
+      {
+        "url": "http://www.fjfzsx.com/",
+        "label": "福州实验小学"
+      },
+      {
+        "url": "https://jyj.fuzhou.gov.cn/",
+        "label": "福州市教育局"
+      },
+      {
+        "url": "http://edu.xm.gov.cn/",
+        "label": "厦门市教育局"
+      },
+      {
+        "url": "http://jyj.quanzhou.gov.cn/",
+        "label": "泉州市教育局"
+      },
+      {
+        "url": "http://jyj.putian.gov.cn",
+        "label": "莆田市教育局"
+      },
+      {
+        "url": "http://jyj.np.gov.cn/",
+        "label": "南平市教育局"
+      },
+      {
+        "url": "http://smjy.sm.gov.cn/",
+        "label": "三明市教育局"
+      },
+      {
+        "url": "http://jyj.ningde.gov.cn/",
+        "label": "宁德市教育局"
+      },
+      {
+        "url": "http://jyj.zhangzhou.gov.cn/",
+        "label": "漳州市教育局"
+      },
+      {
+        "url": "http://jyj.longyan.gov.cn/",
+        "label": "龙岩市教育局"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/lxwm/wsdt/",
+        "label": "网站地图"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/lxwm/mzsm/",
+        "label": "免责声明"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/lxwm/sybz/",
+        "label": "使用帮助"
+      },
+      {
+        "url": "https://jyt.fujian.gov.cn/lxwm/lxwm/",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=35010202000879",
+        "label": "闽公网安备35010202000879号"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "闽ICP备13015615号"
+      },
+      {
+        "url": "javascript:;",
+        "label": "福建教育微言"
+      },
+      {
+        "url": "javascript:;",
+        "label": "闽政通APP"
+      }
+    ]
+  },
+  {
+    "key": "province_finance_liaoning_2023",
+    "url": "https://jyt.ln.gov.cn/jyt/gk/gsgg/2024123115165228021/index.shtml",
+    "status": "downloaded",
+    "bytes": 46747,
+    "sha256": "6bbd01af92f33c15b89eb6139a326f74476a665c4a7c4a892c391621448c5c18",
+    "path": "raw\\province_finance_liaoning_2023.html",
+    "links": [
+      {
+        "url": "http://www.ln.gov.cn/",
+        "label": "辽宁省人民政府"
+      },
+      {
+        "url": "http://mail.ln.gov.cn/",
+        "label": "邮箱系统"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/AiWza/index.html#/eportal/ui",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/index.shtml",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/jcjy/index.shtml",
+        "label": "基础教育"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/gdjy/index.shtml",
+        "label": "高等教育"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/wddt/index.shtml",
+        "label": "网点地图"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/zyjy/index.shtml",
+        "label": "职业教育"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/sjyt/index.shtml",
+        "label": "机构"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/sjyt/index.shtml",
+        "label": "省教育厅（省委教育工委）领导"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/lnsjyt/index.shtml",
+        "label": "省教育厅工作职责"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/ywcs/index.shtml",
+        "label": "业务处室"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/zsdw/index.shtml",
+        "label": "直属单位"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/index.shtml",
+        "label": "新闻"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/tbtt/index.shtml",
+        "label": "头版头条"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/jybxx/index.shtml",
+        "label": "教育部信息"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/swszfxx/index.shtml",
+        "label": "省委省政府信息"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/jyyw/index.shtml",
+        "label": "教育要闻"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/zxlb/index.shtml",
+        "label": "战线联播"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/tpxw/index.shtml",
+        "label": "图片新闻"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/index.shtml",
+        "label": "公开"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zxtz/index.shtml",
+        "label": "最新通知"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/gsgg/index.shtml",
+        "label": "公示公告"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/jywj/index.shtml",
+        "label": "教育文件"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zcjd/index.shtml",
+        "label": "政策解读"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zfxxgkzn/index.shtml",
+        "label": "政府信息公开"
+      },
+      {
+        "url": "https://www.lnzwfw.gov.cn/bmym/?groupId=11210000001099970L&gb=1&aisiteOutPageId=fd8bce2cbfb044a09466e9d82cd7b8b0",
+        "label": "服务"
+      },
+      {
+        "url": "https://www.lnzwfw.gov.cn/bmym/?groupId=11210000001099970L&gb=1&aisiteOutPageId=7f7b197ae6154b899dfb6f553192b8c6",
+        "label": "政务服务"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/fw/bmfw/index.shtml",
+        "label": "便民服务"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/hd/index.shtml",
+        "label": "互动"
+      },
+      {
+        "url": "https://www.lnzwfw.gov.cn/8890/index?aisiteOutPageId=0e367f0ee6d84c878ceb2138106e5c29",
+        "label": "12345综合服务平台"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/hd/qzts/index.shtml",
+        "label": "群众投诉"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/hd/zqyj/index.shtml",
+        "label": "征求意见"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/ysqgkwysq/index.shtml",
+        "label": "依申请公开"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/zt/index.shtml",
+        "label": "专题"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/zt/bmfw/index.shtml",
+        "label": "便民服务"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/zt/zxdkzc/index.shtml",
+        "label": "助学贷款政策"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/index.shtml",
+        "label": "辽宁省教育厅"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/AiWza/index.html",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/index.shtml",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/jcjy/index.shtml",
+        "label": "基础教育"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/gdjy/index.shtml",
+        "label": "高等教育"
+      },
+      {
+        "url": "https://www.upln.cn/?aisiteOutPageId=2afe863483b347eb88180047c8eba05c",
+        "label": "本科教学"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/wddt/index.shtml",
+        "label": "网点地图"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/zyjy/index.shtml",
+        "label": "职业教育"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/sjyt/index.shtml",
+        "label": "机构"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/sjyt/index.shtml",
+        "label": "省教育厅（省委教育工委）领导"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/lnsjyt/index.shtml",
+        "label": "省教育厅工作职责"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/ywcs/index.shtml",
+        "label": "业务处室"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jgsz/zsdw/index.shtml",
+        "label": "直属单位"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/index.shtml",
+        "label": "新闻"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/tbtt/index.shtml",
+        "label": "头版头条"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/jybxx/index.shtml",
+        "label": "教育部信息"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/swszfxx/index.shtml",
+        "label": "省委省政府信息"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/jyyw/index.shtml",
+        "label": "教育要闻"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/zxlb/index.shtml",
+        "label": "战线联播"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/jyzx/tpxw/index.shtml",
+        "label": "图片新闻"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/index.shtml",
+        "label": "公开"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zxtz/index.shtml",
+        "label": "最新通知"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/gsgg/index.shtml",
+        "label": "公示公告"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/jywj/index.shtml",
+        "label": "教育文件"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/jywj/jytwj/index.shtml",
+        "label": "教育厅文件"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/jywj/szfwj/index.shtml",
+        "label": "省政府文件"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/jywj/qtbmwj/index.shtml",
+        "label": "联合发文"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zcjd/index.shtml",
+        "label": "政策解读"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zfxxgkzn/index.shtml",
+        "label": "政府信息公开"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zc/xzgfxwj/index.shtml",
+        "label": "政策"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zfxxgkzn/index.shtml",
+        "label": "政府信息公开指南"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zfxxgkzd/index.shtml",
+        "label": "政府信息公开制度"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/lzyj/index.shtml",
+        "label": "法定主动公开内容"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/zfxxgknb/index.shtml",
+        "label": "政府信息公开年报"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/zfxxgk/gjjybmgkjglxfs/index.shtml",
+        "label": "公开机构联系方式"
+      },
+      {
+        "url": "https://www.lnzwfw.gov.cn/bmym/?groupId=11210000001099970L&gb=1&aisiteOutPageId=fd8bce2cbfb044a09466e9d82cd7b8b0",
+        "label": "服务"
+      },
+      {
+        "url": "https://www.lnzwfw.gov.cn/bmym/?groupId=11210000001099970L&gb=1&aisiteOutPageId=7f7b197ae6154b899dfb6f553192b8c6",
+        "label": "政务服务"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/fw/bmfw/index.shtml",
+        "label": "便民服务"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/hd/index.shtml",
+        "label": "互动"
+      },
+      {
+        "url": "https://www.lnzwfw.gov.cn/8890/index?aisiteOutPageId=0e367f0ee6d84c878ceb2138106e5c29",
+        "label": "12345综合服务平台"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/hd/qzts/index.shtml",
+        "label": "群众投诉"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/hd/zqyj/index.shtml",
+        "label": "征求意见"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/ysqgkwysq/index.shtml",
+        "label": "依申请公开"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/zt/index.shtml",
+        "label": "专题"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/zt/bmfw/index.shtml",
+        "label": "便民服务"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/zt/zxdkzc/index.shtml",
+        "label": "助学贷款政策"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/ysqgkwysq/index.shtml",
+        "label": "依申请公开网页申请"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/ysqgkwysq/ysqgksqy/index.shtml",
+        "label": "依申请公开申请页"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/ysqgkwysq/ysqgklby/index.shtml",
+        "label": "依申请公开列表页"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/ysqgkwysq/ysqgkxxy/index.shtml",
+        "label": "依申请公开详细页"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/ysqgkwysq/ysqgkbzy/index.shtml",
+        "label": "依申请公开补正页"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/index.shtml",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/index.shtml",
+        "label": "公开"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/gsgg/index.shtml",
+        "label": "公示公告"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/gk/gsgg/2024123115165228021/index.shtml",
+        "label": "打印本页"
+      },
+      {
+        "url": "https://jyt.ln.gov.cn/jyt/index/wddt/index.shtml",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=0BE1461D500F2D24E053012819AC76F2",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "key": "province_finance_heilongjiang_2023",
+    "url": "https://jyt.hlj.gov.cn/jyt/c110518/202501/c00_31798943.shtml",
+    "status": "downloaded",
+    "bytes": 78400,
+    "sha256": "1a843ea89f55dca89935479e297ef0eb534b7fa05e5e5fe091961048b45fedad",
+    "path": "raw\\province_finance_heilongjiang_2023.html",
+    "links": [
+      {
+        "url": "https://www.gov.cn/",
+        "label": "中国政府网"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "https://www.hlj.gov.cn/",
+        "label": "黑龙江省人民政府"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "关怀版"
+      },
+      {
+        "url": "javascript:;",
+        "label": "无障碍"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/reception/uc/user/login",
+        "label": "登录"
+      },
+      {
+        "url": "https://sfrz.zwfw.hlj.gov.cn/f/wzgruser/wzNaturalPerson/fromgr?uuid=b0f3556656a59a2c&rediskey=",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/index.shtml",
+        "label": ""
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/so/s?qt=&advancedSearchType=2",
+        "label": "高级搜索"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/index.shtml",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/jgld/public_jgld_new.shtml",
+        "label": "机构概况"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c110473/xwdt.shtml",
+        "label": "教育资讯"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/zwgk/zwgk.shtml",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c110535/redirect_firstChannel.shtml",
+        "label": "政务服务"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c110540/public_zmhd.shtml",
+        "label": "政民互动"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/index.shtml",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/zwgk/zwgk.shtml",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c110495/public_zfxxgk.shtml",
+        "label": "法定主动公开"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c110517/public_zfxxgk.shtml",
+        "label": "统计信息"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c110518/public_zfxxgk.shtml",
+        "label": "统计公报"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c110518/202501/31798943/files/附件 2023年黑龙江省教育经费执行情况统计表.xlsx",
+        "label": "2023年黑龙江省教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:window.print()",
+        "label": "【打印本文】"
+      },
+      {
+        "url": "javascript:window.close();",
+        "label": "【关闭】"
+      },
+      {
+        "url": "http://www.gov.cn/",
+        "label": "中国政府网"
+      },
+      {
+        "url": "http://www.fmprc.gov.cn/web/",
+        "label": "外交部"
+      },
+      {
+        "url": "http://www.mod.gov.cn/",
+        "label": "国防部"
+      },
+      {
+        "url": "https://www.ndrc.gov.cn/",
+        "label": "国家发展和改革委员会"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.most.gov.cn/",
+        "label": "科学技术部"
+      },
+      {
+        "url": "http://www.miit.gov.cn/",
+        "label": "工业和信息化部"
+      },
+      {
+        "url": "https://www.neac.gov.cn/",
+        "label": "国家民族事务委员会"
+      },
+      {
+        "url": "http://www.mps.gov.cn/",
+        "label": "公安部"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "国家安全部"
+      },
+      {
+        "url": "http://www.mca.gov.cn/",
+        "label": "民政部"
+      },
+      {
+        "url": "http://www.moj.gov.cn/",
+        "label": "司法部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/index.htm",
+        "label": "财政部"
+      },
+      {
+        "url": "http://www.mohrss.gov.cn/",
+        "label": "人力资源和社会保障部"
+      },
+      {
+        "url": "http://www.mnr.gov.cn/",
+        "label": "自然资源部"
+      },
+      {
+        "url": "http://www.mee.gov.cn/",
+        "label": "生态环境部"
+      },
+      {
+        "url": "http://www.mohurd.gov.cn/",
+        "label": "住房和城乡建设部"
+      },
+      {
+        "url": "http://www.mot.gov.cn/",
+        "label": "交通运输部"
+      },
+      {
+        "url": "http://www.mwr.gov.cn/",
+        "label": "水利部"
+      },
+      {
+        "url": "http://www.moa.gov.cn/",
+        "label": "农业农村部"
+      },
+      {
+        "url": "http://www.mofcom.gov.cn/",
+        "label": "商务部"
+      },
+      {
+        "url": "https://www.mct.gov.cn/",
+        "label": "文化和旅游部"
+      },
+      {
+        "url": "http://www.nhc.gov.cn/",
+        "label": "国家卫生健康委员会"
+      },
+      {
+        "url": "http://www.mva.gov.cn/",
+        "label": "退役军人事务部"
+      },
+      {
+        "url": "https://www.mem.gov.cn/index.shtml",
+        "label": "应急管理部"
+      },
+      {
+        "url": "http://www.pbc.gov.cn/",
+        "label": "中国人民银行"
+      },
+      {
+        "url": "http://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/China_Language/",
+        "label": "国家语言文字工作委员会"
+      },
+      {
+        "url": "http://www.cnsa.gov.cn/",
+        "label": "国家航天局"
+      },
+      {
+        "url": "http://www.caea.gov.cn/",
+        "label": "国家原子能机构"
+      },
+      {
+        "url": "javascript:;",
+        "label": "国家外国专家局"
+      },
+      {
+        "url": "javascript:;",
+        "label": "国家海洋局"
+      },
+      {
+        "url": "http://nnsa.mee.gov.cn/",
+        "label": "国家核安全局"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "国家乡村振兴局"
+      },
+      {
+        "url": "http://www.sasac.gov.cn/",
+        "label": "国务院国有资产监督管理委员会"
+      },
+      {
+        "url": "http://www.customs.gov.cn/",
+        "label": "海关总署"
+      },
+      {
+        "url": "http://www.chinatax.gov.cn/",
+        "label": "国家税务总局"
+      },
+      {
+        "url": "http://www.samr.gov.cn/",
+        "label": "国家市场监督管理总局"
+      },
+      {
+        "url": "https://www.nfra.gov.cn/cn/view/pages/index/index.html",
+        "label": "国家金融监督管理总局"
+      },
+      {
+        "url": "http://www.csrc.gov.cn/pub/newsite/",
+        "label": "中国证券监督管理委员会"
+      },
+      {
+        "url": "http://www.nrta.gov.cn/",
+        "label": "国家广播电视总局"
+      },
+      {
+        "url": "https://www.sport.gov.cn/",
+        "label": "国家体育总局"
+      },
+      {
+        "url": "http://www.gjxfj.gov.cn/gjxfj/index.htm",
+        "label": "国家信访局"
+      },
+      {
+        "url": "http://www.stats.gov.cn/",
+        "label": "国家统计局"
+      },
+      {
+        "url": "https://www.cnipa.gov.cn/",
+        "label": "国家知识产权局"
+      },
+      {
+        "url": "http://www.cidca.gov.cn/",
+        "label": "国家国际发展合作署"
+      },
+      {
+        "url": "http://www.nhsa.gov.cn/",
+        "label": "国家医疗保障局"
+      },
+      {
+        "url": "http://www.counsellor.gov.cn/",
+        "label": "国务院参事室"
+      },
+      {
+        "url": "http://www.ggj.gov.cn/",
+        "label": "国家机关事务管理局"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "国家反垄断局"
+      },
+      {
+        "url": "http://www.cnca.gov.cn/",
+        "label": "国家认证认可监督管理委员会"
+      },
+      {
+        "url": "http://www.sac.gov.cn/",
+        "label": "国家标准化管理委员会"
+      },
+      {
+        "url": "https://www.nppa.gov.cn/",
+        "label": "国家新闻出版署"
+      },
+      {
+        "url": "https://www.ncac.gov.cn/",
+        "label": "(国家版权局)"
+      },
+      {
+        "url": "http://www.sara.gov.cn/",
+        "label": "国家宗教事务局"
+      },
+      {
+        "url": "http://www.gov.cn/guoqing/2018-06/22/content_5300522.htm",
+        "label": "国务院研究室"
+      },
+      {
+        "url": "http://www.gqb.gov.cn/",
+        "label": "国务院侨务办公室"
+      },
+      {
+        "url": "https://www.hmo.gov.cn/",
+        "label": "国务院港澳事务办公室"
+      },
+      {
+        "url": "http://www.gwytb.gov.cn/",
+        "label": "国务院台湾事务办公室"
+      },
+      {
+        "url": "http://www.cac.gov.cn/",
+        "label": "国家互联网信息办公室"
+      },
+      {
+        "url": "http://www.scio.gov.cn/index.htm",
+        "label": "国务院新闻办公室"
+      },
+      {
+        "url": "http://www.news.cn/xinhuashe/",
+        "label": "新华通讯社"
+      },
+      {
+        "url": "https://www.cas.cn/",
+        "label": "中国科学院"
+      },
+      {
+        "url": "http://www.cssn.cn/?COLLCC=810201937&",
+        "label": "中国社会科学院"
+      },
+      {
+        "url": "http://www.cae.cn/",
+        "label": "中国工程院"
+      },
+      {
+        "url": "http://www.drc.gov.cn/",
+        "label": "国务院发展研究中心"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "中央广播电视总台"
+      },
+      {
+        "url": "http://www.cma.gov.cn/",
+        "label": "中国气象局"
+      },
+      {
+        "url": "http://www.ccps.gov.cn/",
+        "label": "国家行政学院"
+      },
+      {
+        "url": "http://www.lswz.gov.cn/",
+        "label": "国家粮食和物资储备局"
+      },
+      {
+        "url": "http://www.nea.gov.cn/",
+        "label": "国家能源局"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "国家数据局"
+      },
+      {
+        "url": "http://www.sastind.gov.cn/",
+        "label": "国家国防科技工业局"
+      },
+      {
+        "url": "http://www.tobacco.gov.cn/html/",
+        "label": "国家烟草专卖局"
+      },
+      {
+        "url": "https://www.nia.gov.cn/",
+        "label": "国家移民管理局"
+      },
+      {
+        "url": "http://www.forestry.gov.cn/",
+        "label": "国家林业和草原局"
+      },
+      {
+        "url": "http://www.nra.gov.cn/",
+        "label": "国家铁路局"
+      },
+      {
+        "url": "http://www.caac.gov.cn/index.html",
+        "label": "中国民用航空局"
+      },
+      {
+        "url": "http://www.spb.gov.cn/",
+        "label": "国家邮政局"
+      },
+      {
+        "url": "http://www.ncha.gov.cn/",
+        "label": "国家文物局"
+      },
+      {
+        "url": "http://www.natcm.gov.cn/",
+        "label": "国家中医药管理局"
+      },
+      {
+        "url": "https://www.ndcpa.gov.cn/",
+        "label": "国家疾病预防控制局"
+      },
+      {
+        "url": "https://www.chinamine-safety.gov.cn/",
+        "label": "国家矿山安全监察局"
+      },
+      {
+        "url": "https://www.119.gov.cn/",
+        "label": "国家消防救援局"
+      },
+      {
+        "url": "http://www.safe.gov.cn/",
+        "label": "国家外汇管理局"
+      },
+      {
+        "url": "https://www.nmpa.gov.cn",
+        "label": "国家药品监督管理局"
+      },
+      {
+        "url": "http://www.beijing.gov.cn/",
+        "label": "北京"
+      },
+      {
+        "url": "http://www.tj.gov.cn/",
+        "label": "天津"
+      },
+      {
+        "url": "http://www.hebei.gov.cn/",
+        "label": "河北"
+      },
+      {
+        "url": "http://www.shanxi.gov.cn/",
+        "label": "山西"
+      },
+      {
+        "url": "http://www.nmg.gov.cn/",
+        "label": "内蒙古"
+      },
+      {
+        "url": "http://www.ln.gov.cn/",
+        "label": "辽宁"
+      },
+      {
+        "url": "http://www.jl.gov.cn/",
+        "label": "吉林"
+      },
+      {
+        "url": "http://www.hlj.gov.cn/",
+        "label": "黑龙江"
+      },
+      {
+        "url": "http://www.shanghai.gov.cn/",
+        "label": "上海"
+      },
+      {
+        "url": "http://www.jiangsu.gov.cn/",
+        "label": "江苏"
+      },
+      {
+        "url": "http://www.zj.gov.cn/",
+        "label": "浙江"
+      },
+      {
+        "url": "http://www.ah.gov.cn/",
+        "label": "安徽"
+      },
+      {
+        "url": "http://www.fujian.gov.cn/",
+        "label": "福建"
+      },
+      {
+        "url": "http://www.jiangxi.gov.cn/",
+        "label": "江西"
+      },
+      {
+        "url": "http://www.shandong.gov.cn/",
+        "label": "山东"
+      },
+      {
+        "url": "http://www.henan.gov.cn/",
+        "label": "河南"
+      },
+      {
+        "url": "http://www.hubei.gov.cn/",
+        "label": "湖北"
+      },
+      {
+        "url": "http://www.hunan.gov.cn/",
+        "label": "湖南"
+      },
+      {
+        "url": "http://www.gd.gov.cn/",
+        "label": "广东"
+      },
+      {
+        "url": "http://www.gxzf.gov.cn/",
+        "label": "广西"
+      },
+      {
+        "url": "http://www.hainan.gov.cn/",
+        "label": "海南"
+      },
+      {
+        "url": "http://www.cq.gov.cn/",
+        "label": "重庆"
+      },
+      {
+        "url": "http://www.sc.gov.cn/",
+        "label": "四川"
+      },
+      {
+        "url": "http://www.guizhou.gov.cn/",
+        "label": "贵州"
+      },
+      {
+        "url": "http://www.yn.gov.cn/",
+        "label": "云南"
+      },
+      {
+        "url": "http://www.xizang.gov.cn/",
+        "label": "西藏"
+      },
+      {
+        "url": "http://www.shaanxi.gov.cn/",
+        "label": "陕西"
+      },
+      {
+        "url": "http://www.gansu.gov.cn/",
+        "label": "甘肃"
+      },
+      {
+        "url": "http://www.qinghai.gov.cn/",
+        "label": "青海"
+      },
+      {
+        "url": "http://www.nx.gov.cn/",
+        "label": "宁夏"
+      },
+      {
+        "url": "http://www.xinjiang.gov.cn/",
+        "label": "新疆"
+      },
+      {
+        "url": "https://www.gov.hk/sc/residents/",
+        "label": "香港"
+      },
+      {
+        "url": "https://www.gov.mo/zh-hant/",
+        "label": "澳门"
+      },
+      {
+        "url": "javascript:void(0)",
+        "label": "台湾"
+      },
+      {
+        "url": "http://www.xjbt.gov.cn/",
+        "label": "新疆生产建设兵团"
+      },
+      {
+        "url": "http://drc.hlj.gov.cn/",
+        "label": "省发展和改革委员会"
+      },
+      {
+        "url": "http://jyt.hlj.gov.cn/",
+        "label": "省教育厅"
+      },
+      {
+        "url": "http://kjt.hlj.gov.cn/",
+        "label": "省科学技术厅"
+      },
+      {
+        "url": "http://gxt.hlj.gov.cn/",
+        "label": "省工业和信息化厅"
+      },
+      {
+        "url": "http://mzw.hlj.gov.cn/",
+        "label": "省民族宗教事务委员会"
+      },
+      {
+        "url": "http://gat.hlj.gov.cn/",
+        "label": "省公安厅"
+      },
+      {
+        "url": "http://mzt.hlj.gov.cn/",
+        "label": "省民政厅"
+      },
+      {
+        "url": "http://sft.hlj.gov.cn/",
+        "label": "省司法厅"
+      },
+      {
+        "url": "http://czt.hlj.gov.cn/",
+        "label": "省财政厅"
+      },
+      {
+        "url": "http://hrss.hlj.gov.cn/",
+        "label": "省人力资源和社会保障厅"
+      },
+      {
+        "url": "http://zrzyt.hlj.gov.cn/",
+        "label": "省自然资源厅"
+      },
+      {
+        "url": "http://sthj.hlj.gov.cn/",
+        "label": "省生态环境厅"
+      },
+      {
+        "url": "http://zfcxjst.hlj.gov.cn/",
+        "label": "省住房和城乡建设厅"
+      },
+      {
+        "url": "http://jt.hlj.gov.cn/",
+        "label": "省交通运输厅"
+      },
+      {
+        "url": "http://slt.hlj.gov.cn/",
+        "label": "省水利厅"
+      },
+      {
+        "url": "http://nynct.hlj.gov.cn/",
+        "label": "省农业农村厅"
+      },
+      {
+        "url": "http://sswt.hlj.gov.cn/",
+        "label": "省商务厅"
+      },
+      {
+        "url": "http://wlt.hlj.gov.cn/",
+        "label": "省文化和旅游厅"
+      },
+      {
+        "url": "http://wsjkw.hlj.gov.cn/wsjkw/index.shtml",
+        "label": "省卫生健康委员会"
+      },
+      {
+        "url": "http://dva.hlj.gov.cn/dva/index.shtml",
+        "label": "省退役军人事务厅"
+      },
+      {
+        "url": "http://yjgl.hlj.gov.cn/",
+        "label": "省应急管理厅"
+      },
+      {
+        "url": "http://sjt.hlj.gov.cn/",
+        "label": "省审计厅"
+      },
+      {
+        "url": "http://fao.hlj.gov.cn/",
+        "label": "省外事办公室"
+      },
+      {
+        "url": "http://gzw.hlj.gov.cn/",
+        "label": "省国有资产监督管理委员会"
+      },
+      {
+        "url": "http://amr.hlj.gov.cn/amr/index.shtml",
+        "label": "省市场监督管理局"
+      },
+      {
+        "url": "http://hljgdj.hlj.gov.cn/",
+        "label": "省广播电视局"
+      },
+      {
+        "url": "http://tyj.hlj.gov.cn/",
+        "label": "省体育局"
+      },
+      {
+        "url": "https://xfj.hlj.gov.cn/",
+        "label": "省信访局"
+      },
+      {
+        "url": "http://tjj.hlj.gov.cn/",
+        "label": "省统计局"
+      },
+      {
+        "url": "http://ybj.hlj.gov.cn/ybj/index.shtml",
+        "label": "省医疗保障局"
+      },
+      {
+        "url": "http://bec.hlj.gov.cn/",
+        "label": "省营商环境建设监督局"
+      },
+      {
+        "url": "http://lyhcyj.hlj.gov.cn/",
+        "label": "省林业和草原局"
+      },
+      {
+        "url": "http://jgj.hlj.gov.cn/ ",
+        "label": "省机关事务管理局"
+      },
+      {
+        "url": "http://gdb.hlj.gov.cn/",
+        "label": "省国防动员办公室"
+      },
+      {
+        "url": "http://lsj.hlj.gov.cn/",
+        "label": "省粮食和物资储备局"
+      },
+      {
+        "url": "http://jyglj.hlj.gov.cn/",
+        "label": "省监狱管理局"
+      },
+      {
+        "url": "http://tcm.hlj.gov.cn/",
+        "label": "省中医药管理局"
+      },
+      {
+        "url": "http://mpa.hlj.gov.cn/",
+        "label": "省药品监督管理局"
+      },
+      {
+        "url": "http://hlipa.hlj.gov.cn/",
+        "label": "省知识产权局"
+      },
+      {
+        "url": "https://jkj.hlj.gov.cn",
+        "label": "省疾病预防控制局"
+      },
+      {
+        "url": "http://www.harbin.gov.cn/",
+        "label": "哈尔滨市"
+      },
+      {
+        "url": "http://www.harbin.gov.cn/",
+        "label": "哈尔滨市"
+      },
+      {
+        "url": "http://www.hrbdl.gov.cn",
+        "label": "道里区"
+      },
+      {
+        "url": "http://www.hrbng.gov.cn",
+        "label": "南岗区"
+      },
+      {
+        "url": "http://www.hrbdw.gov.cn/",
+        "label": "道外区"
+      },
+      {
+        "url": "http://www.hrbpf.gov.cn",
+        "label": "平房区"
+      },
+      {
+        "url": "http://www.songbei.gov.cn",
+        "label": "松北区"
+      },
+      {
+        "url": "http://www.hrbxf.gov.cn",
+        "label": "香坊区"
+      },
+      {
+        "url": "http://www.hulan.gov.cn",
+        "label": "呼兰区"
+      },
+      {
+        "url": "http://www.acheng.gov.cn",
+        "label": "阿城区"
+      },
+      {
+        "url": "http://www.hrbsc.gov.cn",
+        "label": "双城区"
+      },
+      {
+        "url": "http://www.hrbyl.gov.cn/",
+        "label": "依兰县"
+      },
+      {
+        "url": "http://www.hrbfz.gov.cn/",
+        "label": "方正县"
+      },
+      {
+        "url": "http://www.chinabx.gov.cn/",
+        "label": "宾县"
+      },
+      {
+        "url": "http://www.bayan.gov.cn/",
+        "label": "巴彦县"
+      },
+      {
+        "url": "http://www.mulan.gov.cn/",
+        "label": "木兰县"
+      },
+      {
+        "url": "http://www.hrbtonghe.gov.cn/",
+        "label": "通河县"
+      },
+      {
+        "url": "http://www.hrbyanshou.gov.cn/",
+        "label": "延寿县"
+      },
+      {
+        "url": "http://www.shangzhi.gov.cn/",
+        "label": "尚志市"
+      },
+      {
+        "url": "http://www.hljwch.gov.cn/",
+        "label": "五常市"
+      },
+      {
+        "url": "http://www.qqhr.gov.cn/",
+        "label": "齐齐哈尔市"
+      },
+      {
+        "url": "http://www.qqhr.gov.cn/",
+        "label": "齐齐哈尔市"
+      },
+      {
+        "url": "http://www.qqhrlsq.gov.cn",
+        "label": "龙沙区"
+      },
+      {
+        "url": "http://www.jhq.gov.cn",
+        "label": "建华区"
+      },
+      {
+        "url": "http://www.tfqzf.gov.cn",
+        "label": "铁锋区"
+      },
+      {
+        "url": "http://www.aax.gov.cn",
+        "label": "昂昂溪区"
+      },
+      {
+        "url": "http://www.flej.gov.cn",
+        "label": "富拉尔基区"
+      },
+      {
+        "url": "http://www.nzs.gov.cn",
+        "label": "碾子山区"
+      },
+      {
+        "url": "http://www.mls.gov.cn",
+        "label": "梅里斯达斡尔族区"
+      },
+      {
+        "url": "http://www.ljxrmzfw.gov.cn/",
+        "label": "龙江县"
+      },
+      {
+        "url": "http://www.hljyian.gov.cn/",
+        "label": "依安县"
+      },
+      {
+        "url": "http://www.tailai.gov.cn/",
+        "label": "泰来县"
+      },
+      {
+        "url": "http://www.gannan.gov.cn/",
+        "label": "甘南县"
+      },
+      {
+        "url": "http://www.fuyu.gov.cn/",
+        "label": "富裕县"
+      },
+      {
+        "url": "http://www.keshan.gov.cn/",
+        "label": "克山县"
+      },
+      {
+        "url": "http://www.kedong.gov.cn/",
+        "label": "克东县"
+      },
+      {
+        "url": "http://www.baiquan.gov.cn/",
+        "label": "拜泉县"
+      },
+      {
+        "url": "http://www.nehe.gov.cn/",
+        "label": "讷河市"
+      },
+      {
+        "url": "http://www.mdj.gov.cn/",
+        "label": "牡丹江市"
+      },
+      {
+        "url": "http://www.mdj.gov.cn/",
+        "label": "牡丹江市"
+      },
+      {
+        "url": "http://www.donganqu.gov.cn/",
+        "label": "东安区"
+      },
+      {
+        "url": "http://www.yangming.gov.cn/",
+        "label": "阳明区"
+      },
+      {
+        "url": "http://www.aimin.gov.cn/",
+        "label": "爱民区"
+      },
+      {
+        "url": "http://www.mdjxa.gov.cn/",
+        "label": "西安区"
+      },
+      {
+        "url": "http://www.linkou.gov.cn/",
+        "label": "林口县"
+      },
+      {
+        "url": "http://www.suifenhe.gov.cn/",
+        "label": "绥芬河市"
+      },
+      {
+        "url": "http://www.hailin.gov.cn/",
+        "label": "海林市"
+      },
+      {
+        "url": "http://www.ningan.gov.cn/",
+        "label": "宁安市"
+      },
+      {
+        "url": "http://www.muling.gov.cn/",
+        "label": "穆棱市"
+      },
+      {
+        "url": "https://www.dongning.gov.cn/",
+        "label": "东宁市"
+      },
+      {
+        "url": "https://www.jms.gov.cn/",
+        "label": "佳木斯市"
+      },
+      {
+        "url": "https://www.jms.gov.cn/",
+        "label": "佳木斯市"
+      },
+      {
+        "url": "http://www.xyq.gov.cn/",
+        "label": "向阳区"
+      },
+      {
+        "url": "http://www.jmsqjq.gov.cn/",
+        "label": "前进区"
+      },
+      {
+        "url": "http://www.jmsdf.gov.cn/",
+        "label": "东风区"
+      },
+      {
+        "url": "http://www.jmsjqzf.gov.cn/",
+        "label": "郊区"
+      },
+      {
+        "url": "http://www.huanan.gov.cn/",
+        "label": "桦南县"
+      },
+      {
+        "url": "http://www.huachuan.gov.cn/",
+        "label": "桦川县"
+      },
+      {
+        "url": "http://www.tangyuan.gov.cn",
+        "label": "汤原县"
+      },
+      {
+        "url": "http://www.hljfy.gov.cn/",
+        "label": "抚远市"
+      },
+      {
+        "url": "https://www.tongjiang.gov.cn",
+        "label": "同江市"
+      },
+      {
+        "url": "http://www.fujin.gov.cn/",
+        "label": "富锦市"
+      },
+      {
+        "url": "http://www.daqing.gov.cn/",
+        "label": "大庆市"
+      },
+      {
+        "url": "http://www.daqing.gov.cn/",
+        "label": "大庆市"
+      },
+      {
+        "url": "http://www.saertu.gov.cn/",
+        "label": "萨尔图区"
+      },
+      {
+        "url": "http://www.dqlf.gov.cn/",
+        "label": "龙凤区"
+      },
+      {
+        "url": "http://www.dqrhl.gov.cn/",
+        "label": "让胡路区"
+      },
+      {
+        "url": "http://www.honggang.gov.cn/",
+        "label": "红岗区"
+      },
+      {
+        "url": "http://www.dqdt.gov.cn/",
+        "label": "大同区"
+      },
+      {
+        "url": "http://www.zhaozhou.gov.cn/",
+        "label": "肇州县"
+      },
+      {
+        "url": "http://www.zgzy.gov.cn/",
+        "label": "肇源县"
+      },
+      {
+        "url": "http://www.lindian.gov.cn/",
+        "label": "林甸县"
+      },
+      {
+        "url": "http://www.drbt.gov.cn/",
+        "label": "杜尔伯特蒙古族自治县"
+      },
+      {
+        "url": "http://www.jixi.gov.cn/",
+        "label": "鸡西市"
+      },
+      {
+        "url": "http://www.jixi.gov.cn/",
+        "label": "鸡西市"
+      },
+      {
+        "url": "http://www.jgq.gov.cn",
+        "label": "鸡冠区"
+      },
+      {
+        "url": "http://jixihengshan.gov.cn",
+        "label": "恒山区"
+      },
+      {
+        "url": "http://www.didaoqu.gov.cn",
+        "label": "滴道区"
+      },
+      {
+        "url": "http://jixilishu.gov.cn",
+        "label": "梨树区"
+      },
+      {
+        "url": "http://www.czh.gov.cn",
+        "label": "城子河区"
+      },
+      {
+        "url": "http://jiximashan.gov.cn",
+        "label": "麻山区"
+      },
+      {
+        "url": "http://www.jidong.gov.cn/",
+        "label": "鸡东县"
+      },
+      {
+        "url": "http://www.hljhulin.gov.cn/",
+        "label": "虎林市"
+      },
+      {
+        "url": "http://www.hljms.gov.cn/",
+        "label": "密山市"
+      },
+      {
+        "url": "http://www.shuangyashan.gov.cn/",
+        "label": "双鸭山市"
+      },
+      {
+        "url": "http://www.shuangyashan.gov.cn/",
+        "label": "双鸭山市"
+      },
+      {
+        "url": "http://www.sysjs.gov.cn/",
+        "label": "尖山区"
+      },
+      {
+        "url": "http://www.sysld.gov.cn/",
+        "label": "岭东区"
+      },
+      {
+        "url": "http://www.syssft.gov.cn/",
+        "label": "四方台区"
+      },
+      {
+        "url": "http://www.sysbsq.gov.cn/",
+        "label": "宝山区"
+      },
+      {
+        "url": "http://www.jixian.gov.cn/",
+        "label": "集贤县"
+      },
+      {
+        "url": "http://www.hljyy.gov.cn/",
+        "label": "友谊县"
+      },
+      {
+        "url": "http://www.hlbaoqing.gov.cn/",
+        "label": "宝清县"
+      },
+      {
+        "url": "http://www.raohe.gov.cn/",
+        "label": "饶河县"
+      },
+      {
+        "url": "http://www.yc.gov.cn/",
+        "label": "伊春市"
+      },
+      {
+        "url": "http://www.yc.gov.cn/",
+        "label": "伊春市"
+      },
+      {
+        "url": "http://www.ycym.gov.cn/",
+        "label": "伊美区"
+      },
+      {
+        "url": "http://www.ycwc.gov.cn/",
+        "label": "乌翠区"
+      },
+      {
+        "url": "http://www.yhq.gov.cn/",
+        "label": "友好区"
+      },
+      {
+        "url": "http://www.ycjl.gov.cn/",
+        "label": "金林区"
+      },
+      {
+        "url": "http://www.yctwx.gov.cn/",
+        "label": "汤旺县"
+      },
+      {
+        "url": "http://www.ycfl.gov.cn/",
+        "label": "丰林县"
+      },
+      {
+        "url": "http://www.ycdqs.gov.cn/",
+        "label": "大箐山县"
+      },
+      {
+        "url": "http://www.nancha.gov.cn/",
+        "label": "南岔县"
+      },
+      {
+        "url": "http://www.jyx.gov.cn/",
+        "label": "嘉荫县"
+      },
+      {
+        "url": "http://www.tls.gov.cn/",
+        "label": "铁力市"
+      },
+      {
+        "url": "http://www.qth.gov.cn/",
+        "label": "七台河市"
+      },
+      {
+        "url": "http://www.qth.gov.cn/",
+        "label": "七台河市"
+      },
+      {
+        "url": "http://www.hljxinxing.gov.cn/",
+        "label": "新兴区"
+      },
+      {
+        "url": "http://www.hljtsq.gov.cn/",
+        "label": "桃山区"
+      },
+      {
+        "url": "http://www.hljqzh.gov.cn/",
+        "label": "茄子河区"
+      },
+      {
+        "url": "http://www.hljboli.gov.cn/",
+        "label": "勃利县"
+      },
+      {
+        "url": "http://www.hegang.gov.cn/",
+        "label": "鹤岗市"
+      },
+      {
+        "url": "http://www.hegang.gov.cn/",
+        "label": "鹤岗市"
+      },
+      {
+        "url": "http://www.hgxyq.gov.cn/",
+        "label": "向阳区"
+      },
+      {
+        "url": "http://www.hggn.gov.cn/",
+        "label": "工农区"
+      },
+      {
+        "url": "http://www.hgns.gov.cn/",
+        "label": "南山区"
+      },
+      {
+        "url": "http://www.hgxa.gov.cn/",
+        "label": "兴安区"
+      },
+      {
+        "url": "http://www.hgds.gov.cn/",
+        "label": "东山区"
+      },
+      {
+        "url": "http://www.hgxs.gov.cn/",
+        "label": "兴山区"
+      },
+      {
+        "url": "http://www.luobei.gov.cn/",
+        "label": "萝北县"
+      },
+      {
+        "url": "https://www.suibin.gov.cn/",
+        "label": "绥滨县"
+      },
+      {
+        "url": "http://www.heihe.gov.cn/",
+        "label": "黑河市"
+      },
+      {
+        "url": "http://www.heihe.gov.cn/",
+        "label": "黑河市"
+      },
+      {
+        "url": "http://www.aihui.gov.cn",
+        "label": "爱辉区"
+      },
+      {
+        "url": "http://www.nenjiang.gov.cn/",
+        "label": "嫩江市"
+      },
+      {
+        "url": "http://www.xunke.gov.cn/",
+        "label": "逊克县"
+      },
+      {
+        "url": "http://www.hljsunwu.gov.cn/",
+        "label": "孙吴县"
+      },
+      {
+        "url": "http://www.hljba.gov.cn/",
+        "label": "北安市"
+      },
+      {
+        "url": "http://www.wdlc.gov.cn/",
+        "label": "五大连池市"
+      },
+      {
+        "url": "http://www.suihua.gov.cn/",
+        "label": "绥化市"
+      },
+      {
+        "url": "http://www.suihua.gov.cn/",
+        "label": "绥化市"
+      },
+      {
+        "url": "http://www.hljbeilin.gov.cn/",
+        "label": "北林区"
+      },
+      {
+        "url": "http://www.hlwangkui.gov.cn/",
+        "label": "望奎县"
+      },
+      {
+        "url": "http://www.hljlanxi.gov.cn/",
+        "label": "兰西县"
+      },
+      {
+        "url": "http://www.qgnet.gov.cn/",
+        "label": "青冈县"
+      },
+      {
+        "url": "http://www.hljqingan.gov.cn/",
+        "label": "庆安县"
+      },
+      {
+        "url": "http://www.mingshui.gov.cn/",
+        "label": "明水县"
+      },
+      {
+        "url": "http://www.suiling.gov.cn/",
+        "label": "绥棱县"
+      },
+      {
+        "url": "http://www.hlanda.gov.cn/",
+        "label": "安达市"
+      },
+      {
+        "url": "https://www.hljzhaodong.gov.cn",
+        "label": "肇东市"
+      },
+      {
+        "url": "http://www.hailun.gov.cn/",
+        "label": "海伦市"
+      },
+      {
+        "url": "http://www.dxal.gov.cn/",
+        "label": "大兴安岭地区"
+      },
+      {
+        "url": "http://www.dxal.gov.cn/",
+        "label": "大兴安岭地区"
+      },
+      {
+        "url": "http://www.jgdq.gov.cn/",
+        "label": "加格达奇区"
+      },
+      {
+        "url": "http://www.songling.gov.cn/",
+        "label": "松岭区"
+      },
+      {
+        "url": "http://www.dxalxl.gov.cn/",
+        "label": "新林区"
+      },
+      {
+        "url": "http://www.huzhong.gov.cn",
+        "label": "呼中区"
+      },
+      {
+        "url": "http://www.huma.gov.cn/",
+        "label": "呼玛县"
+      },
+      {
+        "url": "http://www.dxalth.gov.cn/",
+        "label": "塔河县"
+      },
+      {
+        "url": "http://www.mohe.gov.cn/",
+        "label": "漠河市"
+      },
+      {
+        "url": "http://hlj.people.com.cn/",
+        "label": "人民网黑龙江频道"
+      },
+      {
+        "url": "http://www.hlj.xinhuanet.com/",
+        "label": "新华网黑龙江频道"
+      },
+      {
+        "url": "http://epaper.hljnews.cn/hljrb/pc/layout/202302/22/node_01.html",
+        "label": "黑龙江日报"
+      },
+      {
+        "url": "http://www.hljtv.com/",
+        "label": "黑龙江网络广播电视台"
+      },
+      {
+        "url": "https://www.hljnews.cn/",
+        "label": "黑龙江新闻网"
+      },
+      {
+        "url": "https://www.chinahlj.cn/",
+        "label": "黑龙江网"
+      },
+      {
+        "url": "https://www.dbw.cn/",
+        "label": "东北网"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c103934/public_tt.shtml",
+        "label": "关于我们"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c103911/public_tt.shtml",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c103910/public_tt.shtml",
+        "label": "网站声明"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/jyt/c103912/wzdt.shtml",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=2A3766D0367E7A05E053012819AC18EC",
+        "label": ""
+      },
+      {
+        "url": "https://www.12377.cn/",
+        "label": "中国互联网举报中心"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/#/Integrated/index ",
+        "label": "备案序号：黑ICP备10003272号-4"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/#/Integrated/index",
+        "label": "黑公网安备23010302000478号"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/#/Integrated/index",
+        "label": "黑公网安备23010302000478号"
+      },
+      {
+        "url": "https://jyt.hlj.gov.cn/znwd/jyt/",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "key": "province_finance_jilin_2023",
+    "url": "https://jyt.jl.gov.cn/zwgk/ggl/202412/t20241231_9019235.html",
+    "status": "failed",
+    "error": "HTTP Error 502: Bad Gateway"
+  }
+]

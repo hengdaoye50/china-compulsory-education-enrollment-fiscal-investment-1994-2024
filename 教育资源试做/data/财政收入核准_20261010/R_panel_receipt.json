@@ -1,0 +1,20 @@
+{
+  "checks": {
+    "target_930": true,
+    "province_year_unique": true,
+    "two_pre_1997_inapplicable": true,
+    "all_selected_positive": true,
+    "no_model_admission": true
+  },
+  "statuses": {
+    "accepted_numeric": 617,
+    "pending": 214,
+    "no_extracted_final_account_candidate": 52,
+    "inapplicable_pre_1997_province": 2,
+    "accepted_numeric_repeated_table_consensus": 19,
+    "accepted_numeric_final_account_variant": 26
+  },
+  "numeric_selected": 662,
+  "pending_applicable": 266,
+  "input_sha256": "af01f8d52378eed817e77b9e8ec4a20786cac0e780fe293f967fd78350b2c321"
+}

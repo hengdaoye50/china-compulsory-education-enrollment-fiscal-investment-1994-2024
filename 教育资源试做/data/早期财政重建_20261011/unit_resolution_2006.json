@@ -1,0 +1,17 @@
+{
+  "year": 2006,
+  "unit_original": "unit_pending",
+  "unit_resolved": "千元",
+  "status": "cross_source_confirmed",
+  "nbs_url": "https://www.stats.gov.cn/sj/ndsj/2012/html/U2039C.HTM",
+  "local_total_raw": 981530865,
+  "nbs_total_wan": 98153087,
+  "local_fiscal_raw": 634836475,
+  "nbs_fiscal_wan": 63483648,
+  "total_residual_thousand": -5,
+  "fiscal_residual_thousand": -5,
+  "budget_raw": 579561380,
+  "nbs_budget_wan": 57956138,
+  "budget_residual_thousand": 0,
+  "note": "万元×10=千元；全国两项相差5千元，在整万元四舍五入容差内。"
+}

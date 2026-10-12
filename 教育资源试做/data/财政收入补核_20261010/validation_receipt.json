@@ -1,0 +1,18 @@
+{
+  "checks": {
+    "unique_930_positions": true,
+    "historical_inapplicability": true,
+    "all_selected_positive": true,
+    "all_model_admission_false": true,
+    "previous_662_values_preserved": true,
+    "wrapped_97_evidence_recomputed": true,
+    "summary_94_original_coordinates_verified": true,
+    "third_stage_panel_unchanged": true,
+    "four_protected_outputs_unchanged": true,
+    "annual_coverage_recomputed": true,
+    "selected_853_pending_75": true
+  },
+  "selected": 853,
+  "pending_applicable": 75,
+  "passed": true
+}

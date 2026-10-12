@@ -1,0 +1,8 @@
+﻿year,table_number,check,published_total_minus_components,status,limit
+2017,2-12,national broad-age components versus published row total,0,exact_match,2018/2021 original rows differ by one; cause not certified; no source correction or population expansion
+2018,2-12,national broad-age components versus published row total,1,original_difference_retained,2018/2021 original rows differ by one; cause not certified; no source correction or population expansion
+2019,2-12,national broad-age components versus published row total,0,exact_match,2018/2021 original rows differ by one; cause not certified; no source correction or population expansion
+2020,2-16,national broad-age components versus published row total,0,exact_match,2018/2021 original rows differ by one; cause not certified; no source correction or population expansion
+2021,2-11,national broad-age components versus published row total,1,original_difference_retained,2018/2021 original rows differ by one; cause not certified; no source correction or population expansion
+2022,2-11,national broad-age components versus published row total,0,exact_match,2018/2021 original rows differ by one; cause not certified; no source correction or population expansion
+2023,2-11,national broad-age components versus published row total,0,exact_match,2018/2021 original rows differ by one; cause not certified; no source correction or population expansion

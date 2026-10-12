@@ -1,0 +1,8 @@
+{
+  "fraction_standardization_checks": 196,
+  "max_difference": 8.881784197001252e-16,
+  "raw_cells_rechecked": 40,
+  "exact_sign_checks": 12,
+  "source_digest_mismatches": 0,
+  "limitations": "Alternative arithmetic check by same analyst; category membership remains annual, not fixed geography."
+}

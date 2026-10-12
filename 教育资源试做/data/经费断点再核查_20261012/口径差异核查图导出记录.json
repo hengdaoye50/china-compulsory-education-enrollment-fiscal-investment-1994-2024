@@ -1,0 +1,19 @@
+{
+  "dimensions_cm": [
+    16.764,
+    10.922
+  ],
+  "png_pixels": [
+    3960,
+    2580
+  ],
+  "dpi": 600,
+  "background": "white",
+  "uncertainty": "none; deterministic accounting differences",
+  "input_sha256": {
+    "企业来源统一口径候选.csv": "a1925bcb98e6d352cf82ef97666f8d2d85e76bce0f1253e3c482e5cdbcd7f2b2",
+    "2007财政性分子逐项核对.csv": "5e05d244674a0625b7001c794035e3dad9c2f61a059854a57a94f4a796ff1b82"
+  },
+  "matplotlib_version": "3.11.2",
+  "text_bounds_passed": true
+}

@@ -1,0 +1,20 @@
+[
+  {
+    "key": "finance_continuity_xinan_2024_pdf",
+    "url": "https://www.yantai.gov.cn/cms_files/jcms1/web1/site/attach/0/c0194f44d8e14eebaf689e9f572bf61c.pdf",
+    "status": "downloaded",
+    "bytes": 1180284,
+    "sha256": "741949dc1837d2887176c767cddeadb447f79357a2016a4cf44f0528c7cf6746",
+    "path": "raw\\finance_continuity_xinan_2024_pdf.pdf",
+    "links": []
+  },
+  {
+    "key": "finance_continuity_wulitou_2023_pdf",
+    "url": "https://www.yantai.gov.cn/cms_files/jcms1/web1/site/attach/0/a6b654873d374005a6d329072959673f.pdf",
+    "status": "downloaded",
+    "bytes": 1127542,
+    "sha256": "a9900fbfedc131b43ffb6fe6f841083b670c281b652861463041b2b76ba92fd5",
+    "path": "raw\\finance_continuity_wulitou_2023_pdf.pdf",
+    "links": []
+  }
+]

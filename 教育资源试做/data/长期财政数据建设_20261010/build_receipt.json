@@ -1,0 +1,47 @@
+{
+  "ledger_rows": 239276,
+  "source_tables": 1497,
+  "student_rows": 1916,
+  "student_province_rows": 1856,
+  "student_numeric_internal_accepted": 1630,
+  "student_check_status": {
+    "pass_exact": 1797,
+    "uncheckable_invalid_or_missing": 178,
+    "unresolved_difference": 1
+  },
+  "finance_check_status": {
+    "uncheckable_invalid_or_missing": 60,
+    "pass_rounding": 4633
+  },
+  "panel_metric_counts": {
+    "GDP": 930,
+    "R": 930,
+    "fiscal_expenditure": 930,
+    "CPI_yoy": 930
+  },
+  "fiscal_cells": 3588,
+  "education_finance_cells": 218936,
+  "issue_counts": {
+    "student_grade_sum": 177,
+    "invalid_student_domain": 1,
+    "student_province_sum": 2,
+    "pre_1997_chongqing": 8,
+    "fiscal_unit_unresolved": 55,
+    "fiscal_final_column_unresolved": 59,
+    "hebei_tianjin_conflict": 8,
+    "secondary_scope_excluded": 162,
+    "finance_original_component_sum": 60
+  },
+  "matching_rows": 1860,
+  "model_ready_rows": 0,
+  "protected_files_unchanged": true,
+  "protected_hashes": {
+    "教育资源试做\\data\\finance_long.csv": "4b07e6dd9c6812652fa2de5a4fdac8331e15f0f69843f128fd8c741ae976e6b2",
+    "教育资源试做\\data\\education_resource_panel.csv": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f",
+    "教育资源试做\\data\\panel.json": "4f2ad2013d233f3f54d4f8c576d78c7e476875d1e2b1e11fd0133ebe310e7f02",
+    "教育资源试做\\教育资源试做.html": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06"
+  },
+  "interpolation_used": false,
+  "regression_run": false,
+  "scope": "first construction milestone; candidate values are not final comparable panel"
+}

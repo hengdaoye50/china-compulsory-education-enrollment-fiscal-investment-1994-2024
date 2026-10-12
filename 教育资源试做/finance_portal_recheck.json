@@ -1,0 +1,1924 @@
+[
+  {
+    "key": "finance_disclosure_portal",
+    "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/tongji/jytj_jftjgg/",
+    "status": "downloaded",
+    "bytes": 104041,
+    "sha256": "c23f15b97897eb24ba62f4ad191c85676c5f93b3372921f6d46047274cadb229",
+    "path": "raw\\finance_disclosure_portal.html",
+    "links": [
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=http://www.moe.gov.cn/jyb_xwfb/",
+        "label": "登录"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": ""
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/zhengce/",
+        "label": "政策"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/zhengce/guizhang/",
+        "label": "规章"
+      },
+      {
+        "url": "http://www.moe.gov.cn/was5/web/search?channelid=267907",
+        "label": "行政规范性文件"
+      },
+      {
+        "url": "http://www.moe.gov.cn/was5/web/search?channelid=263058",
+        "label": "其他文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/zhinan/",
+        "label": "政府信息公开指南"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/zhidu/",
+        "label": "政府信息公开制度"
+      },
+      {
+        "url": "javascript:;",
+        "label": "法定主动公开内容"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/gaikuang/",
+        "label": "机构概况"
+      },
+      {
+        "url": "http://www.moe.gov.cn/srcsite/A01/s179/200904/t20090417_76195.html",
+        "label": "主要职责"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/gaikuang/jigou/",
+        "label": "机构设置"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_zzjg/moe_187/",
+        "label": "教育部领导简历及分工"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/gaikuang/gaikuang/",
+        "label": "中国教育概况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/guihua/",
+        "label": "教育规划"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/guihua/jyfzgh_fzghbz/",
+        "label": "国家教育事业发展五年规划、中长期规划及编制通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/tongji/",
+        "label": "教育统计"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/tongji/gongbao/",
+        "label": "全国教育事业发展统计公报"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sjzl/moe_560/",
+        "label": "教育统计数据"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/tongji/jytj_jcpjzb/",
+        "label": "中国教育监测与评价统计指标体系"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/tongji/jytj_dmglbf/",
+        "label": "学校（机构）代码管理办法"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/tongji/jytj_jftjgg/",
+        "label": "全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/tongji/jytj_lxsj/",
+        "label": "年度出国、来华留学数据"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/guide?matterType=general",
+        "label": "行政许可"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/caizheng/",
+        "label": "财政预算、决算"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/caigou/",
+        "label": "政府采购"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/",
+        "label": "人事工作"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/ganbu/",
+        "label": "干部选拔任用"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/ganbu/zhuwai/",
+        "label": "驻外教育处组参赞（公参、大使衔代表）任职"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/ganbu/danwei/",
+        "label": "直属单位领导班子成员职务任免"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/ganbu/siju/",
+        "label": "机关司局级干部职务任免"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/ganbu/gaoxiao/",
+        "label": "教育部直属高校领导班子成员职务任免"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/ganbu/qita/",
+        "label": "公务员招录、遴选、军转安置工作通知、面试公告、人选公示，教育部在京直属单位接收高校毕业生人选公示等信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/rencai/",
+        "label": "人才工作"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/rencai/rcgz_xgzc/",
+        "label": "教育人才相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/rencai/rcgz_ldxz/",
+        "label": "教育部人才工作领导小组年度工作要点及相关信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/peixun/",
+        "label": "全国教育系统干部培训规划"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/renshi/jiangli/",
+        "label": "表彰奖励"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/",
+        "label": "分类教育信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/",
+        "label": "政务概况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/zwgk_gzyd/",
+        "label": "工作要点"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/zwgk_gzyd/gzyd_ndgzyd/",
+        "label": "教育部年度工作要点"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/zwgk_zyjh/",
+        "label": "重要讲话"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/zwgk_zyjh/zyjh_zyjh/",
+        "label": "中央领导关于教育工作的重要讲话"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/zwgk_zyjh/jiaoyubu/",
+        "label": "教育部领导讲话"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/yuyanwenzi/",
+        "label": "中国语言文字概况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/zwgk_fzzfjsgk/",
+        "label": "法治政府建设概况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zwgk/zwgk_fzzfjsgk/fzzfjsgk_fzzfjs/",
+        "label": "法治政府建设年度工作情况报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_fzghjygg/",
+        "label": "发展规划与教育改革"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_fzghjygg/fzghjygg_jygg/",
+        "label": "教育改革"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_fzghjygg/fzghjygg_jygg/jygg_zcwj/",
+        "label": "教育改革相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_fzghjygg/fzghjygg_jyfp/",
+        "label": "教育扶贫"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_fzghjygg/fzghjygg_jyfp/jyfp_sswgh/",
+        "label": "教育脱贫攻坚“十三五”规划"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_fzghjygg/fzghjygg_jyfp/jyfp_ldxzxx/",
+        "label": "教育部脱贫攻坚工作领导小组文件及相关信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_fzghjygg/fzghjygg_jyfp/jyfp_fphd/",
+        "label": "扶贫日活动（典型项目，经验介绍）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_fzghjygg/minban/",
+        "label": "民办教育管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/",
+        "label": "政策法规"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/zcfg_flfggz/",
+        "label": "法律法规规章"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/zcfg_flfggz/flfggz_flfggz/",
+        "label": "教育法律、行政法规、部门规章及公开征求意见稿"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/zcfg_gfxwjql/",
+        "label": "规范性文件清理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/zcfg_gfxwjql/gfxwjql_wjql/",
+        "label": "规范性文件清理结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/zcfg_jyfzjs/",
+        "label": "教育法治建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/zcfg_jyfzjs/jyfzjs_fzjs/",
+        "label": "全国教育系统法制宣传教育五年规划及法治建设相关文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/zcfg_jyfzjs/jyfzjs_gxzchz/",
+        "label": "教育部部属高校章程核准文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/zcfg_jyfzjs/jyfzjs_pfzd/",
+        "label": "全国教育系统普法制度文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zcfg/zcfg_jyfzjs/jyfzjs_pfhd/",
+        "label": "全国教育普法活动信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/",
+        "label": "教育综合管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_zwgk/",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_zwgk/zwgk_gkzc/",
+        "label": "教育公开相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_zwgk/zwgk_ssfa/",
+        "label": "教育部贯彻落实国办年度政务公开工作要点实施方案"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_zwgk/zwgk_jbml/",
+        "label": "教育部主动公开基本目录"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_zwgk/zwgk_sxqd/",
+        "label": "高等学校信息公开事项清单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_zwgk/zwgk_qddh/",
+        "label": "依申请公开渠道、申请须知及咨询电话"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_zwfw/",
+        "label": "政务服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_zwfw/zwfw_wzlj/",
+        "label": "服务事项目录、网址链接"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_zwfw/zwfw_zcwj/",
+        "label": "“互联网+政务服务”相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_shzzgl/",
+        "label": "社会组织管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_shzzgl/shzzgl_zcwj/",
+        "label": "教育部业务主管社会组织管理工作相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_shzzgl/shzzgl_bszn/",
+        "label": "教育部业务主管社会组织办事指南"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_shzzgl/shzzgl_zzml/",
+        "label": "教育部业务主管社会组织名录"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_xfgz/",
+        "label": "信访工作"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_xfgz/xfgz_zcwj/",
+        "label": "信访工作相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_xfgz/xfgz_xfdh/",
+        "label": "人民来访接待时间及信访电话"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_jyta/",
+        "label": "建议提案"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_jyta/jyta_bldf/",
+        "label": "建议提案办理答复"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_hyhd/",
+        "label": "会议活动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_hyhd/hyhd_zcwj/",
+        "label": "会议活动管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_xwxc/",
+        "label": "新闻宣传"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_xwxc/xwxc_zcwj/",
+        "label": "新闻宣传相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_dagl/",
+        "label": "档案管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_dagl/dzgl_zcwj/",
+        "label": "档案管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_sjccsx/",
+        "label": "随机抽查事项"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_sjccsx/sjccsx_sxqd/",
+        "label": "随机抽查事项清单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_xsgz/",
+        "label": "巡视工作"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_xsgz/xsgz_zdwj/",
+        "label": "巡视工作制度文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_wzgl/",
+        "label": "政府网站管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_wzgl/zfwzgl_jgnb/",
+        "label": "政府网站监管年度报表"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyzhgl/jyzhgl_jdjb/",
+        "label": "监督举报"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/interactive/tsjb/tsjbxz/",
+        "label": "教育部统一监督举报电话和邮箱"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/",
+        "label": "基础教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_xqjy/",
+        "label": "学前教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_xqjy/xqjy_zcwj/",
+        "label": "学前教育发展及幼儿园规范管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_ywjy/",
+        "label": "义务教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_ywjy/ywjy_gdzd/",
+        "label": "义务教育重要政策规定和制度文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_ywjy/ywjy_wttb/",
+        "label": "农村义务教育学校布局调整有关问题的通报"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_ywjy/ywjy_rxzc/",
+        "label": "义务教育招生入学相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_ywjy/ywjy_ythzc/",
+        "label": "统筹推进县域内城乡义务教育一体化改革发展相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_gzjdjy/",
+        "label": "高中阶段教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_gzjdjy/gzjdjy_gjjh/",
+        "label": "高中阶段教育普及攻坚计划"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_gzjdjy/gzjdjy_kspjzc/",
+        "label": "普通高中考试评价相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_tsjy/",
+        "label": "特殊教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_tsjy/tsjy_fzzc/",
+        "label": "特殊教育发展相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zxxxjgl/",
+        "label": "中小学学籍管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zxxxjgl/zxxxjgl_zcwj/",
+        "label": "中小学学籍管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zxxxjgl/zxxxjgl_yyqktb/",
+        "label": "全国中小学生学籍信息管理系统建设应用情况通报"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zxxxjgl/zxxxjgl_zxfwrx/",
+        "label": "中小学学籍管理咨询服务热线"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zxxxjgl/zxxxjgl_bllc/",
+        "label": "中小学学籍业务办理流程"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zxxxjgl/zxxxjgl_fwxx/",
+        "label": "各省级中小学学籍管理咨询服务信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_dyyxwjy/",
+        "label": "德育与校外教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_dyyxwjy/dyyxwjy_hjrymd/",
+        "label": "宋庆龄奖学金评选条件、程序及获奖人员名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_dyyxwjy/dyyxwjy_yppm/",
+        "label": "向全国中小学生推荐优秀影片片目"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_dyyxwjy/dyyxwjy_tsxxmd/",
+        "label": "全国中小学心理健康教育特色学校名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_dyyxwjy/dyyxwjy_dyzcwj/",
+        "label": "中小学德育工作相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_dyyxwjy/dyyxwjy_yxzcwj/",
+        "label": "中小学生研学旅行相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zxxxxgl/",
+        "label": "中小学学校管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zxxxxgl/zxxxxgl_glbz/",
+        "label": "义务教育学校管理标准"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zbyxxh/",
+        "label": "装备与信息化"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zbyxxh/zbyxxh_hdfa/",
+        "label": "“一师一优课、一课一名师”活动方案"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jcjy/jcjy_zbyxxh/zbyxxh_zbzcwj/",
+        "label": "普通中小学装备工作相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/",
+        "label": "职业与成人教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjjjgl/",
+        "label": "职业教育与继续教育综合管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjjjgl/zyjyyjxjyzhgl_zczd/",
+        "label": "职业教育与继续教育综合性政策规定和制度文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjjx/",
+        "label": "职业教育教学"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjjx/zyjyjx_fwzn/",
+        "label": "高等学校设置国家控制的高职（专科）专业审批服务指南"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjjx/zyjyjx_spjg/",
+        "label": "普通高等学校职业教育专业设置备案和审批结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjjx/zyjyjx_zbzy/",
+        "label": "《普通高等学校高等职业教育（专科）专业目录》年度增补专业"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjjx/zyjyjx_hjmd/",
+        "label": "全国职业院校技能大赛职业院校教学能力比赛获奖名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zzdyxxgl/",
+        "label": "中等职业教育德育与学校管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zzdyxxgl/zzdyyxxgl_jyqk/",
+        "label": "中等职业学校毕业生就业情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zzdyxxgl/zzdyyxxgl_zswj/",
+        "label": "高中阶段学校招生文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zzdyxxgl/zzdyyxxgl_fatz/",
+        "label": "全国中等职业学校“文明风采”竞赛活动方案、工作通知等"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_cxshjy/",
+        "label": "城乡社会教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_cxshjy/cxshjy_sysfmd/",
+        "label": "全国社区教育实验区、示范区名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_cxshjy/cxshjy_sfxmd/",
+        "label": "国家农村职业教育和成人教育示范县名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_cxshjy/cxshjy_hdztz/",
+        "label": "开展全面终身学习活动周的通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_jjzygl/",
+        "label": "继续教育专业管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_jjzygl/jxjyzygl_baspjg/",
+        "label": "高等学历继续教育专业设置备案和审批结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjxc/",
+        "label": "职业教育宣传"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjxc/zyjyxc_hdztz/",
+        "label": "开展职业教育活动周的通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_zycrjy/zycrjy_zjxc/zyjyxc_hjmd/",
+        "label": "全国职业院校技能大赛获奖名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/",
+        "label": "高等教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/",
+        "label": "高等学校设置"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/gxsz_gzyj/",
+        "label": "教育部关于高等学校设置工作的意见"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/gxsz_spbajg/",
+        "label": "年度高等学校设置审批、备案结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/gxsz_xxmd/",
+        "label": "全国高等学校名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsz/gxsz_xkzhfbg/",
+        "label": "民办本科学校办学许可证的核发和变更"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxzs/",
+        "label": "高等学校招生"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxzs/gxzs_zszcwj/",
+        "label": "全国普通高校、成人高校招生相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxzs/gxzs_glzcwj/",
+        "label": "高等教育招生计划管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxzs/gxzs_sdyxmd/",
+        "label": "高等学校自主招生及有关特殊类型招生试点院校名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxzs/gxzs_ksjbdh/",
+        "label": "普通高等学校招生全国统一考试举报电话"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxzs/gxzs_yjszszc/",
+        "label": "高等学校研究生招生相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxzs/gxzs_ggrcyjszs/",
+        "label": "少数民族高层次骨干人才研究生年度招生计划"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xjxlgl/",
+        "label": "高等学校学籍学历管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xjxlgl/xjxlgl_zcwj/",
+        "label": "高等学校学生管理、学籍学历管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bkzysz/",
+        "label": "普通高等学校本科专业设置"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bkzysz/bkzysz_zysztz/",
+        "label": "普通高等学校本科专业设置通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bkzysz/bkzysz_szglgd/",
+        "label": "普通高等学校本科专业设置管理规定"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bkzysz/bkzysz_zyszjg/",
+        "label": "普通高等学校本科专业设置结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bkzysz/bkzysz_bkzyml/",
+        "label": "普通高等学校本科专业目录"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bysjycy/",
+        "label": "高等学校毕业生就业创业"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bysjycy/bysjycy_jycyzc/",
+        "label": "毕业生就业创业政策"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bysjycy/bysjycy_bsxwj/",
+        "label": "做好高等学校毕业生就业创业工作部署性文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_bysjycy/bysjycy_zphdtz/",
+        "label": "网上招聘活动通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_scjy/",
+        "label": "高等学校创新创业教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_scjy/cxcyjy_hjmd/",
+        "label": "互联网+创新创业大赛相关文件及获奖名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_scjy/cxcyjy_rkdsmd/",
+        "label": "全国万名优秀创新创业导师人才库建设及入库导师名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_scjy/cxcyjy_lxgxmd/",
+        "label": "深化创新创业教育改革示范高校遴选认定及高校名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_scjy/cxcyjy_jhxmmd/",
+        "label": "国家级大学生创新创业训练计划项目名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_scjy/cxcyjy_ggssfa/",
+        "label": "各直属高校深化创新创业教育改革实施方案"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xwgl/",
+        "label": "学位管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xwgl/xwgl_glbf/",
+        "label": "学位法、学位证书管理办法"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xwgl/xwgl_zcwj/",
+        "label": "学位授权审核工作相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xwgl/xwgl_shjg/",
+        "label": "学位授权审核结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xwgl/xwgl_pyxkml/",
+        "label": "学位授予和人才培养学科目录"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_syljs/",
+        "label": "统筹推进世界一流大学和一流学科建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_syljs/yldxxkjs_zcwj/",
+        "label": "“双一流”建设相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_syljs/yldxxkjs_jsxkmd/",
+        "label": "“双一流”建设高等学校和建设学科名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_yjspy/",
+        "label": "研究生培养"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_yjspy/jyspy_zcwj/",
+        "label": "研究生培养相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_yjspy/jyspy_xwzcwj/",
+        "label": "授予具有研究生毕业同等学力硕士、博士学位相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xyzbtxjs/",
+        "label": "学位与研究生教育质量保障体系建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xyzbtxjs/txjs_xgzc/",
+        "label": "学位与研究生教育质量保障体系建设相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xyzbtxjs/txjs_xwsqdpg/",
+        "label": "学位授权点专项评估、合格评估及抽评等工作通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xyzbtxjs/txjs_sqdpg/",
+        "label": "各学科或专业学位类别学位授权点评估方案"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xyzbtxjs/txjs_pgjgclyj/",
+        "label": "各学科或专业学位类别学位授权点评估结果及处理意见"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gdjyjc/",
+        "label": "高等教育教材"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gdjyjc/gdjyjc_jcjsyj/",
+        "label": "普通高等教育本科教材建设意见"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gdjyjc/gdjyjc_wgjcgltz/",
+        "label": "加强高等学校使用外国教材管理的通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gdjyjc/gdjyjc_lxgz/",
+        "label": "普通高等教育本科国家级规划教材推荐遴选工作相关信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gdjyjc/gdjyjc_jpjcml/",
+        "label": "规划教材、精品教材目录"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jpgkk/",
+        "label": "精品视频公开课、资源共享课及国家精品在线开放课程"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jpgkk/jpspgkk_zcwj/",
+        "label": "精品视频公开课建设、国家级精品资源共享课、在线开放课程建设应用与管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jpgkk/jpspgkk_kcmd/",
+        "label": "精品视频公开课及国家级精品资源共享课和国家精品在线开放课程名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jpgkk/jpspgkk_gzssbf/",
+        "label": "国家级精品资源共享课项目管理办法及建设工作实施办法"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/",
+        "label": "协同育人"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/xtyr_lxmd/",
+        "label": "产学合作协同育人项目申报指南、立项名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/xtyr_rxmd/",
+        "label": "高等学校与法律实务部门人员互聘“双千计划”入选人员名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/xtyr_pyjdmd/",
+        "label": "农科教合作人才培养基地名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/xtyr_yjxmlxmd/",
+        "label": "实践教学规范研究项目立项名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/xtyr_xgkyjysj/",
+        "label": "新工科研究与实践项目指南、立项名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/xtyr_zygcs/",
+        "label": "卓越工程师教育培养计划名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/xtyr_zyysxxmd/",
+        "label": "卓越医生、农林人才教育培养计划高等学校名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/xtyr_zyfzrc/",
+        "label": "卓越法治人才教育培养基地名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xtyr/xtyr_sbgj/",
+        "label": "省部共建高校情况统计"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jqrcpy/",
+        "label": "紧缺人才培养"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jqrcpy/jqrcpy_sfxwdzwj/",
+        "label": "示范性微电子学院建设相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jqrcpy/jqrcpy_sfxrjxywj/",
+        "label": "示范性软件学院建设相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jqrcpy/jqrcpy_qxrczdyj/",
+        "label": "气象人才、化工安全人才、创新服务外包人才培养工作指导意见"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jqrcpy/jqrcpy_mfyxs/",
+        "label": "中央财政支持招收中西部农村订单定向免费医学生的专业和规模"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_jqrcpy/jqrcpy_ythrc/",
+        "label": "开展临床医学、中医学、口腔医学专业“5+3”一体化人才培养高等学校名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_mybssp/",
+        "label": "名誉博士审批"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_mybssp/mybs_mybsmd/",
+        "label": "名誉博士名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsysgl/",
+        "label": "高等学校实验室管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsysgl/gxsys_sysaq/",
+        "label": "关于加强高等学校教学实验室安全、信息统计相关工作的通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsysgl/gxsys_sfzxmd/",
+        "label": "国家级实验教学示范中心名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsysgl/gxsys_xnfzsys/",
+        "label": "国家级虚拟仿真实验教学中心名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsysgl/gxsys_sfxxnfz/",
+        "label": "示范性虚拟仿真实验教学项目名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxsysgl/gxsys_ktyj/",
+        "label": "高等学校教学实验室安全课题研究项目立项名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_wbtxtsqb/",
+        "label": "高等学校文献保障体系及图书情报"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_wbtxtsqb/wxbz_mdzn/",
+        "label": "高等教育文献保障体系建设项目管理委员会名单与职能"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_wbtxtsqb/wxbz_tsqbgz/",
+        "label": "高等学校图书情报工作指导委员会名单与职能"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_wbtxtsqb/wxbz_tsggc/",
+        "label": "普通高等学校图书馆规程"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_zsgxjbjs/",
+        "label": "直属高校基本建设管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_zsgxjbjs/jbjsgl_zcwj/",
+        "label": "直属高校基本建设管理办法等相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_zsgxjbjs/jbjsgl_lzfx/",
+        "label": "直属高校和直属单位基本建设廉政风险防控手册"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxhqjnjp/",
+        "label": "高等学校后勤及节能减排"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxhqjnjp/jnjp_hqgl/",
+        "label": "高等学校后勤管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_gxhqjnjp/jnjp_jnjp/",
+        "label": "高等学校节能减排相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xxaqsc/",
+        "label": "学校安全生产"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gdjy/gdjy_xxaqsc/aqsc_zcwj/",
+        "label": "教育系统安全生产相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/",
+        "label": "课程与教材"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_js/",
+        "label": "课程教材建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_js/jcjs_kcbz/",
+        "label": "义务教育课程方案及各学科课程标准"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_js/kcjcjs_xkkcbz/",
+        "label": "普通高中课程方案和各学科课程标准"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_js/kcjcjs_kcbz/",
+        "label": "特殊教育义务教育课程标准"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_js/kcjcjs_kcfabz/",
+        "label": "中等职业教育公共基础必修课课程方案和课程标准"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_js/kcjcjs_dykcbz/",
+        "label": "中等职业教育德育类课程标准"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_gl/",
+        "label": "课程教材管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_gl/jcgl_mgcj/",
+        "label": "已出版马工程重点教材目录"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_gl/jcgl_sczcwj/",
+        "label": "普通中小学、特殊教育国家课程教材审查相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_gl/jcgl_jkszcwj/",
+        "label": "中小学教科书选用相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_gl/jcgl_dtsd/",
+        "label": "中小学教学地图审定工作有关事项通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_gl/jcgl_yszcwj/",
+        "label": "中小学教学用书相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/kcjc/kcjc_gl/jcgl_jxysml/",
+        "label": "全国中小学教学用书目录"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/",
+        "label": "教育督导"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_jydd/",
+        "label": "教育督导"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_jydd/jydd_zcwj/",
+        "label": "教育督导相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_jydd/jydd_ndbg/",
+        "label": "国家教育督导年度报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_jydd/jydd_pgjc/",
+        "label": "各类教育督导评估监测报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_yjjhddpd/",
+        "label": "义务教育均衡发展督导评估认定"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_yjjhddpd/jhfzpg_fkyj/",
+        "label": "县域义务教育基本均衡、优质均衡发展督导评估认定分省反馈意见"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_yjjhddpd/jhfzpg_jhxmd/",
+        "label": "年度义务教育发展基本均衡、优质均衡县（市、区）名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_yjjhddpd/jhfzpg_gzbg/",
+        "label": "县域义务教育基本均衡、优质均衡发展督导评估认定年度工作报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_ncyjyycjh/",
+        "label": "农村义务教育学生营养改善计划"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_ncyjyycjh/yygsjh_ddbg/",
+        "label": "营养改善计划工作通知和专项督导报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_qmgbbxtj/",
+        "label": "全面改善贫困地区义务教育薄弱学校基本办学条件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_qmgbbxtj/qmgb_ddbg/",
+        "label": "全面改薄工作通知和专项督导报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_zxxddcxx/",
+        "label": "中小学校责任督学挂牌督导创新县（市区）认定"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jydd/jydd_zxxddcxx/mingdan/",
+        "label": "年度中小学校责任督学挂牌督导创新县（市、区）名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/",
+        "label": "教师工作"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/",
+        "label": "教师教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_jspy/",
+        "label": "各类学校教师培养、培训相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_gjmfsfs/",
+        "label": "国家公费师范生招生、培养、就业指导、落实工作岗位、办理派遣相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_xxjs/",
+        "label": "全国中小学教师信息技术应用能力提升工程相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_zyyxjs/",
+        "label": "职业院校教师素质提高计划项目相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_qnggjs/",
+        "label": "高等学校青年骨干教师教师国内访问学者项目相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_jsgp/",
+        "label": "高等学校新入职教师国培示范项目相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_zybz/",
+        "label": "幼儿园、中小学、中等职业学校、特殊教育教师专业标准"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_pxbz/",
+        "label": "教师教育课程标准和教师培训标准及指南"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_gpjhxm/",
+        "label": "“国培计划”项目"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_jpzygxk/",
+        "label": "教师教育国家级精品资源共享课名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_jsjy/jsjy_zyjsjh/",
+        "label": "卓越教师培养计划实施院校名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_dybz/",
+        "label": "教师待遇保障"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_dybz/dybz_xgzc/",
+        "label": "教师配备、编制、待遇、职称、岗位设置、补充等相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_dybz/dybz_dfal/",
+        "label": "地方有关教师待遇保障工作的先进典型案例"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_dybz/dybz_lsqk/",
+        "label": "地方落实教师待遇保障政策情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_sdjs/",
+        "label": "师德建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_sdjs/sdjs_xgzc/",
+        "label": "师德建设长效机制相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_sdjs/sdjs_jsj/",
+        "label": "教师节宣传庆祝活动相关文件方案和活动动态"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_sdjs/sdjs_yxjs/",
+        "label": "荣获全国教书育人楷模、全国模范教师、全国优秀教师等荣誉称号优秀教师先进事迹"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_sdjs/sdjs_dxal/",
+        "label": "师德建设优秀工作案例，查处的师德失范行为典型案例"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_xzgl/",
+        "label": "教师校长管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_xzgl/xzgl_zgks/",
+        "label": "教师资格有关法律法规、政策文件、认定程序，中小学教师资格考试时间安排、考试标准、考试大纲"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_xzgl/xzgl_jszp/",
+        "label": "中小学教师招聘相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_xzgl/xzgl_xzgl/",
+        "label": "中小学校长管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_xzgl/xzgl_jzqk/",
+        "label": "义务教育教师队伍“县（区）管校聘”管理体制改革示范区及建设推进情况；各地各校城乡教师交流轮岗进展情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_xzgl/xzgl_zjzc/",
+        "label": "援藏援疆万名教师支教计划相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_xzgl/xzgl_sqjh/",
+        "label": "“三区”人才支持计划教师专项计划文件通知及选派计划"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_xzgl/xzgl_jskh/",
+        "label": "教师考核评价制度改革的意见办法"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jsgz/jsgz_xzgl/xzgl_jxcg/",
+        "label": "国家级教学成果奖评选的组织实施文件、评选流程及评选结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/",
+        "label": "体育卫生与艺术教育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_tyws/",
+        "label": "体育卫生"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_tyws/tyws_xgzc/",
+        "label": "体育卫生工作相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_xxmy/",
+        "label": "学校美育"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_xxmy/xxmy_xgzc/",
+        "label": "全国学校美育相关政策文件及举措"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_xxmy/xxmy_gdls/",
+        "label": "全国学校美育重点项目活动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_xxmy/xxmy_fzbg/",
+        "label": "各地推进学校美育工作举措、典型案例"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_xxmy/xxmy_zdxm/",
+        "label": "全国学校美育成果展示"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_gfjyjsxl/",
+        "label": "学校国防教育和学生军事训练"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_gfjyjsxl/gfjy_xgzc/",
+        "label": "学校国防教育和学生军事训练相关政策文件及举措"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_gfjyjsxl/gfjy_zdxm/",
+        "label": "学校国防教育和学生军事训练重点项目"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_gfjyjsxl/gfjy_tjqk/",
+        "label": "各地推进学校国防教育和学生军事训练工作举措、典型案例"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_twyjy/twyjy_gfjyjsxl/gfjy_xlcgzs/",
+        "label": "学校国防教育和学生军事训练成果展示"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/",
+        "label": "思想政治工作"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gclsszhjs/",
+        "label": "贯彻落实思政会精神"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gclsszhjs/szhjs_ptwj/",
+        "label": "贯彻落实思政会精神配套文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gclsszhjs/szhjs_tgzs/",
+        "label": "推广展示高等学校思想政治工作先进经验、典型案例"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_llwz/",
+        "label": "理论武装"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_llwz/llwz_xjpsx/",
+        "label": "学习习近平新时代中国特色社会主义思想等各类通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_yrtxjs/",
+        "label": "思想政治工作“育人”体系建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_yrtxjs/yrtx_zcwj/",
+        "label": "课程、科研、实践、文化、网络、心理、管理、服务、资助、组织等十大“育人”体系建设相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_dwjs/",
+        "label": "队伍建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_dwjs/dwjs_xgzc/",
+        "label": "高等学校思政工作队伍建设相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_dwjs/dwjs_tzjgpx/",
+        "label": "高等学校思政工作队伍建设相关活动、培训、通知、活动结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_xyxs/",
+        "label": "先优选树"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_xyxs/yxxs_tzjg/",
+        "label": "大学年度人物、辅导员年度人物推选展示活动通知、活动结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxjcdj/",
+        "label": "高校基层党组织建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxjcdj/gxjcdzzjs_zcwj/",
+        "label": "部分高等学校基层党建工作政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxjcdj/gxjcdzzjs_dxsj/",
+        "label": "部分高等学校党建工作经验、典型案例、典型事迹"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxjcdj/gxjcdzzjs_huytz/",
+        "label": "部分高等学校基层党建工作各项活动、培训、会议通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxxcsx/",
+        "label": "高等学校宣传思想"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxxcsx/gxxcsx_ljtz/",
+        "label": "礼敬中华优秀传统文化、廉洁教育等活动通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxxcsx/gxxcsx_ljjy/",
+        "label": "礼敬中华优秀传统文化、廉洁教育等活动结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxxcsx/gxxcsx_lmjs/",
+        "label": "高等学校博物馆育人联盟建设相关会议文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxtzgz/",
+        "label": "高等学校统战工作"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxtzgz/gxtz_anlgzxx/",
+        "label": "部分统战工作信息、案例、典型"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxaqjs/",
+        "label": "高等学校校园安全建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxaqjs/xyanjs_hdxi/",
+        "label": "大学生国家安全主题教育、校园网络安全宣传、“平安校园”创建、高校安全教育技能大赛等活动信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjxzyjs/",
+        "label": "思想政治理论课教学资源建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjxzyjs/jxzyjs_zcwj/",
+        "label": "思想政治理论课教学资源建设相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjxzyjs/jxzyjs_jxjy_2147442883/",
+        "label": "思想政治理论课贯彻落实中央最新精神的教学建议"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjxzyjs/jxzyjs_jyjxyd_2147442881/",
+        "label": "高等学校“形势与政策”教育教学要点"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjsjs/",
+        "label": "思想政治理论课教师队伍建设"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjsjs/jsdwjs_zzllk/",
+        "label": "高等学校思想政治理论课教师队伍建设相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjsjs/jsdwjs_jsxxgx/",
+        "label": "高等学校思想政治理论课教师信息更新工作通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjsjs/jsdwjs_ggjsyx/",
+        "label": "高等学校思想政治理论课骨干教师研修工作通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjsjs/jsdwjs_shsjyx_2147442859/",
+        "label": "高等学校思想政治理论课骨干教师社会实践研修工作通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjsjs/jsdwjs_gnewfw_2147442853/",
+        "label": "高等学校思想政治理论课骨干教师国内外高级访问学者资助项目工作通知和结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjsjs/jsdwjs_ndyxlrw_2147442848/",
+        "label": "推选高等学校思想政治理论课教师年度影响力人物工作通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjx/",
+        "label": "思想政治理论课教学"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjx/szllk_jsizlyk/",
+        "label": "思想政治理论课教学管理和教学方法改革相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjx/szllk_jxgltz_2147442842/",
+        "label": "思想政治理论课教学管理工作通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_szkjx/szllk_gztz_2147442838/",
+        "label": "高等学校学生思想政治理论课学习成果展示主题活动工作通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxmyjsgl/",
+        "label": "高等学校马克思主义学院建设管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_sxzzgz/szgz_gxmyjsgl/xyjsgl_zcwj/",
+        "label": "高等学校马克思主义学院建设相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyxxh/",
+        "label": "教育信息化"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyxxh/jyxxh_xxh/",
+        "label": "教育信息化"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyxxh/jyxxh_xxh/xxh_xgzc/",
+        "label": "教育信息化规划和相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyxxh/jyxxh_xxh/xxh_zlky/",
+        "label": "教育信息化战略研究课题和科研基金项目管理办法、申报通知、立项通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_jyxxh/jyxxh_xxh/xxh_gzyb/",
+        "label": "教育信息化工作月报"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/",
+        "label": "财务与审计"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_jyjftjgl/",
+        "label": "教育经费统计管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_jyjftjgl/jfgl_xgzc/",
+        "label": "全国教育经费统计工作相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_jftrgl/",
+        "label": "教育经费投入使用管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_jftrgl/trgl_xgzc/",
+        "label": "教育经费投入使用管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_xszz/",
+        "label": "学生资助"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_xszz/xszz_zzbg/",
+        "label": "年度中国学生资助发展报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_xszz/xszz_hjmd/",
+        "label": "本专科生国家奖学金获奖名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_kjrcxb/",
+        "label": "会计领军人才选拔"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_kjrcxb/kjrc_xbjg/",
+        "label": "教育部会计领军人才选拔结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_gzgl/",
+        "label": "国有资产管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_gzgl/gyzc_xgzc/",
+        "label": "直属高校、直属事业单位国有资产管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_nbsj/",
+        "label": "内部审计"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_nbsj/nbsj_xgzc/",
+        "label": "教育部内部审计管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_lxsjxj/",
+        "label": "留学生奖学金政策"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_cwysj/cwysj_lxsjxj/lxsjxj_xgzc/",
+        "label": "留学生奖学金管理相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/",
+        "label": "国际合作与交流"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/gjhzjl_zwhzbx/",
+        "label": "中外合作办学"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/gjhzjl_zwhzbx/zwhz_bxzc/",
+        "label": "中外合作办学法律法规、部门规章、制度文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/gjhzjl_zwhzbx/zwhz_bxxx/",
+        "label": "中外合作办学机构、项目清单及有关办学信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/gjhzjl_zwhzbx/zwhz_bkxm/",
+        "label": "本科以上中外合作办学机构、项目行政许可结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/gjhzjl_lxfw/",
+        "label": "留学服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/gjhzjl_lxfw/lxfw_lxyj/",
+        "label": "出国留学预警"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/gjhzjl_lxfw/lxfw_gwgx/",
+        "label": "国外高等学校名单"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/gjhzjl_lxfw/lxfw_lxzc/",
+        "label": "出国、来华留学政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_gjhzjl/gjhzjl_lxfw/lxfw_jxj/",
+        "label": "中国政府奖学金生人均综合拨款标准"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/",
+        "label": "语言文字工作"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/",
+        "label": "语言文字管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_xgzc/",
+        "label": "语言文字相关政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_zxqk/",
+        "label": "语言文字工作重要政策、重大项目执行情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_njbg/",
+        "label": "中国语言文字事业发展报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_ghls/",
+        "label": "国家语言文字事业发展规划落实情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_tgpj/",
+        "label": "国家通用语言文字推广普及政策文件、实施方案、进展情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_gfh/",
+        "label": "语言文字规范化建设政策文件、进展情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_xxqk/",
+        "label": "学校语言文字工作政策文件、进展情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_pxcs/",
+        "label": "国家通用语言文字培训测试政策文件、培训测试数据、进展情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_tpz/",
+        "label": "全国推广普通话宣传周活动通知、实施方案、进展情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_zhjd/",
+        "label": "中华经典诵读工程实施方案、工作举措、落实情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_ddpg/",
+        "label": "语言文字工作督导评估政策文件、进展情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_wyfy/",
+        "label": "外语中文译写工作进展与结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_gfbz/",
+        "label": "语言文字规范标准文本"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_ywjg/",
+        "label": "国家语委科研机构名录及管理办法"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_kyxm/",
+        "label": "国家语委科研项目管理制度、申报通知、评审结果及监督检查、鉴定结项等各项信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_yywzgz/yywzgz_yywzgl/yywz_xgbg/",
+        "label": "中国语言生活状况报告、世界语言生活状况报告、中国语言政策研究报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/",
+        "label": "科学研究"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_gxkjzc/",
+        "label": "高校科技政策"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_gxkjzc/gxkjzc_zcwj/",
+        "label": "高等学校科技创新规划和政策文件"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_jdptgl/",
+        "label": "科技基地平台管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_jdptgl/kjjdptgl_glbf/",
+        "label": "高等学校学科创新引智基地管理办法、评审通知、立项通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_jdptgl/kjjdptgl_sysglbf/",
+        "label": "教育部国际合作联合实验室管理办法、立项通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_jdptgl/kjjdptgl_zdsys/",
+        "label": "教育部重点实验室管理办法、评审通知、评审结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_jdptgl/kjjdptgl_gczx/",
+        "label": "教育部工程中心管理办法、评审通知、评审结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_cxtd/",
+        "label": "创新团队"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_cxtd/cxtd_gdzc/",
+        "label": "教育部创新团队验收通知、滚动支持结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_kxsyfgl/",
+        "label": "科学事业费管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_kxsyfgl/kxsyfgl_glbf/",
+        "label": "科学事业费项目管理办法、立项通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_kjtjdc/",
+        "label": "科技统计调查"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_kjtjdc/kjtjdc_tjdcqk/",
+        "label": "高等学校科技统计、创新调查、科普资源统计、国际科技合作调查等统计调查情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_rwskyjxm/",
+        "label": "人文社会科学研究项目管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_rwskyjxm/rwshkxyjxmgl_ktzn/",
+        "label": "教育部人文社会科学研究各类项目申报通知、课题指南"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_rwskyjxm/rwshkxyjxmgl_shqk/",
+        "label": "教育部人文社会科学研究各类项目申报材料审核情况、评审结果公示、立项名单、中期检查结果、鉴定结项结果"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_zxskfrjhzj/",
+        "label": "高等学校哲学社会科学繁荣计划专项资金管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_zxskfrjhzj/zjgl_jfxx/",
+        "label": "“高校哲学社会科学繁荣计划专项资金”经费信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_gxkjcgj/",
+        "label": "高等学校科学研究优秀成果奖（人文社会科学）评奖"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_gxkjcgj/yxcg_sbtz/",
+        "label": "高等学校科学研究优秀成果奖（人文社会科学）评奖办法、申报通知"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_rwskyjjd/",
+        "label": "高等学校人文社会科学重点研究基地管理"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_rwskyjjd/jdgl_jgpfxd/",
+        "label": "高等学校人文社会科学重点研究基地测评结果、基地重大项目立项结果、基地预算批复下达"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_gxsktjhb/",
+        "label": "全国高校社科统计汇编"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_kxyj/kxyj_gxsktjhb/tjhb_tjzy/",
+        "label": "高等学校人文社会科学统计摘要"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_qt/",
+        "label": "其他"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_qt/qt_qtxx/",
+        "label": "其他信息"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/neirong/fenlei/sxml_qt/qt_qtxx/qtxx_zfgk/",
+        "label": "法律、行政法规、规章规定应当公开的其他政府信息"
+      },
+      {
+        "url": "javascript:;",
+        "label": "政府信息公开年报"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/nianbao/jiguan/",
+        "label": "部机关信息公开年度报告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/nianbao/gaoxiao/",
+        "label": "部属高校信息公开年度报告"
+      },
+      {
+        "url": "javascript:;",
+        "label": "教育部公报、简报"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_xxgk/gk_gbgg/moe_0/",
+        "label": "教育部公报"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/xxgk/jiaoyubu/jianbao/",
+        "label": "教育部简报"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202512/t20251231_1426092.html",
+        "label": "2025-12-312024年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202412/t20241219_1167656.html",
+        "label": "2024-12-192023年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202312/t20231202_1092896.html",
+        "label": "2023-12-022022年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202212/t20221230_1037263.html",
+        "label": "2022-12-302021年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202111/t20211130_583343.html",
+        "label": "2021-11-302020年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202011/t20201103_497961.html",
+        "label": "2020-11-032019年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201910/t20191016_403859.html",
+        "label": "2019-10-162018年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201810/t20181012_351301.html",
+        "label": "2018-10-152017年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201710/t20171025_317429.html",
+        "label": "2017-10-252016年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201611/t20161110_288422.html",
+        "label": "2016-11-102015年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201510/t20151013_213129.html",
+        "label": "2015-10-152014年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201410/t20141031_178035.html",
+        "label": "2014-11-062013年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201312/t20131227_161346.html",
+        "label": "2013-12-272012年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201212/t20121231_146315.html",
+        "label": "2012-12-312011年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201112/t20111223_128871.html",
+        "label": "2011-12-302010年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201011/t20101126_112378.html",
+        "label": "2010-12-082009年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/200911/t20091110_78259.html",
+        "label": "2009-11-302008年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/200811/t20081127_78260.html",
+        "label": "2008-12-152007年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/200712/t20071228_78262.html",
+        "label": "2007-12-312006年全国教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/200911/t20091130_78263.html",
+        "label": "2006-12-312005年全国教育经费执行情况统计公告"
+      }
+    ]
+  }
+]

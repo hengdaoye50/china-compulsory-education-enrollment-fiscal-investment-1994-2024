@@ -1,0 +1,166 @@
+﻿province,check,actual,expected,gap
+福建,age 0; male+female,380993,380993,0
+福建,age 1; male+female,444284,444284,0
+福建,age 2; male+female,500514,500514,0
+福建,age 3; male+female,625966,625966,0
+福建,age 4; male+female,597587,597587,0
+福建,age 5; male+female,610100,610100,0
+福建,age 6; male+female,630412,630412,0
+福建,age 7; male+female,593771,593771,0
+福建,age 8; male+female,626379,626379,0
+福建,age 9; male+female,533208,533208,0
+福建,age 10; male+female,499618,499618,0
+福建,age 11; male+female,522636,522636,0
+福建,age 12; male+female,516680,516680,0
+福建,age 13; male+female,487688,487688,0
+福建,age 14; male+female,455389,455389,0
+福建,age 15; male+female,428675,428675,0
+福建,age 16; male+female,419130,419130,0
+福建,age 17; male+female,391848,391848,0
+福建,age 18; male+female,375620,375620,0
+福建,age 19; male+female,396823,396823,0
+福建,age 0-4; total,2549344,2549344,0
+福建,age 0-4; male,1380757,1380757,0
+福建,age 0-4; female,1168587,1168587,0
+福建,age 5-9; total,2993870,2993870,0
+福建,age 5-9; male,1627920,1627920,0
+福建,age 5-9; female,1365950,1365950,0
+福建,age 10-14; total,2482011,2482011,0
+福建,age 10-14; male,1342664,1342664,0
+福建,age 10-14; female,1139347,1139347,0
+福建,age 15-19; total,2012096,2012096,0
+福建,age 15-19; male,1081131,1081131,0
+福建,age 15-19; female,930965,930965,0
+福建,age 0-14 versus official bulletin,8025225,8025225,0
+福建,age 0-15 versus official bulletin,8453900,8453900,0
+吉林,age 0; male+female,116439,116439,0
+吉林,age 1; male+female,146716,146716,0
+吉林,age 2; male+female,147720,147720,0
+吉林,age 3; male+female,174101,174101,0
+吉林,age 4; male+female,184163,184163,0
+吉林,age 5; male+female,154854,154854,0
+吉林,age 6; male+female,205365,205365,0
+吉林,age 7; male+female,193471,193471,0
+吉林,age 8; male+female,214322,214322,0
+吉林,age 9; male+female,192275,192275,0
+吉林,age 10; male+female,203903,203903,0
+吉林,age 11; male+female,211155,211155,0
+吉林,age 12; male+female,220704,220704,0
+吉林,age 13; male+female,229218,229218,0
+吉林,age 14; male+female,224317,224317,0
+吉林,age 15; male+female,227487,227487,0
+吉林,age 16; male+female,220445,220445,0
+吉林,age 17; male+female,179181,179181,0
+吉林,age 18; male+female,210661,210661,0
+吉林,age 19; male+female,219137,219137,0
+吉林,age 0-4; total,769139,769139,0
+吉林,age 0-4; male,396542,396542,0
+吉林,age 0-4; female,372597,372597,0
+吉林,age 5-9; total,960287,960287,0
+吉林,age 5-9; male,498408,498408,0
+吉林,age 5-9; female,461879,461879,0
+吉林,age 10-14; total,1089297,1089297,0
+吉林,age 10-14; male,567346,567346,0
+吉林,age 10-14; female,521951,521951,0
+吉林,age 15-19; total,1056911,1056911,0
+吉林,age 15-19; male,546207,546207,0
+吉林,age 15-19; female,510704,510704,0
+吉林,age 0-14 versus official bulletin,2818723,2818723,0
+吉林,age 0-15 versus official bulletin,3046210,3046210,0
+云南,age 0; male+female,515178,515178,0
+云南,age 1; male+female,589202,589202,0
+云南,age 2; male+female,618769,618769,0
+云南,age 3; male+female,704117,704117,0
+云南,age 4; male+female,638299,638299,0
+云南,age 5; male+female,556925,556925,0
+云南,age 6; male+female,640042,640042,0
+云南,age 7; male+female,626104,626104,0
+云南,age 8; male+female,665993,665993,0
+云南,age 9; male+female,612073,612073,0
+云南,age 10; male+female,612024,612024,0
+云南,age 11; male+female,641852,641852,0
+云南,age 12; male+female,619269,619269,0
+云南,age 13; male+female,595923,595923,0
+云南,age 14; male+female,601704,601704,0
+云南,age 15; male+female,581196,581196,0
+云南,age 16; male+female,619732,619732,0
+云南,age 17; male+female,580988,580988,0
+云南,age 18; male+female,606336,606336,0
+云南,age 19; male+female,604620,604620,0
+云南,age 0-4; total,3065565,3065565,0
+云南,age 0-4; male,1593732,1593732,0
+云南,age 0-4; female,1471833,1471833,0
+云南,age 5-9; total,3101137,3101137,0
+云南,age 5-9; male,1616275,1616275,0
+云南,age 5-9; female,1484862,1484862,0
+云南,age 10-14; total,3070772,3070772,0
+云南,age 10-14; male,1609766,1609766,0
+云南,age 10-14; female,1461006,1461006,0
+云南,age 15-19; total,2992872,2992872,0
+云南,age 15-19; male,1562570,1562570,0
+云南,age 15-19; female,1430302,1430302,0
+云南,age 0-14 versus official bulletin,9237474,9237474,0
+云南,age 0-15 versus official bulletin,9818670,9818670,0
+云南,age 0; city+town+village total,515178,515178,0
+云南,age 0; city+town+village male,266844,266844,0
+云南,age 0; city+town+village female,248334,248334,0
+云南,age 1; city+town+village total,589202,589202,0
+云南,age 1; city+town+village male,306982,306982,0
+云南,age 1; city+town+village female,282220,282220,0
+云南,age 2; city+town+village total,618769,618769,0
+云南,age 2; city+town+village male,321379,321379,0
+云南,age 2; city+town+village female,297390,297390,0
+云南,age 3; city+town+village total,704117,704117,0
+云南,age 3; city+town+village male,365728,365728,0
+云南,age 3; city+town+village female,338389,338389,0
+云南,age 4; city+town+village total,638299,638299,0
+云南,age 4; city+town+village male,332799,332799,0
+云南,age 4; city+town+village female,305500,305500,0
+云南,age 5; city+town+village total,556925,556925,0
+云南,age 5; city+town+village male,290668,290668,0
+云南,age 5; city+town+village female,266257,266257,0
+云南,age 6; city+town+village total,640042,640042,0
+云南,age 6; city+town+village male,333717,333717,0
+云南,age 6; city+town+village female,306325,306325,0
+云南,age 7; city+town+village total,626104,626104,0
+云南,age 7; city+town+village male,325619,325619,0
+云南,age 7; city+town+village female,300485,300485,0
+云南,age 8; city+town+village total,665993,665993,0
+云南,age 8; city+town+village male,346765,346765,0
+云南,age 8; city+town+village female,319228,319228,0
+云南,age 9; city+town+village total,612073,612073,0
+云南,age 9; city+town+village male,319506,319506,0
+云南,age 9; city+town+village female,292567,292567,0
+云南,age 10; city+town+village total,612024,612024,0
+云南,age 10; city+town+village male,319901,319901,0
+云南,age 10; city+town+village female,292123,292123,0
+云南,age 11; city+town+village total,641852,641852,0
+云南,age 11; city+town+village male,335810,335810,0
+云南,age 11; city+town+village female,306042,306042,0
+云南,age 12; city+town+village total,619269,619269,0
+云南,age 12; city+town+village male,324909,324909,0
+云南,age 12; city+town+village female,294360,294360,0
+云南,age 13; city+town+village total,595923,595923,0
+云南,age 13; city+town+village male,312914,312914,0
+云南,age 13; city+town+village female,283009,283009,0
+云南,age 14; city+town+village total,601704,601704,0
+云南,age 14; city+town+village male,316232,316232,0
+云南,age 14; city+town+village female,285472,285472,0
+云南,age 15; city+town+village total,581196,581196,0
+云南,age 15; city+town+village male,305341,305341,0
+云南,age 15; city+town+village female,275855,275855,0
+云南,age 16; city+town+village total,619732,619732,0
+云南,age 16; city+town+village male,325146,325146,0
+云南,age 16; city+town+village female,294586,294586,0
+云南,age 17; city+town+village total,580988,580988,0
+云南,age 17; city+town+village male,302488,302488,0
+云南,age 17; city+town+village female,278500,278500,0
+云南,age 18; city+town+village total,606336,606336,0
+云南,age 18; city+town+village male,316482,316482,0
+云南,age 18; city+town+village female,289854,289854,0
+云南,age 19; city+town+village total,604620,604620,0
+云南,age 19; city+town+village male,313113,313113,0
+云南,age 19; city+town+village female,291507,291507,0
+云南,all-age total versus official bulletin,47209277,47209277,0
+云南,all-age male versus official bulletin,24420924,24420924,0
+云南,all-age female versus official bulletin,22788353,22788353,0

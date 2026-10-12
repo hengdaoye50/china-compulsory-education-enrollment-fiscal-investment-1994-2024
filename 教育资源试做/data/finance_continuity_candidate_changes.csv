@@ -1,0 +1,9 @@
+﻿field,label,value_2023_yuan,value_2024_yuan,change_yuan,nominal_change_percent,interpretation
+total_expenditure,本年支出合计,10158400.00,10611967.05,453567.05,4.464945759174673176878248500,published same-name unit fields; not population response or official per-student metric
+education_function_expenditure,教育支出（功能分类）,8352600.00,8564586.08,211986.08,2.537965184493451140962095600,published same-name unit fields; not population response or official per-student metric
+social_security_expenditure,社会保障和就业支出,1447300.00,1624333.72,177033.72,12.23199889449319422372693980,published same-name unit fields; not population response or official per-student metric
+health_expenditure,卫生健康支出,358400.00,423047.25,64647.25,18.03773716517857142857142860,published same-name unit fields; not population response or official per-student metric
+basic_expenditure,基本支出,9924500.00,10319121.73,394621.73,3.976237896115673333669202500,published same-name unit fields; not population response or official per-student metric
+basic_personnel_expenditure,基本支出中的人员经费,9271800.00,9816821.73,545021.73,5.878273150844496214327315100,published same-name unit fields; not population response or official per-student metric
+basic_public_expenditure,基本支出中的公用经费,652700.00,502300.0,-150400.00,-23.04274551861498391297686533,published same-name unit fields; not population response or official per-student metric
+project_expenditure,项目支出,233900.00,292845.32,58945.32,25.20107738349722103463018380,published same-name unit fields; not population response or official per-student metric

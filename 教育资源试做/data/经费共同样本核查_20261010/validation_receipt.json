@@ -1,0 +1,12 @@
+{
+  "checks": {
+    "approved_numeric_evidence_recomputed": true,
+    "unique_1860_positions": true,
+    "all_school_PC_1240": true,
+    "SPCR_1216": true,
+    "no_E_admission_from_PC_only": true,
+    "all_model_eligibility_false": true,
+    "inputs_unchanged": true
+  },
+  "passed": true
+}

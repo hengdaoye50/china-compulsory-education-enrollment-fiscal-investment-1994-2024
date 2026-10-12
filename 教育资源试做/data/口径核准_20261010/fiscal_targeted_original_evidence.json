@@ -1,0 +1,3129 @@
+[
+  {
+    "family": "中国财政年鉴",
+    "volume_year": "2008",
+    "archive": "中国财政年鉴\\中国财政年鉴2008（excel）.zip",
+    "table": "01_2007年财政预算、决算/2007年天津市财政一般预算收支决算总表.xlsx",
+    "bytes": "16710",
+    "sha256": "823bc5cc10faed036e21d1090c41cccbacc560102a1fa6304c7e65c300141088",
+    "sheets": [
+      {
+        "sheet": "1",
+        "rows": [
+          [
+            "2007年天津市财政一般预算收支决算总表",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    FINAL ACCOUNT OF BUDGETARY REVENUE AND EXPENDITURE IN TIANJIN(2007)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    单位：万元Unit：10 thousand yuan",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    收入Revenue",
+            null,
+            null,
+            null,
+            "    支出Expenditure",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            "  预算数",
+            "  决算数",
+            null,
+            null,
+            "  预算数",
+            "  决算数"
+          ],
+          [
+            "    预算科目",
+            "  Item",
+            "  BudgeT",
+            "    Final",
+            "    预算科目",
+            "    Item",
+            "  BudgeT",
+            "    Final"
+          ],
+          [
+            null,
+            null,
+            "  Account",
+            "  Account",
+            null,
+            null,
+            "  Account",
+            "  Account"
+          ],
+          [
+            "一、税收收入",
+            "  Tax Revenue",
+            "    4066860",
+            "    4383644",
+            "1.一般公共服务",
+            "General Public Services",
+            "    788339",
+            "    723190"
+          ],
+          [
+            "  1.增值税",
+            "  Value Added Tax",
+            "    958700",
+            "    948117",
+            "2.外交",
+            " Diplomacy",
+            null,
+            null
+          ],
+          [
+            "  2.营业税",
+            "  Business Tax",
+            "    1379000",
+            "    1463822",
+            "3.国防",
+            " National Defense",
+            "    11363",
+            "    10148"
+          ],
+          [
+            "  3.企业所得税",
+            "  Company Income Tax",
+            "    639400",
+            "    764129",
+            "4.公共安全",
+            " Public Security",
+            "    548566",
+            "    538765"
+          ],
+          [
+            "  4.个人所得税",
+            "  Personal Income Tax",
+            "    261400",
+            "    293615",
+            "5.教育",
+            " Education",
+            "    1152878",
+            "    1100248"
+          ],
+          [
+            "  5.资源税",
+            "  Resource Tax",
+            "    5200",
+            "    5765",
+            "6.科学技术",
+            " Sclence and Technology",
+            "    236415",
+            "    223384"
+          ],
+          [
+            "  6.固定资产投资方向",
+            "  Fixed Assets Investment",
+            null,
+            null,
+            null,
+            " Culture、P11ysical Education and",
+            null,
+            null
+          ],
+          [
+            null,
+            "  Adiustment Tax",
+            null,
+            "    98",
+            "7.文化体育与传媒",
+            " Media",
+            "    194222",
+            "    159616"
+          ],
+          [
+            "    调节税",
+            "  Urban Maintenance and",
+            "228300",
+            "    233306",
+            "8.社会保障和就业",
+            " Soclal Security and Employment",
+            "    834664",
+            "    795714"
+          ],
+          [
+            "  7.城市维护建设税",
+            "  Construction Tax",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  8.房产税",
+            "  House Property Tax",
+            "    141300",
+            "    146712",
+            "9.医疗卫生",
+            " Medical and Health Care",
+            "    344342",
+            "    330964"
+          ],
+          [
+            "  9.印花税",
+            "  Stamp Tax",
+            "    59360",
+            "    74510",
+            "10.环境保护",
+            " Enviroment Protection",
+            "    76361",
+            "    59143"
+          ],
+          [
+            "  10.城镇土地使用税",
+            "  UrhanLandUstagTax",
+            "    25000",
+            "    54990",
+            "11.城乡社区事务",
+            " Urban and Rural Comnmnity Affairs",
+            "    1807952",
+            "    1557246"
+          ],
+          [
+            "  11.土地增值税",
+            "  Land Value Increment Tax",
+            "    42200",
+            "    56015",
+            "12.农林水事务",
+            " AgriCUlture Forestry and Water",
+            "    300015",
+            "    267950"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            " Conservancy",
+            null,
+            null
+          ],
+          [
+            "  12.车船税",
+            "  Vehicle and Vessel Usage Tax",
+            "    25000",
+            "    12639",
+            "13.交通运输",
+            " Transportation",
+            "    90342",
+            "    84864"
+          ],
+          [
+            null,
+            null,
+            "    5000",
+            "    12689",
+            "14.工业商业金融等",
+            " Expenditure for Industry、Comnlerce",
+            "    606837",
+            "    529733"
+          ],
+          [
+            "  13.耕地占用税",
+            "  Tax on the Use of Arale Land",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "  事务",
+            " and Banklng",
+            null,
+            null
+          ],
+          [
+            "  14.契税",
+            "  Tax on Contracts",
+            "    297000",
+            "    317237",
+            "15.其他支出",
+            " Other Expenditure",
+            "    902246",
+            "    362297"
+          ],
+          [
+            "  15.烟叶税",
+            "  Tobacco Tax",
+            null,
+            null,
+            "  其中：预备费",
+            " Govermnent Reserve",
+            null,
+            null
+          ],
+          [
+            "  16.其他税收收入",
+            "  Other Tax Revenue",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "二、非税收入",
+            "  Non-tax Revenue",
+            "    849140",
+            "    1020746",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  1.专项收入",
+            "  Earmarked Revenue",
+            "    127370",
+            "    134613",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  2.行政性收费收入",
+            "  Administrative Charges",
+            "    604900",
+            "    722168",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  3.罚没收入",
+            "  Forfeit Revenue",
+            "    97500",
+            "    78833",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            "  Operating Profit of State-owned",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  4.国有资本经营收入",
+            "  Assets",
+            "    -25000",
+            "    13608",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  5.国有资源(资产)",
+            "  Charges for Usage of State-owned",
+            "    17100",
+            "    28750",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    有偿使用收入",
+            "  Resourses",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  6.其他收入",
+            "  Other Non-tax Revenue",
+            "    27270",
+            "    42774",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "本年收入合计",
+            "  Total Revenue",
+            "    4916000",
+            "    5404390",
+            "本年支出合计",
+            " Total Expenditure",
+            "    7894542",
+            "    6743262"
+          ],
+          [
+            "中央补助收入",
+            "Transfers from Central",
+            null,
+            "    2031835",
+            "上解中央支出",
+            "Transfers to Central Govermnent",
+            null,
+            "    380257"
+          ],
+          [
+            null,
+            " Govermnent",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "省补助计划单列市收入",
+            " Transfers from Provincial",
+            null,
+            null,
+            "计划单列市上解省",
+            " Transfers to Provincial Govermnent",
+            null,
+            null
+          ],
+          [
+            null,
+            "Govermnent",
+            null,
+            null,
+            "支出",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "增设预算周转金",
+            " Added Budgetary Revolvlng Fund",
+            null,
+            "    26300"
+          ],
+          [
+            "国债转贷收入",
+            " Revenue of Loans from National",
+            null,
+            null,
+            "拨付国债转贷资金",
+            " Expenditure by using Loans of",
+            null,
+            "    2721"
+          ],
+          [
+            null,
+            " Debt",
+            null,
+            null,
+            "数",
+            " National Debt",
+            null,
+            null
+          ],
+          [
+            "国债转贷资金上年结",
+            " Balance of Loans from National",
+            null,
+            "    11435",
+            "国债转贷资金结余",
+            " Balance of the loans of National",
+            null,
+            "    8714"
+          ],
+          [
+            null,
+            " Debt of Last Year",
+            null,
+            null,
+            null,
+            " Debts",
+            null,
+            null
+          ],
+          [
+            "上年结余收入",
+            " Balallce Revenue of Last Year",
+            null,
+            "    805149",
+            "调出资金",
+            " Adiustive Funds for Other Use",
+            null,
+            "    1000"
+          ],
+          [
+            "调入资金",
+            " Others",
+            null,
+            "    60725",
+            "年终结余",
+            "Roll Balance at End of the Year",
+            null,
+            "    96118"
+          ],
+          [
+            "收入总计",
+            " TOtal Revenue of the Yedr",
+            null,
+            "    8313534",
+            "支出总计",
+            " Total Expenditure of the Yedr",
+            null,
+            "    7162254"
+          ]
+        ]
+      },
+      {
+        "sheet": "CNKI",
+        "rows": [
+          [
+            "http://www.cnki.net/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": "2008",
+    "archive": "中国财政年鉴\\中国财政年鉴2008（excel）.zip",
+    "table": "01_2007年财政预算、决算/2007年河北省财政一般预算收支决算总表.xlsx",
+    "bytes": "19610",
+    "sha256": "8fcb6424c6f2ba9277b280778d20480ce74db6851b4a49a4e99b54716a499ac3",
+    "sheets": [
+      {
+        "sheet": "1-2",
+        "rows": [
+          [
+            "2007年河北省财政一般预算收支决算总表",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    FINAL ACCOUNT OF BUDGETARY REVENUE AND EXPENDITURE IN TIANJIN(2007)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    单位：万元Unit：10 thousand yuan",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    收入Revenue",
+            null,
+            null,
+            null,
+            "    支出Expenditure",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            "  预算数",
+            "  决算数",
+            null,
+            null,
+            "  预算数",
+            "  决算数"
+          ],
+          [
+            "预算科目",
+            "Item",
+            "  BudgeT",
+            "    Final",
+            "    预算科目",
+            "    Item",
+            "  BudgeT",
+            "    Final"
+          ],
+          [
+            null,
+            null,
+            "  Account",
+            "  Account",
+            null,
+            null,
+            "  Account",
+            "  Account"
+          ],
+          [
+            "一、税收收入",
+            "Tax Revenue",
+            "    4066860",
+            "    4383644",
+            "1.一般公共服务",
+            "General Public Services",
+            "    788339",
+            "    723190"
+          ],
+          [
+            "  1.增值税",
+            " Value Added Tax",
+            "    958700",
+            "    948117",
+            "2.外交",
+            " D|plomacy",
+            null,
+            null
+          ],
+          [
+            "  2.营业税",
+            " Business Tax",
+            "    1379000",
+            "    1463822",
+            "3.国防",
+            " National Defense",
+            "    11363",
+            "    10148"
+          ],
+          [
+            "  3.企业所得税",
+            " Company Income Tax",
+            "    639400",
+            "    764129",
+            "4.公共安全",
+            " Public Security",
+            "    548566",
+            "    538765"
+          ],
+          [
+            "  4.个人所得税",
+            " Personal Income Tax",
+            "    261400",
+            "    293615",
+            "5.教育",
+            " Education",
+            "    1152878",
+            "    1100248"
+          ],
+          [
+            "  5.资源税",
+            " Resource Tax",
+            "    5200",
+            "    5765",
+            "6.科学技术",
+            " Sclence and Technology",
+            "    236415",
+            "    223384"
+          ],
+          [
+            "  6.固定资产投资方向",
+            " Fixed Assets Investment",
+            null,
+            null,
+            null,
+            " Culture、P11ysical Education and",
+            null,
+            null
+          ],
+          [
+            null,
+            " Adiustment Tax",
+            null,
+            "    98",
+            "7.文化体育与传媒",
+            null,
+            "    194222",
+            "    159616"
+          ],
+          [
+            "    调节税",
+            " UrhfdTl Maintenance and",
+            null,
+            null,
+            null,
+            " Media",
+            null,
+            null
+          ],
+          [
+            "  7.城市维护建设税",
+            null,
+            "    228300",
+            "    233306",
+            "8.社会保障和就业",
+            " Soclal Security and Employment",
+            "    834664",
+            "    795714"
+          ],
+          [
+            null,
+            " Construction Tax",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  8.房产税",
+            " House Property Tax",
+            "    141300",
+            "    146712",
+            "9.医疗卫生",
+            " Medical and Health Care",
+            "    344342",
+            "    330964"
+          ],
+          [
+            "  9.印花税",
+            " Stamp Tax",
+            "    59360",
+            "    74510",
+            "10.环境保护",
+            " Enviroment Protection",
+            "    76361",
+            "    59143"
+          ],
+          [
+            "  10.城镇土地使用税",
+            "Urhan Land Ustag Tax",
+            "    25000",
+            "    54990",
+            "11.城乡社区事务",
+            " Urban and Rural Comnmnity Affairs",
+            "    1807952",
+            "    1557246"
+          ],
+          [
+            "  11.土地增值税",
+            " Land Value Increment Tax",
+            "    42200",
+            "    56015",
+            "12.农林水事务",
+            " AgiCUlture Forestry and Water",
+            "    300015",
+            "    267950"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            " Conservancy",
+            null,
+            null
+          ],
+          [
+            "  12.车船税",
+            " Vehicle and Vessel Usage Tax",
+            "    25000",
+            "    12639",
+            "13.交通运输",
+            " Transportation",
+            "    90342",
+            "    84864"
+          ],
+          [
+            "  13.耕地占用税",
+            " Tax on the Use of Arale Land",
+            "    5000",
+            "    12689",
+            "14.工业商业金融等",
+            " Expenditure for Industry、Comnlerce",
+            "    606837",
+            "    529733"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "  事务",
+            " and Banklng",
+            null,
+            null
+          ],
+          [
+            "  14.契税",
+            " Tax on Contracts",
+            "    297000",
+            "    317237",
+            "15.其他支出",
+            " Other Expenditure",
+            "    902246",
+            "    362297"
+          ],
+          [
+            "  15.烟叶税",
+            " Tobacco Tax",
+            null,
+            null,
+            "  其中：预备费",
+            " Govermnent Reserve",
+            null,
+            null
+          ],
+          [
+            "  16.其他税收收入",
+            " Other Tax Revenue",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "二、非税收入",
+            " Non-tax Revenue",
+            "    849140",
+            "    1020746",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  1.专项收入",
+            " Earmarked Revenue",
+            "    127370",
+            "    134613",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  2.行政性收费收入",
+            " Administrative Charges",
+            "    604900",
+            "    722168",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  3.罚没收入",
+            " Forfeit Revenue",
+            "    97500",
+            "    78833",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            " Operating Profit of State-owned",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  4.国有资本经营收入",
+            null,
+            "    -25000",
+            "    13608",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  5.国有资源(资产)",
+            " Charges for Usage of State-owned",
+            "    17100",
+            "    28750",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    有偿使用收入",
+            " Resourses",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  6.其他收入",
+            " Other Non-tax Revenue",
+            "    27270",
+            "    42774",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "本年收入合计",
+            " Total Revenue",
+            "    4916000",
+            "    5404390",
+            "本年支出合计",
+            " Total Expenditure",
+            "    7894542",
+            "    6743262"
+          ],
+          [
+            "中央补助收入",
+            "Transfers from Central",
+            null,
+            "    2031835",
+            "上解中央支出",
+            "Transfers to Central Govermnent",
+            null,
+            "    380257"
+          ],
+          [
+            null,
+            "Govermnent",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "省补助计划单列市收入",
+            "Transfers from Provincial",
+            null,
+            null,
+            "计划单列市上解省",
+            " Transfers to Provincial Govermnent",
+            null,
+            "    26300"
+          ],
+          [
+            null,
+            "Govermnent",
+            null,
+            null,
+            "支出",
+            " Added Budgetary Revolvlng Fund",
+            null,
+            "    2721"
+          ],
+          [
+            "国债转贷收入",
+            "Revenue of Loans from National",
+            null,
+            "11435",
+            "增设预算周转金",
+            " Expenditure by using Loans of",
+            null,
+            null
+          ],
+          [
+            null,
+            "Debt",
+            null,
+            null,
+            "拨付国债转贷资金",
+            " National Debt",
+            null,
+            null
+          ],
+          [
+            "国债转贷资金上年结",
+            "Balance of Loans from National",
+            null,
+            null,
+            "数",
+            " Balance of the loans of National",
+            null,
+            "    8714"
+          ],
+          [
+            "上年结余收入",
+            "Debt of Last Year",
+            null,
+            null,
+            "国债转贷资金结余",
+            " Debts",
+            null,
+            null
+          ],
+          [
+            "调入资金",
+            "Balallce Revenue of Last Year",
+            null,
+            "    805149",
+            "调出资金",
+            " Adiustive Funds for Other Use",
+            null,
+            "    1000"
+          ],
+          [
+            null,
+            "Others",
+            null,
+            "60725",
+            "年终结余",
+            "Roll Balance at End of the Year",
+            null,
+            "    96118"
+          ],
+          [
+            "收入总计",
+            " rotal Revenue of the Yedr",
+            null,
+            "    8313534",
+            "支出总计",
+            " Total Expenditure of the Yedr",
+            null,
+            "    7162254"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    2007年河北省财政一般预算收支决算总表",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    FINAL ACCOUNT OF BUDGETARY REVENUE AND EXPENDITURE IN HEBEI(2007)",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    单位：万元unit：10 thousand yuan",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    收入Revenue",
+            null,
+            null,
+            null,
+            "支出",
+            "     Expenditure",
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            "  预算数",
+            "  决算数",
+            "预算科目",
+            null,
+            "  预算数",
+            "  决算数"
+          ],
+          [
+            "预算科目",
+            "Item",
+            "  BudgeT",
+            "    Final",
+            null,
+            "      Item",
+            "  BudgeT",
+            "    Final"
+          ],
+          [
+            null,
+            null,
+            "  Account",
+            "  Account",
+            null,
+            null,
+            "  Account",
+            "  Account"
+          ],
+          [
+            "一、税收收入",
+            "Tax Revenue",
+            "    5902010",
+            "    6182963",
+            "1.一般公共服务",
+            "   General Public servlces",
+            "    2868388",
+            "    2694348"
+          ],
+          [
+            "  1.增值税",
+            " Value Added Tax",
+            "    1653552",
+            "    1680787",
+            "2.外交",
+            "   D|plomacy",
+            null,
+            null
+          ],
+          [
+            "  2.营业税",
+            " Business Tax",
+            "    1709076",
+            "    1783476",
+            "3.国防",
+            "   National Defense",
+            "    27582",
+            "    26426"
+          ],
+          [
+            "  3.企业所得税",
+            " Company Income Tax",
+            "    852728",
+            "    921078",
+            "4.公共安全",
+            "    Public security",
+            "    1155189",
+            "    1089217"
+          ],
+          [
+            "  4.个人所得税",
+            " Personal Income Tax",
+            "    343829",
+            "    366141",
+            "5.教育",
+            "    Education",
+            "    2955036",
+            "    2833938"
+          ],
+          [
+            "  5.资源税",
+            " Resource Tax",
+            "    241089",
+            "    240888",
+            "6.科学技术",
+            "   sclence and Technology",
+            "    185434",
+            "    174050"
+          ],
+          [
+            "  6.固定资产投资方",
+            " Fixed Assets Investment",
+            "    67",
+            "    67",
+            "7.文化体育与传媒",
+            " MCueldtuiare,Physical Education and",
+            "    232110",
+            "    207547"
+          ],
+          [
+            "    向调节税",
+            " Adiustment Tax",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  7.城市维护建设税",
+            "Urban Maintenance and",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            " Construction Tax",
+            "    401110",
+            "    402442",
+            "8.社会保障和就业",
+            "  soclal security and Employment",
+            "    2309384",
+            "    2201343"
+          ],
+          [
+            "  8.房产税",
+            " House Property Tax",
+            "    141504",
+            "    140653",
+            "9.医疗卫生",
+            "   Medical and Health Care",
+            "    913661",
+            "    781096"
+          ],
+          [
+            "  9.印花税",
+            " Stamp Tax",
+            "    86515",
+            "    90866",
+            "10.环境保护",
+            "   Enviroment Protection",
+            "    582262",
+            "    437978"
+          ],
+          [
+            "  10.城镇土地使用税",
+            " Urban Land Using Tax",
+            "    145179",
+            "    172635",
+            "1 1.城乡社区事务",
+            "  urhfdTl and RLiral comnmnity Affairs",
+            "    1024601",
+            "    993755"
+          ],
+          [
+            "  11.土地增值税",
+            " Land Value Increment Tax",
+            "    65886",
+            "    77585",
+            "12.农林水事务",
+            "    Agricure Forestry and water",
+            "    1253440",
+            "    1119743"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            null,
+            "    Conservancv",
+            null,
+            null
+          ],
+          [
+            "  12.车船税",
+            " Vehicle and Vessel Usage Tax",
+            "    23343",
+            "    27665",
+            "13.交通运输",
+            "   Transportation",
+            "    345689",
+            "    329879"
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "14.工业商业金融等",
+            " Expenditure for Industry，comnlerce",
+            null,
+            null
+          ],
+          [
+            "  13.耕地占用税",
+            " Tax on the Use of Arale Land",
+            "    32999",
+            "    41515",
+            "  事务",
+            "    and BfdTlking",
+            "    1182815",
+            "    992304"
+          ],
+          [
+            "  14.契税",
+            " Tax on Contracts",
+            "    204156",
+            "    236519",
+            "15.其他支出",
+            "   Other Expenditure",
+            "    1800888",
+            "    1184858"
+          ],
+          [
+            "  15.烟叶税",
+            " Tobacco Tax",
+            "    608",
+            "    628",
+            "  其中：预备费",
+            "   Govermnent Reserve",
+            "    8817",
+            null
+          ],
+          [
+            "  16.其他税收收入",
+            " Other Tax Revenue",
+            "    369",
+            "    18",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "二、非税收入",
+            " Non-tax Revenue",
+            "    1571299",
+            "    1708235",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  1.专项收入",
+            " Earmarked Revenue",
+            "    456039",
+            "    479234",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  2.行政性收费收入",
+            " Administrative Charges",
+            "    489902",
+            "    507118",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  3.罚没收入",
+            " Forfeit Revenue",
+            "    391421",
+            "    425015",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  4.国有资本经营收",
+            " Operating Profit of State-owned",
+            "    130418",
+            "    195900",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            " Assets",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  5.国有资源(资",
+            " Charges for Usage of State-owned",
+            "    44216",
+            "    63419",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "    产)有偿使用收入",
+            " Resourses",
+            null,
+            null,
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "  6.其他收入",
+            " Other Non-tax Revenue",
+            "    59303",
+            "    37549",
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "本年收入合计",
+            " Total Revenue",
+            "    7473309",
+            "    7891198",
+            "本年支出合计",
+            "   Total Expenditure",
+            "    16836479",
+            "    15066482"
+          ],
+          [
+            "中央补助收入",
+            "Transfers from Central Govermnent",
+            null,
+            "    7799024",
+            "上解中央支出",
+            "   Transfers to central Govermnent",
+            null,
+            "    261332"
+          ],
+          [
+            "省补助计划单列市",
+            "Transfers from Prov incial",
+            null,
+            null,
+            "计划单列市上解省",
+            "Transfers to Provmcial Govermnent",
+            null,
+            null
+          ],
+          [
+            "收入",
+            "Govermnent",
+            null,
+            null,
+            "支出",
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null,
+            "增设预算周转金",
+            " Added Budgetary Revolvlng Fund",
+            null,
+            "    2790"
+          ],
+          [
+            "国债转贷收入",
+            "Revenue of Loans from National",
+            null,
+            null,
+            "拨付国债转贷资金",
+            "Expenditure by using Loans of",
+            null,
+            null
+          ],
+          [
+            null,
+            "Debt",
+            null,
+            null,
+            "数",
+            "  National Debt",
+            null,
+            "    6137"
+          ],
+          [
+            "国债转贷资金上年",
+            "Balallce of Loans from National",
+            null,
+            null,
+            "国债转贷资金结余",
+            " Balance of the loans Of National",
+            null,
+            "    4448"
+          ],
+          [
+            "结余",
+            "Debt of Last Year",
+            null,
+            "    10585",
+            null,
+            "    Debts",
+            null,
+            null
+          ],
+          [
+            "上年结余收入",
+            "Balance Revenue of Last Year",
+            null,
+            "    1348082",
+            "调出资金",
+            "   Adiustive Funds for Other use",
+            null,
+            "    4423"
+          ],
+          [
+            "调入资金",
+            "Others",
+            null,
+            "    115078",
+            "年终结余",
+            "   Roll Balance at End of the Year",
+            null,
+            "    588286"
+          ],
+          [
+            "收入总计",
+            "Total Revenue of the Year",
+            null,
+            "    17163967",
+            "支出总计",
+            "    Total Expenditure of the Yedr",
+            null,
+            "    15345612"
+          ]
+        ]
+      },
+      {
+        "sheet": "CNKI",
+        "rows": [
+          [
+            "http://www.cnki.net/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": "2014",
+    "archive": "中国财政年鉴\\中国财政年鉴2014（excel）.zip",
+    "table": "1、2013年财政预算、决算/2013年云南省公共财政预算收支决算总表.xlsx",
+    "bytes": "17472",
+    "sha256": "22ce540cd16b8ff9d3e480fd5697b1d4aabac43eeddc4173b2f47037c7695ab5",
+    "sheets": [
+      {
+        "sheet": "1-2",
+        "rows": [
+          [
+            "2013年云南省公共财政预算收支决算总表",
+            null,
+            null,
+            null
+          ],
+          [
+            "FINALACCOUNT OF BUDGETARY REVENUE AND EXPENDITURE IN YUNNAN(2013)",
+            null,
+            null,
+            null
+          ],
+          [
+            "单位：亿元 Unit：100 million yuan",
+            null,
+            null,
+            null
+          ],
+          [
+            "收入Revenue",
+            null,
+            null,
+            null
+          ],
+          [
+            "预算科目",
+            "Item",
+            "预算数\r\nBudget\r\nAccount",
+            "决算数\r\nFinal\r\nAccount"
+          ],
+          [
+            "一、税收收入",
+            "Taxes",
+            "1242.00",
+            "1215.66"
+          ],
+          [
+            "1.增值税",
+            "  Value Added Tax",
+            "163.80",
+            "158.22"
+          ],
+          [
+            "2.营业税",
+            "  Business Tax",
+            "41800",
+            "418.84"
+          ],
+          [
+            "3.企业所得",
+            "  Company Income Tax",
+            "156.90",
+            "146.65"
+          ],
+          [
+            "4.个人所得税",
+            "  Personal Income Tax",
+            "45.80",
+            "40.76"
+          ],
+          [
+            "5.资源税",
+            "  Resource Tax",
+            "22.00",
+            "18.75"
+          ],
+          [
+            "6.城市维护建设税",
+            "  Urban Maintenance and\r\n  Development Tax",
+            "108.10",
+            "105.74"
+          ],
+          [
+            "7.房产税",
+            "  House Property Tax",
+            "31.00",
+            "28.86"
+          ],
+          [
+            "8.印花税",
+            "  Stamp Tax",
+            "13.70",
+            "14.34"
+          ],
+          [
+            "9.城镇土地使用税",
+            "  Urban Land Using Tax",
+            "23.20",
+            "21.28"
+          ],
+          [
+            "10.土地增值税",
+            "  Land Appreciation Tax",
+            "57.00",
+            "46.10"
+          ],
+          [
+            "11.车船税",
+            "  Vehicle and Vessel Usage\r\n  Tax",
+            "11.00",
+            "11.57"
+          ],
+          [
+            "12.耕地占用税",
+            "  Tax on the Use of Arale\r\n  Land",
+            "6000",
+            "76.03"
+          ],
+          [
+            "13.契税",
+            "  Tax on Contracts",
+            "73.00",
+            "69.16"
+          ],
+          [
+            "14.烟叶税",
+            "  Tobacco Leaf Tax",
+            "58.50",
+            "59.35"
+          ],
+          [
+            "15.其他税收收入",
+            "  Other Taxes",
+            null,
+            "0.02"
+          ],
+          [
+            "二.非税收入",
+            "Non-tax Revenue",
+            "323.00",
+            "395.64"
+          ],
+          [
+            "1.专项收入",
+            "  Earmarked Revenue",
+            "122.33",
+            "163.24"
+          ],
+          [
+            "2.行政事业性收费收入",
+            "  Administrative and\r\n  Institutional Charges",
+            "73.00",
+            "84.69"
+          ],
+          [
+            "3.罚没收入",
+            "  Fines and Penalties",
+            "51.00",
+            "50.25"
+          ],
+          [
+            "  4.国有资本经营收入",
+            "  Operating Profit of State-\r\n  owned Enterprises and",
+            "-1.33",
+            "-0.18"
+          ],
+          [
+            "  5.国有资源(资产)有\r\n  偿使用收入",
+            "  Assets\r\n  Charges for Usage of State-\r\n  owned Resources",
+            "4000",
+            "57.44"
+          ],
+          [
+            "6.其他收入",
+            "  Other Non-tax Revenue",
+            "38.00",
+            "40.19"
+          ],
+          [
+            "本年收入合计",
+            "Sub-total",
+            "1565.00",
+            "1811.30"
+          ],
+          [
+            "中央补助收入",
+            "Transfers from Central\r\nGovernment",
+            null,
+            "2162.21"
+          ],
+          [
+            "省补助计划单列市收入",
+            "Transfers from Provincial\r\nGovernment",
+            null,
+            null
+          ],
+          [
+            "财政部代理发行地方政\r\n府债券收入",
+            "Budgetary Local Debt",
+            null,
+            "193.00"
+          ],
+          [
+            "国债转贷收入",
+            "Revenue of Loans from\r\nNational Debt",
+            null,
+            null
+          ],
+          [
+            "国债转贷资金上年结余",
+            "Balance of Loans from\r\nNational Debt of Last Year",
+            null,
+            "0.01"
+          ],
+          [
+            "上年结余收入",
+            "Balance Revenue of Last Year",
+            null,
+            "162.84"
+          ],
+          [
+            "l调入预算稳定l调节基金",
+            "Usage of Budgetary\r\nAdjustment Fund",
+            null,
+            null
+          ],
+          [
+            "l调入资金",
+            "Others",
+            null,
+            "24474"
+          ],
+          [
+            "接受其他地区援助收入",
+            "Aid from Other Provinces",
+            null,
+            null
+          ],
+          [
+            "收入总计",
+            "Total",
+            null,
+            "4374.10"
+          ],
+          [
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "支出Expenditure",
+            null,
+            null,
+            null
+          ],
+          [
+            "预算科目",
+            "Item",
+            "预算数\r\nBudget\r\nAccount",
+            "决算数\r\nFinal\r\nAccount"
+          ],
+          [
+            "1.一般公共服务",
+            "General Public Services",
+            "412.75",
+            "394.77"
+          ],
+          [
+            "2.外交",
+            "Diplomacy",
+            "0.04",
+            "4"
+          ],
+          [
+            "3.国防",
+            "Defence",
+            "7.34",
+            "7.12"
+          ],
+          [
+            "4.公共安全",
+            "Public Older and Security",
+            "216.06",
+            "214.22"
+          ],
+          [
+            "5.教育",
+            "Education",
+            "710.91",
+            "685.97"
+          ],
+          [
+            "6.科学技术",
+            "Scieice and Technology",
+            "43.38",
+            "42.59"
+          ],
+          [
+            "7.文化体育与传媒",
+            "Culture,Sports and Media",
+            "63.00",
+            "61.35"
+          ],
+          [
+            "8.社会保障和就业",
+            "Social Security and Employment",
+            "509.34",
+            "505.45"
+          ],
+          [
+            "9.医疗卫生",
+            "Medical and Health Care",
+            "308.21",
+            "300.57"
+          ],
+          [
+            "10.节能环保",
+            "Energy Saving and Environment\r\nProtection",
+            "112.64",
+            "105.29"
+          ],
+          [
+            "11.城乡社区事务",
+            "Urban and Rural Communuty\r\nAffairs",
+            "177.15",
+            "174.51"
+          ],
+          [
+            "12.农林水事务",
+            "Agriculture, Forestry and Water\r\nConservancy",
+            "562.29",
+            "538.97"
+          ],
+          [
+            "13.交通运输",
+            "Transportation",
+            "548.56",
+            "54747"
+          ],
+          [
+            "14.资源勘探电力信息\r\n等事务",
+            "Resource Exploration,Power\r\nRegulation and Information\r\nAffairs",
+            "69.14",
+            "67.73"
+          ],
+          [
+            "15.商业服务业等事务",
+            "Commerce and Service",
+            "38.68",
+            "3613"
+          ],
+          [
+            "16.金融监管等事务支\r\n出",
+            "Financial Supervision",
+            "3.61",
+            "2.98"
+          ],
+          [
+            "17.地震灾后恢复重建\r\n支出",
+            "Earthquake Rebuilding",
+            "0.30",
+            "0.30"
+          ],
+          [
+            "18.援助其他地区支出",
+            "Aid to Other Provinces",
+            "0.02",
+            "0.02"
+          ],
+          [
+            "19.国土资源气象等\r\n事务",
+            "Terntonal Resources and\r\nMeteorological Admunistration\r\nAffairs",
+            "144.03",
+            "66.52"
+          ],
+          [
+            "20.住房保障支出",
+            "Housing",
+            "208.71",
+            "206.98"
+          ],
+          [
+            "21.粮油物资管理事务",
+            "Cereals Oil",
+            "10.73",
+            "10.38"
+          ],
+          [
+            "22.预备费",
+            "Government Reserve",
+            null,
+            null
+          ],
+          [
+            "23.国债还本什息支出",
+            "Interest Payment for Domestic\r\nand Foreign Debts",
+            "77.78",
+            "77.78"
+          ],
+          [
+            "24.其他支出",
+            "Other Expenditure",
+            "84.31",
+            "49.36"
+          ],
+          [
+            "本年支出合计",
+            "Sub-total",
+            "4308.98",
+            "4096.51"
+          ],
+          [
+            "上解中央支出",
+            "Transfers to Central Government",
+            null,
+            "5.12"
+          ],
+          [
+            "计划单列市上解省支出",
+            "Transfers to Provincial\r\nGovernment",
+            null,
+            null
+          ],
+          [
+            "增设预算周转金",
+            "Added Budgetary Revolving Funt",
+            null,
+            "0.49"
+          ],
+          [
+            "拨什国债转贷资金数",
+            "Expenditure by using Loans of\r\nNational Debt",
+            null,
+            null
+          ],
+          [
+            "国债转贷资金结余",
+            "Balance of the loans of National\r\nDebts",
+            null,
+            "0.01"
+          ],
+          [
+            "地方政府债债券还本",
+            "Payment of Local Debt Principal",
+            null,
+            "52.00"
+          ],
+          [
+            "安排预算稳定调节基金",
+            "Budgetary Adjustment Fund",
+            null,
+            null
+          ],
+          [
+            "调出资金",
+            "Adjustive Funds for Other Use",
+            null,
+            "7.45"
+          ],
+          [
+            "援助其他地区支出",
+            "Aid to Other Provinces",
+            null,
+            null
+          ],
+          [
+            "年终结余",
+            "Roll Balance at End of the Year",
+            null,
+            "212 51"
+          ],
+          [
+            "支出总计",
+            "Total",
+            null,
+            "437410"
+          ]
+        ]
+      },
+      {
+        "sheet": "CNKI",
+        "rows": [
+          [
+            "http://www.cnki.net/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": "2014",
+    "archive": "中国财政年鉴\\中国财政年鉴2014（excel）.zip",
+    "table": "1、2013年财政预算、决算/2013年江苏省公共财政预算收支决算总表.xlsx",
+    "bytes": "17575",
+    "sha256": "3a897554db483a08379401e4704b07ed453bee9592d481b6467daa385b6fce4f",
+    "sheets": [
+      {
+        "sheet": "1-2",
+        "rows": [
+          [
+            "2013年江苏省公共财政预算收支决算总表",
+            null,
+            null,
+            null
+          ],
+          [
+            "FINALACCOUNT OF BUDGETARY REVENUE AND EXPENDITURE IN JIANGSU(2013)",
+            null,
+            null,
+            null
+          ],
+          [
+            "单位：亿元 Unit ：100 million yuan",
+            null,
+            null,
+            null
+          ],
+          [
+            "收入Revenue",
+            null,
+            null,
+            null
+          ],
+          [
+            "预算科目",
+            "Item",
+            "预算数\r\nBudget\r\nAccount",
+            "决算数\r\nFinal\r\nAccount"
+          ],
+          [
+            "一、税收收入",
+            "Taxes",
+            "5361.89",
+            "5419.49"
+          ],
+          [
+            "1.增值税",
+            "  Value Added Tax",
+            "860.09",
+            "859.26"
+          ],
+          [
+            "2.营业税",
+            "  Business Tax",
+            "1844.86",
+            "1872.41"
+          ],
+          [
+            "3.企业所得",
+            "  Company Income Tax",
+            "794.90",
+            "763.66"
+          ],
+          [
+            "4.个入所得税",
+            "  Personal Income Tax",
+            "258.85",
+            "264.88"
+          ],
+          [
+            "5.资源税",
+            "  Resource Tax",
+            "23.94",
+            "23.39"
+          ],
+          [
+            "6.城市维护建设税",
+            "  Urban Maintenance and\r\n  Development Tax",
+            "343.02",
+            "339.53"
+          ],
+          [
+            "7.房产税",
+            "  House Property Tax",
+            "190.34",
+            "192.84"
+          ],
+          [
+            "8.印花税",
+            "  Stamp Tax",
+            "76.54",
+            "75.37"
+          ],
+          [
+            "9.城镇土地使用税",
+            "  Urban Land Using Tax",
+            "166.53",
+            "163.44"
+          ],
+          [
+            "10.土地增值税",
+            "  Land Appreciation Tax",
+            "364.05",
+            "405.79"
+          ],
+          [
+            "11.车船税",
+            "  Vehicle and Vessel Usage\r\n  Tax",
+            "31.82",
+            "32.25"
+          ],
+          [
+            "12.耕地占用税",
+            "  Tax on the Use of Arale\r\n  Land",
+            "46.64",
+            "42.91"
+          ],
+          [
+            "13.契税",
+            "  Tax on Contracts",
+            "360.20",
+            "383.75"
+          ],
+          [
+            "14.烟叶税",
+            "  Tobacco Leaf Tax",
+            null,
+            null
+          ],
+          [
+            "15.其他税收收入",
+            "  Other Taxes",
+            "0.10",
+            null
+          ],
+          [
+            "二.非税收入",
+            "Non-tax Revenue",
+            "1134.41",
+            "1148.98"
+          ],
+          [
+            "1.专项收入",
+            "  Earmarked Revenue",
+            "183.70",
+            "193.11"
+          ],
+          [
+            "2.行政事业性收费收入",
+            "  Administrative and\r\n  Institutional Charges",
+            "397.39",
+            "389.60"
+          ],
+          [
+            "3.罚没收入",
+            "  Fines and Penalties",
+            "112.59",
+            "118.54"
+          ],
+          [
+            "4.国有资本经营收入",
+            "  Operating Profit of State-\r\n  owned Enterprises and\r\n  Assets",
+            "255.86",
+            "241.10"
+          ],
+          [
+            "5.国有资源(资产)有\r\n偿使用收入",
+            "  Charges for Usage of State-\r\n  owned Resources",
+            "134.57",
+            "167.13"
+          ],
+          [
+            "6.其他收入",
+            "  Other Non-tax Revenue",
+            "50.31",
+            "39.49"
+          ],
+          [
+            "本年收入合计",
+            "Sub-total",
+            "6966.30",
+            "8588.48"
+          ],
+          [
+            "中央补助收入",
+            "Transfers from Central\r\nGovernment",
+            null,
+            "1332.76"
+          ],
+          [
+            "省补助计划单列市收入",
+            "Transfers from Provincial\r\nGovernment",
+            null,
+            null
+          ],
+          [
+            "财政部代理发行地方政\r\n府债券收入",
+            "Budgetary Local Debt",
+            null,
+            "153.00"
+          ],
+          [
+            "国债转贷收入",
+            "Revenue of Loans from\r\nNational Debt",
+            null,
+            null
+          ],
+          [
+            "国债转贷资金上年结余",
+            "Balance of Loans from\r\nNational Debt of Last Year",
+            null,
+            "0.44"
+          ],
+          [
+            "上年结余收入",
+            "Balance Revenue of Last Year",
+            null,
+            "773.96"
+          ],
+          [
+            "调入预算稳定调节基金",
+            "Usage of Budgetary\r\nAdjustment Fund",
+            null,
+            "10.47"
+          ],
+          [
+            "调入资金",
+            "Others",
+            null,
+            "106.27"
+          ],
+          [
+            "接受其他地区援助收入",
+            "Aid from Other Provinces",
+            null,
+            null
+          ],
+          [
+            "收入总计",
+            "Total",
+            null,
+            "8945.37"
+          ],
+          [
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "支出 Expenditure",
+            null,
+            null,
+            null
+          ],
+          [
+            "预算科目",
+            "Item",
+            "预算数\r\nBudget\r\nAccount",
+            "决算数\r\nFinal\r\nAccount"
+          ],
+          [
+            "1.一般公共服务",
+            "General Public Services",
+            "930.62",
+            "859.41"
+          ],
+          [
+            "2.外交",
+            "Diplomacy",
+            null,
+            null
+          ],
+          [
+            "3.国防",
+            "Defence",
+            "29.46",
+            "22.54"
+          ],
+          [
+            "4.公共安全",
+            "Public Older and Security",
+            "484.96",
+            "452.99"
+          ],
+          [
+            "5.教育",
+            "Education",
+            "1496.75",
+            "1434.99"
+          ],
+          [
+            "6.科学技术",
+            "Scieice and Technology",
+            "325.89",
+            "30259"
+          ],
+          [
+            "7.文化体育与传媒",
+            "Culture,Sports and Media",
+            "194.24",
+            "17354"
+          ],
+          [
+            "8.社会保障和就业",
+            "Social Security and Employment",
+            "684.52",
+            "631.15"
+          ],
+          [
+            "9.医疗卫生",
+            "Medical and Health Care",
+            "508.73",
+            "475.86"
+          ],
+          [
+            "10.节能环保",
+            "Energy Saving and Environment\r\nProtection",
+            "300.09",
+            "229.18"
+          ],
+          [
+            "11.城乡社区事务",
+            "Urban and Rural Community\r\nAffairs",
+            "1059.30",
+            "1006.80"
+          ],
+          [
+            "12.农林水事务",
+            "Agriculture, Forestry and Water\r\nConservancy",
+            "921.45",
+            "86834"
+          ],
+          [
+            "13交通运输",
+            "Transportation",
+            "468.63",
+            "44858"
+          ],
+          [
+            "14.资源勘探电力信息\r\n等事务",
+            "Resource Exploration,Power\r\nRegulation and Information\r\nAffairs",
+            "372.61",
+            "345.89"
+          ],
+          [
+            "15商业服务业等事务",
+            "Commerce and Service",
+            "144.85",
+            "11800"
+          ],
+          [
+            "16.金融监管等事务支\r\n出",
+            "Financial Supervision",
+            "17.03",
+            "1650"
+          ],
+          [
+            "17.地震灾后恢复重建\r\n支出",
+            "Earthquake Rebuilding",
+            "0.14",
+            null
+          ],
+          [
+            "18.援助其他地区支出",
+            "Aid to Other Provinces",
+            "22.83",
+            "22.74"
+          ],
+          [
+            "19.国土资源气象等\r\n事务",
+            "Terntonal Resources and\r\nMeteorological Admunistration\r\nAffairs",
+            "78.22",
+            "55.08"
+          ],
+          [
+            "20.住房保障支出",
+            "Housing",
+            "185.47",
+            "169.32"
+          ],
+          [
+            "21.粮油物资管理事务",
+            "Cereals Oil",
+            "3213",
+            "30.44"
+          ],
+          [
+            "22.预备费",
+            "Government Reserve",
+            null,
+            null
+          ],
+          [
+            "23.国债还本什息支出",
+            "Interest Payment for Domestic\r\nand Foreign Debts",
+            "19.43",
+            "18.98"
+          ],
+          [
+            "24.其他支出",
+            "Other Expenditure",
+            "188.88",
+            "115.56"
+          ],
+          [
+            "本年支出合计",
+            "Sub-total",
+            "8466.23",
+            "7798.47"
+          ],
+          [
+            "上解中央支出",
+            "Transfers to Central Government",
+            null,
+            "193.46"
+          ],
+          [
+            "计划单列市上解省支出",
+            "Transfers to Provincial\r\nGovernment",
+            null,
+            null
+          ],
+          [
+            "增设预算周转金",
+            "Added Budgetary Revolving Fund",
+            null,
+            "5.56"
+          ],
+          [
+            "拨什国债转贷资金数",
+            "Expenditure by using Loans of\r\nNational Debt",
+            null,
+            null
+          ],
+          [
+            "国债转贷资金结余",
+            "Balarce of the loans of National\r\nDebts",
+            null,
+            "44"
+          ],
+          [
+            "地方政府债债券还本",
+            "Payment of Local Debt Principal",
+            null,
+            "62.00"
+          ],
+          [
+            "安排预算稳定调节基金",
+            "Budgetary Adjustment Fund",
+            null,
+            "130.48"
+          ],
+          [
+            "调出资金",
+            "Adjustive Funds for Other Use",
+            null,
+            "0.58"
+          ],
+          [
+            "援助其他地区支出",
+            "Aid to Other Provinces",
+            null,
+            "0.18"
+          ],
+          [
+            "年终结余",
+            "Roll Balance at End of the Year",
+            null,
+            "754.20"
+          ],
+          [
+            "支出总计",
+            "Total",
+            null,
+            "894537"
+          ]
+        ]
+      },
+      {
+        "sheet": "CNKI",
+        "rows": [
+          [
+            "http://www.cnki.net/"
+          ]
+        ]
+      }
+    ]
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": "2014",
+    "archive": "中国财政年鉴\\中国财政年鉴2014（excel）.zip",
+    "table": "1、2013年财政预算、决算/2013年湖北省公共财政预算收支决算总表.xlsx",
+    "bytes": "17538",
+    "sha256": "1ccc4a50b9866365865c03b1ef296b83a8f74a77adc01e501fdadc6fd6dfc680",
+    "sheets": [
+      {
+        "sheet": "1-2",
+        "rows": [
+          [
+            "2013年湖北省公共财政预算收支决算总表",
+            null,
+            null,
+            null
+          ],
+          [
+            "FINALACCOUNT OF BUDGETARY REVENUE AND EXPENDITURE IN HUBEI(2013)",
+            null,
+            null,
+            null
+          ],
+          [
+            "单位：亿元 Unit ：100 million yuan",
+            null,
+            null,
+            null
+          ],
+          [
+            "收入 Revenue",
+            null,
+            null,
+            null
+          ],
+          [
+            "预算科目",
+            "Item",
+            "预算数\r\nBudget\r\nAccount",
+            "决算数\r\nFinal\r\nAccount"
+          ],
+          [
+            "一、税收收入",
+            "Taxes",
+            "1584.69",
+            "1604.85"
+          ],
+          [
+            "1.增值税",
+            "  Value Added Tax",
+            "219.65",
+            "225.68"
+          ],
+          [
+            "2.营业税",
+            "  Business Tax",
+            "518.15",
+            "526.43"
+          ],
+          [
+            "3.企业所得",
+            "  Company Income Tax",
+            "221.61",
+            "215.23"
+          ],
+          [
+            "4.个入所得税",
+            "  Personal Income Tax",
+            "57.99",
+            "57.74"
+          ],
+          [
+            "5.资源税",
+            "  Resource Tax",
+            "16.17",
+            "16.23"
+          ],
+          [
+            "6.城市维护建设税",
+            "  Urban Maintenance and\r\n  Development Tax",
+            "108.06",
+            "109.04"
+          ],
+          [
+            "7.房产税",
+            "  House Property Tax",
+            "34.54",
+            "34.70"
+          ],
+          [
+            "8.印花税",
+            "  Stamp Tax",
+            "21.62",
+            "22.63"
+          ],
+          [
+            "9.城镇土地使用税",
+            "  Urban Land Using Tax",
+            "35.74",
+            "36.25"
+          ],
+          [
+            "10.土地增值税",
+            "  Land Appreciation Tax",
+            "130.78",
+            "137.39"
+          ],
+          [
+            "11.车船税",
+            "  Vehicle and Vessel Usage\r\n  Tax",
+            "11.86",
+            "11.98"
+          ],
+          [
+            "12.耕地占用税",
+            "  Tax on the Use of Arale\r\n  Land",
+            "79.55",
+            "80.39"
+          ],
+          [
+            "13.契税",
+            "  Tax on Contracts",
+            "123.49",
+            "125.70"
+          ],
+          [
+            "14.烟叶税",
+            "  Tobacco Leaf Tax",
+            "5.47",
+            "5.47"
+          ],
+          [
+            "15.其他税收收入",
+            "  Other Taxes",
+            null,
+            null
+          ],
+          [
+            "二、非税收入",
+            "Non-tax Revenue",
+            "589.29",
+            "586.37"
+          ],
+          [
+            "1.专项收入",
+            "  Earmarked Revenue",
+            "65.03",
+            "68.73"
+          ],
+          [
+            "2.行政事业性收费收入",
+            "  Administrative and\r\n  Institutional Charges",
+            "290.77",
+            "268.59"
+          ],
+          [
+            "3.罚没收入",
+            "  Fines and Penalties",
+            "66.95",
+            "67.79"
+          ],
+          [
+            "4.国有资本经营收入",
+            "  Operating Profit of State-\r\n  owned Enterprises and\r\n  Assets",
+            "42.55",
+            "43.65"
+          ],
+          [
+            "5.国有资源(资产)有\r\n偿使用收入",
+            "  Charges for Usage of State-\r\n  owned Resources",
+            "96.81",
+            "109.78"
+          ],
+          [
+            "6.其他收入",
+            "  Other Non-tax Revenue",
+            "27.19",
+            "27.83"
+          ],
+          [
+            "本年收入合计",
+            "Sub-total",
+            "2173.98",
+            "211.22"
+          ],
+          [
+            "中央补助收入",
+            "Transfers from Central\r\nGovernment",
+            null,
+            "2185.26"
+          ],
+          [
+            "省补助计划单列市收入",
+            "Transfers from Provincial\r\nGovernment",
+            null,
+            null
+          ],
+          [
+            "财政部代理发行地方政\r\n府债券收入",
+            "Budgetary Local Debt",
+            null,
+            "137.00"
+          ],
+          [
+            "国债转贷收入",
+            "Revenue of Loans from\r\nNational Debt",
+            null,
+            null
+          ],
+          [
+            "国债转贷资金上年结余",
+            "Balance of Loans from\r\nNational Debt of Last Year",
+            null,
+            "1.40"
+          ],
+          [
+            "上年结余收入",
+            "Balance Revenue of Last Year",
+            null,
+            "1026.94"
+          ],
+          [
+            "调入预算稳定调节基金",
+            "Usage of Budgetary\r\nAdjustment Fund",
+            null,
+            "4.00"
+          ],
+          [
+            "调入资金",
+            "Others",
+            null,
+            "51.20"
+          ],
+          [
+            "接受其他地区援助收入",
+            "Aid from Other Provinces",
+            null,
+            null
+          ],
+          [
+            "收入总计",
+            "Total",
+            null,
+            "5597.03"
+          ],
+          [
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            null,
+            null,
+            null,
+            null
+          ],
+          [
+            "支出 Expenditure",
+            null,
+            null,
+            null
+          ],
+          [
+            "预算科目",
+            "Item",
+            "预算数\r\nBudget\r\nAccount",
+            "决算数\r\nFinal\r\nAccount"
+          ],
+          [
+            "1.一般公共服务",
+            "General Public Services",
+            "564.79",
+            "54649"
+          ],
+          [
+            "2.外交",
+            "Diplomacy",
+            null,
+            null
+          ],
+          [
+            "3.国防",
+            "Defence",
+            "420",
+            "4.12"
+          ],
+          [
+            "4.公共安全",
+            "Public Order and Security",
+            "235.23",
+            "227.04"
+          ],
+          [
+            "5.教育",
+            "Education",
+            "736.62",
+            "690.63"
+          ],
+          [
+            "6.科学技术",
+            "Scieice and Technology",
+            "80.40",
+            "77.21"
+          ],
+          [
+            "7.文化体育与传媒",
+            "Culture,Sports and Media",
+            "81.08",
+            "7244"
+          ],
+          [
+            "8.社会保障和就业",
+            "Social Security and Employment",
+            "621.87",
+            "605.70"
+          ],
+          [
+            "9.医疗卫生",
+            "Medical and Health Care",
+            "336.57",
+            "322.08"
+          ],
+          [
+            "10.节能环保",
+            "Energy Saving and Environment\r\nProtection",
+            "128.89",
+            "109.72"
+          ],
+          [
+            "11.城乡社区事务",
+            "Urban and Rural Community\r\nAffairs",
+            "342.15",
+            "320.36"
+          ],
+          [
+            "12.农林水事务",
+            "Agriculture，Forestry and Water\r\nConservancy",
+            "499.79",
+            "46534"
+          ],
+          [
+            "13.交通运输",
+            "Transportation",
+            "347.92",
+            "308.82"
+          ],
+          [
+            "14.资源勘探电力信息\r\n等事务",
+            "Resource Exploration.Power\r\nRegulation and Information\r\nAffairs",
+            "237.77",
+            "227.90"
+          ],
+          [
+            "15.商业服务业等事务",
+            "Commerce and Service",
+            "53.96",
+            "47.81"
+          ],
+          [
+            "16.金融监管等事务支\r\n出",
+            "Financial Supervision",
+            "1504",
+            "13.76"
+          ],
+          [
+            "17.地震灾后恢复重建\r\n支出",
+            "Earthquake Rebuilding",
+            null,
+            null
+          ],
+          [
+            "18.援助其他地区支出",
+            "Aid to Other Provinces",
+            "4.57",
+            "4.57"
+          ],
+          [
+            "19.国土资源气象等\r\n事务",
+            "Terrintorial Resources and\r\nMeteorological Administration\r\nAffairs",
+            "59.15",
+            "51.77"
+          ],
+          [
+            "20.住房保障支出",
+            "Housing",
+            "127.11",
+            "123.11"
+          ],
+          [
+            "21.粮油物资管理事务",
+            "Cereals Oil",
+            "41.49",
+            "39.04"
+          ],
+          [
+            "22.预备费",
+            "Government Reserve",
+            null,
+            null
+          ],
+          [
+            "23.国债还本什息支出",
+            "Interest Payment for Domestic\r\nand Foreign Debts",
+            "29.10",
+            "19.06"
+          ],
+          [
+            "24.其他支出",
+            "Other Expenditure",
+            "859.71",
+            "94.67"
+          ],
+          [
+            "本年支出合计",
+            "Sub-total",
+            "5407.38",
+            "4371.65"
+          ],
+          [
+            "上解中央支出",
+            "Transfeis to Central Government",
+            null,
+            "39.80"
+          ],
+          [
+            "计划单列市上解省支出",
+            "Transfeis to Provincial\r\nGovernment",
+            null,
+            null
+          ],
+          [
+            "增设预算周转金",
+            "Added Budgetary Revolving Fund",
+            null,
+            null
+          ],
+          [
+            "拨什国债转贷资金数",
+            "Expenditure by using Loans of\r\nNational Debt",
+            null,
+            null
+          ],
+          [
+            "国债转贷资金结余",
+            "Balarce of the loans of National\r\nDebts",
+            null,
+            "1.40"
+          ],
+          [
+            "地方政府债债券还本",
+            "Payment of Local Debt Principal",
+            null,
+            "60.00"
+          ],
+          [
+            "安排预算稳定调节基金",
+            "Budgetary Adjustment Fund",
+            null,
+            "2.25"
+          ],
+          [
+            "调出资金",
+            "Adjustive Funds for Other Use",
+            null,
+            "1.01"
+          ],
+          [
+            "援助其他地区支出",
+            "Aid to Other Provinces",
+            null,
+            null
+          ],
+          [
+            "年终结余",
+            "Roll Balance at End of the Year",
+            null,
+            "1120.92"
+          ],
+          [
+            "支出总计",
+            "Total",
+            null,
+            "559703"
+          ]
+        ]
+      },
+      {
+        "sheet": "CNKI",
+        "rows": [
+          [
+            "http://www.cnki.net/"
+          ]
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "family": "中国教育经费统计年鉴",
+    "volume_year": "2013",
+    "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2013（excel）.zip",
+    "table": "全国教育经费统计指标说明.pdf",
+    "bytes": "282669",
+    "sha256": "c58811aee1196914ce14f059accde7bac12ef961b4d5177031569935f411e452",
+    "pages": 5
+  },
+  {
+    "family": "中国教育经费统计年鉴",
+    "volume_year": "2014",
+    "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2014（excel）.zip",
+    "table": "全国教育经费统计指标说明.pdf",
+    "bytes": "287765",
+    "sha256": "5cc21d1fed2788e25807f1dde471b86c7331b19826a9630cdc1db4cfd49e5476",
+    "pages": 5
+  }
+]

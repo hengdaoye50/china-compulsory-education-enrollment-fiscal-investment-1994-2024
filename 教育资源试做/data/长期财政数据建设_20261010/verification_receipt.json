@@ -1,0 +1,27 @@
+{
+  "checks": {
+    "source_ids_unique": true,
+    "record_ids_unique": true,
+    "source_foreign_keys_complete": true,
+    "student_province_grain_unique": true,
+    "student_expected_1856_province_rows": true,
+    "panel_grain_unique": true,
+    "overall_CPI_only": true,
+    "missing_not_imputed": true,
+    "no_model_admission_claim": true,
+    "protected_hashes": true,
+    "2012_volume_continuation_headers_distinct": true,
+    "2012_volume_continuation_original_rows": true
+  },
+  "ledger_rows": 239276,
+  "numeric_coverage_rows": 460,
+  "student_invalid_text_cells": 8,
+  "student_blank_grade_cells": 169,
+  "student_failed_or_uncheckable_checks": 179,
+  "unresolved_finance_region_rows": 16,
+  "finance_original_component_checks": 4693,
+  "finance_original_component_status": {
+    "uncheckable_invalid_or_missing": 60,
+    "pass_rounding": 4633
+  }
+}

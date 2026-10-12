@@ -1,0 +1,153 @@
+{
+  "planned_pages": 23,
+  "figures": 15,
+  "tables": 15,
+  "claims": 42,
+  "validation_checks": 28,
+  "input_sha256": {
+    "教育资源试做\\data\\education_resource_panel.csv": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f",
+    "教育资源试做\\data\\finance_long.csv": "4b07e6dd9c6812652fa2de5a4fdac8331e15f0f69843f128fd8c741ae976e6b2",
+    "教育资源试做\\data\\panel.json": "4f2ad2013d233f3f54d4f8c576d78c7e476875d1e2b1e11fd0133ebe310e7f02",
+    "教育资源试做\\data\\三十年纵向分析_20261010\\four_exploratory_hypotheses.csv": "17c6f4a25dc7bbffa52fadcc631e5b77c0cf9c21dc36759bd9b420c58cadf9c1",
+    "教育资源试做\\data\\三十年纵向分析_20261010\\province_decline_recurrence.csv": "58e077405b331bbec9984e603b80c35fa7f8c7aaf6759434d20f4d0d2d6639d9",
+    "教育资源试做\\data\\三十年纵向分析_20261010\\recurrent_student_decline_spells.csv": "3a376650887f9d9a43298dc08e1d8542c1126e355b0e99d98014e8e2b9f3364f",
+    "教育资源试做\\data\\定量深化_20261011\\four_direct_contrast_tests.csv": "8f5436dc0fa7047040f0d3d72acb82dbf8c6f21287609b2908a9e7c3a9541f42",
+    "教育资源试做\\data\\定量深化_20261011\\junior_lag_model_input.csv": "07a00240c617b82e87fee251800141965c435bca5ffa12da0a4c18c7b60b054b",
+    "教育资源试做\\data\\定量深化_20261011\\junior_model_input.csv": "b5d767857ae9681ad8c705c6ffa183737a9279fa170a18e099ad889f8b44f75b",
+    "教育资源试做\\data\\定量深化_20261011\\primary_lag_model_input.csv": "ac0a01a5b61b9de27f18c7543db276be65adb2786cf2a9bb008223365db563cf",
+    "教育资源试做\\data\\定量深化_20261011\\primary_model_input.csv": "15673327bd140f46d57f92fb329da9d1cda89db4eb156e6b0ec2b4c403eb6260",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\additional_regime_sensitivity.csv": "a536097276f6a1f0f8ee7034e6924dd4e5c517a55f98f30a861ee95806288022",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\all_coefficients.csv": "424d138ec1ca923acbbca430cb922190e7a8cc3be61fada56ea9cea2986a75d0",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\component_primary_tests.csv": "c880c8994cb7e7bfa03b7f649e7dd81ec22a66579bb5568b2a457d68e77fe27f",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\composition_plot_data.csv": "31c9a79261f7392de1c4e3d8f4e61f158239da90eab18a2ef622568d4efd64c5",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\junior_component_model_input.csv": "8cf77457fcdc7675ecc262b577e668be33d6fd8e4197ab506d75aac2cdfa24ae",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\junior_subsidy_model_input.csv": "83813f81a1157a0c1cad492e5937e45689af1b50ee7b2cf19ad9d58c4e725e64",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\primary_component_model_input.csv": "e201a8ad462abe973841f45309bfb427fd6e8730bb67ee2fa1c8ec5dddc14c09",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\primary_subsidy_model_input.csv": "288ef72b9f14b9ea27e969200fd807486059da88277968b995e319bc439420b0",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\sample_summary.csv": "ee8feda14f1c5e27b34898999ff427620de50b91d160f632ba4b7a846656d8a7",
+    "教育资源试做\\data\\支出细项与补助拓展_20261011\\subsidy_exploratory_tests.csv": "98145cd30d002a8a95c6a9674228136a23e3a28eab0d7b2db6088725835703e0",
+    "教育资源试做\\data\\早期财政重建_20261011\\national_fiscal_1994_2024_report_final.csv": "1bbd8a5e1cc5fd6b76cdbd996dbd3ed5daeff756a11a5a87815e1e1e47d970b4",
+    "教育资源试做\\data\\资源解释拓展_20261011\\all_coefficients_and_sensitivities.csv": "ec1a89199a6b5c5c68f72709a99922def944cc77410a0a1cd2906f5d9d6334be",
+    "教育资源试做\\data\\资源解释拓展_20261011\\four_resource_contrast_tests.csv": "1cb34b63b0a1faf121b759e41078b52b33cd5e9282dcdcf749631de6e042987d",
+    "教育资源试做\\data\\资源解释拓展_20261011\\junior_lag_model_input.csv": "b3a9a5cad5ce30fceccc2f686da76b318c9a9fad895ec7673692419f973c1ba2",
+    "教育资源试做\\data\\资源解释拓展_20261011\\junior_model_input.csv": "dc61e28d0615da9316694ac55f52804af0b2e204b2db4f7d68d408169b2d8877",
+    "教育资源试做\\data\\资源解释拓展_20261011\\primary_lag_model_input.csv": "f1adbe64d88a6428ad75ed20d8939b975f308e55f67e62485718a41c9fbd2c13",
+    "教育资源试做\\data\\资源解释拓展_20261011\\primary_model_input.csv": "dce83243e7664fd80c2c8f70d5b4cfec8d4fba6595e03065002fbb620395fecd",
+    "教育资源试做\\正式学术图组_20261011\\figure_data\\fig01.csv": "79bcda975ef3c13c1b9ee7dca5e250b70ee550bbd85ce07d77877074f83b1a2f",
+    "教育资源试做\\正式学术图组_20261011\\figure_data\\fig03.csv": "14551504dd4a1656d6ac899c543d44195573b864ff548ac002248ea54a56c415",
+    "教育资源试做\\正式学术图组_20261011\\figure_data\\fig05.csv": "8aae79d4e87f6556acabb9043af6847cff75792a021cc2ef20fa4e33607b0a07",
+    "教育资源试做\\正式学术图组_20261011\\figure_data\\fig06.csv": "b05f8abdd5e1562c5a0b1e5a1fce8ac5fb073a1255ebdedb392db736f015e58d",
+    "教育资源试做\\正式学术图组_20261011\\figure_data\\fig07.csv": "31c66f02560e9bbfba0635fbe57bf0fbc0b3be4fbcf28ddfda912d3a4b0ec21b",
+    "教育资源试做\\正式学术图组_20261011\\figure_data\\fig08.csv": "7622cff20ea151becf1913ae2e72e879341bd637bd72e9906994ad5cffbe0442"
+  },
+  "figure_map": [
+    {
+      "number": 1,
+      "title": "全国小学与初中在校生人数变化",
+      "path": "最终综合研究报告_20261011\\图表_合稿版\\png\\fig01.png",
+      "sha256": "ecc18840b915b4a424ae4038d131ba7a3942ad9098428923dc7dc69d2a516f43",
+      "caption": "1995—2024年实际数据年；上下图使用相同纵轴。标记为观察期峰谷及2024年人数。学生数不是出生人口，学校类型与统计时点仍有年度范围限制。"
+    },
+    {
+      "number": 2,
+      "title": "全国两学段财政性教育经费及其占比",
+      "path": "最终综合研究报告_20261011\\图表_合稿版\\png\\fig02.png",
+      "sha256": "5d7f828affd0a30c2f6c2b5f9324a73cb9c3c55f7b1b6f186ce913aa759ed943",
+      "caption": "1994年为空心条件估算点；1995—1997年按支出来源重建，1998年起按收入来源。收支与定义边界断线，2006年已核实单位并恢复。金额为名义值，情景范围不是置信区间。"
+    },
+    {
+      "number": 3,
+      "title": "财政性收入占比变化的举办者构成分解",
+      "path": "最终综合研究报告_20261011\\图表_合稿版\\png\\fig08.png",
+      "sha256": "398461f14e3ee4fc98bba9c698a6113dc9f5941bbecb2d00e803b1615ebe8280",
+      "caption": "单位为百分点。紫色为举办者收入权重变化贡献，金色为类别内部财政性比例变化贡献，黑色为全国变化。按年鉴原分类核算，不代表同一批学校或政策净效应。"
+    },
+    {
+      "number": 4,
+      "title": "地方隶属学校个人支出占两项合计的比例",
+      "path": "最终综合研究报告_20261011\\图表_合稿版\\png\\fig04.png",
+      "sha256": "50001b662e3b21cd664f741e0b989e700c6c5ed4e437446fa8f1f61c89efde61",
+      "caption": "分母为P＋C，不含另列基本建设K。2007、2014年相关分类或范围边界断线；2024年资本性项目名称变化单列。地方隶属范围与后续全隶属回归不同。"
+    },
+    {
+      "number": 5,
+      "title": "相同地区的支出年均实际增速跨期比较",
+      "path": "最终综合研究报告_20261011\\图表_合稿版\\png\\fig06.png",
+      "sha256": "d8dca5ce124aca7cb5926eee48c1906edbe93e8097c4d5f6e24097f73d0ae166",
+      "caption": "两窗口均为相同28个省级地区，排除四川、重庆、西藏。每点为同一地区，虚线表示两窗口增长相同；两轴同尺度。增速降低不等于金额下降。"
+    },
+    {
+      "number": 6,
+      "title": "各地区小学与初中公用支出实际增长",
+      "path": "最终综合研究报告_20261011\\图表_合稿版\\png\\fig07.png",
+      "sha256": "93ffa04055a9fb700a7715356dfd9b2153fd673d5b22cb9fb60e7036eca4c2d8",
+      "caption": "2017—2023年31个省级地区累计实际增长，非年均增长；按小学排序。线段连接同一地区两学段，零线左侧为实际金额下降。公用含资本性项目。"
+    },
+    {
+      "number": 7,
+      "title": "公用相对个人的直接响应差",
+      "path": "教育资源试做\\定量深化图组_20261011\\图Q1_直接差异与置信区间.png",
+      "sha256": "03789f3eaafc27a83c855f90ddc8b9321d9af0713871564f6be5e5b6afc5f2e2",
+      "caption": "2008—2023年，两学段各472条省年；控制学生、实际自身收入、省份和年份效应。单项WCR检验反演95%区间，四项Holm校正p；不是家族同时置信区间。"
+    },
+    {
+      "number": 8,
+      "title": "区分窗口改变与资源进入",
+      "path": "教育资源试做\\资源解释图组_20261011\\图E1_同样本模型比较.png",
+      "sha256": "ce8301d8bf2b02ec493567105ecd1af82ac9016922d485c4c43b6d0b2312fee2",
+      "caption": "原窗口2008—2023年各472条，其余均为2014—2023年同一300条。点为学生响应差，线为CR1及t(30)近似95%区间。步骤不是中介解释比例。"
+    },
+    {
+      "number": 9,
+      "title": "教师和班级的直接差异检验",
+      "path": "教育资源试做\\资源解释图组_20261011\\图E2_资源关联直接差异.png",
+      "sha256": "8aa596250541995d755686f7e0ae504534c29fcfdcfa9fada73e536ce22271f5",
+      "caption": "共同纳入学生、收入、教师、班级及双向固定效应；单项WCR95%区间，4项资源检验Holm校正。每学段300条、31个聚类。"
+    },
+    {
+      "number": 10,
+      "title": "四个支出细项的年度构成",
+      "path": "教育资源试做\\支出细项与补助图组_20261011\\图F1_支出内部构成.png",
+      "sha256": "d5b42c46bc3eb2261f6cd9ca9b84d19f9f26667c7731c5bc337e42a1b221313c",
+      "caption": "2007—2023年31地区名义金额合计；左列为个人内部、右列为公用内部。非官方全国合计序列。W工资福利、A个人家庭补助、G商品服务、X其他资本性。"
+    },
+    {
+      "number": 11,
+      "title": "商品服务与其他资本性的实际增长贡献",
+      "path": "教育资源试做\\支出细项与补助图组_20261011\\图F2_公用增长贡献.png",
+      "sha256": "31442af5f7d9cd885912fc64d9883448887b70b21fafcc02889f185492674231",
+      "caption": "同省前期C为共同分母，分项实际金额变化贡献再取当年模型样本省年算术均值。两柱之和与黑线在显示舍入容差内一致；不是全国加权增长或对数增长。"
+    },
+    {
+      "number": 12,
+      "title": "商品服务减工资福利的直接响应差",
+      "path": "教育资源试做\\支出细项与补助图组_20261011\\图F3_商品服务与工资响应差.png",
+      "sha256": "852056be60ee19f4c93ca9c56ea8172fc9ce090cf539d0c5342a927d81242ed5",
+      "caption": "与P/C主模型相同的472条省年；DGW＝Δln G−Δln W。线为单项WCR反演95%区间；该轮4项Holm校正，非整个研究统一校正。"
+    },
+    {
+      "number": 13,
+      "title": "全窗口与前后时期的响应差",
+      "path": "教育资源试做\\支出细项与补助图组_20261011\\图F7_时期分段响应.png",
+      "sha256": "f37fbfee57e8790e52342bb0a6ff2730ca718b70dd5f6d58126fc3135c8c9cf8",
+      "caption": "全窗口472条，2008—2016年前期258条，2019—2023年后期153条，各自独立拟合。统一CR1及t(30)近似95%区间；看图后追加，不是正式结构突变检验。"
+    },
+    {
+      "number": 14,
+      "title": "自身收入变化与两项合计变化",
+      "path": "教育资源试做\\支出细项与补助图组_20261011\\图F5_自身收入与补助合计变化.png",
+      "sha256": "24c3f069403cc1c20efd9bf4c86840c7dcd4a009a18cba76e2e6ab74ebcb5d8e",
+      "caption": "436个省年两学段只计一次，覆盖2008—2023年。金色为自身收入实际下降而R＋B未下降；坐标为实际对数变化×100。两项合计不是完整可用财力。"
+    },
+    {
+      "number": 15,
+      "title": "中央补助与教育支出调整的条件关联",
+      "path": "教育资源试做\\支出细项与补助图组_20261011\\图F6_中央补助关联.png",
+      "sha256": "d67cbaf6b48e089506ee5d6055de4144b7b8cab0c6c63b0eb4270832de4e101e",
+      "caption": "共同控制学生、实际自身收入和双向固定效应。每学段436条省年，9999次WCR检验及反演单项95%区间；4项补助探索检验另作Holm校正。"
+    }
+  ],
+  "old_reports_preserved": true,
+  "new_regressions": false,
+  "scope_approved": false
+}

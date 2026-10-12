@@ -1,0 +1,568 @@
+[
+  {
+    "key": "adjustment_policy_2018_efficiency",
+    "url": "https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201808/t20180827_346266.html",
+    "status": "downloaded",
+    "bytes": 29938,
+    "sha256": "ee7391c78d342aaab761d98393f7224e6bc77946e014fd9c174f10d330b02790",
+    "path": "raw\\adjustment_policy_2018_efficiency.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=05FDD4B7206C29B0E053012819AC4C18",
+        "label": ""
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm05000001&url=",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3634/201005/t20100504_87292.html",
+        "label": "网站声明"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3636/202404/t20240411_1125026.html",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3635/201611/t20161129_290403.html",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备10028400号-1"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007625",
+        "label": "京公网安备11010202007625号"
+      }
+    ]
+  },
+  {
+    "key": "adjustment_policy_2015_guarantee",
+    "url": "https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201511/t20151130_221655.html",
+    "status": "downloaded",
+    "bytes": 24250,
+    "sha256": "1c458cee5fcf6fabd5c0d1298187d10fb74e5307f5c019bc028872c0cc876edd",
+    "path": "raw\\adjustment_policy_2015_guarantee.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=05FDD4B7206C29B0E053012819AC4C18",
+        "label": ""
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm05000001&url=",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3634/201005/t20100504_87292.html",
+        "label": "网站声明"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3636/202404/t20240411_1125026.html",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3635/201611/t20161129_290403.html",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备10028400号-1"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007625",
+        "label": "京公网安备11010202007625号"
+      }
+    ]
+  },
+  {
+    "key": "adjustment_policy_2019_responsibility",
+    "url": "https://www.moe.gov.cn/jyb_xxgk/moe_1777/moe_1778/201906/t20190604_384344.html",
+    "status": "downloaded",
+    "bytes": 30241,
+    "sha256": "fcb52c1098b35366a121b23aabebccd1b040e3456608fd3e8c936ae62599ebe9",
+    "path": "raw\\adjustment_policy_2019_responsibility.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=05FDD4B7206C29B0E053012819AC4C18",
+        "label": ""
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm05000001&url=",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3634/201005/t20100504_87292.html",
+        "label": "网站声明"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3636/202404/t20240411_1125026.html",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3635/201611/t20161129_290403.html",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备10028400号-1"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007625",
+        "label": "京公网安备11010202007625号"
+      }
+    ]
+  },
+  {
+    "key": "adjustment_policy_2022_staffing",
+    "url": "https://www.moe.gov.cn/fbh/live/2022/54805/sfcl/202209/t20220906_658649.html",
+    "status": "downloaded",
+    "bytes": 11638,
+    "sha256": "2074cb4e24e50426c9012fcd2de684e9c2fb8d0f1a894f8767d94633f38f71eb",
+    "path": "raw\\adjustment_policy_2022_staffing.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "教育部政府门户网站"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": ""
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=05FDD4B7206C29B0E053012819AC4C18",
+        "label": ""
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm05000001&url=",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3634/",
+        "label": "网站声明"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3636/",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3635/",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备10028400号-1"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007625",
+        "label": "京公网安备11010202007625号"
+      }
+    ]
+  },
+  {
+    "key": "adjustment_policy_2023_service_standard",
+    "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202308/t20230809_1359262_ext.html",
+    "status": "downloaded",
+    "bytes": 7874,
+    "sha256": "6af8c10d51c90d5079e88db12c40c5f891854550306c7ecc5871f39fa53d2df5",
+    "path": "raw\\adjustment_policy_2023_service_standard.html",
+    "links": [
+      {
+        "url": "https://www.ndrc.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.ndrc.gov.cn/xxgk/",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://www.ndrc.gov.cn/xxgk/zcfb/",
+        "label": "政策"
+      },
+      {
+        "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/",
+        "label": "通知"
+      },
+      {
+        "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202308/P020230810405073515374.pdf",
+        "label": "《国家基本公共服务标准（2023年版）》.pdf"
+      },
+      {
+        "url": "https://www.ndrc.gov.cn/xxgk/zcfb/tz/202308/P020230811578851384420.ofd",
+        "label": "《国家基本公共服务标准（2023年版）》.ofd"
+      },
+      {
+        "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202308/t20230810_1359273.html",
+        "label": "国家发展改革委等部门印发《国家基本公共服务标准（2023年版）》"
+      },
+      {
+        "url": "https://www.ndrc.gov.cn/xxgk/jd/jd/202308/t20230810_1359272.html",
+        "label": "国家发展改革委负责同志就《国家基本公共服务标准（2023年版）》答记者问"
+      }
+    ]
+  }
+]

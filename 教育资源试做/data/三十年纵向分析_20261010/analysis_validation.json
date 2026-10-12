@@ -1,0 +1,46 @@
+{
+  "checks": {
+    "two_complete_30_year_student_series": true,
+    "endpoint_rates_recalculate": true,
+    "two_year_recurrence_21_18": true,
+    "three_year_recurrence_15_11": true,
+    "PC_shares_recalculate": true,
+    "part4_provenance_only": true,
+    "no_2007_finance_change": true,
+    "paired_identical_R_98_edges": true,
+    "paired_coefficient_recalculate": true,
+    "Holm_four_tests_recalculate": true,
+    "scope_not_approved": true,
+    "protected_inputs_unchanged": true
+  },
+  "all_passed": true,
+  "recurrent_provinces_two_year": {
+    "primary": 21,
+    "junior": 18
+  },
+  "recurrent_provinces_three_year": {
+    "primary": 15,
+    "junior": 11
+  },
+  "paired_positive_Z": 5,
+  "paired_positive_Z_provinces": 3,
+  "paired_confidence_set_disjoint": 2,
+  "paired_CI_search_boundary": true,
+  "new_output_hashes": {
+    "additional_reclassification_sensitivity.csv": "a4cc7ab96c0321a5ff1930eadd2741db8d12d61c7d4439e26e5f0bd3e744dad1",
+    "four_exploratory_hypotheses.csv": "17c6f4a25dc7bbffa52fadcc631e5b77c0cf9c21dc36759bd9b420c58cadf9c1",
+    "national_finance_composition_1995_2024.csv": "8ede2cd64d09585c3cd4de74982dfd07f8fae18ce3552304350a25c859db0e38",
+    "national_student_endpoints.csv": "a6ea236a30573f451bbc264a6ddfa9f0f465eb7bec2280d4fc1b049fb8a1137c",
+    "national_students_1995_2024.csv": "2acd1055a8e9ddf8fe0af8bf03d847d62cb9f57acabba2736dfccbfa7d74bda8",
+    "paired_stage_common_sample.csv": "fe7e1c6caca233612cea2ac6d0e31ec7d962ffa2e3bfcc0d5eca9d298993e3eb",
+    "paired_stage_H1_difference.csv": "ddc88716a837fc773033a8bde310b719619f279c428103d657e95eee0f79636b",
+    "province_decline_recurrence.csv": "58e077405b331bbec9984e603b80c35fa7f8c7aaf6759434d20f4d0d2d6639d9",
+    "province_student_changes_1996_2024.csv": "da7d3ea4cc8c9ff496647c7fbb03a10a44ec9acc93a00916019f00bc63a88c3b",
+    "recurrent_student_decline_spells.csv": "3a376650887f9d9a43298dc08e1d8542c1126e355b0e99d98014e8e2b9f3364f",
+    "segmented_finance_structure_changes.csv": "822fbbdbb4f3243b3914c3201578365f01f87aab93c1e910dd1a52e4e71a25b9",
+    "segmented_local_finance_changes.csv": "d73b43a6470e0669629e327129f2bb01ce011b51b53e47990effff371a91f997",
+    "segmented_local_finance_descriptions.csv": "d4ddcb5fd8d30294027ce8ebcf38015e729e43bd83ef5dab5b2ed25e994a1b1f",
+    "student_decline_phase_distribution.csv": "ae4d59c73a9863aa8af555192837c15a9b51f12b2d8adf7b406bd0bfc108e9ba",
+    "targeted_scope_sensitivities.csv": "febf3bb890ba062040d9ee4b1e87987495990a484f2e69d0db002c8630926116"
+  }
+}

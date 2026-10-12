@@ -1,0 +1,69 @@
+{
+  "figures": [
+    {
+      "name": "全国生源长期趋势",
+      "size_inches": [
+        6.6,
+        3.0
+      ],
+      "dpi": 600,
+      "sha256": "c286ddd2f756b61af7d87057f1ccc620e789a75c349cc1ebd7614f1eb24832b9"
+    },
+    {
+      "name": "举办者收入构成分解",
+      "size_inches": [
+        6.6,
+        3.25
+      ],
+      "dpi": 600,
+      "sha256": "c793ab1afdcbe8aac957b4af625901165dc9541d8c2b3dc05b262ac6d0c6675f"
+    },
+    {
+      "name": "财政性经费长期趋势",
+      "size_inches": [
+        6.6,
+        4.2
+      ],
+      "dpi": 600,
+      "sha256": "2c34b5e74f850e25cb60c1cc1e95053f9de164b5f51d0f6bc04f1302eb7923cd"
+    },
+    {
+      "name": "个人公用直接响应差",
+      "size_inches": [
+        6.6,
+        3.55
+      ],
+      "dpi": 600,
+      "sha256": "c4dd3aafa78b57909fe371abbe5aa1f9fc6b46980841e233eb59e18241ff4613"
+    },
+    {
+      "name": "小学公用支出空间分布",
+      "size_inches": [
+        6.7,
+        4.9
+      ],
+      "dpi": 600,
+      "sha256": "64f434792767e3b25a3a556b93bc3df88938ab922fc886fe1975a3758d511a48"
+    },
+    {
+      "name": "初中公用支出空间分布",
+      "size_inches": [
+        6.7,
+        4.9
+      ],
+      "dpi": 600,
+      "sha256": "7cecec63894d9a5eea10e537ed8ea34b8509ed62e78d571b3edf60deb9b343cf"
+    }
+  ],
+  "map_source": {
+    "url": "https://geo.datav.aliyun.com/areas_v3/bound/100000_full.json",
+    "download_date": "2026-10-12",
+    "sha256": "99adfeded5223848bbe37a0a12f8023e11ee12161c7800521c27db42fdeac275",
+    "provider": "阿里云DataV.GeoAtlas",
+    "geometry_modified": false
+  },
+  "map_features": 35,
+  "matched_provinces_each_stage": 31,
+  "bins": "negative, 0-25,25-50,50-100,>=100; identical for both stages",
+  "geography": "original rings retained; main map and South China Sea inset; unanalysed regions gray"
+}

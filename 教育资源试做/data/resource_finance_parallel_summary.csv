@@ -1,0 +1,13 @@
+﻿year,stage,province_changes,student_decrease_provinces,student_decrease_and_cpi_adjusted_spending_increase,student_decrease_and_nominal_spending_increase,student_decrease_and_teacher_increase,student_decrease_and_class_increase,limit
+2018,primary,31,4,2,2,2,2,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2019,primary,31,5,3,3,3,0,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2020,primary,31,4,2,4,3,0,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2021,primary,31,10,6,6,6,2,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2022,primary,31,17,11,14,8,1,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2023,primary,31,7,6,6,0,0,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2018,junior,31,2,2,2,2,2,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2019,junior,31,4,3,3,2,2,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2020,junior,31,11,8,10,8,5,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2021,junior,31,8,3,3,5,1,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2022,junior,31,8,5,5,3,1,direction co-occurrence across separately scoped series; not matched-school response or inefficiency
+2023,junior,31,7,4,4,3,0,direction co-occurrence across separately scoped series; not matched-school response or inefficiency

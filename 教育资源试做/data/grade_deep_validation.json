@@ -1,0 +1,68 @@
+{
+  "input_file": "full_grade_model_inputs.csv",
+  "input_sha256": "4584e3e3fde8739b8fbc5b0bd7ccda88ead00a7f0752d5b1e86d9976c204a029",
+  "heldout_fits": 180,
+  "heldout_prediction_rows": 10020,
+  "splits": [
+    0,
+    2
+  ],
+  "checks": [
+    "Training/held-out province-year keys disjoint in every fold",
+    "All province/year levels remain represented in training",
+    "All training designs full rank and normal equations checked",
+    "Each selected row predicted exactly once in each partition/model/outcome",
+    "Province allocation of in-sample SSE reductions reconciles"
+  ],
+  "limits": [
+    "Retrospective held-out outcomes with observed contemporaneous/lagged students, not future forecasting",
+    "Training can include later years and adjacent cohort-related inputs; fold observations are not independent",
+    "Two fixed partitions are sensitivity diagnostics, not confidence intervals or a hyperparameter search",
+    "Without Tibet is explicitly a diagnostic, not replacement of the main sample",
+    "Fit and error comparisons are conditional associations, not causal identification"
+  ],
+  "tibet_source_totals_checked": 36,
+  "tibet_source_checks": "12 years × primary students, teachers, classes; all local official-file values match panel.",
+  "representative_independent_solver_checks": {
+    "method": "QR solve; four full-grade heldout fits (two stages × two resources), reconstructed from input keys",
+    "checks": [
+      {
+        "stage": "primary",
+        "resource": "teachers",
+        "split": "block_offset_0",
+        "fold": 0,
+        "n": 62,
+        "max_prediction_difference": 3.197442310920451e-14,
+        "pass": true
+      },
+      {
+        "stage": "primary",
+        "resource": "classes",
+        "split": "block_offset_0",
+        "fold": 0,
+        "n": 62,
+        "max_prediction_difference": 1.3988810110276972e-14,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "teachers",
+        "split": "block_offset_0",
+        "fold": 0,
+        "n": 50,
+        "max_prediction_difference": 1.7763568394002505e-14,
+        "pass": true
+      },
+      {
+        "stage": "junior",
+        "resource": "classes",
+        "split": "block_offset_0",
+        "fold": 0,
+        "n": 50,
+        "max_prediction_difference": 1.0658141036401503e-14,
+        "pass": true
+      }
+    ]
+  },
+  "offline_report_sha256": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06"
+}

@@ -1,0 +1,3 @@
+﻿province,stage,prior_year,current_year,prior_original_final,current_original_final,computed_current_over_prior_final_pct,published_ratio_pct,difference_percentage_points,tolerance_percentage_points,status,boundary
+贵州,primary,2022,2023,3750238,3919844,104.5225396361510922773434646,104.5,0.0225396361510922773434646,0.05,pass,two original files match one-decimal published ratio; does not verify fiscal students or classify all education expenditure
+贵州,junior,2022,2023,2136362,2361334,110.5306123213200759047389909,110.5,0.0306123213200759047389909,0.05,pass,two original files match one-decimal published ratio; does not verify fiscal students or classify all education expenditure

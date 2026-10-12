@@ -1,0 +1,3784 @@
+[
+  {
+    "key": "region_index_2024",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/",
+    "status": "downloaded",
+    "bytes": 18774,
+    "sha256": "fca40143035f57e007a644e9d0408278bdd57cc414fe68eb9aea490f614e7606",
+    "path": "raw\\region_index_2024.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260318_1431278.html",
+        "label": "学前教育基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260318_1431277.html",
+        "label": "幼儿园教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260318_1431275.html",
+        "label": "学前教育专任教师分学历、分专业技术职务情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431427.html",
+        "label": "幼儿园校舍情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431423.html",
+        "label": "幼儿园资产情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431421.html",
+        "label": "小学校数、教学点数及班数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431418.html",
+        "label": "小学教育学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431416.html",
+        "label": "小学教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431413.html",
+        "label": "小学教育专任教师分学历、分专业技术职务情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431411.html",
+        "label": "小学学校校舍情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431407.html",
+        "label": "小学学校资产情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431405.html",
+        "label": "初中校数、班数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431404.html",
+        "label": "初中教育学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431402.html",
+        "label": "初中教育专任教师分学历、分专业技术职务情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431401.html",
+        "label": "初中学校校舍情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431399.html",
+        "label": "初中学校资产情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431398.html",
+        "label": "特殊教育基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431396.html",
+        "label": "特殊教育学校教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431394.html",
+        "label": "特殊教育专任教师分学历、分专业技术职务情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/202603/t20260319_1431393.html",
+        "label": "特殊教育学校校舍情况"
+      }
+    ]
+  },
+  {
+    "key": "national_index_2024",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/",
+    "status": "downloaded",
+    "bytes": 19002,
+    "sha256": "6f551aeb97e1dd24fb39c23c3330d0cec770f3c59178ccc0df3fe38a223ca3f7",
+    "path": "raw\\national_index_2024.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431434.html",
+        "label": "各级各类学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431433.html",
+        "label": "各级各类学历教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431432.html",
+        "label": "各级各类民办学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431431.html",
+        "label": "各级各类民办教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431430.html",
+        "label": "各级各类教育在校生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431429.html",
+        "label": "各级各类学校教职工情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431428.html",
+        "label": "各级各类教育专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431426.html",
+        "label": "幼儿园园数、班数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431420.html",
+        "label": "学前教育幼儿数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431419.html",
+        "label": "幼儿园教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431417.html",
+        "label": "学前教育专任教师分学历情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431415.html",
+        "label": "学前教育专任教师分专业技术职务、分年龄结构情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431412.html",
+        "label": "幼儿园校舍情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431408.html",
+        "label": "幼儿园资产情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431406.html",
+        "label": "小学校数、教学点数及班数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431403.html",
+        "label": "小学教育分举办者学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431400.html",
+        "label": "小学教育分类型学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431397.html",
+        "label": "小学学校教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431395.html",
+        "label": "小学教育专任教师分课程、分学历情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2024/quanguo/202603/t20260319_1431389.html",
+        "label": "小学教育专任教师分专业技术职务、分年龄结构情况"
+      }
+    ]
+  },
+  {
+    "key": "region_index_2023",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/",
+    "status": "downloaded",
+    "bytes": 19002,
+    "sha256": "50243c88c6ade043df03ab43952dc7fd3b1eb0f139a1443d27639ad0050c20f4",
+    "path": "raw\\region_index_2023.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176346.html",
+        "label": "学前教育基本情况（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176344.html",
+        "label": "幼儿园教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176343.html",
+        "label": "学前教育专任教师分学历、分专业技术职务情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176341.html",
+        "label": "幼儿园校舍情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176338.html",
+        "label": "幼儿园资产情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176337.html",
+        "label": "小学校数、教学点数及班数（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176334.html",
+        "label": "小学教育学生数（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176333.html",
+        "label": "小学学校教职工数（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176332.html",
+        "label": "小学教育专任教师分学历、分专业技术职务情况（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176331.html",
+        "label": "小学学校校舍情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176330.html",
+        "label": "小学学校资产情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176329.html",
+        "label": "初中校数、班数（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176328.html",
+        "label": "初中教育学生数（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176327.html",
+        "label": "初中教育专任教师分学历、分专业技术职务情况（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176325.html",
+        "label": "初中学校校舍情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176286.html",
+        "label": "初中学校资产情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176285.html",
+        "label": "特殊教育基本情况（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176284.html",
+        "label": "特殊教育学校教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176283.html",
+        "label": "特殊教育专任教师分学历、分专业技术职务情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/202501/t20250120_1176282.html",
+        "label": "特殊教育学校校舍情况"
+      }
+    ]
+  },
+  {
+    "key": "national_index_2023",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/",
+    "status": "downloaded",
+    "bytes": 19002,
+    "sha256": "01ced2059dbeb306bde1d31a78d3946e89258c7745b5928e4ed06ee3e99403d0",
+    "path": "raw\\national_index_2023.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176411.html",
+        "label": "各级各类学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176410.html",
+        "label": "各级各类学历教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176409.html",
+        "label": "各级各类民办学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176404.html",
+        "label": "各级各类民办教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176402.html",
+        "label": "各级各类教育在校生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176400.html",
+        "label": "各级各类学校教职工情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176399.html",
+        "label": "各级各类教育专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176396.html",
+        "label": "幼儿园园数、班数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176394.html",
+        "label": "学前教育幼儿数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176393.html",
+        "label": "幼儿园教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176392.html",
+        "label": "学前教育专任教师分学历情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176391.html",
+        "label": "学前教育专任教师分专业技术职务、分年龄结构情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176390.html",
+        "label": "幼儿园校舍情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176389.html",
+        "label": "幼儿园资产情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176388.html",
+        "label": "小学校数、教学点数及班数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176387.html",
+        "label": "小学教育分举办者学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176386.html",
+        "label": "小学教育分类型学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176385.html",
+        "label": "小学学校教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176384.html",
+        "label": "小学教育专任教师分课程、分学历情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176382.html",
+        "label": "小学教育专任教师分专业技术职务、分年龄结构情况"
+      }
+    ]
+  },
+  {
+    "key": "region_index_2022",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/",
+    "status": "downloaded",
+    "bytes": 19544,
+    "sha256": "362a2ef3c3d1207d5cb05fbfc5dc8e907fb9b9a38a0c838b89f3e3ee00e024a7",
+    "path": "raw\\region_index_2022.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240110_1099507.html",
+        "label": "高等教育学校(机构)数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240110_1099506.html",
+        "label": "高等学校(机构)研究生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240110_1099505.html",
+        "label": "普通高校研究生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240110_1099504.html",
+        "label": "科研机构研究生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240110_1099503.html",
+        "label": "高等教育普通本科学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240110_1099502.html",
+        "label": "高等教育职业本专科学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240110_1099501.html",
+        "label": "高等教育成人本专科学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240110_1099498.html",
+        "label": "高等教育网络本科、专科生学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100388.html",
+        "label": "高等教育学校(机构)教职工情况(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100387.html",
+        "label": "高等教育学校(机构)教职工情况(普通本科高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100384.html",
+        "label": "高等教育学校(机构)教职工情况(本科层次职业学校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100382.html",
+        "label": "高等教育学校(机构)教职工情况〔高职(专科)学校〕"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100381.html",
+        "label": "高等教育学校(机构)教职工情况(成人高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100380.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100378.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(普通高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100377.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(本科层次职业学校 )"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100376.html",
+        "label": "高等教育专任教师学历、专业技术职务情况〔高职(专科)学校〕"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100375.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(成人高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100373.html",
+        "label": "高等教育资产情况(学校产权)(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/202401/t20240115_1100372.html",
+        "label": "高等教育资产情况(学校产权)(普通高校)"
+      }
+    ]
+  },
+  {
+    "key": "national_index_2022",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/",
+    "status": "downloaded",
+    "bytes": 19222,
+    "sha256": "55ae597768179948f8455b6f7df72bf0c8953aa3b21a473719f95256facedb0d",
+    "path": "raw\\national_index_2022.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099540.html",
+        "label": "各级各类学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099539.html",
+        "label": "各级各类学历教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099538.html",
+        "label": "各级各类民办学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099536.html",
+        "label": "各级各类民办教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099535.html",
+        "label": "各级各类教育在校生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099534.html",
+        "label": "各级各类学校教职工情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099533.html",
+        "label": "各级各类教育专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099531.html",
+        "label": "高等教育学校(机构)数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099530.html",
+        "label": "高等教育学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099529.html",
+        "label": "高等教育分举办者研究生数(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099528.html",
+        "label": "高等教育分举办者研究生数(普通本科学校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099526.html",
+        "label": "高等教育分举办者研究生数(培养研究生的科研机构)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099524.html",
+        "label": "高等教育分学科门类研究生数(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099521.html",
+        "label": "高等教育分学科门类研究生数(普通本科学校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099520.html",
+        "label": "高等教育分学科门类研究生数(培养研究生的科研机构)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099518.html",
+        "label": "高等教育本专科分举办者学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099516.html",
+        "label": "普通、职业本专科分性质类别学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099513.html",
+        "label": "成人本专科分性质类别学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099511.html",
+        "label": "普通本科分学科门类学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2022/quanguo/202401/t20240110_1099509.html",
+        "label": "职业本科分专业大类学生数"
+      }
+    ]
+  },
+  {
+    "key": "region_index_2021",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/",
+    "status": "downloaded",
+    "bytes": 19530,
+    "sha256": "32567b6d94c6fef6002761267b3abf0529215e56f76953089af865731dee7e54",
+    "path": "raw\\region_index_2021.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202301/t20230117_1039557.html",
+        "label": "高等教育学校(机构)数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037373.html",
+        "label": "高等学校(机构)研究生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037372.html",
+        "label": "普通高校研究生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037370.html",
+        "label": "科研机构研究生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037369.html",
+        "label": "高等教育普通本科学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037368.html",
+        "label": "高等教育职业本专科学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037367.html",
+        "label": "高等教育成人本专科学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037366.html",
+        "label": "高等教育网络本科、专科生学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037363.html",
+        "label": "高等教育学校(机构)教职工情况(普通高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037364.html",
+        "label": "高等教育学校(机构)教职工情况(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037362.html",
+        "label": "高等教育学校(机构)教职工情况(本科层次职业高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037360.html",
+        "label": "高等教育学校(机构)教职工情况(专科层次职业高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037346.html",
+        "label": "高等教育学校(机构)教职工情况(成人高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037344.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(普通高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037345.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037343.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(本科层次职业高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037342.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(专科层次职业高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037341.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(成人高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037339.html",
+        "label": "高等教育资产情况(学校产权)(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/202212/t20221230_1037338.html",
+        "label": "高等教育资产情况(学校产权)(普通高校)"
+      }
+    ]
+  },
+  {
+    "key": "national_index_2021",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/",
+    "status": "downloaded",
+    "bytes": 19261,
+    "sha256": "1e616d76f2a74431a7b5a9f7d6da81edaa08ff09f53e4fe164a97fb339fb9f08",
+    "path": "raw\\national_index_2021.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038068.html",
+        "label": "各级各类学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038067.html",
+        "label": "各级各类学历教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038065.html",
+        "label": "各级各类民办学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038062.html",
+        "label": "各级各类民办教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038061.html",
+        "label": "各级各类教育在校生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038059.html",
+        "label": "各级各类学校教职工情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038057.html",
+        "label": "各级各类教育专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038056.html",
+        "label": "高等教育学校（机构）数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038055.html",
+        "label": "高等教育学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038054.html",
+        "label": "高等教育分举办者研究生数（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038053.html",
+        "label": "高等教育分举办者研究生数（普通本科学校）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230104_1038052.html",
+        "label": "高等教育分举办者研究生数（培养研究生的科研机构）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230103_1037980.html",
+        "label": "高等教育分学科门类研究生数（总计）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230103_1037979.html",
+        "label": "高等教育分学科门类研究生数（普通本科学校）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230103_1037977.html",
+        "label": "高等教育分学科门类研究生数（培养研究生的科研机构）"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230103_1037976.html",
+        "label": "高等教育本专科分举办者学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230103_1037972.html",
+        "label": "普通、职业本专科分性质类别学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230103_1037971.html",
+        "label": "成人本专科分性质类别学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230103_1037969.html",
+        "label": "普通本科分学科门类学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2021/quanguo/202301/t20230103_1037968.html",
+        "label": "职业本科分专业大类学生数"
+      }
+    ]
+  },
+  {
+    "key": "region_index_2020",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/",
+    "status": "downloaded",
+    "bytes": 19270,
+    "sha256": "fcb7d036105484bfc42e6262b5a1a6c3f78a859ebbd3efde209db151aca2c4ad",
+    "path": "raw\\region_index_2020.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202108/t20210831_556506.html",
+        "label": "高等教育学校(机构)数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202108/t20210831_556504.html",
+        "label": "高等学校(机构)研究生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202108/t20210831_556500.html",
+        "label": "普通高校研究生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202108/t20210831_556497.html",
+        "label": "科研机构研究生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202108/t20210831_556496.html",
+        "label": "高等教育普通本专科学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202108/t20210831_556493.html",
+        "label": "高等教育成人本专科学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202108/t20210831_556492.html",
+        "label": "高等教育网络本科、专科生学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558626.html",
+        "label": "高等教育学校(机构)教职工情况(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558623.html",
+        "label": "高等教育学校(机构)教职工情况(普通高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558622.html",
+        "label": "高等教育学校(机构)教职工情况(成人高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558621.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558619.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(普通高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558614.html",
+        "label": "高等教育专任教师学历、专业技术职务情况(成人高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558612.html",
+        "label": "高等教育资产情况(学校产权)(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558604.html",
+        "label": "高等教育资产情况(非学校产权中独立使用)(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558600.html",
+        "label": "高等教育校舍情况(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558599.html",
+        "label": "普通高中校数、班数(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210903_558595.html",
+        "label": "普通高中学生数(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210902_558037.html",
+        "label": "普通中学教职工数(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/202109/t20210902_557986.html",
+        "label": "普通高中专任教师学历、专业技术职务情况(总计)"
+      }
+    ]
+  },
+  {
+    "key": "national_index_2020",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/",
+    "status": "downloaded",
+    "bytes": 18964,
+    "sha256": "7263e4f13bb9cfba91a8d5c0bb6e745ace464ebc5dbb9c7fa26a6dd7efae3bfb",
+    "path": "raw\\national_index_2020.html",
+    "links": [
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/",
+        "label": "全国基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/gedi/",
+        "label": "各地基本情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556365.html",
+        "label": "各级各类学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556364.html",
+        "label": "各级各类学历教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556363.html",
+        "label": "各级各类民办学校校数、教职工、专任教师情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556361.html",
+        "label": "各级各类民办教育学生情况"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556360.html",
+        "label": "各级各类学校女学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556359.html",
+        "label": "各级各类学校女教师、女教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556358.html",
+        "label": "各级各类学校少数民族学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556357.html",
+        "label": "各级各类学校少数民族教师、教职工数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556356.html",
+        "label": "高中阶段学生数的构成"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556355.html",
+        "label": "小学学龄儿童净入学率"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556354.html",
+        "label": "各级普通学校毕业生升学率"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556353.html",
+        "label": "高等教育学校(机构)数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556352.html",
+        "label": "高等教育学校(机构)学生数"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556350.html",
+        "label": "分举办者研究生数(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556348.html",
+        "label": "分举办者研究生数(普通高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556347.html",
+        "label": "分举办者研究生数(科研机构)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556345.html",
+        "label": "分学科研究生数(总计)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556343.html",
+        "label": "分学科研究生数(普通高校)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556342.html",
+        "label": "分学科研究生数(科研机构)"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/2020/quanguo/202108/t20210831_556341.html",
+        "label": "普通、成人本专科分举办者学生数"
+      }
+    ]
+  },
+  {
+    "key": "region_index_2019",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2019",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2019/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "region_index_2018",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2018",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2018/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "region_index_2017",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2017",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2017/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "region_index_2016",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2016",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2016/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "region_index_2015",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2015",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2015/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "region_index_2014",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2014",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/jytjsj_2014/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "region_index_2013",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2013",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s8492/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "region_index_2012",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s7567/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2012",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s7567/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "region_index_2011",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s7382/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2011",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s7382/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "region_index_2010",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s6200/gedi/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "national_index_2010",
+    "url": "https://hudong.moe.gov.cn/jyb_sjzl/moe_560/s6200/quanguo/",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "key": "finance_2024",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202512/t20251231_1426092.html",
+    "status": "downloaded",
+    "bytes": 15515,
+    "sha256": "f4d42b2ab871d814abf4260e7eaffb3a4efbb0bb5318fce0746ea3fa074a5db0",
+    "path": "raw\\finance_2024.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202512/W020260109376441821920.doc",
+        "label": "2024年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2023",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202412/t20241219_1167656.html",
+    "status": "downloaded",
+    "bytes": 17594,
+    "sha256": "3e1ebc94c6dad4b91e37802b5ffc4636dd2f14163f5c958f91c02600da3c17df",
+    "path": "raw\\finance_2023.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202412/W020241219534507885354.doc",
+        "label": "2023年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2022",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202312/t20231202_1092896.html",
+    "status": "downloaded",
+    "bytes": 19236,
+    "sha256": "eec24d1a4d7764ecdbba038fb28d1386941254eff280447a5ac1fcaab2a4d710",
+    "path": "raw\\finance_2022.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202312/W020231202697965147292.doc",
+        "label": "2022年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202312/t20231202_1092912.html",
+        "label": "2022年全国教育经费执行情况统计公告发布"
+      }
+    ]
+  },
+  {
+    "key": "finance_2021",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202212/t20221230_1037263.html",
+    "status": "downloaded",
+    "bytes": 17992,
+    "sha256": "a05132598aba99948b9b2ea7092161aeaaf373785206d141dc2fa0a5a5293e4c",
+    "path": "raw\\finance_2021.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202212/W020221230530014152191.doc",
+        "label": "2021年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2020",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202111/t20211130_583343.html",
+    "status": "downloaded",
+    "bytes": 19034,
+    "sha256": "1f72ba3b56b2b771b4429d0148da2d8b5ad097faad63da66225fe46333f7eecf",
+    "path": "raw\\finance_2020.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202111/W020211130306990511931.doc",
+        "label": "2020年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202111/t20211130_583350.html",
+        "label": "2020年全国教育经费执行情况统计公告发布"
+      }
+    ]
+  },
+  {
+    "key": "finance_2019",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202011/t20201103_497961.html",
+    "status": "downloaded",
+    "bytes": 18235,
+    "sha256": "4580d66b651cb53c8d0afdf5d018934209b60b991f508dc6b07fec666a8a4d76",
+    "path": "raw\\finance_2019.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/202011/W020201103494294215521.doc",
+        "label": "2019年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2018",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201910/t20191016_403859.html",
+    "status": "downloaded",
+    "bytes": 18585,
+    "sha256": "c3c2201bf53dc7cd7274f9420bbf07be0682326ca7ac2851c30bbc48665c204e",
+    "path": "raw\\finance_2018.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201910/W020191016591346875438.doc",
+        "label": "2018年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2017",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201810/t20181012_351301.html",
+    "status": "downloaded",
+    "bytes": 17539,
+    "sha256": "6bddf7af195561a71d96a630c323cda8f75f12c0c4c70dd0fab68f939ab1e846",
+    "path": "raw\\finance_2017.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201810/W020181012594998889329.doc",
+        "label": "2017年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/201810/t20181015_351535.html",
+        "label": "2017年全国教育经费执行情况统计公告发布"
+      }
+    ]
+  },
+  {
+    "key": "finance_2016",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201710/t20171025_317429.html",
+    "status": "downloaded",
+    "bytes": 16573,
+    "sha256": "60158c3ae3bbee956cdd4acd7524e89a6f06b8565522161e9e9df8a3d48ad8a4",
+    "path": "raw\\finance_2016.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201710/W020171025362950481325.doc",
+        "label": "2016年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2015",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201611/t20161110_288422.html",
+    "status": "downloaded",
+    "bytes": 17807,
+    "sha256": "412c536750d9a8c9bea63778819db3d0b5df2c8696fda1469a519c913033fc00",
+    "path": "raw\\finance_2015.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201611/W020161110551318226819.docx",
+        "label": "2015年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2014",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201510/t20151013_213129.html",
+    "status": "downloaded",
+    "bytes": 16850,
+    "sha256": "bd51d2453b6cc6ebe073c2759034e58672b9363fcec7a448bbd17b47d7cee896",
+    "path": "raw\\finance_2014.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201510/W020151013581756535448.doc",
+        "label": "2014年全国教育经费执行情况统计表"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2013",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201410/t20141031_178035.html",
+    "status": "downloaded",
+    "bytes": 16606,
+    "sha256": "2b98eb4568494352cf52102bc5102e44b2ed5acfc89c489a0751dddea12855fd",
+    "path": "raw\\finance_2013.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/ewebeditor/uploadfile/2014/11/06/20141106173444303.doc",
+        "label": "2013年全国教育经费执行情况统计表.doc"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2012",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201312/t20131227_161346.html",
+    "status": "downloaded",
+    "bytes": 16865,
+    "sha256": "45678c95e0bb0ade585c47c070a1b2b786ea7b7564d30e565ebd3e020ff7a590",
+    "path": "raw\\finance_2012.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/ewebeditor/uploadfile/2013/12/27/20131227144815833.doc",
+        "label": "2012年全国教育经费执行情况统计表.doc"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2011",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201212/t20121231_146315.html",
+    "status": "downloaded",
+    "bytes": 17413,
+    "sha256": "29075a3ade1f41bdad99013f49d85ea209c81d3cea7871a6c87e2ad1ef598666",
+    "path": "raw\\finance_2011.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/ewebeditor/uploadfile/2012/12/31/20121231100846698.doc",
+        "label": "2011年全国教育经费执行情况统计表.doc"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_2010",
+    "url": "https://hudong.moe.gov.cn/srcsite/A05/s3040/201112/t20111223_128871.html",
+    "status": "downloaded",
+    "bytes": 17350,
+    "sha256": "f821288df0512d5ce744dff03beac9945e3908db874e526f7ccc3247e6b93855",
+    "path": "raw\\finance_2010.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/ewebeditor/uploadfile/2011/12/30/20111230162849420.doc",
+        "label": "2010年全国教育经费执行情况统计表.doc"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  }
+]

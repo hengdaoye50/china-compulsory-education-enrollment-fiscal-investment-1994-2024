@@ -1,0 +1,20 @@
+[
+  {
+    "key": "finance_denominator_yantai_form_a",
+    "url": "https://www.yantai.gov.cn/cms_files/jcms1/web1/site/attach/0/e6d91b3009754ad7841c49de1569fd18.pdf",
+    "status": "downloaded",
+    "bytes": 156003,
+    "sha256": "7487a722f36d57d8f4ea56d2c504e9154b968f30136c65372b6baa0e7a9ab15a",
+    "path": "raw\\finance_denominator_yantai_form_a.pdf",
+    "links": []
+  },
+  {
+    "key": "finance_denominator_yantai_form_b",
+    "url": "https://www.yantai.gov.cn/cms_files/jcms1/web1/site/attach/0/df5d4fd1c99d49eb86be6c3f030ae6cf.pdf",
+    "status": "downloaded",
+    "bytes": 191482,
+    "sha256": "fc3e65de2f3842cfd48b723b93b3ae49dbd6cbb4479411061881e712b171933a",
+    "path": "raw\\finance_denominator_yantai_form_b.pdf",
+    "links": []
+  }
+]

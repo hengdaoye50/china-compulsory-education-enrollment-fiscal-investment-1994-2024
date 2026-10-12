@@ -1,0 +1,179 @@
+[
+  {
+    "key": "finance_denominator_moe_2020_notice",
+    "url": "https://hudong.moe.gov.cn/srcsite/A03/s182/202101/t20210113_509619.html",
+    "status": "downloaded",
+    "bytes": 14273,
+    "sha256": "e679602e3a680a4d35b7284154a6e3a1bcc4da4b492bc53bd7fdc93bd1c2bd9f",
+    "path": "raw\\finance_denominator_moe_2020_notice.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://hudong.moe.gov.cn/srcsite/A03/s182/202101/W020210113546624017867.docx",
+        "label": "《中国教育监测与评价统计指标体系（2020年版）》"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      }
+    ]
+  },
+  {
+    "key": "finance_denominator_zhejiang_2023_xlsx",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/c773623/part/816178.xlsx",
+    "status": "downloaded",
+    "bytes": 53823,
+    "sha256": "ed392446c4c79b42ad805a8f545d4bd060d613d25614d695788b414847d28929",
+    "path": "raw\\finance_denominator_zhejiang_2023_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "finance_denominator_shucheng_2023",
+    "url": "https://www.shucheng.gov.cn/public/6626413/37309387.html",
+    "status": "failed",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

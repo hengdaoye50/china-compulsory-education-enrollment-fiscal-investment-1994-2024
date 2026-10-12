@@ -1,0 +1,29 @@
+﻿province,year,stage,metric,field,local_value,national_value,difference,status,source,locator
+安徽,2023,primary,budget_per_student,value,11773.83,11773.83,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表二!D5; A1/D3/F3/D4/F4
+安徽,2023,primary,budget_per_student,published_growth_pct,3.16,3.16,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表二!D5; A1/D3/F3/D4/F4
+安徽,2023,junior,budget_per_student,value,18103.25,18103.25,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表二!F5; A1/D3/F3/D4/F4
+安徽,2023,junior,budget_per_student,published_growth_pct,2.02,2.02,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表二!F5; A1/D3/F3/D4/F4
+安徽,2023,primary,career_per_student,value,11656.37,11656.37,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表三!D5; A1/D3/F3/D4/F4
+安徽,2023,primary,career_per_student,published_growth_pct,3.03,3.03,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表三!D5; A1/D3/F3/D4/F4
+安徽,2023,junior,career_per_student,value,17598.94,17598.94,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表三!F5; A1/D3/F3/D4/F4
+安徽,2023,junior,career_per_student,published_growth_pct,2.12,2.12,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表三!F5; A1/D3/F3/D4/F4
+安徽,2023,primary,public_per_student,value,3322.64,3322.64,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表四!D5; A1/D3/F3/D4/F4
+安徽,2023,primary,public_per_student,published_growth_pct,2.7,2.7,0.0,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表四!D5; A1/D3/F3/D4/F4
+安徽,2023,junior,public_per_student,value,5356.21,5356.21,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表四!F5; A1/D3/F3/D4/F4
+安徽,2023,junior,public_per_student,published_growth_pct,4.19,4.19,0.00,pass,https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx,表四!F5; A1/D3/F3/D4/F4
+广东,2022,primary,budget_per_student,value,14942.65,14942.65,0.00,pass,https://edu.gd.gov.cn/attachment/0/539/539530/4324695.xlsx,表二!H5; F3/H3; reverse stage order
+广东,2022,primary,budget_per_student,published_growth_pct,0.26,0.26,0.00,pass,https://edu.gd.gov.cn/attachment/0/539/539530/4324695.xlsx,表二!H5; F3/H3; reverse stage order
+广东,2022,junior,budget_per_student,value,21955.12,21955.12,0.00,pass,https://edu.gd.gov.cn/attachment/0/539/539530/4324695.xlsx,表二!F5; F3/H3; reverse stage order
+广东,2022,junior,budget_per_student,published_growth_pct,-0.84,-0.84,0.00,pass,https://edu.gd.gov.cn/attachment/0/539/539530/4324695.xlsx,表二!F5; F3/H3; reverse stage order
+宁夏,2023,primary,budget_per_student,value,12830.95,12830.95,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356208922981.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,primary,budget_per_student,published_growth_pct,3.13,3.13,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356208922981.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,junior,budget_per_student,value,17175.88,17175.88,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356208922981.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,junior,budget_per_student,published_growth_pct,2.68,2.68,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356208922981.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,primary,career_per_student,value,12474.90,12474.9,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209013303.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,primary,career_per_student,published_growth_pct,-0.75,-0.75,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209013303.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,junior,career_per_student,value,16700.08,16700.08,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209013303.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,junior,career_per_student,published_growth_pct,-0.43,-0.43,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209013303.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,primary,public_per_student,value,4150.58,4150.58,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209092264.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,primary,public_per_student,published_growth_pct,3.89,3.89,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209092264.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,junior,public_per_student,value,5833.01,5833.01,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209092264.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学
+宁夏,2023,junior,public_per_student,published_growth_pct,5.54,5.54,0.00,pass,https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209092264.pdf,physical page 1; 宁夏回族自治区 row; 普通初中 precedes 普通小学

@@ -1,0 +1,18 @@
+{
+  "provinces_with_extracted_counts": 3,
+  "provinces_with_editor_note_reviewed": 2,
+  "provinces_with_editor_note_pending": 1,
+  "province_age_rows": 60,
+  "population_count_cells": 180,
+  "arithmetic_checks": 165,
+  "arithmetic_checks_passed": true,
+  "source_records": 27,
+  "coverage_inventory_provinces": 31,
+  "not_investigated": 21,
+  "archived_pdf_unusable": true,
+  "annual_population_panel_completed": false,
+  "population_to_enrollment_division": false,
+  "figures_created_or_updated": false,
+  "protected_files_unchanged": true,
+  "limit": "selected source coverage, not a representative province sample; Yunnan editor exclusions pending"
+}

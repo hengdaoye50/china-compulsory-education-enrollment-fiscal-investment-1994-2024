@@ -1,0 +1,17 @@
+{
+  "figures": 7,
+  "report_order": [
+    "图F3_商品服务与工资响应差",
+    "图F1_支出内部构成",
+    "图F2_公用增长贡献",
+    "图F4_支出细项响应",
+    "图F7_时期分段响应",
+    "图F5_自身收入与补助合计变化",
+    "图F6_中央补助关联"
+  ],
+  "dpi": 600,
+  "white_background": true,
+  "raw_cell_checks": 4216,
+  "independent_checks": 130,
+  "period_checks_post_chart_adaptive": true
+}

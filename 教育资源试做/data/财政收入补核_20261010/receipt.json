@@ -1,0 +1,15 @@
+{
+  "checked": 126,
+  "new_accepted": 97,
+  "total_selected": 759,
+  "statuses": {
+    "accepted_numeric": 617,
+    "pending": 117,
+    "no_extracted_final_account_candidate": 52,
+    "inapplicable_pre_1997_province": 2,
+    "accepted_numeric_repeated_table_consensus": 19,
+    "accepted_wrapped_column_numeric_only": 97,
+    "accepted_numeric_final_account_variant": 26
+  },
+  "baseline_sha256": "eb5fac9e310e3a0ee7261ca7c3318af36bfbd1863eb4d4cbf343034188448339"
+}

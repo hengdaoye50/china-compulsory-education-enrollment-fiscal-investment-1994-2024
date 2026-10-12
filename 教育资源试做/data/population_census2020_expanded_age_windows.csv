@@ -1,0 +1,25 @@
+﻿province,year,age_window,age_count,total,male,female,interpretation,note_status
+福建,2020,0-4,5,2549344,1380757,1168587,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+福建,2020,5-9,5,2993870,1627920,1365950,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+福建,2020,10-14,5,2482011,1342664,1139347,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+福建,2020,15-19,5,2012096,1081131,930965,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+福建,2020,6-11,6,3406024,1850714,1555310,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+福建,2020,12-14,3,1459757,787501,672256,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+福建,2020,6-10,5,2883388,1567086,1316302,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+福建,2020,11-14,4,1982393,1071129,911264,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+吉林,2020,0-4,5,769139,396542,372597,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+吉林,2020,5-9,5,960287,498408,461879,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+吉林,2020,10-14,5,1089297,567346,521951,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+吉林,2020,15-19,5,1056911,546207,510704,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+吉林,2020,6-11,6,1220491,634370,586121,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+吉林,2020,12-14,3,674239,351513,322726,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+吉林,2020,6-10,5,1009336,524261,485075,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+吉林,2020,11-14,4,885394,461622,423772,"observed age window; not enrollment, certified education demand, or annual series",yearbook editor note reviewed
+云南,2020,0-4,5,3065565,1593732,1471833,"observed age window; not enrollment, certified education demand, or annual series",official bulletin note reviewed; yearbook editor note pending
+云南,2020,5-9,5,3101137,1616275,1484862,"observed age window; not enrollment, certified education demand, or annual series",official bulletin note reviewed; yearbook editor note pending
+云南,2020,10-14,5,3070772,1609766,1461006,"observed age window; not enrollment, certified education demand, or annual series",official bulletin note reviewed; yearbook editor note pending
+云南,2020,15-19,5,2992872,1562570,1430302,"observed age window; not enrollment, certified education demand, or annual series",official bulletin note reviewed; yearbook editor note pending
+云南,2020,6-11,6,3798088,1981318,1816770,"observed age window; not enrollment, certified education demand, or annual series",official bulletin note reviewed; yearbook editor note pending
+云南,2020,12-14,3,1816896,954055,862841,"observed age window; not enrollment, certified education demand, or annual series",official bulletin note reviewed; yearbook editor note pending
+云南,2020,6-10,5,3156236,1645508,1510728,"observed age window; not enrollment, certified education demand, or annual series",official bulletin note reviewed; yearbook editor note pending
+云南,2020,11-14,4,2458748,1289865,1168883,"observed age window; not enrollment, certified education demand, or annual series",official bulletin note reviewed; yearbook editor note pending

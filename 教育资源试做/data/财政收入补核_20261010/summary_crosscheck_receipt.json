@@ -1,0 +1,22 @@
+{
+  "summary_tables": 28,
+  "summary_province_rows": 867,
+  "new_accepted": 94,
+  "total_selected": 853,
+  "summary_statuses": {
+    "unit_missing": 30,
+    "retained_comparison": 34,
+    "confirms_existing_selected": 709,
+    "new_numeric_approval": 94
+  },
+  "panel_statuses": {
+    "accepted_numeric": 617,
+    "pending": 53,
+    "no_extracted_final_account_candidate": 22,
+    "inapplicable_pre_1997_province": 2,
+    "accepted_annual_summary_crosscheck": 94,
+    "accepted_numeric_repeated_table_consensus": 19,
+    "accepted_wrapped_column_numeric_only": 97,
+    "accepted_numeric_final_account_variant": 26
+  }
+}

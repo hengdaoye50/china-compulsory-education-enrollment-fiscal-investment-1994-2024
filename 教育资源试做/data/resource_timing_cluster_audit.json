@@ -1,0 +1,143 @@
+{
+  "date": "2026-10-08",
+  "round": 30,
+  "model_count": 16,
+  "coefficient_rows": 32,
+  "contrast_rows": 16,
+  "joint_test_rows": 16,
+  "covariance": "province CR1; full dummy rank used in finite sample correction",
+  "reference_distribution": "two-sided Student t(G-1); joint Wald F(2,G-1), approximate cluster inference",
+  "main_families": "8 slope nulls; separately 4 lag-current contrasts and 4 joint tests; Holm per family",
+  "sensitivity": "all 3 existing sensitivity windows shown; no selected specification promotion",
+  "exploratory": true,
+  "preregistered": false,
+  "within_cluster_dependence_allowed": true,
+  "cross_province_independence_assumed": true,
+  "causal_identification": false,
+  "numerical_distribution_checks": [
+    {
+      "df": 1,
+      "t": 0.0,
+      "p": 0.9999999999999997,
+      "quadrature_difference": 0.0
+    },
+    {
+      "df": 1,
+      "t": 0.5,
+      "p": 0.7048327646991331,
+      "quadrature_difference": 0.0
+    },
+    {
+      "df": 1,
+      "t": 2.0,
+      "p": 0.29516723530086647,
+      "quadrature_difference": 0.0
+    },
+    {
+      "df": 1,
+      "t": 5.0,
+      "p": 0.12566591637800228,
+      "quadrature_difference": 0.0
+    },
+    {
+      "df": 1,
+      "t": 20.0,
+      "p": 0.031804502512352714,
+      "quadrature_difference": 0.0
+    },
+    {
+      "df": 2,
+      "t": 0.0,
+      "p": 1.0,
+      "quadrature_difference": 1.3322676295501878e-15
+    },
+    {
+      "df": 2,
+      "t": 0.5,
+      "p": 0.6666666666666667,
+      "quadrature_difference": 7.771561172376096e-16
+    },
+    {
+      "df": 2,
+      "t": 2.0,
+      "p": 0.183503419072274,
+      "quadrature_difference": 5.551115123125783e-17
+    },
+    {
+      "df": 2,
+      "t": 5.0,
+      "p": 0.03774955135062372,
+      "quadrature_difference": 0.0
+    },
+    {
+      "df": 2,
+      "t": 20.0,
+      "p": 0.0024906638923670957,
+      "quadrature_difference": 0.0
+    },
+    {
+      "df": 30,
+      "t": 0.0,
+      "p": 0.9999999999999913,
+      "quadrature_difference": 8.659739592076221e-15
+    },
+    {
+      "df": 30,
+      "t": 0.5,
+      "p": 0.6207230048851206,
+      "quadrature_difference": 1.765254609153999e-14
+    },
+    {
+      "df": 30,
+      "t": 2.0,
+      "p": 0.05462504496298233,
+      "quadrature_difference": 2.9004576518332215e-15
+    },
+    {
+      "df": 30,
+      "t": 5.0,
+      "p": 2.329668546700736e-05,
+      "quadrature_difference": 1.883801274693564e-18
+    },
+    {
+      "df": 30,
+      "t": 20.0,
+      "p": 6.749083665771197e-19,
+      "quadrature_difference": 6.750384455077262e-32
+    }
+  ],
+  "numerical_t30_critical": 2.042272456301231,
+  "max_coefficient_difference": 2.55351295663786e-15,
+  "max_covariance_difference": 2.0122792321330962e-16,
+  "protected_files": [
+    {
+      "path": "data/finance_long.csv",
+      "sha256": "4b07e6dd9c6812652fa2de5a4fdac8331e15f0f69843f128fd8c741ae976e6b2",
+      "unchanged": true
+    },
+    {
+      "path": "data/education_resource_panel.csv",
+      "sha256": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f",
+      "unchanged": true
+    },
+    {
+      "path": "data/panel.json",
+      "sha256": "4f2ad2013d233f3f54d4f8c576d78c7e476875d1e2b1e11fd0133ebe310e7f02",
+      "unchanged": true
+    },
+    {
+      "path": "教育资源试做.html",
+      "sha256": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06",
+      "unchanged": true
+    }
+  ],
+  "input_hashes": {
+    "education_resource_panel.csv": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f",
+    "resource_timing_models.csv": "1e851f208506853241ba3e6f2da4bca7b727f13d8a13ee4ffa99b067c8362364"
+  },
+  "method_sources": [
+    "https://www.statsmodels.org/stable/generated/statsmodels.stats.sandwich_covariance.cov_cluster.html",
+    "https://www.statsmodels.org/v0.14.0/_modules/statsmodels/regression/linear_model.html",
+    "https://www.itl.nist.gov/div898/handbook/eda/section3/eda3664.htm"
+  ]
+}

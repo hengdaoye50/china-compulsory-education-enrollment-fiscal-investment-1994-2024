@@ -1,0 +1,38 @@
+{
+  "inputs": {
+    "教育资源试做\\data\\小学探索分析_20261010\\primary_annual_changes.csv": "3875fba6ca258c02aa139eba08456f08703e68cedb6dc3269703b510493710eb",
+    "教育资源试做\\data\\初中探索分析_20261010\\junior_annual_changes.csv": "7ac8dde3d6d7497cf32a7464fe1d15a6b809968a3e6921ac4e5cdfd78a1a314b"
+  },
+  "checks": [
+    {
+      "check": "primary_direct_contrast_identity",
+      "passed": true
+    },
+    {
+      "check": "primary_FWL_partial_slope",
+      "passed": true
+    },
+    {
+      "check": "junior_direct_contrast_identity",
+      "passed": true
+    },
+    {
+      "check": "junior_FWL_partial_slope",
+      "passed": true
+    },
+    {
+      "check": "source_input_hashes_unchanged",
+      "passed": true
+    }
+  ],
+  "versions": {
+    "python": "3.12.14 (main, Aug 25 2026, 14:01:42) [MSC v.1944 64 bit (AMD64)]",
+    "numpy": "2.5.3",
+    "pandas": "3.0.1",
+    "matplotlib": "3.11.2"
+  },
+  "main_family": 4,
+  "bootstrap_draws": 9999,
+  "scope": "exploratory conditional association; full-affiliation all-source expense; student scope not certified",
+  "no_causal_claim": true
+}

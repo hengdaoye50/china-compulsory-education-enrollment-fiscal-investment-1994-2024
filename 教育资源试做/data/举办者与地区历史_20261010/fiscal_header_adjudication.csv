@@ -1,0 +1,5 @@
+﻿year,stage,organizer,source_id,source_row,original_header,mapped_metric,nonoverlapping_component_columns,total_minus_observed_components,original_blank_components,basis
+2018,junior,enterprise,de326487ca8e607e7ee1f4ae,24,国家教财政育性经费,broad_fiscal_total_C_column,D;K;M;N;O,0.0,2,source-internal components and national organizer reconciliation; publisher wording not corrected
+2018,primary,enterprise,de326487ca8e607e7ee1f4ae,28,国家教财政育性经费,broad_fiscal_total_C_column,D;K;M;N;O,-1.0,2,source-internal components and national organizer reconciliation; publisher wording not corrected
+2019,junior,private,45ef8957b895d1bc270294fc,24,性国教家育财经政费,broad_fiscal_total_C_column,D;K;M;N;O,0.0,3,source-internal components and national organizer reconciliation; publisher wording not corrected
+2019,primary,private,45ef8957b895d1bc270294fc,28,性国教家育财经政费,broad_fiscal_total_C_column,D;K;M;N;O,0.0,3,source-internal components and national organizer reconciliation; publisher wording not corrected

@@ -1,0 +1,631 @@
+[
+  {
+    "key": "province_finance_r21_anhui_2023_cee",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/c773678/content.html",
+    "status": "downloaded",
+    "bytes": 45987,
+    "sha256": "cfed8709913511a8733bd52ebe1fb5546874235d7c06a5585943e8cbc2e19cf7",
+    "path": "raw\\province_finance_r21_anhui_2023_cee.html",
+    "links": [
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=教育经费统计",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=学生补助",
+        "label": "学生补助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=政策",
+        "label": "政策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=审计整改",
+        "label": "审计整改"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n151/index.html",
+        "label": "要 闻"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/index.html",
+        "label": "动 态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n193/index.html",
+        "label": "媒体聚焦"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n198/index.html",
+        "label": "战线联播"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n188/index.html",
+        "label": "工作动态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/index.html",
+        "label": "政 策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n245/index.html",
+        "label": "政策法规"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n250/index.html",
+        "label": "政策解读"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n255/index.html",
+        "label": "政策图解"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/index.html",
+        "label": "服 务"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n439/index.html",
+        "label": "科目指南"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n444/index.html",
+        "label": "常用标准"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://dcwj.cee.edu.cn/#/user/login",
+        "label": "在线问卷"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/index.html",
+        "label": "专 题"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7131/index.html",
+        "label": "教育投入"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7308/index.html",
+        "label": "乡村振兴"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6204/index.html",
+        "label": "预算绩效管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n549/index.html",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6956/index.html",
+        "label": "科研管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n559/index.html",
+        "label": "学生资助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n564/index.html",
+        "label": "教育转移支付"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n554/index.html",
+        "label": "审计与财会监督"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n544/index.html",
+        "label": "资产管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7081/index.html",
+        "label": "教师队伍建设与保障"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n472/index.html",
+        "label": "全国教育事业发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n477/index.html",
+        "label": "教育统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58301/index.html",
+        "label": "国民经济和社会发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58308/index.html",
+        "label": "全国经济普查公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58313/index.html",
+        "label": "全国科技经费投入统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58318/index.html",
+        "label": "财政收支数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n182931/index.html",
+        "label": "全国政府采购简要情况"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n520/index.html",
+        "label": "全国教育经费执行情况统计快报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n515/index.html",
+        "label": "全国教育经费执行情况统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://zxpx.cee.edu.cn/",
+        "label": "在线学习"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html#jyjf",
+        "label": "教育经费统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/index.html",
+        "label": "地方教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://jyt.ah.gov.cn/public/7071/40737502.html",
+        "label": "https://jyt.ah.gov.cn/public/7071/40737502.html"
+      },
+      {
+        "url": "https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx",
+        "label": "附件："
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c773678/part/773684.xlsx",
+        "label": "附件：2023年安徽省教育经费执行情况统计表.xlsx"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/index.htm",
+        "label": "财政部"
+      },
+      {
+        "url": "https://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "https://fsac.cee.edu.cn/",
+        "label": "经费监管中心"
+      },
+      {
+        "url": "https://www.xszz.edu.cn/",
+        "label": "全国学生资助管理中心"
+      },
+      {
+        "url": "http://www.zfcg.edu.cn/",
+        "label": "教育部政府采购网"
+      },
+      {
+        "url": "https://zjk.cee.edu.cn/",
+        "label": "中国教育会计学会"
+      },
+      {
+        "url": "https://jysj.cee.edu.cn/",
+        "label": "中国教育审计学会"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备2024044276号-2"
+      }
+    ]
+  },
+  {
+    "key": "province_finance_r21_guangdong_2022",
+    "url": "https://edu.gd.gov.cn/gkmlpt/content/4/4324/post_4324695.html",
+    "status": "downloaded",
+    "bytes": 43459,
+    "sha256": "bee85025c51b369bf3ab8554b47aa9217bd0ff7dcec41eada17e50e4bc7b4681",
+    "path": "raw\\province_finance_r21_guangdong_2022.html",
+    "links": [
+      {
+        "url": "https://edu.gd.gov.cn",
+        "label": "广东省教育厅"
+      },
+      {
+        "url": "https://edu.gd.gov.cn/attachment/0/539/539530/4324695.xlsx",
+        "label": "2022年全省教育经费执行情况统计表.xlsx"
+      },
+      {
+        "url": "https://beian.mps.gov.cn/#/query/webSearch?code=44010402001374",
+        "label": "粤公网安备44010402001374号"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "粤ICP备09132871号"
+      }
+    ]
+  },
+  {
+    "key": "province_finance_r21_guangdong_2022_cee",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/c773572/content.html",
+    "status": "downloaded",
+    "bytes": 38636,
+    "sha256": "4303625e2d7041591f4661901c0ccedfc9ff20f83ff6a9880d3ef29a2ef4f438",
+    "path": "raw\\province_finance_r21_guangdong_2022_cee.html",
+    "links": [
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=教育经费统计",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=学生补助",
+        "label": "学生补助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=政策",
+        "label": "政策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/searchweb/?fullText=审计整改",
+        "label": "审计整改"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n151/index.html",
+        "label": "要 闻"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/index.html",
+        "label": "动 态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n193/index.html",
+        "label": "媒体聚焦"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n198/index.html",
+        "label": "战线联播"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n156/n188/index.html",
+        "label": "工作动态"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/index.html",
+        "label": "政 策"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n245/index.html",
+        "label": "政策法规"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n250/index.html",
+        "label": "政策解读"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n161/n255/index.html",
+        "label": "政策图解"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/index.html",
+        "label": "服 务"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n439/index.html",
+        "label": "科目指南"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n166/n444/index.html",
+        "label": "常用标准"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://dcwj.cee.edu.cn/#/user/login",
+        "label": "在线问卷"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/index.html",
+        "label": "专 题"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7131/index.html",
+        "label": "教育投入"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7308/index.html",
+        "label": "乡村振兴"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6204/index.html",
+        "label": "预算绩效管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n549/index.html",
+        "label": "教育经费统计"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n6956/index.html",
+        "label": "科研管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n559/index.html",
+        "label": "学生资助"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n564/index.html",
+        "label": "教育转移支付"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n554/index.html",
+        "label": "审计与财会监督"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n544/index.html",
+        "label": "资产管理"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n176/n7081/index.html",
+        "label": "教师队伍建设与保障"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n472/index.html",
+        "label": "全国教育事业发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n459/n477/index.html",
+        "label": "教育统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58301/index.html",
+        "label": "国民经济和社会发展统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58308/index.html",
+        "label": "全国经济普查公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58313/index.html",
+        "label": "全国科技经费投入统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n58318/index.html",
+        "label": "财政收支数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n58287/n182931/index.html",
+        "label": "全国政府采购简要情况"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n520/index.html",
+        "label": "全国教育经费执行情况统计快报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n515/index.html",
+        "label": "全国教育经费执行情况统计公报"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n6259/index.html",
+        "label": "业务系统"
+      },
+      {
+        "url": "https://zxpx.cee.edu.cn/",
+        "label": "在线学习"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html",
+        "label": "数 据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/index.html#jyjf",
+        "label": "教育经费统计数据"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/index.html",
+        "label": "地方教育经费执行情况统计公告"
+      },
+      {
+        "url": "https://edu.gd.gov.cn/gkmlpt/content/4/4324/post_4324695.html#1660",
+        "label": "https://edu.gd.gov.cn/gkmlpt/content/4/4324/post_4324695.html#1660"
+      },
+      {
+        "url": "https://www.cee.edu.cn/n171/n464/n525/c773572/part/773598.xlsx",
+        "label": "2022年全省教育经费执行情况统计表.xlsx"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://www.mof.gov.cn/index.htm",
+        "label": "财政部"
+      },
+      {
+        "url": "https://www.audit.gov.cn/",
+        "label": "审计署"
+      },
+      {
+        "url": "https://fsac.cee.edu.cn/",
+        "label": "经费监管中心"
+      },
+      {
+        "url": "https://www.xszz.edu.cn/",
+        "label": "全国学生资助管理中心"
+      },
+      {
+        "url": "http://www.zfcg.edu.cn/",
+        "label": "教育部政府采购网"
+      },
+      {
+        "url": "https://zjk.cee.edu.cn/",
+        "label": "中国教育会计学会"
+      },
+      {
+        "url": "https://jysj.cee.edu.cn/",
+        "label": "中国教育审计学会"
+      },
+      {
+        "url": "https://www.cee.edu.cn/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备2024044276号-2"
+      }
+    ]
+  },
+  {
+    "key": "province_finance_r21_ningxia_2023",
+    "url": "https://jyt.nx.gov.cn/xwdt/tzgg/202501/t20250124_4805525.html",
+    "status": "downloaded",
+    "bytes": 22962,
+    "sha256": "4b12c45cea968f72d0721d3dfe3cacbdf682577119c13f81bfc874c4ffa66c52",
+    "path": "raw\\province_finance_r21_ningxia_2023.html",
+    "links": [
+      {
+        "url": "https://jyt.nx.gov.cn/zzb/",
+        "label": "长者版"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/znaiwd/",
+        "label": "AI智能问答"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/xwdt/",
+        "label": "教育动态"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/zwgk/",
+        "label": "政府信息公开"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/bsfw/",
+        "label": "办事服务"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/hdjl/",
+        "label": "互动交流"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/ztzl/",
+        "label": "教育专题"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/xwdt/",
+        "label": "新闻动态"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356208784170.pdf",
+        "label": "表一  2023年一般公共预算教育经费增长情况（2023）.pdf"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356208922981.pdf",
+        "label": "表二  各级教育生均一般公共预算教育经费增长情况（2023）.pdf"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209013303.pdf",
+        "label": "表三  各级教育生均一般公共预算教育事业费支出增长情况（2023）.pdf"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209092264.pdf",
+        "label": "表四  各级教育生均一般公共预算公用经费支出增长情况（2023）.pdf"
+      },
+      {
+        "url": "http://www.gov.cn/",
+        "label": "中国政府网"
+      },
+      {
+        "url": "http://www.nx.gov.cn/personalcenter/index.html",
+        "label": "登录个人中心"
+      },
+      {
+        "url": "https://jyt.nx.gov.cn/ggbf/wzdt/",
+        "label": "网站地图"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "宁ICP备10000726号"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=64010602000544",
+        "label": "宁公网安备64010602000544号"
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=2CF367AF748B2C59E053012819ACE12A",
+        "label": ""
+      }
+    ]
+  },
+  {
+    "key": "province_finance_r21_guizhou_functional_2023_pdf",
+    "url": "https://czt.guizhou.gov.cn/zwgk/zdlyxx/czys/202408/P020240821359121088999.pdf",
+    "status": "downloaded",
+    "bytes": 9661236,
+    "sha256": "ba0c3c4ae218d16e395e5b70f34f9ab7ea0ffa1fcb6a71316635bd76d87b0600",
+    "path": "raw\\province_finance_r21_guizhou_functional_2023_pdf.pdf",
+    "links": []
+  }
+]

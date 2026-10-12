@@ -1,0 +1,1465 @@
+[
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 1994,
+    "archive": "中国统计年鉴\\中国统计年鉴1994（excel）【93数据】.zip",
+    "bytes": 8978703,
+    "entries": 623,
+    "extensions": {
+      ".xlsx": 623
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 4,
+      "财政补助平衡": 1
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 1996,
+    "archive": "中国统计年鉴\\中国统计年鉴1996（excel）【95数据】.zip",
+    "bytes": 9443357,
+    "entries": 648,
+    "extensions": {
+      ".xlsx": 648
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 6,
+      "财政本级收支": 2,
+      "财政补助平衡": 1,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 1997,
+    "archive": "中国统计年鉴\\中国统计年鉴1997（excel）【96数据】.zip",
+    "bytes": 9604484,
+    "entries": 659,
+    "extensions": {
+      ".xlsx": 659
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 12,
+      "财政本级收支": 2,
+      "财政补助平衡": 1,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 1998,
+    "archive": "中国统计年鉴\\中国统计年鉴1998（excel）【97数据】.zip",
+    "bytes": 10325655,
+    "entries": 705,
+    "extensions": {
+      ".xlsx": 705
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 11,
+      "财政本级收支": 2,
+      "财政补助平衡": 1,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 1999,
+    "archive": "中国统计年鉴\\中国统计年鉴1999（excel）.zip",
+    "bytes": 27811072,
+    "entries": 1374,
+    "extensions": {
+      ".xlsx": 687,
+      ".doc": 1,
+      ".xls": 686
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 11,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2000,
+    "archive": "中国统计年鉴\\中国统计年鉴2000（excel）.zip",
+    "bytes": 13256283,
+    "entries": 1384,
+    "extensions": {
+      ".xlsx": 691,
+      ".xls": 692,
+      ".docx": 1
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 11,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2001,
+    "archive": "中国统计年鉴\\中国统计年鉴2001（excel）.zip",
+    "bytes": 8417549,
+    "entries": 700,
+    "extensions": {
+      ".xlsx": 700
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 12,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2002,
+    "archive": "中国统计年鉴\\中国统计年鉴2002（excel）.zip",
+    "bytes": 15322986,
+    "entries": 1465,
+    "extensions": {
+      ".xlsx": 732,
+      ".docx": 2,
+      ".xls": 731
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 9,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2003,
+    "archive": "中国统计年鉴\\中国统计年鉴2003（excel）.zip",
+    "bytes": 11900876,
+    "entries": 751,
+    "extensions": {
+      ".xlsx": 751
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 12,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2004,
+    "archive": "中国统计年鉴\\中国统计年鉴2004（excel）.zip",
+    "bytes": 15367426,
+    "entries": 1560,
+    "extensions": {
+      ".xlsx": 778,
+      ".docx": 2,
+      ".xls": 780
+    },
+    "candidate_counts": {
+      "学生": 1,
+      "分省小学": 2,
+      "人口经济": 11,
+      "财政本级收支": 2,
+      "物价": 1
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2005,
+    "archive": "中国统计年鉴\\中国统计年鉴2005（excel）.zip",
+    "bytes": 14764540,
+    "entries": 1403,
+    "extensions": {
+      ".docx": 2,
+      ".xlsx": 701,
+      ".xls": 700
+    },
+    "candidate_counts": {
+      "学生": 3,
+      "分省初中": 2,
+      "分省小学": 1,
+      "人口经济": 8,
+      "财政本级收支": 2,
+      "物价": 1
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2006,
+    "archive": "中国统计年鉴\\中国统计年鉴2006（excel）.zip",
+    "bytes": 17078111,
+    "entries": 1554,
+    "extensions": {
+      ".xlsx": 776,
+      ".docx": 2,
+      ".xls": 776
+    },
+    "candidate_counts": {
+      "学生": 3,
+      "分省初中": 2,
+      "分省小学": 1,
+      "人口经济": 9,
+      "财政本级收支": 2,
+      "物价": 1
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2007,
+    "archive": "中国统计年鉴\\中国统计年鉴2007（excel）.zip",
+    "bytes": 16977576,
+    "entries": 1554,
+    "extensions": {
+      ".xlsx": 776,
+      ".docx": 2,
+      ".xls": 776
+    },
+    "candidate_counts": {
+      "学生": 3,
+      "分省初中": 2,
+      "分省小学": 1,
+      "人口经济": 9,
+      "财政本级收支": 2,
+      "物价": 1
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2008,
+    "archive": "中国统计年鉴\\中国统计年鉴2008（excel）.zip",
+    "bytes": 7834768,
+    "entries": 1548,
+    "extensions": {
+      ".xls": 1546,
+      ".docx": 2
+    },
+    "candidate_counts": {
+      "学生": 3,
+      "分省初中": 2,
+      "分省小学": 1,
+      "人口经济": 9,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2009,
+    "archive": "中国统计年鉴\\中国统计年鉴2009（excel）.zip",
+    "bytes": 10634673,
+    "entries": 1618,
+    "extensions": {
+      ".xls": 1616,
+      ".docx": 2
+    },
+    "candidate_counts": {
+      "人口经济": 9,
+      "学生": 3,
+      "分省初中": 2,
+      "分省小学": 1,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2010,
+    "archive": "中国统计年鉴\\中国统计年鉴2010（excel）.zip",
+    "bytes": 8040086,
+    "entries": 1602,
+    "extensions": {
+      ".xls": 1600,
+      ".docx": 2
+    },
+    "candidate_counts": {
+      "人口经济": 9,
+      "学生": 3,
+      "分省初中": 2,
+      "分省小学": 1,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2011,
+    "archive": "中国统计年鉴\\中国统计年鉴2011（excel）.zip",
+    "bytes": 9764344,
+    "entries": 1644,
+    "extensions": {
+      ".xls": 1642,
+      ".docx": 2
+    },
+    "candidate_counts": {
+      "人口经济": 11,
+      "学生": 3,
+      "分省初中": 2,
+      "分省小学": 1,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2012,
+    "archive": "中国统计年鉴\\中国统计年鉴2012（excel）.zip",
+    "bytes": 13007128,
+    "entries": 1619,
+    "extensions": {
+      ".docx": 1,
+      ".xls": 1618
+    },
+    "candidate_counts": {
+      "人口经济": 11,
+      "学生": 2,
+      "分省初中": 1,
+      "分省小学": 1,
+      "财政本级收支": 2,
+      "物价": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2013,
+    "archive": "中国统计年鉴\\中国统计年鉴2013（excel）.zip",
+    "bytes": 11228081,
+    "entries": 1482,
+    "extensions": {
+      ".xls": 1480,
+      ".docx": 2
+    },
+    "candidate_counts": {
+      "物价": 2,
+      "人口经济": 12,
+      "分省初中": 1,
+      "分省小学": 1,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2014,
+    "archive": "中国统计年鉴\\中国统计年鉴2014（excel）.zip",
+    "bytes": 11556316,
+    "entries": 1430,
+    "extensions": {
+      ".xls": 1428,
+      ".docx": 2
+    },
+    "candidate_counts": {
+      "人口经济": 11,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 2,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2015,
+    "archive": "中国统计年鉴\\中国统计年鉴2015（excel）.zip",
+    "bytes": 12112795,
+    "entries": 1476,
+    "extensions": {
+      ".xls": 1474,
+      ".docx": 2
+    },
+    "candidate_counts": {
+      "人口经济": 11,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 2,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2016,
+    "archive": "中国统计年鉴\\中国统计年鉴2016（excel）.zip",
+    "bytes": 12069319,
+    "entries": 1434,
+    "extensions": {
+      ".xls": 1432,
+      ".docx": 2
+    },
+    "candidate_counts": {
+      "人口经济": 11,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 2,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2017,
+    "archive": "中国统计年鉴\\中国统计年鉴2017（excel）.zip",
+    "bytes": 15050856,
+    "entries": 1394,
+    "extensions": {
+      ".docx": 2,
+      ".xlsx": 696,
+      ".xls": 696
+    },
+    "candidate_counts": {
+      "人口经济": 10,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 2,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2018,
+    "archive": "中国统计年鉴\\中国统计年鉴2018（excel）.zip",
+    "bytes": 15577720,
+    "entries": 1377,
+    "extensions": {
+      ".docx": 1,
+      ".xlsx": 688,
+      ".xls": 688
+    },
+    "candidate_counts": {
+      "人口经济": 10,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 1,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2019,
+    "archive": "中国统计年鉴\\中国统计年鉴2019（excel）.zip",
+    "bytes": 15043770,
+    "entries": 1372,
+    "extensions": {
+      ".doc": 1,
+      ".docx": 1,
+      ".xlsx": 685,
+      ".xls": 685
+    },
+    "candidate_counts": {
+      "人口经济": 10,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 1,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2020,
+    "archive": "中国统计年鉴\\中国统计年鉴2020（excel）.zip",
+    "bytes": 14805296,
+    "entries": 1370,
+    "extensions": {
+      ".docx": 2,
+      ".xlsx": 684,
+      ".xls": 684
+    },
+    "candidate_counts": {
+      "人口经济": 10,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 1,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2021,
+    "archive": "中国统计年鉴\\中国统计年鉴2021（excel）.zip",
+    "bytes": 14380893,
+    "entries": 1379,
+    "extensions": {
+      ".docx": 1,
+      ".xlsx": 689,
+      ".xls": 689
+    },
+    "candidate_counts": {
+      "人口经济": 16,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 1,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2022,
+    "archive": "中国统计年鉴\\中国统计年鉴2022（excel）.zip",
+    "bytes": 13056417,
+    "entries": 1347,
+    "extensions": {
+      ".docx": 1,
+      ".xls": 1346
+    },
+    "candidate_counts": {
+      "人口经济": 10,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 1,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2023,
+    "archive": "中国统计年鉴\\中国统计年鉴2023（excel）.zip",
+    "bytes": 12455438,
+    "entries": 1349,
+    "extensions": {
+      ".docx": 1,
+      ".xls": 1348
+    },
+    "candidate_counts": {
+      "人口经济": 10,
+      "分省初中": 1,
+      "分省小学": 1,
+      "物价": 1,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国统计年鉴",
+    "volume_year": 2024,
+    "archive": "中国统计年鉴\\中国统计年鉴2024（excel）.zip",
+    "bytes": 16979519,
+    "entries": 1344,
+    "extensions": {
+      ".xlsx": 1342,
+      ".docx": 2
+    },
+    "candidate_counts": {
+      "分省初中": 1,
+      "分省小学": 1,
+      "人口经济": 10,
+      "物价": 1,
+      "财政本级收支": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 1994,
+    "archive": "中国财政年鉴\\中国财政年鉴1994（excel）.zip",
+    "bytes": 1717492,
+    "entries": 120,
+    "extensions": {
+      ".xlsx": 120
+    },
+    "candidate_counts": {
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 1995,
+    "archive": "中国财政年鉴\\中国财政年鉴1995（excel）.zip",
+    "bytes": 1746888,
+    "entries": 126,
+    "extensions": {
+      ".xlsx": 126
+    },
+    "candidate_counts": {
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 1996,
+    "archive": "中国财政年鉴\\中国财政年鉴1996（excel）.zip",
+    "bytes": 1967173,
+    "entries": 145,
+    "extensions": {
+      ".xlsx": 145
+    },
+    "candidate_counts": {
+      "人口经济": 2,
+      "财政本级收支": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 1997,
+    "archive": "中国财政年鉴\\中国财政年鉴1997（excel）.zip",
+    "bytes": 2805281,
+    "entries": 201,
+    "extensions": {
+      ".xlsx": 201
+    },
+    "candidate_counts": {
+      "财政本级收支": 1,
+      "人口经济": 3,
+      "财政补助平衡": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 1998,
+    "archive": "中国财政年鉴\\中国财政年鉴1998（excel）.zip",
+    "bytes": 2443424,
+    "entries": 179,
+    "extensions": {
+      ".xlsx": 179
+    },
+    "candidate_counts": {
+      "财政本级收支": 34,
+      "财政补助平衡": 36,
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 1999,
+    "archive": "中国财政年鉴\\中国财政年鉴1999（excel）.zip",
+    "bytes": 3451955,
+    "entries": 254,
+    "extensions": {
+      ".xlsx": 254
+    },
+    "candidate_counts": {
+      "财政本级收支": 18,
+      "财政补助平衡": 18,
+      "人口经济": 4
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2000,
+    "archive": "中国财政年鉴\\中国财政年鉴2000（excel）.zip",
+    "bytes": 2724446,
+    "entries": 224,
+    "extensions": {
+      ".xlsx": 224
+    },
+    "candidate_counts": {
+      "财政本级收支": 38,
+      "财政补助平衡": 38,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2001,
+    "archive": "中国财政年鉴\\中国财政年鉴2001（excel）.zip",
+    "bytes": 2913711,
+    "entries": 214,
+    "extensions": {
+      ".xlsx": 214
+    },
+    "candidate_counts": {
+      "财政本级收支": 34,
+      "财政补助平衡": 35,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2002,
+    "archive": "中国财政年鉴\\中国财政年鉴2002（excel）.zip",
+    "bytes": 2948215,
+    "entries": 202,
+    "extensions": {
+      ".xlsx": 202
+    },
+    "candidate_counts": {
+      "财政本级收支": 30,
+      "财政补助平衡": 30,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2003,
+    "archive": "中国财政年鉴\\中国财政年鉴2003（excel）.zip",
+    "bytes": 2862106,
+    "entries": 198,
+    "extensions": {
+      ".xlsx": 198
+    },
+    "candidate_counts": {
+      "财政本级收支": 32,
+      "财政补助平衡": 32,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2004,
+    "archive": "中国财政年鉴\\中国财政年鉴2004（excel）.zip",
+    "bytes": 2466655,
+    "entries": 167,
+    "extensions": {
+      ".xlsx": 167
+    },
+    "candidate_counts": {
+      "财政本级收支": 31,
+      "财政补助平衡": 32,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2005,
+    "archive": "中国财政年鉴\\中国财政年鉴2005（excel）.zip",
+    "bytes": 2996590,
+    "entries": 198,
+    "extensions": {
+      ".xlsx": 198
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2006,
+    "archive": "中国财政年鉴\\中国财政年鉴2006（excel）.zip",
+    "bytes": 2780263,
+    "entries": 187,
+    "extensions": {
+      ".xlsx": 187
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2007,
+    "archive": "中国财政年鉴\\中国财政年鉴2007（excel）.zip",
+    "bytes": 3140754,
+    "entries": 212,
+    "extensions": {
+      ".xlsx": 212
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2008,
+    "archive": "中国财政年鉴\\中国财政年鉴2008（excel）.zip",
+    "bytes": 2870874,
+    "entries": 195,
+    "extensions": {
+      ".xlsx": 195
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2009,
+    "archive": "中国财政年鉴\\中国财政年鉴2009（excel）.zip",
+    "bytes": 2872743,
+    "entries": 194,
+    "extensions": {
+      ".xlsx": 194
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2010,
+    "archive": "中国财政年鉴\\中国财政年鉴2010（excel）.zip",
+    "bytes": 3076797,
+    "entries": 211,
+    "extensions": {
+      ".xlsx": 211
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2011,
+    "archive": "中国财政年鉴\\中国财政年鉴2011（excel）.zip",
+    "bytes": 3138548,
+    "entries": 216,
+    "extensions": {
+      ".xlsx": 216
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2012,
+    "archive": "中国财政年鉴\\中国财政年鉴2012（excel）.zip",
+    "bytes": 3070323,
+    "entries": 209,
+    "extensions": {
+      ".xlsx": 209
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2013,
+    "archive": "中国财政年鉴\\中国财政年鉴2013（excel）.zip",
+    "bytes": 3080130,
+    "entries": 208,
+    "extensions": {
+      ".xlsx": 208
+    },
+    "candidate_counts": {
+      "财政本级收支": 36,
+      "财政补助平衡": 36,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2014,
+    "archive": "中国财政年鉴\\中国财政年鉴2014（excel）.zip",
+    "bytes": 3089045,
+    "entries": 208,
+    "extensions": {
+      ".xlsx": 208
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2015,
+    "archive": "中国财政年鉴\\中国财政年鉴2015（excel）.zip",
+    "bytes": 3076983,
+    "entries": 222,
+    "extensions": {
+      ".xlsx": 222
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2016,
+    "archive": "中国财政年鉴\\中国财政年鉴2016（excel）.zip",
+    "bytes": 2780695,
+    "entries": 199,
+    "extensions": {
+      ".xlsx": 199
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 2
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2017,
+    "archive": "中国财政年鉴\\中国财政年鉴2017（excel）.zip",
+    "bytes": 2826237,
+    "entries": 202,
+    "extensions": {
+      ".xlsx": 202
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2018,
+    "archive": "中国财政年鉴\\中国财政年鉴2018（excel）.zip",
+    "bytes": 2730750,
+    "entries": 197,
+    "extensions": {
+      ".xlsx": 197
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2019,
+    "archive": "中国财政年鉴\\中国财政年鉴2019（excel）.zip",
+    "bytes": 2631131,
+    "entries": 191,
+    "extensions": {
+      ".xlsx": 191
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2020,
+    "archive": "中国财政年鉴\\中国财政年鉴2020（excel）.zip",
+    "bytes": 1072481,
+    "entries": 320,
+    "extensions": {
+      ".xls": 320
+    },
+    "candidate_counts": {
+      "财政本级收支": 1,
+      "人口经济": 1,
+      "财政补助平衡": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2021,
+    "archive": "中国财政年鉴\\中国财政年鉴2021（excel）.zip",
+    "bytes": 2623300,
+    "entries": 188,
+    "extensions": {
+      ".xlsx": 188
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2022,
+    "archive": "中国财政年鉴\\中国财政年鉴2022（excel）.zip",
+    "bytes": 2465392,
+    "entries": 180,
+    "extensions": {
+      ".xlsx": 180
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2023,
+    "archive": "中国财政年鉴\\中国财政年鉴2023（excel）.zip",
+    "bytes": 2733768,
+    "entries": 229,
+    "extensions": {
+      ".xlsx": 224,
+      ".docx": 5
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2024,
+    "archive": "中国财政年鉴\\中国财政年鉴2024（excel）.zip",
+    "bytes": 2722172,
+    "entries": 252,
+    "extensions": {
+      ".xlsx": 252
+    },
+    "candidate_counts": {
+      "财政本级收支": 73,
+      "财政补助平衡": 73,
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国财政年鉴",
+    "volume_year": 2025,
+    "archive": "中国财政年鉴\\中国财政年鉴2025（excel）.zip",
+    "bytes": 1833125,
+    "entries": 195,
+    "extensions": {
+      ".xlsx": 195
+    },
+    "candidate_counts": {
+      "财政本级收支": 37,
+      "财政补助平衡": 37,
+      "人口经济": 1
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 1994,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴1994（excel）【94数据】.zip",
+    "bytes": 2931105,
+    "entries": 200,
+    "extensions": {
+      ".xlsx": 200
+    },
+    "candidate_counts": {
+      "学生": 7
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 1995,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴1995（excel）【95数据】.zip",
+    "bytes": 3244354,
+    "entries": 226,
+    "extensions": {
+      ".xlsx": 226
+    },
+    "candidate_counts": {
+      "学生": 7
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 1996,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴1996（excel）【96数据】.zip",
+    "bytes": 3281258,
+    "entries": 227,
+    "extensions": {
+      ".xlsx": 227
+    },
+    "candidate_counts": {
+      "学生": 7
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 1997,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴1997（excel）【97数据】.zip",
+    "bytes": 2994757,
+    "entries": 202,
+    "extensions": {
+      ".xlsx": 202
+    },
+    "candidate_counts": {
+      "学生": 7
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 1998,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴1998（excel）【98数据】.zip",
+    "bytes": 3546775,
+    "entries": 234,
+    "extensions": {
+      ".xlsx": 234
+    },
+    "candidate_counts": {
+      "学生": 7,
+      "人口经济": 4
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 1999,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴1999（excel）【99数据】.zip",
+    "bytes": 3451763,
+    "entries": 238,
+    "extensions": {
+      ".xlsx": 238
+    },
+    "candidate_counts": {
+      "学生": 7,
+      "人口经济": 4
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2000,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2000（excel）【00数据】.zip",
+    "bytes": 3531071,
+    "entries": 240,
+    "extensions": {
+      ".xlsx": 240
+    },
+    "candidate_counts": {
+      "学生": 7,
+      "人口经济": 4
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2001,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2001（excel）【01数据】.zip",
+    "bytes": 3608221,
+    "entries": 246,
+    "extensions": {
+      ".xlsx": 246
+    },
+    "candidate_counts": {
+      "学生": 7,
+      "人口经济": 4
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2002,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2002（excel）【02数据】.zip",
+    "bytes": 3710819,
+    "entries": 248,
+    "extensions": {
+      ".xlsx": 248
+    },
+    "candidate_counts": {
+      "学生": 7,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2003,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2003（excel）【03数据】.zip",
+    "bytes": 6302248,
+    "entries": 443,
+    "extensions": {
+      ".xlsx": 443
+    },
+    "candidate_counts": {
+      "学生": 19,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2004,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2004（excel）【04数据】.zip",
+    "bytes": 6427749,
+    "entries": 445,
+    "extensions": {
+      ".xlsx": 445
+    },
+    "candidate_counts": {
+      "学生": 21,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2005,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2005（excel）【05数据】.zip",
+    "bytes": 6417264,
+    "entries": 444,
+    "extensions": {
+      ".xlsx": 444
+    },
+    "candidate_counts": {
+      "学生": 21,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2006,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2006（excel）【06数据】.zip",
+    "bytes": 6397901,
+    "entries": 443,
+    "extensions": {
+      ".xlsx": 443
+    },
+    "candidate_counts": {
+      "学生": 21,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2007,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2007（excel）【07数据】.zip",
+    "bytes": 6286664,
+    "entries": 437,
+    "extensions": {
+      ".xlsx": 437
+    },
+    "candidate_counts": {
+      "学生": 21,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2008,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2008（excel）【08数据】.zip",
+    "bytes": 6339411,
+    "entries": 441,
+    "extensions": {
+      ".xlsx": 441
+    },
+    "candidate_counts": {
+      "学生": 21,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2009,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2009（excel）【09数据】.zip",
+    "bytes": 6450952,
+    "entries": 443,
+    "extensions": {
+      ".xlsx": 443
+    },
+    "candidate_counts": {
+      "学生": 21,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2010,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2010（excel）【10数据】.zip",
+    "bytes": 6370581,
+    "entries": 440,
+    "extensions": {
+      ".xlsx": 440
+    },
+    "candidate_counts": {
+      "学生": 21,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2011,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2011（excel）【11数据】.zip",
+    "bytes": 6452199,
+    "entries": 443,
+    "extensions": {
+      ".xlsx": 443
+    },
+    "candidate_counts": {
+      "学生": 16,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2012,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2012（excel）【12数据】.zip",
+    "bytes": 6413227,
+    "entries": 442,
+    "extensions": {
+      ".xlsx": 442
+    },
+    "candidate_counts": {
+      "学生": 16,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2013,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2013（excel）【13数据】.zip",
+    "bytes": 7008956,
+    "entries": 461,
+    "extensions": {
+      ".xlsx": 461
+    },
+    "candidate_counts": {
+      "学生": 17,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2014,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2014（excel）【14数据】.zip",
+    "bytes": 7005322,
+    "entries": 461,
+    "extensions": {
+      ".xlsx": 461
+    },
+    "candidate_counts": {
+      "学生": 17,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2015,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2015（excel）【15数据】.zip",
+    "bytes": 7002755,
+    "entries": 461,
+    "extensions": {
+      ".xlsx": 461
+    },
+    "candidate_counts": {
+      "学生": 17,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2016,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2016（excel）【16数据】.zip",
+    "bytes": 7055805,
+    "entries": 461,
+    "extensions": {
+      ".xlsx": 461
+    },
+    "candidate_counts": {
+      "学生": 17,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2017,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2017（excel）【17数据】.zip",
+    "bytes": 7004769,
+    "entries": 458,
+    "extensions": {
+      ".xlsx": 458
+    },
+    "candidate_counts": {
+      "学生": 17,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2018,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2018（Excel）【18数据】.zip",
+    "bytes": 6763970,
+    "entries": 450,
+    "extensions": {
+      ".xlsx": 450
+    },
+    "candidate_counts": {
+      "学生": 17,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2019,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2019（excel）【19数据】.zip",
+    "bytes": 5657422,
+    "entries": 385,
+    "extensions": {
+      ".xlsx": 385
+    },
+    "candidate_counts": {
+      "学生": 13,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2020,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2020（excel）【20数据】.zip",
+    "bytes": 5707523,
+    "entries": 389,
+    "extensions": {
+      ".xlsx": 389
+    },
+    "candidate_counts": {
+      "学生": 13,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2021,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2021（excel）【21数据】.zip",
+    "bytes": 4697666,
+    "entries": 321,
+    "extensions": {
+      ".xlsx": 321
+    },
+    "candidate_counts": {
+      "学生": 12,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2022,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2022（excel）【22数据】.zip",
+    "bytes": 4309756,
+    "entries": 321,
+    "extensions": {
+      ".xlsx": 321
+    },
+    "candidate_counts": {
+      "学生": 12,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2023,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2023（excel）【23数据】.zip",
+    "bytes": 8104110,
+    "entries": 323,
+    "extensions": {
+      ".pdf": 1,
+      ".xlsx": 322
+    },
+    "candidate_counts": {
+      "学生": 17,
+      "人口经济": 3
+    }
+  },
+  {
+    "family": "中国教育统计年鉴",
+    "volume_year": 2024,
+    "archive": "中国教育统计年鉴\\中国教育统计年鉴2024（excel）【24数据】.zip",
+    "bytes": 3184691,
+    "entries": 314,
+    "extensions": {
+      ".xlsx": 314
+    },
+    "candidate_counts": {
+      "学生": 12
+    }
+  }
+]

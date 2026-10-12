@@ -1,0 +1,10 @@
+{
+  "source_documents": 6,
+  "evidence_rows": 6,
+  "direction_summary_rows": 8,
+  "fund_summary_rows": 12,
+  "all_source_hashes_verified": true,
+  "pdf_page_visually_checked": 9,
+  "protected_files_unchanged": true,
+  "scope": "observed enrollment spells and policy context; no demographic or causal claim"
+}

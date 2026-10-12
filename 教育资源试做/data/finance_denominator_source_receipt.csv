@@ -1,0 +1,11 @@
+﻿key,url,status,path,bytes,sha256,error
+finance_denominator_2020_indicators,https://jyjxshpg.bucm.edu.cn/zcwj/a6d27e1f1c29435e88aed8418d57f0dc.htm,failed,,,,<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1010)>
+finance_denominator_zhejiang_2023,https://www.cee.edu.cn/n171/n464/n525/c773623/content.html,downloaded,raw\finance_denominator_zhejiang_2023.html,44340,d3963e55409bee8174a66d15fb244f2823e060938864c8f5d598566784fb95e7,
+finance_denominator_beijing_index,https://jw.beijing.gov.cn/cwc/cwzd/index_1.html,downloaded,raw\finance_denominator_beijing_index.html,26200,510ffc5f6c188f0a1db36b5b592a617a8d2255a47117cb7257e9179924209c2c,
+finance_denominator_moe_2020_notice,https://hudong.moe.gov.cn/srcsite/A03/s182/202101/t20210113_509619.html,downloaded,raw\finance_denominator_moe_2020_notice.html,14273,e679602e3a680a4d35b7284154a6e3a1bcc4da4b492bc53bd7fdc93bd1c2bd9f,
+finance_denominator_zhejiang_2023_xlsx,https://www.cee.edu.cn/n171/n464/n525/c773623/part/816178.xlsx,downloaded,raw\finance_denominator_zhejiang_2023_xlsx.xlsx,53823,ed392446c4c79b42ad805a8f545d4bd060d613d25614d695788b414847d28929,
+finance_denominator_shucheng_2023,https://www.shucheng.gov.cn/public/6626413/37309387.html,failed,,,,HTTP Error 403: Forbidden
+finance_denominator_moe_2020_docx,https://hudong.moe.gov.cn/srcsite/A03/s182/202101/W020210113546624017867.docx,downloaded,raw\finance_denominator_moe_2020_docx.docx,190860,2e71064dc1ef7e57cf4fc67a9b7b8fee82fa3f7005f6b0b7b1d1054ad29b6534,
+finance_denominator_shucheng_2023_http,http://www.shucheng.gov.cn/public/6626413/37309387.html,failed,,,,HTTP Error 403: Forbidden
+finance_denominator_yantai_form_a,https://www.yantai.gov.cn/cms_files/jcms1/web1/site/attach/0/e6d91b3009754ad7841c49de1569fd18.pdf,downloaded,raw\finance_denominator_yantai_form_a.pdf,156003,7487a722f36d57d8f4ea56d2c504e9154b968f30136c65372b6baa0e7a9ab15a,
+finance_denominator_yantai_form_b,https://www.yantai.gov.cn/cms_files/jcms1/web1/site/attach/0/df5d4fd1c99d49eb86be6c3f030ae6cf.pdf,downloaded,raw\finance_denominator_yantai_form_b.pdf,191482,fc3e65de2f3842cfd48b723b93b3ae49dbd6cbb4479411061881e712b171933a,

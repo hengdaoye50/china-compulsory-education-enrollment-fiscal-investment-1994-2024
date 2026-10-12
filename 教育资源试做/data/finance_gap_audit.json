@@ -1,0 +1,133 @@
+{
+  "download_records": 10,
+  "downloaded_records": 9,
+  "failed_records": [
+    "finance_gap_jiangyin_2024"
+  ],
+  "candidate_cells": 22,
+  "checks": [
+    {
+      "region": "威海",
+      "year": 2022,
+      "check": "primary_plus_junior_vs_compulsory",
+      "computed": "63.36",
+      "reported": "63.36",
+      "difference_100m": "0.00",
+      "status": "pass"
+    },
+    {
+      "region": "威海",
+      "year": 2023,
+      "check": "primary_plus_junior_vs_compulsory",
+      "computed": "64.88",
+      "reported": "64.88",
+      "difference_100m": "0.00",
+      "status": "pass"
+    },
+    {
+      "region": "威海",
+      "year": 2022,
+      "check": "education_category_subtotals_vs_caption_budget_career_total",
+      "computed": "117.85",
+      "reported": "117.85",
+      "difference_100m": "0.00",
+      "status": "pass"
+    },
+    {
+      "region": "威海",
+      "year": 2023,
+      "check": "education_category_subtotals_vs_caption_budget_career_total",
+      "computed": "121.55",
+      "reported": "120.53",
+      "difference_100m": "1.02",
+      "status": "unresolved"
+    },
+    {
+      "region": "威海",
+      "year": 2023,
+      "check": "total_growth_baseline_vs_2022_page",
+      "computed": "117.85",
+      "reported": "118.27",
+      "difference_100m": "-0.42",
+      "status": "unresolved; prior-year revision not explained"
+    },
+    {
+      "region": "威海",
+      "year": 2023,
+      "check": "career_growth_baseline_vs_2022_page",
+      "computed": "117.43",
+      "reported": "117.85",
+      "difference_100m": "-0.42",
+      "status": "unresolved; prior-year revision not explained"
+    },
+    {
+      "region": "江阴",
+      "year": 2024,
+      "stage": "primary",
+      "metric": "budget_per_student",
+      "check": "per_student_growth_rounding",
+      "computed": "0.340385552750923024733867700",
+      "reported": "0.34",
+      "difference_pp": "0.000385552750923024733867700",
+      "status": "pass"
+    },
+    {
+      "region": "江阴",
+      "year": 2024,
+      "stage": "junior",
+      "metric": "budget_per_student",
+      "check": "per_student_growth_rounding",
+      "computed": "0.112037348169035006749534300",
+      "reported": "0.11",
+      "difference_pp": "0.002037348169035006749534300",
+      "status": "pass"
+    },
+    {
+      "region": "江阴",
+      "year": 2024,
+      "stage": "primary",
+      "metric": "career_per_student",
+      "check": "per_student_growth_rounding",
+      "computed": "5.060148021541081033476092500",
+      "reported": "5.06",
+      "difference_pp": "0.000148021541081033476092500",
+      "status": "pass"
+    },
+    {
+      "region": "江阴",
+      "year": 2024,
+      "stage": "junior",
+      "metric": "career_per_student",
+      "check": "per_student_growth_rounding",
+      "computed": "7.036343903254163113387588000",
+      "reported": "7.04",
+      "difference_pp": "-0.003656096745836886612412000",
+      "status": "pass"
+    },
+    {
+      "region": "江阴",
+      "year": 2024,
+      "stage": "primary",
+      "metric": "public_per_student",
+      "check": "per_student_growth_rounding",
+      "computed": "-42.90689886135298057602143336",
+      "reported": "-42.91",
+      "difference_pp": "0.00310113864701942397856664",
+      "status": "pass"
+    },
+    {
+      "region": "江阴",
+      "year": 2024,
+      "stage": "junior",
+      "metric": "public_per_student",
+      "check": "per_student_growth_rounding",
+      "computed": "-23.95415997234142075613674727",
+      "reported": "-23.95",
+      "difference_pp": "-0.00415997234142075613674727",
+      "status": "pass"
+    }
+  ],
+  "same_scope_expenditure_denominator_pairs": 0,
+  "national_finance_panel_modified": false,
+  "finding": "Public local reports can contain stage totals; this round did not establish a compatible expenditure/denominator pair. No reconstructed expenditure or denominator."
+}

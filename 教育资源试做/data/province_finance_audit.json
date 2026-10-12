@@ -1,0 +1,20 @@
+{
+  "source_records": 27,
+  "saved_originals": 22,
+  "failed_downloads": 5,
+  "province_year_registry": 217,
+  "existing_stage_metric_cells": 1240,
+  "spreadsheet_sheets_inspected": 13,
+  "cross_source_checks": 60,
+  "source_cell_and_caption_checks": 1240,
+  "separate_2017_budget_backward_reference_cells": 64,
+  "backward_checks": 128,
+  "repaired_2017_metric_labels": 128,
+  "matched_continuous_stage_spending_student_pairs": 0,
+  "all_provincial_local_year_sources_fully_screened": false,
+  "resource_numeric_fields_unchanged": true,
+  "visualizations_unchanged": true,
+  "existing_finance_visuals_use_2022_2023_unaffected": true,
+  "repair_backup_path": "data/province_finance_2017_before_label_repair.csv",
+  "finance_hash_after": "4b07e6dd9c6812652fa2de5a4fdac8331e15f0f69843f128fd8c741ae976e6b2"
+}

@@ -1,0 +1,13 @@
+﻿stage,scope,fund,provinces,cpi_adjusted_total_increase_provinces,cpi_adjusted_total_decrease_provinces,median_cpi_adjusted_total_change_pct,personal_share_career_increase_provinces,limit
+primary,all_affiliations,all_source,31,28,3,27.95446446586572537264520470,28,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+primary,all_affiliations,fiscal_subsidy,31,28,3,25.27203206973784361497112940,28,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+primary,all_affiliations,general_budget,31,27,4,16.55738633809697727673558630,26,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+primary,local_affiliation,all_source,31,28,3,27.94864919327530483835113710,28,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+primary,local_affiliation,fiscal_subsidy,31,28,3,25.31234787992316025423363210,27,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+primary,local_affiliation,general_budget,31,27,4,16.55738633809697727673558630,26,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+junior,all_affiliations,all_source,31,31,0,35.31303362953713893943751730,25,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+junior,all_affiliations,fiscal_subsidy,31,30,1,30.70738555192079248008650500,24,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+junior,all_affiliations,general_budget,31,28,3,25.64478450837556566010320580,21,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+junior,local_affiliation,all_source,31,31,0,35.24353643993516437611164290,25,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+junior,local_affiliation,fiscal_subsidy,31,30,1,30.71782527771247119485853340,24,"equal-weight count/median, not national expenditure growth; annual coverage pending"
+junior,local_affiliation,general_budget,31,28,3,25.64478450837556566010320580,21,"equal-weight count/median, not national expenditure growth; annual coverage pending"

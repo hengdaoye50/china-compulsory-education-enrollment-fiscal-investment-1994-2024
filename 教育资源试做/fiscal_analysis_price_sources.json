@@ -1,0 +1,17 @@
+[
+  {
+    "key": "fiscal_analysis_cpi_history_2024",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/C05-01.jpg",
+    "status": "downloaded",
+    "bytes": 191273,
+    "sha256": "77b6d5feb167a11fa2ba9c3eebd5f3d62b912e648a9087186cfa9ae601771a9d",
+    "path": "raw\\fiscal_analysis_cpi_history_2024.jpg",
+    "links": []
+  },
+  {
+    "key": "fiscal_analysis_price_definitions_2024",
+    "url": "https://www.stats.gov.cn/sj/ndsj/2024/html/zb05.htm",
+    "status": "failed",
+    "error": "HTTP Error 404: Not Found"
+  }
+]

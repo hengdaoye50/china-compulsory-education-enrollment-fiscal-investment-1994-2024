@@ -1,0 +1,13 @@
+﻿stage,affiliation_scope,fund,spells,total_increase,career_increase
+primary,all_affiliations,all_source,12,9,9
+primary,all_affiliations,fiscal_subsidy,12,7,8
+primary,all_affiliations,general_budget,12,7,7
+primary,local_affiliation,all_source,12,9,9
+primary,local_affiliation,fiscal_subsidy,12,7,7
+primary,local_affiliation,general_budget,12,7,7
+junior,all_affiliations,all_source,11,10,11
+junior,all_affiliations,fiscal_subsidy,11,9,10
+junior,all_affiliations,general_budget,11,7,7
+junior,local_affiliation,all_source,11,10,11
+junior,local_affiliation,fiscal_subsidy,11,9,10
+junior,local_affiliation,general_budget,11,7,7

@@ -1,0 +1,778 @@
+[
+  {
+    "key": "bridge_2017_students_type",
+    "url": "https://en.moe.gov.cn/documents/statistics/2017/national/201808/t20180808_344698.html",
+    "status": "downloaded",
+    "bytes": 47108,
+    "sha256": "76950128666c791c2ffac68c3ba856ea89767c1bd4b47628d323e66fe80f497f",
+    "path": "raw\\bridge_2017_students_type.html",
+    "links": [
+      {
+        "url": "http://en.moe.gov.cn",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "中文"
+      },
+      {
+        "url": "http://ru.moe.gov.cn",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn",
+        "label": "العربية"
+      },
+      {
+        "url": "http://en.moe.gov.cn",
+        "label": "HOME"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/what_we_do/",
+        "label": "About MOE"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/what_we_do/",
+        "label": "What We Do"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/ministers/",
+        "label": "Ministers"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/departments/",
+        "label": "Departments"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/affiliated_institutions/",
+        "label": "Affiliated Institutions"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/press_releases/",
+        "label": "News"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/press_releases/",
+        "label": "Press Releases"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/photos/",
+        "label": "Photos"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/media_highlights/",
+        "label": "Media Highlights"
+      },
+      {
+        "url": "https://en.moe.gov.cn/features/",
+        "label": "Features"
+      },
+      {
+        "url": "https://en.moe.gov.cn/cooperation_exchanges/",
+        "label": "Cooperation & Exchanges"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/laws_policies/",
+        "label": "Documents"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/laws_policies/",
+        "label": "Laws and Policies"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/reports/",
+        "label": "Reports"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/statistics/",
+        "label": "Statistics"
+      },
+      {
+        "url": "https://en.moe.gov.cn/services/",
+        "label": "Services"
+      },
+      {
+        "url": "http://www.chinesecio.com",
+        "label": "Learning Chinese"
+      },
+      {
+        "url": "http://www.campuschina.org/",
+        "label": "Study in China"
+      },
+      {
+        "url": "http://www.campuschina.org/scholarships/index.html",
+        "label": "Scholarships"
+      },
+      {
+        "url": "http://www.campuschina.org/universities/index.html",
+        "label": "Directories"
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "https://en.moe.gov.cn/subordinate_universities/",
+        "label": "Subordinate Universities"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/what_we_do/",
+        "label": "About MOE"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/what_we_do/",
+        "label": "What We Do"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/ministers/",
+        "label": "Ministers"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/departments/",
+        "label": "Departments"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/affiliated_institutions/",
+        "label": "Affiliated Institutions"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/press_releases/",
+        "label": "News"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/press_releases/",
+        "label": "Press Releases"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/photos/",
+        "label": "Photos"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/media_highlights/",
+        "label": "Media Highlights"
+      },
+      {
+        "url": "https://en.moe.gov.cn/features/",
+        "label": "Features"
+      },
+      {
+        "url": "https://en.moe.gov.cn/cooperation_exchanges/",
+        "label": "Cooperation & Exchanges"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/laws_policies/",
+        "label": "Documents"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/laws_policies/",
+        "label": "Laws and Policies"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/reports/",
+        "label": "Reports"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/statistics/",
+        "label": "Statistics"
+      },
+      {
+        "url": "https://en.moe.gov.cn/services/",
+        "label": "Services"
+      },
+      {
+        "url": "http://www.chinesecio.com",
+        "label": "Learning Chinese"
+      },
+      {
+        "url": "http://www.campuschina.org/",
+        "label": "Study in China"
+      },
+      {
+        "url": "http://www.campuschina.org/scholarships/index.html",
+        "label": "Scholarships"
+      },
+      {
+        "url": "http://www.campuschina.org/universities/index.html",
+        "label": "Directories"
+      },
+      {
+        "url": "https://en.moe.gov.cn/statement/",
+        "label": "Statement"
+      },
+      {
+        "url": "https://en.moe.gov.cn/contact_us/",
+        "label": "Contact us"
+      }
+    ]
+  },
+  {
+    "key": "bridge_2017_junior_type",
+    "url": "https://en.moe.gov.cn/documents/statistics/2017/national/201808/t20180808_344762.html",
+    "status": "downloaded",
+    "bytes": 66642,
+    "sha256": "4941355049e577c5352f1fcc9c15d59cefce1444f5bf749cbe8aadd8a99b49d2",
+    "path": "raw\\bridge_2017_junior_type.html",
+    "links": [
+      {
+        "url": "http://en.moe.gov.cn",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "中文"
+      },
+      {
+        "url": "http://ru.moe.gov.cn",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn",
+        "label": "العربية"
+      },
+      {
+        "url": "http://en.moe.gov.cn",
+        "label": "HOME"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/what_we_do/",
+        "label": "About MOE"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/what_we_do/",
+        "label": "What We Do"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/ministers/",
+        "label": "Ministers"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/departments/",
+        "label": "Departments"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/affiliated_institutions/",
+        "label": "Affiliated Institutions"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/press_releases/",
+        "label": "News"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/press_releases/",
+        "label": "Press Releases"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/photos/",
+        "label": "Photos"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/media_highlights/",
+        "label": "Media Highlights"
+      },
+      {
+        "url": "https://en.moe.gov.cn/features/",
+        "label": "Features"
+      },
+      {
+        "url": "https://en.moe.gov.cn/cooperation_exchanges/",
+        "label": "Cooperation & Exchanges"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/laws_policies/",
+        "label": "Documents"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/laws_policies/",
+        "label": "Laws and Policies"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/reports/",
+        "label": "Reports"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/statistics/",
+        "label": "Statistics"
+      },
+      {
+        "url": "https://en.moe.gov.cn/services/",
+        "label": "Services"
+      },
+      {
+        "url": "http://www.chinesecio.com",
+        "label": "Learning Chinese"
+      },
+      {
+        "url": "http://www.campuschina.org/",
+        "label": "Study in China"
+      },
+      {
+        "url": "http://www.campuschina.org/scholarships/index.html",
+        "label": "Scholarships"
+      },
+      {
+        "url": "http://www.campuschina.org/universities/index.html",
+        "label": "Directories"
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "javascript:;",
+        "label": ""
+      },
+      {
+        "url": "https://en.moe.gov.cn/subordinate_universities/",
+        "label": "Subordinate Universities"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/what_we_do/",
+        "label": "About MOE"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/what_we_do/",
+        "label": "What We Do"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/ministers/",
+        "label": "Ministers"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/departments/",
+        "label": "Departments"
+      },
+      {
+        "url": "https://en.moe.gov.cn/about_MOE/affiliated_institutions/",
+        "label": "Affiliated Institutions"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/press_releases/",
+        "label": "News"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/press_releases/",
+        "label": "Press Releases"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/photos/",
+        "label": "Photos"
+      },
+      {
+        "url": "https://en.moe.gov.cn/news/media_highlights/",
+        "label": "Media Highlights"
+      },
+      {
+        "url": "https://en.moe.gov.cn/features/",
+        "label": "Features"
+      },
+      {
+        "url": "https://en.moe.gov.cn/cooperation_exchanges/",
+        "label": "Cooperation & Exchanges"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/laws_policies/",
+        "label": "Documents"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/laws_policies/",
+        "label": "Laws and Policies"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/reports/",
+        "label": "Reports"
+      },
+      {
+        "url": "https://en.moe.gov.cn/documents/statistics/",
+        "label": "Statistics"
+      },
+      {
+        "url": "https://en.moe.gov.cn/services/",
+        "label": "Services"
+      },
+      {
+        "url": "http://www.chinesecio.com",
+        "label": "Learning Chinese"
+      },
+      {
+        "url": "http://www.campuschina.org/",
+        "label": "Study in China"
+      },
+      {
+        "url": "http://www.campuschina.org/scholarships/index.html",
+        "label": "Scholarships"
+      },
+      {
+        "url": "http://www.campuschina.org/universities/index.html",
+        "label": "Directories"
+      },
+      {
+        "url": "https://en.moe.gov.cn/statement/",
+        "label": "Statement"
+      },
+      {
+        "url": "https://en.moe.gov.cn/contact_us/",
+        "label": "Contact us"
+      }
+    ]
+  },
+  {
+    "key": "bridge_2023_junior_type",
+    "url": "https://www.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176375.html",
+    "status": "downloaded",
+    "bytes": 48398,
+    "sha256": "633b4d850561caa2790668ea891cfbaba91cc886ea9c56ea9a9b3ce76a1a95ba",
+    "path": "raw\\bridge_2023_junior_type.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=05FDD4B7206C29B0E053012819AC4C18",
+        "label": ""
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm05000001&url=",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3634/201005/t20100504_87292.html",
+        "label": "网站声明"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3636/202404/t20240411_1125026.html",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3635/201611/t20161129_290403.html",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备10028400号-1"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007625",
+        "label": "京公网安备11010202007625号"
+      }
+    ]
+  },
+  {
+    "key": "bridge_2023_primary_organizer",
+    "url": "https://www.moe.gov.cn/jyb_sjzl/moe_560/2023/quanguo/202501/t20250120_1176387.html",
+    "status": "downloaded",
+    "bytes": 71841,
+    "sha256": "6adbabd2e5aac2295fee89154cdd2d70193988c18cf0ecc06ff75743dc1a6fd7",
+    "path": "raw\\bridge_2023_primary_organizer.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=05FDD4B7206C29B0E053012819AC4C18",
+        "label": ""
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm05000001&url=",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3634/201005/t20100504_87292.html",
+        "label": "网站声明"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3636/202404/t20240411_1125026.html",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3635/201611/t20161129_290403.html",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备10028400号-1"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007625",
+        "label": "京公网安备11010202007625号"
+      }
+    ]
+  }
+]

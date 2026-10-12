@@ -1,0 +1,18 @@
+{
+  "window": [
+    2017,
+    2023
+  ],
+  "annual_opportunities_per_province_stage": 6,
+  "province_stages": 62,
+  "observed_maximal_spells": 37,
+  "spells_at_least2": 23,
+  "spells_at_least3": 16,
+  "formula_checks": 185,
+  "threshold_profile_rows": 186,
+  "fund_sensitivity_rows": 138,
+  "financial_denominator_used": false,
+  "causal_models_run": false,
+  "protected_files_unchanged": true,
+  "charts_updated": false
+}

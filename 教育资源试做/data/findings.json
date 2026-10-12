@@ -1,0 +1,82 @@
+{
+  "phase": [
+    {
+      "stage": "primary",
+      "phase": "收缩",
+      "n": 107,
+      "median_student_growth": -1.570635341261728,
+      "median_teacher_growth": -0.4340186333048224,
+      "median_class_growth": -1.7820849650522996,
+      "teacher_rise_count": 45,
+      "class_rise_count": 13
+    },
+    {
+      "stage": "primary",
+      "phase": "增长",
+      "n": 234,
+      "median_student_growth": 2.1139245853017075,
+      "median_teacher_growth": 2.2224887850700092,
+      "median_class_growth": 1.695090371828123,
+      "teacher_rise_count": 204,
+      "class_rise_count": 195
+    },
+    {
+      "stage": "junior",
+      "phase": "收缩",
+      "n": 112,
+      "median_student_growth": -1.8241455840574072,
+      "median_teacher_growth": 0.018171559335089515,
+      "median_class_growth": -0.8300297025751857,
+      "teacher_rise_count": 57,
+      "class_rise_count": 28
+    },
+    {
+      "stage": "junior",
+      "phase": "增长",
+      "n": 229,
+      "median_student_growth": 3.2067406845920576,
+      "median_teacher_growth": 2.162354026905189,
+      "median_class_growth": 3.178601646027235,
+      "teacher_rise_count": 198,
+      "class_rise_count": 223
+    }
+  ],
+  "2024": {
+    "primary": {
+      "students": -2.3223552274282744,
+      "entrants": -13.912043508567894,
+      "teachers": -0.9943870890880002,
+      "classes": -3.3499513661560676,
+      "student_shrink_provinces": 26,
+      "teacher_rise_with_shrink": 7,
+      "class_rise_with_shrink": 0,
+      "teacher_density_change_pct": 1.3595415219441964,
+      "density_teacher_logpoints": -0.9993641390844682,
+      "density_denominator_logpoints": 2.3497468141241615
+    },
+    "junior": {
+      "students": 2.716988542957033,
+      "entrants": 5.364531690104313,
+      "teachers": 1.6108759660039107,
+      "classes": 2.0686266768439765,
+      "student_shrink_provinces": 4,
+      "teacher_rise_with_shrink": 2,
+      "class_rise_with_shrink": 1,
+      "teacher_density_change_pct": -1.0768545618824676,
+      "density_teacher_logpoints": 1.5980390336665897,
+      "density_denominator_logpoints": -2.6807336379693925
+    }
+  },
+  "fiscal_associations": {
+    "primary": {
+      "n": 31,
+      "correlation_fiscal_ratio_teacher_change": 0.3796125036534969,
+      "correlation_student_teacher_change": 0.871582135284363
+    },
+    "junior": {
+      "n": 31,
+      "correlation_fiscal_ratio_teacher_change": 0.3133183151013529,
+      "correlation_student_teacher_change": 0.6988336209079435
+    }
+  }
+}

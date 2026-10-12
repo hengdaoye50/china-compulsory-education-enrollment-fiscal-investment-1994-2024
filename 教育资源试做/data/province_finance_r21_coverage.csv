@@ -1,0 +1,6 @@
+﻿province,year,local_source_depth,stage_actual_spending_verified,paired_fiscal_students_verified,student_weights_verified,classification,boundary
+安徽,2023,government original notice + four-sheet original; mirrored attachment identical,False,False,False,per-student only,only inspected listed attachments; no exhaustive negative claim
+广东,2022,government notice + two-sheet original; mirrored attachment identical,False,False,False,per-student only,only inspected listed attachments; no exhaustive negative claim
+宁夏,2023,government notice + four one-page PDF tables,False,False,False,per-student only,only inspected listed attachments; no exhaustive negative claim
+贵州,2022,full-province functional final PDF; physical pages 4/5 visually verified,functional code only; survey total not verified,False,False,separate functional expenditure candidate,do not merge functional candidates into education-finance main series
+贵州,2023,full-province functional final PDF; physical pages 4/5 visually verified,functional code only; survey total not verified,False,False,separate functional expenditure candidate,do not merge functional candidates into education-finance main series

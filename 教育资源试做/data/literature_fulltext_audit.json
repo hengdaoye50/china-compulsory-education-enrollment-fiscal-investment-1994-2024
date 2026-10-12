@@ -1,0 +1,35 @@
+{
+  "date": "2026-10-08",
+  "round": 29,
+  "received_pdf_count": 4,
+  "selected_scoped_paper_count": 4,
+  "evidence_count": 16,
+  "anchor_checks_passed": 16,
+  "originals_sha256_verified": true,
+  "reviewed_entire_text": false,
+  "source_journal_floor": "CSSCI source journals 2025-2026, excluding extension; round28 verification retained",
+  "individual_cssci_database_inclusion_checked": false,
+  "protected_files": [
+    {
+      "path": "data/finance_long.csv",
+      "unchanged": true,
+      "sha256": "4b07e6dd9c6812652fa2de5a4fdac8331e15f0f69843f128fd8c741ae976e6b2"
+    },
+    {
+      "path": "data/education_resource_panel.csv",
+      "unchanged": true,
+      "sha256": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f"
+    },
+    {
+      "path": "data/panel.json",
+      "unchanged": true,
+      "sha256": "4f2ad2013d233f3f54d4f8c576d78c7e476875d1e2b1e11fd0133ebe310e7f02"
+    },
+    {
+      "path": "教育资源试做.html",
+      "unchanged": true,
+      "sha256": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06"
+    }
+  ],
+  "note": "Bibliographic and selected passage audit; not method replication or causal certification"
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "key": "province_finance_r21_anhui_2023_xlsx",
+    "url": "https://jyt.ah.gov.cn/group3/M00/11/BA/wKg86menG1qAZrN7AADme8oj7LQ95.xlsx",
+    "status": "downloaded",
+    "bytes": 59003,
+    "sha256": "646445f8022ae30f897e877304e77a3b3aae5938c0dce3baa8ae981abc78ac3f",
+    "path": "raw\\province_finance_r21_anhui_2023_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "province_finance_r21_anhui_2023_cee_xlsx",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/c773678/part/773684.xlsx",
+    "status": "downloaded",
+    "bytes": 59003,
+    "sha256": "646445f8022ae30f897e877304e77a3b3aae5938c0dce3baa8ae981abc78ac3f",
+    "path": "raw\\province_finance_r21_anhui_2023_cee_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "province_finance_r21_guangdong_2022_xlsx",
+    "url": "https://edu.gd.gov.cn/attachment/0/539/539530/4324695.xlsx",
+    "status": "downloaded",
+    "bytes": 31564,
+    "sha256": "90cff542d4ffbfd234f408a49d0af17660b9bb1b7274dc92a745918bb338ffe8",
+    "path": "raw\\province_finance_r21_guangdong_2022_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "province_finance_r21_guangdong_2022_cee_xlsx",
+    "url": "https://www.cee.edu.cn/n171/n464/n525/c773572/part/773598.xlsx",
+    "status": "downloaded",
+    "bytes": 31564,
+    "sha256": "90cff542d4ffbfd234f408a49d0af17660b9bb1b7274dc92a745918bb338ffe8",
+    "path": "raw\\province_finance_r21_guangdong_2022_cee_xlsx.xlsx",
+    "links": []
+  },
+  {
+    "key": "province_finance_r21_ningxia_2023_table1_pdf",
+    "url": "https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356208784170.pdf",
+    "status": "downloaded",
+    "bytes": 128723,
+    "sha256": "4b038b5108adc764fc70b72ef09c2f7f225edce44cceb4c7f6d7e30211e61268",
+    "path": "raw\\province_finance_r21_ningxia_2023_table1_pdf.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_r21_ningxia_2023_table2_pdf",
+    "url": "https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356208922981.pdf",
+    "status": "downloaded",
+    "bytes": 114148,
+    "sha256": "c5d54870a1e17b3a6528b3b63244f2baae80b7b6c66fca32062346b1585416b4",
+    "path": "raw\\province_finance_r21_ningxia_2023_table2_pdf.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_r21_ningxia_2023_table3_pdf",
+    "url": "https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209013303.pdf",
+    "status": "downloaded",
+    "bytes": 110961,
+    "sha256": "1c6cdd902684e0031719d8a339e2c17d1c9e2d7940b2da523b755140602f6ee7",
+    "path": "raw\\province_finance_r21_ningxia_2023_table3_pdf.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_r21_ningxia_2023_table4_pdf",
+    "url": "https://jyt.nx.gov.cn/xwdt/tzgg/202501/P020250124356209092264.pdf",
+    "status": "downloaded",
+    "bytes": 111604,
+    "sha256": "06b5381ec22463c75b2239359daf49b003a3df6f1d08fae9e8ac3ccac7004a52",
+    "path": "raw\\province_finance_r21_ningxia_2023_table4_pdf.pdf",
+    "links": []
+  },
+  {
+    "key": "province_finance_r21_guizhou_functional_2022_pdf",
+    "url": "https://czt.guizhou.gov.cn/zwgk/zdlyxx/czys/202308/P020230816545822790622.pdf",
+    "status": "downloaded",
+    "bytes": 9107783,
+    "sha256": "51c2b0ca1d962f619055491f04abbcacd46ecb880de0b6818d2e54db34333f2e",
+    "path": "raw\\province_finance_r21_guizhou_functional_2022_pdf.pdf",
+    "links": []
+  }
+]

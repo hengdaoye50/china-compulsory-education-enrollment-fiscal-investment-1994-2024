@@ -1,0 +1,317 @@
+[
+  {
+    "key": "province_finance_next_hunan_2023_http",
+    "url": "http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/tzgg/202412/t20241226_1152042.html",
+    "status": "downloaded",
+    "bytes": 22824,
+    "sha256": "2ce9986117704510f1800614207008f473fdbb872951238062accd61db6cc218",
+    "path": "raw\\province_finance_next_hunan_2023_http.html",
+    "links": [
+      {
+        "url": "http://www.gov.cn/",
+        "label": "中国政府网"
+      },
+      {
+        "url": "http://www.hunan.gov.cn/",
+        "label": "湖南省政府网"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/jg/index.html",
+        "label": "机构"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/index.html",
+        "label": "公开"
+      },
+      {
+        "url": "http://zwfw-new.hunan.gov.cn/hnzwfw/1/186/196/index.htm",
+        "label": "服务"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/hdjl/index.html",
+        "label": "互动"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/ztzl/index.html",
+        "label": "专题"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/index.html",
+        "label": "省教育厅"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/index.html",
+        "label": "信息公开"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/xxgk/tzgg/index.html",
+        "label": "通知公告"
+      },
+      {
+        "url": "javascript:doFont(20)",
+        "label": "大"
+      },
+      {
+        "url": "javascript:doFont(15)",
+        "label": "中"
+      },
+      {
+        "url": "javascript:doFont(12)",
+        "label": "小"
+      },
+      {
+        "url": "https://cms.jyt.hunan.gov.cn/zcms/contentcore/resource/download?ID=125566",
+        "label": "2023年湖南省教育经费执行情况统计表"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "教育部"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/fzlm/dbdh/szjyj/foot_nav.html",
+        "label": "市州教育局"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/fzlm/dbdh/bkyx/list_bkyx.html",
+        "label": "本科院校"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/fzlm/dbdh/gzgz/list_gzgz.html",
+        "label": "高职高专"
+      },
+      {
+        "url": "http://jyt.hunan.gov.cn/jyt/sjyt/fzlm/wzdt/index.html",
+        "label": "站点地图"
+      },
+      {
+        "url": "https://bszs.conac.cn/sitename?method=show&id=0897A02F208B77DBE053022819AC6E65",
+        "label": ""
+      },
+      {
+        "url": "http://beian.miit.gov.cn",
+        "label": "湘ICP备09005173号-8"
+      },
+      {
+        "url": "https://www.beian.gov.cn/portal/registerSystemInfo?recordcode=43010202000676",
+        "label": "湘公网安备：43010202000676号"
+      }
+    ]
+  },
+  {
+    "key": "province_finance_next_hunan_2022_attachment",
+    "url": "https://cms.jyt.hunan.gov.cn/zcms/contentcore/resource/download?ID=118281",
+    "status": "downloaded",
+    "bytes": 92060,
+    "sha256": "d693eed7da59756cea1ab9bb6a780df9b2030dafd5cddcae9d2dd991920e59d5",
+    "path": "raw\\province_finance_next_hunan_2022_attachment.html",
+    "links": []
+  },
+  {
+    "key": "province_finance_next_hunan_reporting_2023_pdf",
+    "url": "https://www.hnswxy.com/uploads/soft/240517/29-24051G51211.pdf",
+    "status": "failed",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+  },
+  {
+    "key": "province_finance_next_moe_standards_2023",
+    "url": "https://www.moe.gov.cn/srcsite/A05/s7499/202310/t20231013_1085389.html",
+    "status": "downloaded",
+    "bytes": 26215,
+    "sha256": "336f560fc949787b524747086c1de0647184f68e50ac0f97eb190c1c57538469",
+    "path": "raw\\province_finance_next_moe_standards_2023.html",
+    "links": [
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "登录"
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://so.moe.gov.cn/",
+        "label": "搜索"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": ""
+      },
+      {
+        "url": "http://en.moe.gov.cn/",
+        "label": "English"
+      },
+      {
+        "url": "http://ru.moe.gov.cn/",
+        "label": "Русский"
+      },
+      {
+        "url": "http://jp.moe.gov.cn/",
+        "label": "日本語"
+      },
+      {
+        "url": "http://de.moe.gov.cn/",
+        "label": "Deutsch"
+      },
+      {
+        "url": "http://fr.moe.gov.cn/",
+        "label": "Français"
+      },
+      {
+        "url": "http://es.moe.gov.cn/",
+        "label": "Español"
+      },
+      {
+        "url": "http://ar.moe.gov.cn/",
+        "label": "العربية"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_sy/sy_wb/201301/t20130129_147290.html",
+        "label": "微言教育"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "无障碍浏览"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "登录"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": "注册"
+      },
+      {
+        "url": "javascript:void(0);",
+        "label": ""
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&state=",
+        "label": "个人登录"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/portal/trs/login?appId=trs&redirectUrl=http://www.moe.gov.cn/hd/login/cas&refer=CP&loginType=2&state=",
+        "label": "法人登录"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/naturalMan/register",
+        "label": "个人注册"
+      },
+      {
+        "url": "https://rz.moe.gov.cn/tacs-uc/corp/register",
+        "label": "法人注册"
+      },
+      {
+        "url": "http://www.moe.gov.cn/",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_zzjg/",
+        "label": "机构"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_xwfb/",
+        "label": "新闻"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "https://zwfw.moe.gov.cn/",
+        "label": "服务"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_hygq/",
+        "label": "互动"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_sjzl/",
+        "label": "文献"
+      },
+      {
+        "url": "http://www.moe.gov.cn",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_xxgk/",
+        "label": "公开"
+      },
+      {
+        "url": "javascript:;",
+        "label": "下载"
+      },
+      {
+        "url": "https://www.moe.gov.cn/jyb_xwfb/s271/202311/t20231107_1089437.html",
+        "label": "教育部财务司负责人就《教育部 国家统计局 财政部关于适应高质量发展要求 进一步完善教育经费统计体系的意见》答记者问"
+      },
+      {
+        "url": "http://bszs.conac.cn/sitename?method=show&id=05FDD4B7206C29B0E053012819AC4C18",
+        "label": ""
+      },
+      {
+        "url": "https://zfwzgl.www.gov.cn/exposure/jiucuo.html?site_code=bm05000001&url=",
+        "label": ""
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3634/201005/t20100504_87292.html",
+        "label": "网站声明"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3636/202404/t20240411_1125026.html",
+        "label": "网站地图"
+      },
+      {
+        "url": "http://www.moe.gov.cn/jyb_sy/s3635/201611/t20161129_290403.html",
+        "label": "联系我们"
+      },
+      {
+        "url": "https://beian.miit.gov.cn/",
+        "label": "京ICP备10028400号-1"
+      },
+      {
+        "url": "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11010202007625",
+        "label": "京公网安备11010202007625号"
+      }
+    ]
+  }
+]

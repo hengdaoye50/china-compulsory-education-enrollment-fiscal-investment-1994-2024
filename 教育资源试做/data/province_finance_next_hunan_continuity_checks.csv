@@ -1,0 +1,7 @@
+﻿province,year,stage,metric,prior_original_value,current_prior_column,prior_status,computed_growth,published_growth,growth_status,eligibility
+湖南,2023,primary,budget_per_student,10843.53,10843.53,pass,2.182960714822571616438558300,2.18,pass,per-student vintage consistency only; no fiscal denominator
+湖南,2023,primary,career_per_student,10542.32,10542.32,pass,2.733838471987190675297278000,2.73,pass,per-student vintage consistency only; no fiscal denominator
+湖南,2023,primary,public_per_student,2382.94,2382.94,pass,3.651371834792315375124845800,3.65,pass,per-student vintage consistency only; no fiscal denominator
+湖南,2023,junior,budget_per_student,16099.47,16099.47,pass,-0.9722059173376514879061236200,-0.97,pass,per-student vintage consistency only; no fiscal denominator
+湖南,2023,junior,career_per_student,15434.12,15434.12,pass,-0.1002972634656203269120623700,-0.1,pass,per-student vintage consistency only; no fiscal denominator
+湖南,2023,junior,public_per_student,3954.54,3954.54,pass,0.897955261547487191936356700,0.9,pass,per-student vintage consistency only; no fiscal denominator

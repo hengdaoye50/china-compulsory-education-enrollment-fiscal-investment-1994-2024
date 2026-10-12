@@ -1,0 +1,206 @@
+[
+  {
+    "key": "finance_continuity_wulitou_data_page",
+    "url": "https://www.yantai.gov.cn/art/2025/2/26/art_84257_3007506.html",
+    "status": "downloaded",
+    "bytes": 14590,
+    "sha256": "b3a6255ea4b5abfb47b929a6c8fd455287ee4a8b3049922db3316e1402f52ad2",
+    "path": "raw\\finance_continuity_wulitou_data_page.html",
+    "links": [
+      {
+        "url": "https://www.yantai.gov.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col11807/index.html",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col65224/index.html",
+        "label": "公共企事业单位信息公开平台"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html",
+        "label": "教育领域"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html?®ion=meta_8442_5",
+        "label": "牟平区"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col80003/index.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83835/index.html",
+        "label": "规划统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84257/index.html",
+        "label": "统计数据"
+      },
+      {
+        "url": "javascript:doZoom(16)",
+        "label": "大"
+      },
+      {
+        "url": "javascript:doZoom(14)",
+        "label": "中"
+      },
+      {
+        "url": "javascript:doZoom(12)",
+        "label": "小"
+      },
+      {
+        "url": "javascript:window.print()",
+        "label": "打印"
+      },
+      {
+        "url": "javascript:window.close()",
+        "label": "关闭"
+      }
+    ]
+  },
+  {
+    "key": "finance_continuity_xinan_statistics",
+    "url": "https://www.yantai.gov.cn/col/col91326/index.html",
+    "status": "downloaded",
+    "bytes": 10824,
+    "sha256": "d5f36a0348b83e5b278e2eec09e01fe9e6a27f64635e4218b846e3862e98a329",
+    "path": "raw\\finance_continuity_xinan_statistics.html",
+    "links": [
+      {
+        "url": "https://www.yantai.gov.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col11807/index.html",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col65224/index.html",
+        "label": "公共企事业单位信息公开平台"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html",
+        "label": "教育领域"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html?®ion=meta_8442_7",
+        "label": "海阳市"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col89794/index.html",
+        "label": "海阳市辛安镇第一初级中学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91326/index.html",
+        "label": "规划统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col89794/index.html",
+        "label": "海阳市辛安镇第一初级中学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91325/index.html",
+        "label": "学校概况"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91326/index.html",
+        "label": "规划统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91327/index.html",
+        "label": "财务信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91328/index.html",
+        "label": "招生录取"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91329/index.html",
+        "label": "教育教学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91330/index.html",
+        "label": "教师管理"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91331/index.html",
+        "label": "学生管理"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91332/index.html",
+        "label": "体育美育"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91333/index.html",
+        "label": "校园安全"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91334/index.html",
+        "label": "信息公开咨询指南"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91351/index.html",
+        "label": "规划计划"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91351/index.html",
+        "label": "更多>>"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/9/9/art_91351_3287402.html",
+        "label": "【工作计划】海阳市辛安镇第一初级中学2026-2027学年度学校工作计划"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/9/9/art_91351_3016996.html",
+        "label": "【综合规划】海阳市辛安镇第一初级中学德育课程一体化工作中长期规划"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/9/9/art_91351_3017030.html",
+        "label": "【专项规划】海阳市辛安镇第一初级中学三年发展规划"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91351/art/2026/art_62a6ad0030e9417e9615f65d33eadf0a.html",
+        "label": "【执行情况】海阳市辛安镇第一初级中学2025-2026学年度工作总结"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/3/3/art_91351_3258701.html",
+        "label": "【执行情况】海阳市辛安镇第一初级中学2024-2025学年度教学工作总结"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2024/8/30/art_91351_3066230.html",
+        "label": "【工作计划】海阳市辛安镇第一初级中学2024-2025学年度学校工作计划"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91352/index.html",
+        "label": "统计数据"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91352/index.html",
+        "label": "更多>>"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/9/9/art_91352_3287404.html",
+        "label": "海阳市辛安镇第一初级中学2026-2027学年度第一学期数据统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91352/art/2026/art_d04d29c0301f49dea458017048cbbf02.html",
+        "label": "海阳市辛安镇第一初级中学2025-2026学年度第二学期数据统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/3/3/art_91352_3258772.html",
+        "label": "海阳市辛安镇第一初级中学2024-2025学年度第二学期数据统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2024/9/2/art_91352_3222624.html",
+        "label": "海阳市辛安镇第一初级中学2024-2025学年度数据统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2024/2/26/art_91352_3158974.html",
+        "label": "海阳市辛安镇第一初级中学2023-2024学年度数据统计"
+      }
+    ]
+  }
+]

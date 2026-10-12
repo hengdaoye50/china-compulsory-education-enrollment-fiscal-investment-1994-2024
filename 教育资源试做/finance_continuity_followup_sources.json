@@ -1,0 +1,320 @@
+[
+  {
+    "key": "finance_continuity_wulitou_finance",
+    "url": "https://www.yantai.gov.cn/col/col83906/index.html",
+    "status": "downloaded",
+    "bytes": 13262,
+    "sha256": "891153b555bc0fb11daef355be7ce8690e05c7752c0af57a0097bbd82514cdfb",
+    "path": "raw\\finance_continuity_wulitou_finance.html",
+    "links": [
+      {
+        "url": "https://www.yantai.gov.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col11807/index.html",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col65224/index.html",
+        "label": "公共企事业单位信息公开平台"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html",
+        "label": "教育领域"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html?®ion=meta_8442_5",
+        "label": "牟平区"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col80003/index.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83906/index.html",
+        "label": "财务信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col80003/index.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83759/index.html",
+        "label": "学校概况"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83835/index.html",
+        "label": "规划统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83906/index.html",
+        "label": "财务信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83991/index.html",
+        "label": "招生录取"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84170/index.html",
+        "label": "教育教学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84353/index.html",
+        "label": "教师管理"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84463/index.html",
+        "label": "学生管理"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84532/index.html",
+        "label": "体育美育"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84595/index.html",
+        "label": "校园安全"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84680/index.html",
+        "label": "信息公开咨询指南"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84140/index.html",
+        "label": "预决算信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84140/index.html",
+        "label": "更多>>"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84140/art/2026/art_afd33477500c40a99abd81576619c92d.html",
+        "label": "2025年烟台市牟平区武宁街道五里头学区小学决算公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84140/art/2026/art_236c5e843591473e8028673bbbcd1696.html",
+        "label": "2026年烟台市牟平区武宁街道五里头学区小学单位预算公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/5/23/art_84140_3258621.html",
+        "label": "2025年烟台市牟平区武宁街道五里头学区小学单位预算公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/5/23/art_84140_3258608.html",
+        "label": "2024年烟台市牟平区武宁街道五里头学区小学决算公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2024/10/18/art_84140_3224155.html",
+        "label": "2023年烟台市牟平区武宁街道五里头学区小学决算公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2024/2/20/art_84140_3176162.html",
+        "label": "2024年烟台市牟平区武宁街道五里头学区小学单位预算公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84308/index.html",
+        "label": "采购信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84308/index.html",
+        "label": "更多>>"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84308/art/2026/art_c0164a2eea7e42c79c13c78f1ab10cf5.html",
+        "label": "2026年度烟台市牟平区武宁街道五里头学区小学重大基建工程招投标信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84308/art/2026/art_4bb530e6fa5c4767b0d9ece87f83303f.html",
+        "label": "2026年度烟台市牟平区武宁街道五里头学区小学大宗物资采购信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/5/23/art_84308_3258655.html",
+        "label": "2025年度烟台市牟平区武宁街道五里头学区小学重大基建工程招投标信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/5/23/art_84308_3258646.html",
+        "label": "2025年度烟台市牟平区武宁街道五里头学区小学大宗物资采购信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2024/5/17/art_84308_3188080.html",
+        "label": "2024年度烟台市牟平区武宁街道五里头学区小学大宗物资采购信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2024/2/17/art_84308_3188078.html",
+        "label": "2024年度烟台市牟平区武宁街道五里头学区小学重大基建工程招投标信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84418/index.html",
+        "label": "收费信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84418/index.html",
+        "label": "更多>>"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84418/art/2026/art_e59c0e2b623043aab933723d24f4367e.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学2026学年收费情况"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2025/2/14/art_84418_3258664.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学2025学年收费情况"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2024/2/17/art_84418_3188084.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学2024学年收费情况"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2023/9/12/art_84418_3114375.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学2023学年收费情况"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2022/9/7/art_84418_2997526.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学2022学年收费情况"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/art/2021/9/7/art_84418_2997514.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学2021学年收费情况"
+      }
+    ]
+  },
+  {
+    "key": "finance_continuity_wulitou_school",
+    "url": "https://www.yantai.gov.cn/col/col80003/index.html",
+    "status": "downloaded",
+    "bytes": 15232,
+    "sha256": "04eb95f793e5c79750897044331e8e34a1eac64185543ff4966201e6f877462b",
+    "path": "raw\\finance_continuity_wulitou_school.html",
+    "links": [
+      {
+        "url": "https://www.yantai.gov.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col11807/index.html",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col65224/index.html",
+        "label": "公共企事业单位信息公开平台"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html",
+        "label": "教育领域"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html?®ion=meta_8442_5",
+        "label": "牟平区"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col80003/index.html",
+        "label": "烟台市牟平区武宁街道五里头学区小学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col80003/index.html",
+        "label": ""
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83759/index.html",
+        "label": "学校概况"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83835/index.html",
+        "label": "规划统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83906/index.html",
+        "label": "财务信息"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col83991/index.html",
+        "label": "招生录取"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84170/index.html",
+        "label": "教育教学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84353/index.html",
+        "label": "教师管理"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84463/index.html",
+        "label": "学生管理"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84532/index.html",
+        "label": "体育美育"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84595/index.html",
+        "label": "校园安全"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col84680/index.html",
+        "label": "信息公开咨询指南"
+      }
+    ]
+  },
+  {
+    "key": "finance_continuity_xinan_plan",
+    "url": "https://www.yantai.gov.cn/art/2024/8/30/art_91351_3066230.html",
+    "status": "downloaded",
+    "bytes": 18207,
+    "sha256": "d22779cab3aedeb1ac0f035738b1dd3ce3606fbcb3ffbd5a53e8667e8d5eea3a",
+    "path": "raw\\finance_continuity_xinan_plan.html",
+    "links": [
+      {
+        "url": "https://www.yantai.gov.cn/index.html",
+        "label": "首页"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col11807/index.html",
+        "label": "政务公开"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col65224/index.html",
+        "label": "公共企事业单位信息公开平台"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html",
+        "label": "教育领域"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/gonggongqishiyedanweixinxigongkai_jiaoyulingyu/index.html?®ion=meta_8442_7",
+        "label": "海阳市"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col89794/index.html",
+        "label": "海阳市辛安镇第一初级中学"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91326/index.html",
+        "label": "规划统计"
+      },
+      {
+        "url": "https://www.yantai.gov.cn/col/col91351/index.html",
+        "label": "规划计划"
+      },
+      {
+        "url": "javascript:doZoom(16)",
+        "label": "大"
+      },
+      {
+        "url": "javascript:doZoom(14)",
+        "label": "中"
+      },
+      {
+        "url": "javascript:doZoom(12)",
+        "label": "小"
+      },
+      {
+        "url": "javascript:window.print()",
+        "label": "打印"
+      },
+      {
+        "url": "javascript:window.close()",
+        "label": "关闭"
+      }
+    ]
+  }
+]

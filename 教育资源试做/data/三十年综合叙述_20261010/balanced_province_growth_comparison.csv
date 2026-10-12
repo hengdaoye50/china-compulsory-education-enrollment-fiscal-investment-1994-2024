@@ -1,0 +1,19 @@
+﻿stage,start_year,end_year,metric,common_provinces,common_cohort_median_annualized_pct,all_available_provinces,all_available_median_annualized_pct,common_real_increasing,common_real_decreasing,interpretation
+primary,1995,2006,P,28,12.539699737137145,28,12.539699737137145,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+primary,1995,2006,C,28,9.20525871177653,28,9.20525871177653,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+primary,1995,2006,PC,28,11.702155261097724,28,11.702155261097724,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+primary,2007,2013,P,28,11.044698881117942,31,11.054807072721218,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+primary,2007,2013,C,28,22.26860643948151,31,22.05822595934439,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+primary,2007,2013,PC,28,14.54030146790538,31,14.391885981419827,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+primary,2013,2023,P,28,7.704534763717474,31,7.731603322746117,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+primary,2013,2023,C,28,2.1527294934752916,31,2.353947079770502,21,7,same geographic cohort; original segmented classifications still pending; not a policy effect
+primary,2013,2023,PC,28,6.1617059655913025,31,6.164676461673069,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+junior,1995,2006,P,28,12.624682452366699,28,12.624682452366699,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+junior,1995,2006,C,28,10.648318598282014,28,10.648318598282014,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+junior,1995,2006,PC,28,12.107394414909123,28,12.107394414909123,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+junior,2007,2013,P,28,11.13413872001695,31,11.151961141328792,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+junior,2007,2013,C,28,18.71878179566653,31,18.570520146170487,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+junior,2007,2013,PC,28,14.472908497925385,31,14.358064951303051,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+junior,2013,2023,P,28,8.050895024687645,31,8.12616161991222,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect
+junior,2013,2023,C,28,1.7497731837275987,31,1.7693810843838476,23,5,same geographic cohort; original segmented classifications still pending; not a policy effect
+junior,2013,2023,PC,28,6.052489595677114,31,6.221205214285597,28,0,same geographic cohort; original segmented classifications still pending; not a policy effect

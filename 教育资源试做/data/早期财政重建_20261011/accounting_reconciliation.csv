@@ -1,0 +1,17 @@
+﻿year,test,fiscal_residual,total_residual,enterprise_rule,stage
+1995,national_expenditure_components,0.0,0.0,,
+1996,national_expenditure_components,0.0,0.0,,
+1997,national_expenditure_components,0.0,0.0,,
+1998,national_income_components,0.0,0.0,enterprise_total,
+1999,national_income_components,0.0,0.0,enterprise_total,
+2000,national_income_components,0.0,0.0,enterprise_total,
+2001,national_income_components,0.0,0.0,enterprise_total,
+2002,national_income_components,0.0,0.0,enterprise_appropriation_plus_industry,
+2003,national_income_components,0.0,0.0,enterprise_appropriation_plus_industry,
+2004,national_income_components,0.0,0.0,enterprise_appropriation_plus_industry,
+2005,bridge_to_published_stage_fiscal,0.0,0.0,,all
+2005,bridge_to_published_stage_fiscal,0.0,0.0,,primary
+2005,bridge_to_published_stage_fiscal,0.0,0.0,,junior
+2006,bridge_to_published_stage_fiscal,0.0,0.0,,all
+2006,bridge_to_published_stage_fiscal,0.0,0.0,,primary
+2006,bridge_to_published_stage_fiscal,0.0,0.0,,junior

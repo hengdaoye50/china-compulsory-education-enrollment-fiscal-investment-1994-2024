@@ -1,0 +1,16 @@
+{
+  "checks": {
+    "adjacent_positions_unique": true,
+    "exclusions_balance_496": true,
+    "all_change_formulas_recomputed": true,
+    "D_common_price_cancels": true,
+    "main_157_and_17_pressure": true,
+    "FWL_matches_recorded_H1": true,
+    "synthetic_FE_known_coefficients_recovered": true,
+    "primary_H1_interval_and_p_agree": true,
+    "all_original_model_approvals_still_false": true,
+    "inputs_unchanged": true,
+    "protected_outputs_unchanged": true
+  },
+  "passed": true
+}

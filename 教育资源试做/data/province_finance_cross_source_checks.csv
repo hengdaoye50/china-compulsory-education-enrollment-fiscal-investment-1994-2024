@@ -1,0 +1,61 @@
+﻿province,year,stage,metric,local_value,moe_value,difference,tolerance,source,locator,status
+黑龙江,2023,primary,budget_per_student,15891.7,15891.7,0.0,0.005,https://jyt.hlj.gov.cn/jyt/c110518/202501/31798943/files/%E9%99%84%E4%BB%B6%202023%E5%B9%B4%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E7%BB%8F%E8%B4%B9%E6%89%A7%E8%A1%8C%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8.xlsx,表二 省合计,pass
+黑龙江,2023,junior,budget_per_student,18165.46,18165.46,0.00,0.005,https://jyt.hlj.gov.cn/jyt/c110518/202501/31798943/files/%E9%99%84%E4%BB%B6%202023%E5%B9%B4%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E7%BB%8F%E8%B4%B9%E6%89%A7%E8%A1%8C%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8.xlsx,表二 省合计,pass
+黑龙江,2023,primary,career_per_student,15638.5,15638.5,0.0,0.005,https://jyt.hlj.gov.cn/jyt/c110518/202501/31798943/files/%E9%99%84%E4%BB%B6%202023%E5%B9%B4%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E7%BB%8F%E8%B4%B9%E6%89%A7%E8%A1%8C%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8.xlsx,表三 省合计,pass
+黑龙江,2023,junior,career_per_student,17801.63,17801.63,0.00,0.005,https://jyt.hlj.gov.cn/jyt/c110518/202501/31798943/files/%E9%99%84%E4%BB%B6%202023%E5%B9%B4%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E7%BB%8F%E8%B4%B9%E6%89%A7%E8%A1%8C%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8.xlsx,表三 省合计,pass
+黑龙江,2023,primary,public_per_student,2414.06,2414.06,0.00,0.005,https://jyt.hlj.gov.cn/jyt/c110518/202501/31798943/files/%E9%99%84%E4%BB%B6%202023%E5%B9%B4%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E7%BB%8F%E8%B4%B9%E6%89%A7%E8%A1%8C%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8.xlsx,表四 省合计,pass
+黑龙江,2023,junior,public_per_student,2967.59,2967.59,0.00,0.005,https://jyt.hlj.gov.cn/jyt/c110518/202501/31798943/files/%E9%99%84%E4%BB%B6%202023%E5%B9%B4%E9%BB%91%E9%BE%99%E6%B1%9F%E7%9C%81%E6%95%99%E8%82%B2%E7%BB%8F%E8%B4%B9%E6%89%A7%E8%A1%8C%E6%83%85%E5%86%B5%E7%BB%9F%E8%AE%A1%E8%A1%A8.xlsx,表四 省合计,pass
+福建,2023,primary,budget_per_student,12282.27,12282.27,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202501/t20250103_6601994.htm,公告分学段段落,pass
+福建,2023,primary,career_per_student,11905.67,11905.67,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202501/t20250103_6601994.htm,公告分学段段落,pass
+福建,2023,primary,public_per_student,2399.83,2399.83,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202501/t20250103_6601994.htm,公告分学段段落,pass
+福建,2023,junior,budget_per_student,19396.20,19396.2,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202501/t20250103_6601994.htm,公告分学段段落,pass
+福建,2023,junior,career_per_student,18706.59,18706.59,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202501/t20250103_6601994.htm,公告分学段段落,pass
+福建,2023,junior,public_per_student,3842.90,3842.9,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202501/t20250103_6601994.htm,公告分学段段落,pass
+福建,2022,primary,budget_per_student,12317.46,12317.46,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202312/t20231220_6363312.htm,公告分学段段落,pass
+福建,2022,primary,career_per_student,11951.97,11951.97,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202312/t20231220_6363312.htm,公告分学段段落,pass
+福建,2022,primary,public_per_student,2553.03,2553.03,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202312/t20231220_6363312.htm,公告分学段段落,pass
+福建,2022,junior,budget_per_student,19342.71,19342.71,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202312/t20231220_6363312.htm,公告分学段段落,pass
+福建,2022,junior,career_per_student,18679.11,18679.11,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202312/t20231220_6363312.htm,公告分学段段落,pass
+福建,2022,junior,public_per_student,3801.15,3801.15,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202312/t20231220_6363312.htm,公告分学段段落,pass
+福建,2021,primary,budget_per_student,11267.79,11267.79,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202301/t20230113_6094195.htm,公告分学段段落,pass
+福建,2021,primary,career_per_student,11200.10,11200.1,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202301/t20230113_6094195.htm,公告分学段段落,pass
+福建,2021,primary,public_per_student,2699.40,2699.4,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202301/t20230113_6094195.htm,公告分学段段落,pass
+福建,2021,junior,budget_per_student,18140.60,18140.6,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202301/t20230113_6094195.htm,公告分学段段落,pass
+福建,2021,junior,career_per_student,17922.21,17922.21,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202301/t20230113_6094195.htm,公告分学段段落,pass
+福建,2021,junior,public_per_student,4121.79,4121.79,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/tjsj/202301/t20230113_6094195.htm,公告分学段段落,pass
+福建,2020,primary,budget_per_student,11227.52,11227.52,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202112/t20211217_5795775.htm,公告分学段段落,pass
+福建,2020,primary,career_per_student,10900.04,10900.04,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202112/t20211217_5795775.htm,公告分学段段落,pass
+福建,2020,primary,public_per_student,2813.51,2813.51,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202112/t20211217_5795775.htm,公告分学段段落,pass
+福建,2020,junior,budget_per_student,18390.48,18390.48,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202112/t20211217_5795775.htm,公告分学段段落,pass
+福建,2020,junior,career_per_student,17712.28,17712.28,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202112/t20211217_5795775.htm,公告分学段段落,pass
+福建,2020,junior,public_per_student,4256.22,4256.22,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202112/t20211217_5795775.htm,公告分学段段落,pass
+福建,2019,primary,budget_per_student,11192.60,11192.6,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202012/t20201203_5472055.htm,公告分学段段落,pass
+福建,2019,primary,career_per_student,10730.44,10730.44,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202012/t20201203_5472055.htm,公告分学段段落,pass
+福建,2019,primary,public_per_student,2963.20,2963.2,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202012/t20201203_5472055.htm,公告分学段段落,pass
+福建,2019,junior,budget_per_student,18285.57,18285.57,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202012/t20201203_5472055.htm,公告分学段段落,pass
+福建,2019,junior,career_per_student,17207.17,17207.17,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202012/t20201203_5472055.htm,公告分学段段落,pass
+福建,2019,junior,public_per_student,4267.63,4267.63,0.00,0.005,https://jyt.fujian.gov.cn/xxgk/czzj/202012/t20201203_5472055.htm,公告分学段段落,pass
+辽宁,2023,primary,budget_per_student,11156.46,11156.46,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/gsgg/2024123115165228021/index.shtml,公告分学段段落,pass
+辽宁,2023,primary,career_per_student,10696.27,10696.27,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/gsgg/2024123115165228021/index.shtml,公告分学段段落,pass
+辽宁,2023,primary,public_per_student,1887.34,1887.34,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/gsgg/2024123115165228021/index.shtml,公告分学段段落,pass
+辽宁,2023,junior,budget_per_student,17246.73,17246.73,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/gsgg/2024123115165228021/index.shtml,公告分学段段落,pass
+辽宁,2023,junior,career_per_student,16493.14,16493.14,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/gsgg/2024123115165228021/index.shtml,公告分学段段落,pass
+辽宁,2023,junior,public_per_student,2656.87,2656.87,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/gsgg/2024123115165228021/index.shtml,公告分学段段落,pass
+辽宁,2022,primary,budget_per_student,11546.53,11546.53,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023122814485765464/index.shtml,公告分学段段落,pass
+辽宁,2022,primary,career_per_student,11201.39,11201.39,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023122814485765464/index.shtml,公告分学段段落,pass
+辽宁,2022,primary,public_per_student,1878.17,1878.17,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023122814485765464/index.shtml,公告分学段段落,pass
+辽宁,2022,junior,budget_per_student,17594.20,17594.2,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023122814485765464/index.shtml,公告分学段段落,pass
+辽宁,2022,junior,career_per_student,16835.40,16835.4,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023122814485765464/index.shtml,公告分学段段落,pass
+辽宁,2022,junior,public_per_student,2623.98,2623.98,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023122814485765464/index.shtml,公告分学段段落,pass
+辽宁,2021,primary,budget_per_student,11418.09,11418.09,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023013109345516096/index.shtml,公告分学段段落,pass
+辽宁,2021,primary,career_per_student,11174.12,11174.12,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023013109345516096/index.shtml,公告分学段段落,pass
+辽宁,2021,primary,public_per_student,2232.28,2232.28,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023013109345516096/index.shtml,公告分学段段落,pass
+辽宁,2021,junior,budget_per_student,16411.90,16411.9,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023013109345516096/index.shtml,公告分学段段落,pass
+辽宁,2021,junior,career_per_student,15948.72,15948.72,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023013109345516096/index.shtml,公告分学段段落,pass
+辽宁,2021,junior,public_per_student,2746.48,2746.48,0.00,0.005,https://jyt.ln.gov.cn/jyt/gk/zfxxgk/fdzdgknr/tjxx/2023013109345516096/index.shtml,公告分学段段落,pass
+浙江,2023,primary,budget_per_student,20174.26,20174.26,0.00,0.005,https://jyt.zj.gov.cn/art/2025/2/28/art_1229266680_5469512.html,公告分学段段落,pass
+浙江,2023,primary,career_per_student,19171.34,19171.34,0.00,0.005,https://jyt.zj.gov.cn/art/2025/2/28/art_1229266680_5469512.html,公告分学段段落,pass
+浙江,2023,primary,public_per_student,4833.45,4833.45,0.00,0.005,https://jyt.zj.gov.cn/art/2025/2/28/art_1229266680_5469512.html,公告分学段段落,pass
+浙江,2023,junior,budget_per_student,29268.29,29268.29,0.00,0.005,https://jyt.zj.gov.cn/art/2025/2/28/art_1229266680_5469512.html,公告分学段段落,pass
+浙江,2023,junior,career_per_student,27558.62,27558.62,0.00,0.005,https://jyt.zj.gov.cn/art/2025/2/28/art_1229266680_5469512.html,公告分学段段落,pass
+浙江,2023,junior,public_per_student,6652.33,6652.33,0.00,0.005,https://jyt.zj.gov.cn/art/2025/2/28/art_1229266680_5469512.html,公告分学段段落,pass
