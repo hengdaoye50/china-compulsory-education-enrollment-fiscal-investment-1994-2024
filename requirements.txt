@@ -1,3 +1,4 @@
+# Python >= 3.12; versions recorded from the analysis/figure environment.
 numpy==2.5.3
 pandas==3.0.1
 matplotlib==3.11.2

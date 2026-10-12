@@ -1,0 +1,79 @@
+[
+  {
+    "volume_year": 2018,
+    "expected_data_year_pending_check": 2017,
+    "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2018（excel）.zip",
+    "archive_bytes": 5604468,
+    "archive_sha256": "b05d335f67ff2b215a1ea232bae90cf777b582214c0b1f625efe6b44fc960ea6",
+    "extracted_files": 347,
+    "extracted_bytes": 6174608,
+    "destination": "research\\用户提供资料\\年鉴解压\\卷2018",
+    "evidence_type": "user-provided Excel compilation; publisher original provenance not yet verified"
+  },
+  {
+    "volume_year": 2019,
+    "expected_data_year_pending_check": 2018,
+    "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2019（excel）.zip",
+    "archive_bytes": 5608769,
+    "archive_sha256": "bb541c6fc2ea3f97a83c5a92fab3a535c5514f1ae184a0483da59b22c3795dd7",
+    "extracted_files": 347,
+    "extracted_bytes": 6186695,
+    "destination": "research\\用户提供资料\\年鉴解压\\卷2019",
+    "evidence_type": "user-provided Excel compilation; publisher original provenance not yet verified"
+  },
+  {
+    "volume_year": 2020,
+    "expected_data_year_pending_check": 2019,
+    "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2020（excel）.zip",
+    "archive_bytes": 5327562,
+    "archive_sha256": "adb35b4c3305f47beeea034d002adcc5cacd80a69715c7560cba9dff1d052fa1",
+    "extracted_files": 346,
+    "extracted_bytes": 5908817,
+    "destination": "research\\用户提供资料\\年鉴解压\\卷2020",
+    "evidence_type": "user-provided Excel compilation; publisher original provenance not yet verified"
+  },
+  {
+    "volume_year": 2021,
+    "expected_data_year_pending_check": 2020,
+    "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2021（Excel）.zip",
+    "archive_bytes": 6762838,
+    "archive_sha256": "b5c5280f9c78a5817da07d2917e8768005d3aaa4539bf802ff748e6d3690334a",
+    "extracted_files": 349,
+    "extracted_bytes": 7656855,
+    "destination": "research\\用户提供资料\\年鉴解压\\卷2021",
+    "evidence_type": "user-provided Excel compilation; publisher original provenance not yet verified"
+  },
+  {
+    "volume_year": 2022,
+    "expected_data_year_pending_check": 2021,
+    "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2022（excel）.zip",
+    "archive_bytes": 6840181,
+    "archive_sha256": "969abda8f099d34aecc329f8f7542bb7530802cf62518d9e56059f103f9787cc",
+    "extracted_files": 349,
+    "extracted_bytes": 7670543,
+    "destination": "research\\用户提供资料\\年鉴解压\\卷2022",
+    "evidence_type": "user-provided Excel compilation; publisher original provenance not yet verified"
+  },
+  {
+    "volume_year": 2023,
+    "expected_data_year_pending_check": 2022,
+    "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2023（excel）.zip",
+    "archive_bytes": 7327364,
+    "archive_sha256": "158a73e1e52b42d7181dd6795abb7fc2f802cc19be6cc2b99ec55348084e11c0",
+    "extracted_files": 349,
+    "extracted_bytes": 8322450,
+    "destination": "research\\用户提供资料\\年鉴解压\\卷2023",
+    "evidence_type": "user-provided Excel compilation; publisher original provenance not yet verified"
+  },
+  {
+    "volume_year": 2024,
+    "expected_data_year_pending_check": 2023,
+    "archive": "中国教育经费统计年鉴\\中国教育经费统计年鉴2024（excel）.rar",
+    "archive_bytes": 5453120,
+    "archive_sha256": "837f310c76647eea6f8babe33cbaa96fd14514e73de2da6784488dea19da0542",
+    "extracted_files": 341,
+    "extracted_bytes": 6779570,
+    "destination": "research\\用户提供资料\\年鉴解压\\卷2024",
+    "evidence_type": "user-provided Excel compilation; publisher original provenance not yet verified"
+  }
+]

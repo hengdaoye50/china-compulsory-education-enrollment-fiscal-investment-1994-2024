@@ -1,0 +1,70 @@
+{
+  "date": "2026-10-12",
+  "passed": true,
+  "scope": "repository organization, navigation, release integrity and selected numerical checks",
+  "cleanup_removed_files": 88,
+  "navigation_and_syntax": {
+    "passed": true,
+    "checks": {
+      "unique_manifest_paths": true,
+      "all_manifest_files_exist": true,
+      "organized_roots": true,
+      "legacy_trial_directory_removed": true,
+      "no_temporary_or_report_files_in_release": true,
+      "python_syntax": true,
+      "navigation_links_exist": true,
+      "18_sequential_current_figures": true,
+      "figure_data_and_generators_exist": true,
+      "no_unlisted_payload_files": true
+    },
+    "python_files_checked": 114,
+    "navigation_links_checked": 124,
+    "figures_checked": 18,
+    "unlisted_files": []
+  },
+  "release_integrity": "PASS: 909 research artifacts verified; stored and logical hashes match.",
+  "key_findings": {
+    "passed": true,
+    "checks": {
+      "primary": {
+        "years": 30,
+        "peak_year": 1997,
+        "low_year": 2013,
+        "fiscal_nominal_growth_2013_2024_pct": 107.31,
+        "independent_OLS_contrast": 0.7659136142294377,
+        "published_Holm_p": 0.0008,
+        "note": "p values read from preserved bootstrap output; bootstrap not rerun in this check"
+      },
+      "junior": {
+        "years": 30,
+        "peak_year": 2003,
+        "low_year": 2015,
+        "fiscal_nominal_growth_2013_2024_pct": 111.27,
+        "independent_OLS_contrast": 0.5057296295366184,
+        "published_Holm_p": 0.0033,
+        "note": "p values read from preserved bootstrap output; bootstrap not rerun in this check"
+      }
+    }
+  },
+  "isolated_tool_execution": {
+    "plot_script_test": "passed_in_isolated_copy",
+    "plot_formats": [
+      "png",
+      "pdf",
+      "svg",
+      "csv"
+    ],
+    "materialization_test": "passed_first_and_repeat_run",
+    "restored_csv_count": 2,
+    "tested_cjk_font": "Microsoft YaHei, via MPL_CJK_FONT",
+    "data_unchanged": {
+      "retained_csv_unchanged": 402,
+      "raw_attachments_unchanged": 47,
+      "retained_graphics_unchanged": 106
+    }
+  },
+  "full_raw_yearbook_to_all_results_rerun": false,
+  "bootstrap_rerun_this_pass": false,
+  "report_documents_published": false,
+  "historical_source_records": "Original CSV and raw-source bytes preserved; old-to-new paths recorded in repository_cleanup_20261012.csv."
+}

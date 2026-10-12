@@ -1,0 +1,131 @@
+{
+  "figures": [
+    {
+      "id": "fig01",
+      "title": "全国小学与初中在校生规模的长期变化",
+      "notes": [
+        "来源：中国教育统计年鉴相关原表，按实际数据年整理。两面板使用相同纵轴。",
+        "注：峰谷为1995—2024年观察窗口内端点；学校类型与统计时点的年度定义保留待核。"
+      ],
+      "row_count": 60,
+      "physical_width_cm": 16.51,
+      "physical_height_cm": 14.22,
+      "dpi": 600
+    },
+    {
+      "id": "fig02",
+      "title": "财政性收入金额与占收入总额比例",
+      "notes": [
+        "来源：中国教育经费统计年鉴全国收入表；覆盖全部隶属和原表举办者。",
+        "注：金额为名义值；2006年原表单位未明示，金额留空，占比保留。下图纵轴为70%—100%。",
+        "收入不同于支出；金额增长与比例下降可以同时发生，不据比例单独判断投入缩减。"
+      ],
+      "row_count": 40,
+      "physical_width_cm": 16.51,
+      "physical_height_cm": 14.22,
+      "dpi": 600
+    },
+    {
+      "id": "fig03",
+      "title": "民办学校收入在全国同学段收入中的权重",
+      "notes": [
+        "来源：中国教育经费统计年鉴举办者收入分类表。",
+        "注：分母为全国同学段收入总额。收入权重不是学生人数占比；举办者分类变更仍需桥接。",
+        "峰值为2007—2024年窗口内的收入权重峰值，不代表收入金额峰值。"
+      ],
+      "row_count": 36,
+      "physical_width_cm": 16.51,
+      "physical_height_cm": 13.21,
+      "dpi": 600
+    },
+    {
+      "id": "fig04",
+      "title": "地方隶属学校个人支出占两项合计的比例",
+      "notes": [
+        "来源：中国教育经费统计年鉴第4部分支出明细，全国地方隶属行。",
+        "注：合计=P+C，不含另列基本建设支出。个人支出非纯工资，公用支出非纯日常教学费用。",
+        "分类或范围边界处分段断线；1995年初中个人支出缺失。2024年资本性表头变化单独保留。"
+      ],
+      "row_count": 60,
+      "physical_width_cm": 16.51,
+      "physical_height_cm": 11.18,
+      "dpi": 600
+    },
+    {
+      "id": "fig05",
+      "title": "同一28省个人、公用支出合计实际增速分布",
+      "notes": [
+        "来源：省级支出原表及省级CPI；固定28省，排除四川、重庆、西藏。上方数字为中位数。",
+        "注：每点为一省，横向错位仅便于阅读。箱体为四分位区间，横线为中位数，须线至1.5倍四分位距。",
+        "各窗口独立计算复合年均增速；跨期分类差异仍保留。箱线与散点不表示置信区间。"
+      ],
+      "row_count": 168,
+      "physical_width_cm": 16.51,
+      "physical_height_cm": 12.19,
+      "dpi": 600
+    },
+    {
+      "id": "fig06",
+      "title": "同一省份在两个窗口的实际支出增速比较",
+      "notes": [
+        "来源：同一28省个人、公用支出合计端点及CPI。每点代表同一省的两个窗口。",
+        "注：虚线为两窗口增速相等；下方表示后一窗口增速较低。增速放缓不等于支出金额下降。",
+        "这是跨分类阶段的描述比较，不能解释为政策净效应；横纵轴使用相同刻度。"
+      ],
+      "row_count": 56,
+      "physical_width_cm": 16.51,
+      "physical_height_cm": 11.43,
+      "dpi": 600
+    },
+    {
+      "id": "fig07",
+      "title": "各省公用支出实际变化的学段比较",
+      "notes": [
+        "来源：地方隶属学校公用支出原表及省级CPI，31省全部展示。",
+        "注：按小学变化幅度排序；线段连接同一省的两学段，零线左侧表示实际金额下降。",
+        "公用支出含原表资本性等项目；实际值按省级CPI近似调整，不代表教育专属成本。"
+      ],
+      "row_count": 62,
+      "physical_width_cm": 16.51,
+      "physical_height_cm": 22.35,
+      "dpi": 600
+    },
+    {
+      "id": "fig08",
+      "title": "财政性收入占比变化的举办者分解",
+      "notes": [
+        "来源：原表举办者收入及财政性经费数据，按中点恒等式分解。",
+        "注：两项相加等于合计变化，黑色菱形标示合计。组内比例以各组收入为分母。",
+        "分解是算术归属，不是因果效应；举办者分类变化不代表同一批学校的资金变化。"
+      ],
+      "row_count": 4,
+      "physical_width_cm": 16.51,
+      "physical_height_cm": 11.43,
+      "dpi": 600
+    }
+  ],
+  "input_sha256": {
+    "research\\data\\三十年纵向分析_20261010\\national_students_1995_2024.csv": "2acd1055a8e9ddf8fe0af8bf03d847d62cb9f57acabba2736dfccbfa7d74bda8",
+    "research\\data\\历史趋势描述_20261010\\national_income_original_series.csv": "0af483b1c96c8d5dad187362c7832def928465eb9e34f09e308c78c07d2ad31b",
+    "research\\data\\举办者与地区历史_20261010\\organizer_income_weights.csv": "7cc3445775d52d318005df5d76f229ba2c6b09660e27861f4f2410152129fb6e",
+    "research\\data\\三十年纵向分析_20261010\\national_finance_composition_1995_2024.csv": "8ede2cd64d09585c3cd4de74982dfd07f8fae18ce3552304350a25c859db0e38",
+    "research\\data\\省级经费历史分布_20261010\\province_finance_real_endpoints.csv": "c72f0f268c1c48c7d59a07f0324178166d61e8c74993a27c62a5484cb0eaa3d8",
+    "research\\data\\三十年综合叙述_20261010\\balanced_province_growth_comparison.csv": "2b1f85414ef6a08d79ef99144a4c546cc9e8902e22fa0ddf050cfe3141c4f1f7",
+    "research\\data\\三十年综合叙述_20261010\\province_growth_speed_pairs.csv": "66807119479b1942d959c0d60a3c7ebe6dc61c997b47b343004e454617257e39",
+    "research\\data\\举办者与地区历史_20261010\\fiscal_share_decomposition_totals.csv": "e159745b2cd80f105c1a3b822c0996deb751bb0bc9699883026b6f3633d2b677"
+  },
+  "checks": {
+    "national_student_60_unique": true,
+    "income_2005_2024_40": true,
+    "fixed_28_medians_match": true,
+    "decomposition_identity": true
+  },
+  "background": "#FFFFFF",
+  "palette": {
+    "primary": "#7E0C6E",
+    "junior": "#B68A3A"
+  },
+  "font_path_used": "C:\\Windows\\Fonts\\msyh.ttc",
+  "matplotlib_version": "3.11.2",
+  "inference": "descriptive; no new regression or causal identification"
+}

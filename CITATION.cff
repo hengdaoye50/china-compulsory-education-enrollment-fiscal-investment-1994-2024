@@ -1,6 +1,8 @@
 cff-version: 1.2.0
-message: "请引用本报告，并按参考文献列示原始统计来源。"
-title: "中国义务教育生源规模与财政投入趋势分析报告（1994—2024）"
+message: "引用整理数据、分析代码或图示时请引用本仓库，并列明原始统计来源。"
+title: "中国义务教育生源规模与财政投入趋势分析（1994—2024）：数据与分析材料"
+type: dataset
+repository-code: "https://github.com/hengdaoye50/china-compulsory-education-enrollment-fiscal-investment-1994-2024"
 authors:
   - name: "见数知势队"
 date-released: "2026-10-12"

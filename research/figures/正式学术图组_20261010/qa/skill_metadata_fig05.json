@@ -1,0 +1,61 @@
+{
+  "checks": [
+    {
+      "actual": "PNG",
+      "detail": "File format is compared with the explicit allow-list.",
+      "expected": [
+        "PNG"
+      ],
+      "name": "format",
+      "status": "pass"
+    },
+    {
+      "actual": 600.0,
+      "detail": "DPI basis: effective at target width. Metadata DPI is not a quality measure; effective DPI depends on final physical size.",
+      "expected": {
+        "max": null,
+        "min": 599.0
+      },
+      "name": "dpi",
+      "status": "pass"
+    }
+  ],
+  "input": {
+    "name": "fig05.png",
+    "path": ".\\research\\figures\\正式学术图组_20261010\\png\\fig05.png",
+    "size_bytes": 535114,
+    "suffix": ".png"
+  },
+  "metadata": {
+    "bands": [
+      "R",
+      "G",
+      "B",
+      "A"
+    ],
+    "compression": null,
+    "dpi_x": 599.9988,
+    "dpi_y": 599.9988,
+    "exif_present": false,
+    "format": "PNG",
+    "frames": 1,
+    "has_alpha": true,
+    "height_mm_from_metadata": 121.92024384048769,
+    "height_px": 2880,
+    "icc_profile_bytes": 0,
+    "icc_profile_present": false,
+    "kind": "raster",
+    "mode": "RGBA",
+    "pixel_count": 11232000,
+    "width_mm_from_metadata": 165.1003302006604,
+    "width_px": 3900
+  },
+  "notice": "This deterministic metadata screen checks only the supplied constraints. It does not verify visual quality, scientific integrity, accessibility, embedded-raster resolution in vector files, or journal compliance.",
+  "schema_version": "1.0",
+  "screening_summary": {
+    "fail": 0,
+    "pass": 2,
+    "unknown": 0,
+    "warning": 0
+  }
+}

@@ -1,9 +1,9 @@
 {
   "scope": "data_analysis_and_visualizations_only",
   "date": "2026-10-12",
-  "manifest_artifact_count": 989,
-  "manifest_sha256": "6b0c243707d3758607eebe38661e2a5f80f7fb99ba1a4e0b15584c6157953247",
-  "removed_report_and_editorial_files": 85,
+  "manifest_artifact_count": 909,
+  "manifest_sha256": "dc77aed3989783e82fd88adc247a8ccf997bd50186739b20b27fb9f331671ef2",
+  "cleanup_removed_file_count": 88,
   "retained_statistical_figures": true,
   "full_raw_to_analysis_pipeline_verified": false,
   "target_repository": "https://github.com/hengdaoye50/china-compulsory-education-enrollment-fiscal-investment-1994-2024"

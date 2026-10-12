@@ -1,0 +1,23 @@
+{
+  "years": "1995_2024",
+  "student_province_edges": 1790,
+  "decline_spells": 125,
+  "recurrent_provinces_by_stage": {
+    "primary": 21,
+    "junior": 18
+  },
+  "checks": {
+    "national_student_60": true,
+    "national_30_year_each": true,
+    "local_finance_60": true,
+    "no_2006_2007_finance_endpoint": true,
+    "spells_all_at_least_two": true,
+    "geographic_edges_omitted": true,
+    "no_per_student_division": true
+  },
+  "inputs": {
+    "research\\data\\口径核准_20261010\\student_numeric_adjudicated.csv": "89b6743a74df5df93b9cd1b6e58307912ec3451532bc61018541073064dca681",
+    "research\\data\\经费共同样本核查_20261010\\PC_original_numeric_checks.csv": "f383891b01e302a6a5ac17adc5918955d8eed02f94bcc4cb79bf29292bf77c4d",
+    "research\\data\\经费共同样本核查_20261010\\PC_original_evidence.json": "eefe9f665b56d4537a2d3321c651e705b1fdc393d28a74b84b57df0439c2cafd"
+  }
+}

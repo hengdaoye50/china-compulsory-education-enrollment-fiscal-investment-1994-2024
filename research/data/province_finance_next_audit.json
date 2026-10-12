@@ -1,0 +1,32 @@
+{
+  "download_records": 21,
+  "saved_download_records": 17,
+  "unique_saved_contents": 15,
+  "failed_download_records": 4,
+  "verified_attachment_publication_bridges": 5,
+  "new_local_province_years_deepened": 6,
+  "previous_fujian_visual_depth_updated": 1,
+  "original_workbook_sheets": 19,
+  "original_word_tables": 7,
+  "fujian_pages_visually_reviewed": 32,
+  "fujian_enlarged_numeric_cells": 6,
+  "candidate_cells": 38,
+  "cross_source_checks": 76,
+  "cross_source_pass": 76,
+  "cross_source_unresolved": [],
+  "hunan_prior_value_checks": 6,
+  "hunan_growth_checks": 6,
+  "hunan_continuity_all_pass": true,
+  "registry_rows": 217,
+  "matched_continuous_stage_spending_student_pairs": 0,
+  "complete_student_weight_rule_found": false,
+  "all_provinces_fully_screened": false,
+  "protected_files_unchanged": true,
+  "protected_hashes": {
+    "data/finance_long.csv": "4b07e6dd9c6812652fa2de5a4fdac8331e15f0f69843f128fd8c741ae976e6b2",
+    "data/education_resource_panel.csv": "54879791ab8e8de85b31bd4eb081cd6a030a6e282d5cfae86abee354bc4d785f",
+    "data/panel.json": "4f2ad2013d233f3f54d4f8c576d78c7e476875d1e2b1e11fd0133ebe310e7f02",
+    "research.html": "51b2140d8576491cf1c1629f628278edf6e65674b3b352ec4569fe6ba3d7ed06"
+  },
+  "review_type": "same analyst, alternate source/file/arithmetical verification; not independent peer review"
+}

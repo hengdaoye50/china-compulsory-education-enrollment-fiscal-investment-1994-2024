@@ -4,7 +4,7 @@ import json
 import numpy as np
 import pandas as pd
 root=Path(__file__).resolve().parents[1]
-base=root/'教育资源试做/data'
+base=root/'research/data'
 students=pd.read_csv(base/'三十年纵向分析_20261010/national_students_1995_2024.csv')
 finance=pd.read_csv(base/'早期财政重建_20261011/national_fiscal_1994_2024_report_final.csv')
 tests=pd.read_csv(base/'支出细项与补助拓展_20261011/component_primary_tests.csv')
