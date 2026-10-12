@@ -6,7 +6,7 @@ from matplotlib import font_manager
 import pandas as pd
 ROOT=Path(__file__).resolve().parents[1]
 BASE=ROOT/'教育资源试做'
-OUT=ROOT/'reports/final'
+OUT=ROOT/'visualizations/举办者构成分解_20261012'
 OUT.mkdir(exist_ok=True)
 font_manager.fontManager.addfont('C:/Windows/Fonts/msyh.ttc')
 plt.rcParams.update({'font.family':font_manager.FontProperties(fname='C:/Windows/Fonts/msyh.ttc').get_name(),'font.size':9,'axes.unicode_minus':False,'figure.facecolor':'white','axes.facecolor':'white','savefig.facecolor':'white','pdf.fonttype':42,'svg.fonttype':'path'})

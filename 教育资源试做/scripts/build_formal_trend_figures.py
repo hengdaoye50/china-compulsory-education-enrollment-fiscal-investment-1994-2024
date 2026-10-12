@@ -2,7 +2,7 @@
 from pathlib import Path
 import sys,os,json,hashlib
 ROOT=Path(__file__).resolve().parents[2];BASE=ROOT/'教育资源试做'
-OUT=ROOT/'义务教育趋势分析报告_20261012';FIG=OUT/'图表';FIG.mkdir(parents=True,exist_ok=True)
+OUT=ROOT/'visualizations/长期趋势图组_20261012';FIG=OUT/'图表';FIG.mkdir(parents=True,exist_ok=True)
 sys.path.insert(0,str(BASE/'.tmp/figure_deps'));os.environ['MPLCONFIGDIR']=str(BASE/'.tmp/mplconfig')
 import matplotlib
 matplotlib.use('Agg')

@@ -1,9 +1,0 @@
-{
-  "source": "<LOCAL_USER>\\Desktop\\中国义务教育生源规模与财政投入趋势分析报告（1994—2024）.docx",
-  "source_sha256": "b2b810ab77cf71cc9cb4a9099929cef3f68dd11a8b52e7bcdc4b1737dc4fb367",
-  "deleted": "原表5、题头及其后总结说明",
-  "table_count": 14,
-  "figure_numbering": "图号保持不变；原表6至15改为表5至14",
-  "appendices": "新增附录三，原附录三、四顺延为四、五，正文回指同步更新",
-  "original_package_preserved_except_document_body": true
-}

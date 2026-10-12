@@ -1,30 +1,10 @@
 {
-  "research_files": 1043,
-  "stored_MB": 206.96,
-  "logical_MB": 336.06,
-  "withheld_external_files": 826,
-  "path_cleaned_files": 13,
-  "secret_pattern_hits": 0,
-  "all_python_scripts_syntax_checked": true,
-  "github_uploaded": true,
-  "published_manifest_files": 1054,
-  "independent_key_findings_recomputed": true,
-  "two_30_year_student_series_complete": true,
-  "report_contrast_coefficients_recomputed": [
-    0.7659136142294377,
-    0.5057296295366184
-  ],
-  "original_yearbook_index_files": 573,
-  "target_repository": "https://github.com/hengdaoye50/china-compulsory-education-enrollment-fiscal-investment-1994-2024",
-  "publication_stage": "published_and_remote_verified",
-  "visibility": "public",
-  "default_branch": "main",
-  "initial_verified_remote_commit": "68d7cf78d9d0c8e897390b0e4d328f9444a57c85",
-  "remote_file_count": 1056,
-  "remote_tree_truncated": false,
-  "full_raw_to_report_pipeline_verified": false,
-  "report_revision": "2026-10-12 systematic editorial review",
-  "manifest_artifact_count": 1070,
-  "manifest_sha256": "70b48918baa46b3c3bc6e0d10b2deb4e329958c5d130776a8f1f70dacc5a4cb6",
-  "current_report_sha256": "94223bd4e339349dcf14ffa145064e8e0c98ede825d74671a9bfd70081b35901"
+  "scope": "data_analysis_and_visualizations_only",
+  "date": "2026-10-12",
+  "manifest_artifact_count": 989,
+  "manifest_sha256": "6b0c243707d3758607eebe38661e2a5f80f7fb99ba1a4e0b15584c6157953247",
+  "removed_report_and_editorial_files": 85,
+  "retained_statistical_figures": true,
+  "full_raw_to_analysis_pipeline_verified": false,
+  "target_repository": "https://github.com/hengdaoye50/china-compulsory-education-enrollment-fiscal-investment-1994-2024"
 }

@@ -6,3 +6,9 @@ __pycache__/
 Thumbs.db
 /教育资源试做/data/长期财政数据建设_20261010/education_finance_original_candidates.csv
 /教育资源试做/data/长期财政数据建设_20261010/raw_value_ledger.csv
+
+# Keep this repository limited to data and analysis artifacts.
+reports/
+*.docx
+*报告正文*.md
+*章节草稿*.md

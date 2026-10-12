@@ -8,7 +8,7 @@ def replace(a,b):
     global s
     assert a in s,a[:90]
     s=s.replace(a,b)
-replace("OUT=ROOT/'义务教育趋势分析报告_20261012'", "OUT=ROOT/'义务教育趋势分析报告_审校修订版_20261012'")
+replace("OUT=ROOT/'visualizations/长期趋势图组_20261012'", "OUT=ROOT/'visualizations/地区与统计图组_20261012'")
 replace("r.font.color.rgb=RGBColor.from_string('7E0C6E')","r.font.color.rgb=RGBColor(0,0,0)")
 replace("本报告考察义务教育生源变化与经费配置的长期关系，重点回答三个问题：小学与初中的生源规模如何演进，财政投入扩张如何体现为来源及支出结构变化，全国趋势背后存在哪些区域和项目差异。", "本报告考察一个贯穿长期变化的问题：在生源规模多轮变化的过程中，义务教育经费扩张在学段、地区和支出项目之间呈现怎样的不同步。财政性收入用于观察投入来源，全来源支出用于分析学校经费使用的构成，二者分别解释。")
 replace('综合判断是：义务教育投入的长期扩张伴随着学段、区域和项目的差异化调整。','三十年资料表明，生源变化并非单向收缩，经费扩张也并非各类项目同步增长。全国总额增长与地方、项目调整可以并存，需求与投入的关系应分学段、分地区和分项目观察。')
@@ -78,6 +78,6 @@ for r in refs:
 replace("path=Path(path);assert path.exists(),path", "path=Path(path);replacement=OUT/'图表精修'/path.name\n    if replacement.exists():path=replacement\n    assert path.exists(),path")
 target=ROOT/'教育资源试做/scripts/build_revised_trend_report.py'
 target.write_text(s,encoding='utf8')
-out=ROOT/'义务教育趋势分析报告_审校修订版_20261012';out.mkdir(exist_ok=True)
-shutil.copytree(ROOT/'义务教育趋势分析报告_20261012/图表',out/'图表',dirs_exist_ok=True)
+out=ROOT/'visualizations/地区与统计图组_20261012';out.mkdir(exist_ok=True)
+shutil.copytree(ROOT/'visualizations/长期趋势图组_20261012/图表',out/'图表',dirs_exist_ok=True)
 print('Separate revised builder prepared.')

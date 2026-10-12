@@ -2,9 +2,9 @@
 from pathlib import Path
 import sys,os,json,hashlib
 ROOT=Path(__file__).resolve().parents[2];BASE=ROOT/'教育资源试做'
-OUT=ROOT/'义务教育趋势分析报告_审校修订版_20261012';OUT.mkdir(exist_ok=True)
+OUT=ROOT/'visualizations/地区与统计图组_20261012';OUT.mkdir(exist_ok=True)
 source=(BASE/'scripts/build_formal_trend_figures.py').read_text(encoding='utf8')
-source=source.replace("ROOT/'义务教育趋势分析报告_20261012'","ROOT/'义务教育趋势分析报告_审校修订版_20261012'")
+source=source.replace("ROOT/'visualizations/长期趋势图组_20261012'","ROOT/'visualizations/地区与统计图组_20261012'")
 source='\n'.join(line for line in source.splitlines() if not line.lstrip().startswith('fig.text('))
 exec(compile(source,str(BASE/'scripts/build_formal_trend_figures.py'),'exec'))
 import pandas as pd
